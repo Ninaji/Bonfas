@@ -1,0 +1,61 @@
+# ═══════════════════════════════════════════════════════════════
+# Secrets — NUNCA commitar
+# ═══════════════════════════════════════════════════════════════
+.env
+.env.*
+*.env
+*.env.txt
+cookies.json
+
+# ═══════════════════════════════════════════════════════════════
+# Banco de dados (contém conteúdo do WorldAnvil; regenerável)
+# ═══════════════════════════════════════════════════════════════
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+
+# ═══════════════════════════════════════════════════════════════
+# Dumps HTML do WorldAnvil (copyright do mundo — não redistribuir)
+# ═══════════════════════════════════════════════════════════════
+paginas/*.html
+paginas/*.extracted.html
+!paginas/.gitkeep
+dumps/
+dump_*.json
+
+# JSON exportados via scrape
+bonfas_artigos.json
+bonfas_tree.json
+bonfas_classes.json
+bonfas_classes_extra.json
+
+# items.csv — dump interno com conteúdo de fontes do usuário
+items.csv
+
+# ═══════════════════════════════════════════════════════════════
+# Python
+# ═══════════════════════════════════════════════════════════════
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Playwright cache
+pw_profile/
+.playwright/
+
+# ═══════════════════════════════════════════════════════════════
+# IDE / OS
+# ═══════════════════════════════════════════════════════════════
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# ═══════════════════════════════════════════════════════════════
+# Claude Code
+# ═══════════════════════════════════════════════════════════════
+.claude/settings.local.json

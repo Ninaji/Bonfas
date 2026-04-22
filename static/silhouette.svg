@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 440" width="200" height="440">
+  <defs>
+    <linearGradient id="g" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#4a4a4a"/>
+      <stop offset="1" stop-color="#2a2a2a"/>
+    </linearGradient>
+  </defs>
+  <!-- capuz / cabeça -->
+  <path fill="url(#g)" d="
+    M100 10
+    C 75 10, 60 35, 62 65
+    C 55 80, 55 95, 65 105
+    L 65 115
+    C 40 125, 20 150, 20 200
+    L 15 260
+    C 10 290, 15 330, 25 360
+    L 20 420
+    L 55 420
+    L 60 360
+    L 70 330
+    L 70 420
+    L 130 420
+    L 130 330
+    L 140 360
+    L 145 420
+    L 180 420
+    L 175 360
+    C 185 330, 190 290, 185 260
+    L 180 200
+    C 180 150, 160 125, 135 115
+    L 135 105
+    C 145 95, 145 80, 138 65
+    C 140 35, 125 10, 100 10 Z"/>
+  <!-- capa lateral -->
+  <path fill="#1f1f1f" opacity="0.6" d="
+    M 30 150
+    C 10 220, 5 310, 20 420
+    L 55 420
+    L 50 340
+    C 45 280, 50 220, 65 170 Z"/>
+  <path fill="#1f1f1f" opacity="0.6" d="
+    M 170 150
+    C 190 220, 195 310, 180 420
+    L 145 420
+    L 150 340
+    C 155 280, 150 220, 135 170 Z"/>
+  <!-- cinto -->
+  <rect x="55" y="240" width="90" height="12" fill="#111"/>
+  <!-- bolsa -->
+  <ellipse cx="70" cy="265" rx="12" ry="16" fill="#1a1a1a"/>
+  <ellipse cx="130" cy="265" rx="10" ry="14" fill="#1a1a1a"/>
+</svg>
