@@ -75,3 +75,23 @@ _*.json
 _*.log
 _*.sql
 *.tmp
+
+# ═══════════════════════════════════════════════════════════════
+# Scripts de ETL (parse / migrate / seed / apply) e dados gerados
+# — pipeline de população do DB; o resultado vive em bonfas.db
+# ═══════════════════════════════════════════════════════════════
+parse_*.py
+migrate_*.py
+seed_*.py
+apply_*.py
+*_descricoes.py
+fix_class_descriptions*.py
+insert_talento_asi.py
+build_classes_db.py
+*_features.json
+*_meta.json
+*_subs.json
+*_full.json
+*_subclasses.json
+*_parsed.json
+infusoes_artificer.json
