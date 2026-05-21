@@ -106,6 +106,104 @@ Famílias de tag: `pick:<tipo>:N` (slots), `+<chave>:N` (acumulador),
 `<flat>` (gate). Princípio: **tag > código hardcoded** — a progressão vive
 na tag, não em tabelas/ifs por classe.
 
+## Referência de Tags
+
+Tags ficam em `TagsJSON` (uma lista) das tabelas `TB_ClasseHabilidade`,
+`TB_OpcaoJogo`, `TB_TracoRacial`, `TB_TalentoRacial`, `TB_Classe`. Podem ser
+**string** (`"conjurador"`) ou **objeto** com progressão
+(`{"tag":"pick:metamagia","n_por_nivel":{"3":2,"10":3}}`).
+
+### 1. Filtro — quais opções aparecem para o personagem
+
+Regra: uma opção só aparece se `opcao.tags ⊆ personagem.tags`.
+
+| Tag | Para que serve |
+|---|---|
+| `humano`, `infernal`, `erthari`, `folken`… | slug de raça/linhagem/essência — talento/traço só some pra quem tem aquele slug |
+| `nv1`, `nv4` | nível mínimo (talento de Nv 4 só aparece a partir do Nv 4) |
+| `for13`,`dex13`,`con13`,`int13`,`sab13`,`car13` | pré-requisito de atributo ≥ 13 |
+
+### 2. `pick:<tipo>:N` — abre N slots de escolha (vira um campo na ficha)
+
+Cada `pick` soma N slots; múltiplas tags do mesmo tipo acumulam. A forma
+objeto com `n_por_nivel` resolve N pela progressão do nível.
+
+| Tag | Campo / o que escolhe |
+|---|---|
+| `pick:pericia:N` | N perícias para **proficiência** |
+| `pick:expertise:N` | N perícias para **especialização** (dobra o bônus de prof.) |
+| `pick:idioma:N` / `pick:ferramenta:N` | idiomas / ferramentas (catálogo + digitar) |
+| `pick:talento-geral:N` | talentos gerais |
+| `pick:talento-origem:N` | talentos de origem (ex.: Raízes Profundas dá +1) |
+| `pick:texto:N` | escolha finita/livre (com `filter` e `descricoes` opcionais) |
+| `pick:estilo-de-luta:N` | Estilos de Luta (Guerreiro/Paladino) |
+| `pick:estilo-danca:N` | **Estilos de Dança** (Bardo da Dança — pool de Estilos de Ki do Monge; custo lido como Inspiração Bárdica) |
+| `pick:metamagia:N` | **Metamagias** (Feiticeiro) |
+| `pick:infusao-artificer:N` | **Infusões** (Artífice) — cada slot recebe infusão do catálogo (filtrada por nível) ou **Replicar Item Mágico** |
+| `pick:manifestacao-mistica:N` | Manifestações Místicas (Místico) |
+| `pick:ordem-sagrada:N` | Ordens Sagradas (Paladino/Clérigo) |
+| `pick:doutrina-marcial:N` | Doutrinas Marciais |
+| `pick:pericia-cortesao:N` | Perícias de Cortesão |
+| `pick:alianca-selvagem-companheiro:N` | Companheiro de Aliança Selvagem (Caçador) |
+
+### 3. `+<chave>:N` — acumulador (soma um contador)
+
+| Tag | Efeito |
+|---|---|
+| `+maestrias-arma:N` | soma N ao nº de Maestrias de Arma (Ladino/Bárbaro via `n_por_nivel`) |
+
+### 4. Gates flat (presença = liga a seção/efeito)
+
+| Tag | Liga |
+|---|---|
+| `conjurador` | painel de **Magias** (todo conjurador) |
+| `surto-selvagem` | campo **Surto Selvagem** (Druida); `druida-lua` muda o CR para ⌈nível/3⌉ |
+| `pontos-feiticaria` | painel de **Pontos de Feitiçaria** (Feiticeiro) |
+| `estilos-ki` / `kensei-estilos` | **Estilos de Ki / Kensei** (Monge) |
+| `segredos-misticos` / `feiticaria-mistica` | **Segredos Místicos** (Místico) |
+| `tecnica-furtividade` | pool de **Técnicas de Furtividade** (Ladino) |
+| `segredos`, `inimigo-favorito`, `evolucao-totemica` | seções do **Caçador** |
+| `asi-feature` | **esconde** a feature de Aumento/Incremento de Atributo dos blocos (já está nos slots de talento) |
+| `oculta-hab` | **esconde** a feature dos blocos (ex.: catálogos redundantes) |
+
+### 5. Proficiências, defesas e efeitos diretos
+
+| Tag | Efeito |
+|---|---|
+| `prof:<Perícia>` / `expertise:<Perícia>` | proficiência / especialização naquela perícia |
+| `save-prof:<Atributo>` | proficiência no teste de resistência |
+| `save-prof-vontade:<default>\|<alt1>,<alt2>` | save com escolha entre alternativas |
+| `prof-arma:<X>` / `prof-armadura:<X>` / `prof-ferramenta:<X>` | proficiências de equipamento |
+| `resist:<Elemento>` / `imune:<X>` / `cond-immune:<Cond>` | resistência / imunidade |
+| `adv-cond:<Cond>` | Vantagem em saves contra a condição |
+| `visao-no-escuro:<dist>` | sentido (ex.: `visao-no-escuro:36m/120ft`) |
+| `escalar:eq` / `nadar:eq` / `voar:eq` | deslocamento igual ao de caminhada |
+| `velocidade:+X` / `pv-por-nivel:N` / `unarmored-defense:<Atr>` | bônus diretos |
+| `metamagia:<slug>` | **auto-concede** uma metamagia "sempre preparada" (ex.: Origem Divina) |
+| `gate:<x>` | pré-requisito que outra opção exige presente |
+
+### Como adicionar uma tag nova
+
+O motor é genérico — na maioria dos casos é **só dado, sem mexer em código**:
+
+1. **Slot novo (`pick:`)**: ponha a tag na `TagsJSON` da feature/talento.
+   Ex.: `{"tag":"pick:meu-tipo","n_por_nivel":{"3":1,"10":2}}`. Se o catálogo
+   de opções vive em `TB_OpcaoJogo` (Tipo=`meu-tipo`), o picker genérico já
+   funciona via `/api/opcoes?tipo=meu-tipo`.
+2. **Catálogo fora de `TB_OpcaoJogo`** (ex.: reuso de outra tabela): exponha
+   uma lista no `/full` (`<tipo>_catalogo`) e adicione um branch no handler
+   de pick em `static/ficha.js` (modelo: `estilo-danca`, `infusao-artificer`).
+3. **Seção dedicada (campo próprio)**: renderize a seção no `ficha.js` quando
+   a tag flat estiver em `aggregated_tags` (modelo: Surto Selvagem,
+   Metamagias). Adicione o `<tipo>` aos `skipKinds` para não renderizar inline.
+4. **Efeito direto** (prof/resist/save…): o backend (`_agg_tags_from` em
+   `app.py`) já interpreta os prefixos conhecidos — basta usar o prefixo certo.
+5. **Esconder uma feature**: marque-a com `asi-feature` ou `oculta-hab`.
+
+Detalhes em [`docs/tags-e-cascata.md`](docs/tags-e-cascata.md),
+[`docs/sistema-de-efeitos-via-tags.md`](docs/sistema-de-efeitos-via-tags.md)
+e [`docs/regra-tags-universais.md`](docs/regra-tags-universais.md).
+
 ## Regras de conteúdo
 
 **Regra #0 (ver [CLAUDE.md](CLAUDE.md)):** nunca inventar nomes de conteúdo
