@@ -1,0 +1,49 @@
+{
+  "slug": "bardo",
+  "nome": "Bardo",
+  "saves": [
+    "Destreza",
+    "Carisma"
+  ],
+  "armor_prof": [
+    "Armaduras Leves"
+  ],
+  "weapon_prof": [
+    "Armas Simples",
+    "Bestas de Mão",
+    "Espada Longa",
+    "Espada Curta",
+    "Estoque",
+    "Rapieira"
+  ],
+  "tool_prof": [
+    "3 Instrumentos Musicais à escolha"
+  ],
+  "multiclass_prof": [
+    "Armaduras Leves",
+    "1 Instrumento Musical"
+  ],
+  "skills": {
+    "n": 3,
+    "options": [
+      "Atletismo",
+      "Acrobacia",
+      "Furtividade",
+      "Prestidigitação",
+      "Arcanismo",
+      "História",
+      "Investigação",
+      "Natureza",
+      "Religião",
+      "Lidar com Animais",
+      "Intuição",
+      "Medicina",
+      "Percepção",
+      "Sobrevivência",
+      "Atuação",
+      "Enganação",
+      "Intimidação",
+      "Persuasão"
+    ]
+  }
+}

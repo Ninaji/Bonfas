@@ -59,3 +59,19 @@ Thumbs.db
 # Claude Code
 # ═══════════════════════════════════════════════════════════════
 .claude/settings.local.json
+
+# ═══════════════════════════════════════════════════════════════
+# Backups do DB (.db.bak.<timestamp>) — pesados, regeneráveis
+# ═══════════════════════════════════════════════════════════════
+*.db.bak.*
+*.bak.*
+
+# Worktrees do Claude Code
+.claude/worktrees/
+
+# Scratch / arquivos de trabalho temporários
+_*.py
+_*.json
+_*.log
+_*.sql
+*.tmp

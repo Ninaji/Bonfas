@@ -1,0 +1,34 @@
+{
+  "slug": "barbaro",
+  "nome": "Bárbaro",
+  "saves": [
+    "Forca",
+    "Constituicao"
+  ],
+  "armor_prof": [
+    "Armaduras Leves",
+    "Armaduras Médias",
+    "Escudos"
+  ],
+  "weapon_prof": [
+    "Armas Simples",
+    "Armas Marciais"
+  ],
+  "tool_prof": [],
+  "multiclass_prof": [
+    "Escudos",
+    "Armas Simples",
+    "Armas Marciais"
+  ],
+  "skills": {
+    "n": 2,
+    "options": [
+      "Atletismo",
+      "Intimidação",
+      "Natureza",
+      "Percepção",
+      "Sobrevivência",
+      "Lidar com Animais"
+    ]
+  }
+}

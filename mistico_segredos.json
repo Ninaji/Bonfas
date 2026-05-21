@@ -1,0 +1,266 @@
+[
+  {
+    "secao": "Invocações Místicas de 1º Nível",
+    "nome": "Armadura das Sombras",
+    "slug": "armadura-das-sombras",
+    "descricao": "Você pode conjurar Armadura Arcana (Mage Armor) em si mesmo, à vontade, sem gastar espaço de magia, pontos de misticismo ou componentes materiais."
+  },
+  {
+    "secao": "Invocações Místicas de 1º Nível",
+    "nome": "Idioma Bestial",
+    "slug": "idioma-bestial",
+    "descricao": "Você consegue se comunicar com animais como se estivesse o tempo inteiro sob o efeito de Conversar com Animais (Speak With Animals)."
+  },
+  {
+    "secao": "Invocações Místicas de 1º Nível",
+    "nome": "Influência Carismática",
+    "slug": "influencia-carismatica",
+    "descricao": "Você ganha duas proficiências a sua escolha entre: Enganação, Persuasão, Intimidação ou Atuação, e ganha expertise a sua escolha em uma dessas."
+  },
+  {
+    "secao": "Invocações Místicas de 1º Nível",
+    "nome": "Aprendizado dos Antigos",
+    "slug": "aprendizado-dos-antigos",
+    "descricao": "Você recebeu conhecimento de uma entidade anciã do multiverso, permitindo que você ganhe um Talento de Origem (Origin Feat) de sua escolha. Repetível: Você pode escolher esta invocação mais de uma vez, escolhendo um talento diferente a cada vez."
+  },
+  {
+    "secao": "Invocações Místicas de 1º Nível",
+    "nome": "Mente Mística",
+    "slug": "mente-mistica",
+    "descricao": "Você tem vantagem em testes de resistência de Constituição que você faça para manter concentração em uma magia."
+  },
+  {
+    "secao": "Invocações Místicas de 1º Nível",
+    "nome": "Olhos do Guardião de Runas",
+    "slug": "olhos-do-guardiao-de-runas",
+    "descricao": "Você pode ler qualquer escrita em qualquer idioma."
+  },
+  {
+    "secao": "Invocações Místicas de 1º Nível",
+    "nome": "Salto de Outro Mundo",
+    "slug": "salto-de-outro-mundo",
+    "descricao": "Você pode conjurar Salto (Jump) em si mesmo à vontade, sem gastar espaços de magia ou componentes materiais."
+  },
+  {
+    "secao": "Invocações Místicas de 1º Nível",
+    "nome": "Vigor Místico",
+    "slug": "vigor-mistico",
+    "descricao": "Você pode conjurar Vitalidade Falsa (False Life) em si mesmo à vontade, sem gastar espaço de magia. Quando você conjura a magia dessa forma, você não rola o dado para os Pontos de Vida Temporários; você automaticamente recebe o valor máximo do dado."
+  },
+  {
+    "secao": "Invocações Místicas de 1º Nível",
+    "nome": "Visão Mística",
+    "slug": "visao-mistica",
+    "descricao": "Você pode ver normalmente em escuridão, tanto mágica quanto não mágica, a uma distância de 36 metros [120 feet]."
+  },
+  {
+    "secao": "Invocações Místicas de 1º Nível",
+    "nome": "Visão Mágica",
+    "slug": "visao-magica",
+    "descricao": "Você pode conjurar Detectar Magia (Detect Magic), à vontade, sem gastar espaço de magia, pontos de misticismo ou componentes materiais."
+  },
+  {
+    "secao": "Invocações Místicas de 1º Nível",
+    "nome": "Máscara de Muitas Faces",
+    "slug": "mascara-de-muitas-faces",
+    "descricao": "Você pode conjurar Disfarçar-se (Disguise Self), à vontade, sem gastar espaço de magia, pontos de misticismo ou componentes materiais."
+  },
+  {
+    "secao": "Invocações Místicas de 1º Nível",
+    "nome": "Moldar Sombras",
+    "slug": "moldar-sombras",
+    "descricao": "Você pode conjurar Imagem Silenciosa (Silent Image), à vontade, sem gastar espaço de magia, pontos de misticismo ou componentes materiais."
+  },
+  {
+    "secao": "Segredos Místicos de 5º Nível",
+    "nome": "Manto do Medo",
+    "slug": "manto-do-medo",
+    "descricao": "Com uma ação bônus, uma aura de medo emana de você (1,5m). Criaturas que iniciam o turno ou entram na área recebem dano Psíquico igual ao seu Mod. Carisma e têm desvantagem contra intimidação e medo."
+  },
+  {
+    "secao": "Segredos Místicos de 5º Nível",
+    "nome": "Um com as Sombras",
+    "slug": "um-com-as-sombras",
+    "descricao": "Enquanto estiver em uma área de Pouca Luz ou Escuridão, você pode conjurar Invisibilidade (Invisibility) em si mesmo, sem gastar espaço de magia. (Diferente da versão anterior, isso permite que você se mova enquanto invisível)."
+  },
+  {
+    "secao": "Segredos Místicos de 5º Nível",
+    "nome": "Benção das Profundezas",
+    "slug": "bencao-das-profundezas",
+    "descricao": "Você pode respirar embaixo d'água, ganha deslocamento de nado igual ao seu deslocamento de caminhada e pode conjurar Respirar na Água (Water Breathing) uma vez por descanso longo sem gastar slots."
+  },
+  {
+    "secao": "Segredos Místicos de 5º Nível",
+    "nome": "Tumba Gélida",
+    "slug": "tumba-gelida",
+    "descricao": "Com uma reação ao receber dano, você se sepulta em gelo, ganhando 10 PV temporários por nível de místico, mas fica incapacitado e com velocidade 0 até o início do seu próximo turno. O gelo tem vulnerabilidade a fogo."
+  },
+  {
+    "secao": "Segredos Místicos de 5º Nível",
+    "nome": "Passos Ascendentes",
+    "slug": "passos-ascendentes",
+    "descricao": "Você pode conjurar Levitar (Levitate) em si mesmo à vontade, sem gastar espaços de magia ou componentes materiais."
+  },
+  {
+    "secao": "Segredos Místicos de 5º Nível",
+    "nome": "Mestre das Formas Variadas",
+    "slug": "mestre-das-formas-variadas",
+    "descricao": "Você pode conjurar Alterar-se (Alter Self) à vontade, sem gastar espaços de magia. Alternativamente, você pode usar a sua ação para conjurar a magia Polimorfia (Polymorph) em si mesmo, para se metamorfosear em uma besta de até CR 1."
+  },
+  {
+    "secao": "Segredos Místicos de 5º Nível",
+    "nome": "Olhar das Duas Mentes",
+    "slug": "olhar-das-duas-mentes",
+    "descricao": "Você pode usar uma Ação Bônus para tocar uma criatura disposta e perceber através dos sentidos dela. Você pode manter essa conexão em turnos subsequentes com uma Ação Bônus. Enquanto percebe pelos sentidos da criatura, você se beneficia de quaisquer sentidos especiais dela e pode conjurar magias como se estivesse no espaço da criatura , desde que estejam a até 18 metros [60 feet] um do outro."
+  },
+  {
+    "secao": "Segredos Místicos de 7º Nível",
+    "nome": "Olhar Fantasmagórico",
+    "slug": "olhar-fantasmagorico",
+    "descricao": "Com uma ação, você vê através de objetos sólidos a 9m por 1 minuto e ganha Visão no Escuro. Recupera com descanso curto ou longo."
+  },
+  {
+    "secao": "Segredos Místicos de 7º Nível",
+    "nome": "Movimentação Mística",
+    "slug": "movimentacao-mistica",
+    "descricao": "Você pode caminhar em superfícies verticais e de cabeça para baixo sem usar as mãos e ganha deslocamento de escalada."
+  },
+  {
+    "secao": "Segredos Místicos de 7º Nível",
+    "nome": "Análise Mística",
+    "slug": "analise-mistica",
+    "descricao": "Você pode conjurar Identificar (Identify) à vontade, sem componentes materiais ou gasto de slots."
+  },
+  {
+    "secao": "Segredos Místicos de 7º Nível",
+    "nome": "Sussurros das Tumbas",
+    "slug": "sussurros-das-tumbas",
+    "descricao": "Você pode conjurar Falar com os Mortos (Speak With Dead) à vontade, sem gastar espaços de magia."
+  },
+  {
+    "secao": "Segredos Místicos de 9º Nível",
+    "nome": "Visões de Reinos Distantes",
+    "slug": "visoes-de-reinos-distantes",
+    "descricao": "Você pode conjurar Olho Arcano (Arcane Eye) à vontade, sem gastar espaços de magia."
+  },
+  {
+    "secao": "Segredos Místicos de 15º Nível",
+    "nome": "Mortalha das Sombras",
+    "slug": "mortalha-das-sombras",
+    "descricao": "Você cria um manto de sombras. Enquanto estiver usando ele, você pode puxar o capuz para ficar invisível (incluindo equipamentos). Você se torna visível se tirar o capuz. Suas pegadas não deixam rastros nem som."
+  },
+  {
+    "secao": "Segredos Místicos de 15º Nível",
+    "nome": "Visão da Bruxa",
+    "slug": "visao-da-bruxa",
+    "descricao": "Você recebe Visão Verdadeira de 9 metros [30 feet]."
+  },
+  {
+    "secao": "Segredos Místicos de Rajada Mística (Eldritch Blast)",
+    "nome": "Impacto Agonizante",
+    "slug": "impacto-agonizante",
+    "descricao": "Escolha um truque de Místico conhecido que cause dano. Você pode somar seu modificador de Carisma às rolagens de dano dessa magia. (Repetível para truques diferentes)."
+  },
+  {
+    "secao": "Segredos Místicos de Rajada Mística (Eldritch Blast)",
+    "nome": "Lança Mística",
+    "slug": "lanca-mistica",
+    "descricao": "Escolha um truque de Místico de dano com alcance de 3m ou mais. O alcance dessa magia aumenta em um número de pés igual a 30 vezes o seu nível de Místico."
+  },
+  {
+    "secao": "Segredos Místicos de Rajada Mística (Eldritch Blast)",
+    "nome": "Tentáculos Místicos",
+    "slug": "tentaculos-misticos",
+    "descricao": "Quando você conjurar Rajada Mística, uma vez por turno ao atingir um oponente você pode trazer o alvo 3 metros em sua direção. Alternativamente você pode empurrar o alvo em 3 metros para longe sem limitações de uso."
+  },
+  {
+    "secao": "Segredos Místicos de Rajada Mística (Eldritch Blast)",
+    "nome": "Lança da Letargia",
+    "slug": "lanca-da-letargia",
+    "descricao": "Uma vez por turno ao atingir com Rajada Mística, reduz o deslocamento do alvo em 3m."
+  },
+  {
+    "secao": "Segredos Místicos de Rajada Mística (Eldritch Blast)",
+    "nome": "Lanças da Execução",
+    "slug": "lancas-da-execucao",
+    "descricao": "Pré-requisito: 7º nível. Quando conjurar Rajada Mística com a ação, pode gastar 2 pontos de misticismo para conjurar novamente como ação bônus."
+  },
+  {
+    "secao": "Segredos Místicos de Rajada Mística (Eldritch Blast)",
+    "nome": "Lanças da Soberania",
+    "slug": "lancas-da-soberania",
+    "descricao": "Pré-requisito: 15º nível. A Rajada Mística ignora efeitos de negação/reflexão mágica."
+  },
+  {
+    "secao": "Segredos Místicos de Maldições",
+    "nome": "Maldição Alucinante",
+    "slug": "maldicao-alucinante",
+    "descricao": "Pré-requisito: 5º nível. Ação bônus para causar dano psíquico (Mod. Carisma) em área ao redor do alvo amaldiçoado."
+  },
+  {
+    "secao": "Segredos Místicos de Maldições",
+    "nome": "Maldição Descuidada",
+    "slug": "maldicao-descuidada",
+    "descricao": "Pré-requisito: 7º nível. Ação bônus para se teletransportar até 9m para um espaço próximo ao alvo amaldiçoado."
+  },
+  {
+    "secao": "Segredos Místicos Arma Mística",
+    "nome": "Lâmina Sedenta",
+    "slug": "lamina-sedenta",
+    "descricao": "Pré-requisito: 5º nível. Você ganha a característica Ataque Extra com sua arma de pacto (ataca duas vezes)."
+  },
+  {
+    "secao": "Segredos Místicos Arma Mística",
+    "nome": "Devorador de Vida",
+    "slug": "devorador-de-vida",
+    "descricao": "Pré-requisito: 5º nível. Uma vez por turno, causa 1d6 extra (Necrótico, Psíquico ou Radiante) e pode gastar um Dado de Vida para se curar (Rolagem + CON)."
+  },
+  {
+    "secao": "Segredos Místicos Arma Mística",
+    "nome": "Lâmina Devoradora",
+    "slug": "lamina-devoradora",
+    "descricao": "Pré-requisito: 12º nível, Lâmina Sedenta. Você ataca três vezes ao invés de duas com sua ação de Ataque."
+  },
+  {
+    "secao": "Segredos Místicos Contrato Místico",
+    "nome": "Investimento do Mestre das Correntes",
+    "slug": "investimento-do-mestre-das-correntes",
+    "descricao": "Pré-requisito: 5º nível. Ao conjurar Encontrar Familiar : ele ganha Voo ou Nado de 12m; ataques mágicos com sua CD; você pode usar Ação Bônus para ele Atacar; você pode usar Reação para dar resistência a dano a ele."
+  },
+  {
+    "secao": "Segredos Místicos Contrato Místico",
+    "nome": "Presente dos Eternos",
+    "slug": "presente-dos-eternos",
+    "descricao": "Pré-requisito: 5º nível. Cura máxima em si mesmo enquanto o familiar estiver a 30m. Alternativamente, seu familiar cura a mesma quantidade que você curou."
+  },
+  {
+    "secao": "Segredos Místicos Contrato Místico",
+    "nome": "Ligação Mística",
+    "slug": "ligacao-mistica",
+    "descricao": "Pré-requisito: 12º nível. Enquanto seu familiar estiver a 9m, você pode lançar magias através dele e ele soma seu Carisma no dano dos ataques dele."
+  },
+  {
+    "secao": "Segredos Místicos Livro Místico",
+    "nome": "Escriba Distante",
+    "slug": "escriba-distante",
+    "descricao": "Pré-requisito: 5º nível. Uma página aparece no livro. Criaturas podem escrever o nome nela. Você pode conjurar Enviar Mensagem (Sending) à vontade para os nomes escritos."
+  },
+  {
+    "secao": "Segredos Místicos Livro Místico",
+    "nome": "Presente dos Protetores",
+    "slug": "presente-dos-protetores",
+    "descricao": "Pré-requisito: 9º nível. Uma página aparece no livro. Uma criatura com o nome na página cai para 1 PV ao invés de 0 (uma vez por dia no total)."
+  },
+  {
+    "secao": "Segredos Místicos Joia Mística",
+    "nome": "Marca da Proteção Amplificada",
+    "slug": "marca-da-protecao-amplificada",
+    "descricao": "Pré-requisito: 5º nível. O portador da marca adiciona 1d6 em testes de resistência falhos (nº de usos igual bônus de proficiência). Recarrega com descanso longo."
+  },
+  {
+    "secao": "Segredos Místicos Joia Mística",
+    "nome": "Marca da Conexão",
+    "slug": "marca-da-conexao",
+    "descricao": "Pré-requisito: 12º nível. Teletransporte entre você e o portador da marca usando uma ação (limitado pelo bônus de proficiência)."
+  }
+]

@@ -1,0 +1,3175 @@
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ Clérigo in Bonfire Tales RPG | World Anvil
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ Mestres
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ Jogadores
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ Sistema
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ Mundo
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ Bestiário
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ Missões e Ranks
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ Mercado
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ Regras
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ Toggle Menu
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ CREATE YOUR ACCOUNT
+ 
+ 
+
+ LOGIN
+ 
+ 
+ 
+
+ I AM A GAMEMASTER
+ 
+ 
+
+ I AM AN AUTHOR
+ 
+ 
+
+ I AM AN ARTIST
+ 
+ 
+
+ COMMUNITY
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ CREATE YOUR ACCOUNT
+ 
+
+ CREATE YOUR ACCOUNT
+ 
+ 
+
+ LOGIN
+ 
+ LOGIN
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ Ir para a Página Inicial de Bonfire Tales RPG
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ Clérigo
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NívelBônus de ProficiênciaCaracterísticasMagias PreparadasTruques1°2°3°4°5°6°7°8°9°
+
+1+2Conjuração, Ordem Sagrada, Ritos Sacros432--------
+
+2+2Canalizar Divindade533--------
+
+3+2Domínio Divino6342--------
+
+4+2Aprimoramento de Atributo7343-------
+
+5+3Autoridade Sagrada93442------
+
+6+3Característica de Domínio Divino104433------
+
+7+3Golpes Abençoados1144331-----
+
+8+3Incremento no Valor de Habilidade1244332-----
+
+9+4-14443331----
+
+10+4Intervenção Divina15543332----
+
+11+4-165433321---
+
+12+4Incremento no Valor de Habilidade165433321---
+
+13+5-1754333211--
+
+14+5Golpes Abençoados Aprimorados1754333211--
+
+15+5-18543332111-
+
+16+5Incremento no Valor de Habilidade18543332111-
+
+17+6Característica de Domínio Divino195433321111
+
+18+6Intervenção Divina Maior205433321111
+
+19+6Incremento no Valor de Habilidade215433322111
+
+20+6Intervenção Divina Suprema225433322211
+
+Características de Classe
+Como um Clérigo, você adquire as seguintes características de classe.
+
+Hit Points
+
+Dados de Vida: 1d8 por Nível de Clérigo
+
+Dados de Vida no Nível 1: 8 + Modificador de Constituição
+
+Pontos de Vida em Níveis Superiores: 5 + Modificador de Constituição por nível de Clérigo após o 1º;
+
+Proficiências
+
+Armaduras: Armaduras leves, armaduras médias e escudos.
+
+Armas: Todas as armas simples e Estandarte de Guerra.
+
+Ferramentas: Nenhuma.
+
+Testes de Resistência: Sabedoria, Carisma.
+
+Perícias: Escolha duas dentre História, Intuição, Medicina, Persuasão e Religião
+
+Multiclasse
+Para fazer Multiclasse como Clérigo, você deve ter um mínimo de valor de atributo de Sabedoria 13.
+
+Proficiências de Multiclasse
+
+Armaduras: Armaduras leves, armaduras médias e escudos.
+
+Armas: Nenhuma.
+
+Ferramentas: Nenhuma.
+
+Equipamentos
+Você começa com os seguintes equipamentos, em adição aos recebidos por seu antecedente:
+
+(a) uma maça, (b) um martelo de guerra (se for proficiente) ou (c) um Estandarte de Guerra;
+
+(a) brunea, (b) armadura de couro ou (c) cota de malha (se for proficiente
+
+(a) um besta leve e 20 virotes ou (b) qualquer arma simples;
+
+(a) um pacote de sacerdote ou (b) um pacote de aventureiro.
+
+Um escudo e um símbolo sagrado.
+
+ 
+
+Nível 1: Ritos Sacros
+"O chão fala a quem escuta; toco a pedra e leio o sussurro do lugar.
+
+— Que a benção se revele onde mora a paz, e a profanação confesse onde o mal se aninha."
+
+ 
+Efeito:
+
+Aptidão Litúrgica. Sempre que fizer um teste de Inteligência (Religião), adicione um bônus igual ao seu modificador de Sabedoria (mínimo +1), além dos bônus normais.
+
+Leitura de Sítio Sagrado. Enquanto estiver consciente, você percebe a “temperatura espiritual” da área ao seu redor em um raio de até 9 metros [30 pés]. Você sabe se o local está: consagrado (benigno), dessacralizado (maligno) ou neutro. Efeitos persistentes (como rituais, selos, maldições, profanações, vestígios de mortos-vivos, celestiais ou infernais) marcam o lugar como tal.
+
+— Esta percepção é instintiva e não revela criaturas específicas, escolas de magia ou o texto do rito; apenas a natureza geral (benigna/maligna/neutra) do local.
+
+ 
+Essa leitura não atravessa cobertura total e é bloqueada por: 30 cm (1 pé) de pedra, terra ou madeira; 2,5 cm (1 polegada) de metal; ou por uma lâmina fina de chumbo.
+
+ 
+
+Nível 1: Ordem Sagrada
+"Chamado e encargo: arnês ou relicário, a mesma fé em ofícios distintos.
+
+— Que meus passos não hesitem quando o sino tocar, e que meu posto honre o voto assumido."
+
+ 
+Efeito:
+
+Você se dedica a um dos papéis sagrados abaixo:
+
+Protetor. Treinado para a linha de frente. Você ganha proficiência com Armas Marciais e treinamento com Armadura Pesada.
+
+Taumaturgo. Você aprende um truque adicional da lista de magias do Mago (contam como magias de Clérigo para você). Além disso, sempre que fizer um teste de Inteligência (Arcanismo), adicione um bônus igual ao seu modificador de Sabedoria (mínimo +1), além dos bônus normais.
+
+ 
+
+Nível 1: Conjuração
+"Silêncio de vigília antes da marcha; abre-se o Livro de Horas e a palavra encontra passagem.
+
+— Que a oração se faça útil no campo, e o milagre chegue onde minha mão não alcança."
+
+ 
+Efeito:
+
+Você aprendeu a conjurar magias por meio de oração e meditação. Veja as regras gerais de conjuração no Aqui.
+
+Truques.
+Você conhece 3 truques da lista de Clérigo (recomendados: Orientação, Chama Sagrada, Taumaturgia). Ao subir de nível de Clérigo, você pode substituir 1 truque por outro da lista de Clérigo. Nos níveis 4 e 10, aprende +1 truque (vide a coluna “Truques” da Tabela de Clérigo).
+
+Espaços de Magia. 
+Você possui espaços conforme a Tabela de Clérigo e recupera todos após um Descanso Longo.
+
+Magias Preparadas.
+Você prepara uma lista de magias de nível 1+ da lista de Clérigo. Para começar, escolha 4 magias de 1º nível. O número preparado aumenta pelos níveis (coluna “Magias Preparadas”). Você só pode preparar magias de níveis para os quais possua espaços.
+
+Magias Sempre Preparadas.
+Magias garantidas por outras características não contam no limite, mas contam como magias de Clérigo para você.
+
+Troca Diária.
+Ao fim de um Descanso Longo, você pode redefinir suas magias preparadas.
+
+Habilidade de Conjuração.
+Sabedoria é sua habilidade de conjuração de Clérigo.
+
+Foco de Conjuração.
+Você pode usar um Símbolo Sagrado como foco para suas magias.
+
+ 
+
+Nível 2: Canalizar Divindade
+"Que a maré do Alto encontre passagem em mim sem me romper.
+
+— Que o toque seja bálsamo aos vivos e assombro aos profanos, conforme o rito exigir."
+
+ 
+Efeito:
+
+Você canaliza energia dos Planos Exteriores para efeitos sagrados.
+
+Você conhece duas habilidades de Canalizar Divindades, Afastar Mortos-Vivos e Faísca Divina; você conhecerá habilidades diferentes quando escolher sua Subclasse de Domínio Divino.
+
+Sempre que usar esta característica, você escolhe uma das habilidades e gasta 1 uso do seu Canalizar Divindade; você inicialmente tem 2 usos e recupera 1 uso ao fim de um Descanso Curto e todos ao fim de um Descanso Longo.
+
+Você ganha usos adicionais de Canalizar Divindade em níveis mais altos, 3 usos no 6° nível e 4 usos no 18° nível. 
+O CD de qualquer efeito usado por esta característica é o mesmo de suas magias de Clérigo.
+
+Faísca Divina
+Com uma Ação Mágica. Aponte seu Símbolo Sagrado para uma criatura a até 9 metros [30 pés] e canalize energia. Role 1d8 + seu modificador de Sabedoria e escolha: curar a criatura nesse valor, ou forçá-la a fazer um teste de Constituição. Se falhar, sofre Dano Necrótico ou Radiante (à sua escolha) igual ao total; se passar, sofre metade (arredonde para baixo). O dado aumenta para 2d8 (nível 7), 3d8 (nível 13) e 4d8 (nível 18).
+
+Afastar Mortos-Vivos
+Com uma Ação Mágica. Apresente seu Símbolo Sagrado e censure mortos-vivos. Cada morto-vivo à sua escolha em até 9 metros [30 pés] faz um teste de Sabedoria. Se falhar, a criatura recebe dano Radiante igual a um número de d8 igual ao seu modificador de Sabedoria e fica com as condições Amedrontado e Incapacitado por 1 minuto; nesse período ela tenta se afastar de você em seus turnos. O efeito termina cedo se a criatura sofrer dano, se você ficar Incapacitado ou se morrer. Em um sucesso, a criatura recebe apenas metade do dano.
+
+ 
+
+Nível 3: Domínio Divino
+"O domínio afia o ofício e põe nome ao meu encargo.
+
+— Que a marca do caminho se reconheça na procissão e no campo, sem sombra de dúvida."
+
+ 
+Efeito:
+
+Escolha um Domínio Divino. Você ganha as características dele conforme sobe de nível.
+
+ 
+ Arcano
+ 
+
+ 
+
+Domínio Arcano
+
+ 
+"Os mais sábios ensinam: antes do milagre, vem a gramática. Há lugares onde a oração encontra ângulos e a palavra precisa vestir números; há portas onde a fé só atravessa se trouxer o retorno escrito no próprio selo. Foi ali, entre linhas de prata e lanternas azuis sem chama, que ouvi teu nome, Asterios — e vi a Trama respirar.
+
+ 
+Não lembro do primeiro enigma que me foi confiado, apenas do voto: ‘Nenhuma porta sem retorno’. Desde então, carrego o Livro de Horas ao lado de um grimório marcado por constelações — duas línguas, um mesmo fio. Quando abro caminhos, traço nós-arcano no chão; quando fecho feridas da magia, desfaço o nó sem rasgar o tecido do mundo. Minha prece é método, meu método é devoção.
+
+ 
+Há quem chame isso de frieza. Eu chamo de caridade: impedir que um feitiço sem gramática grite e despedace o que amamos. Expulso distorções que se alimentam de capricho, purifico encantos que sequestraram corpos e moradas, e devolvo o fôlego àquilo que a vaidade tentou moldar sem medida. Onde outros veem brilho, eu procuro o retorno; onde outros veem poder, eu escuto o peso.
+
+ 
+E quando o véu estremece, ergo o símbolo ao céu e recito a lição: ‘Nenhum fio sem nó’. Porque a fé que me move não é o atalho — é a travessia segura. Se a porta se abrir, que seja por ofício e serviço; se se fechar, que seja para poupar o mundo. E em cada selo bem traçado, que o Tecelão dos Planos encontre passagem — e não encontre ruína."
+
+ 
+
+Nível 3: Erudito do Sacro e do Arcano
+"Abro o Livro de Horas ao lado do grimório: duas línguas, um mesmo fio.
+
+— Que o véu se deixe estudar sem se rasgar, e que o método sirva ao milagre, não ao orgulho."
+
+ 
+Efeito:
+
+Ao final de um Descanso Longo, você pode trocar 1 magia por nível da sua lista expandida de Domínio por outra magia de mesmo nível da lista de Mago. A magia escolhida passa a integrar sua lista expandida de Domínio.
+
+Além disso, você aprende 1 truque adicional da lista de Mago. Esse truque conta como truque de Clérigo para você. Ao fim de um Descanso Longo, você pode trocá-lo por outro truque da lista de Mago ou Clérigo.
+
+ 
+
+Nível 3: Canalizar Divindade — Expulsão Arcana
+"Ergo o símbolo e traço a gramática do Umbral no ar.
+
+— Que os que abusam do fio recuem ante o selo, e que a força da Trama os empurre para longe de seus caprichos."
+
+ 
+Efeito:
+
+Com uma Ação Mágica. Apresente seu Símbolo Sagrado e censure Celestiais, Corruptores Elementais e Fadas. Cada uma dessas criaturas à sua escolha em até 9 metros [30 pés] faz um teste de Sabedoria. Se falhar, a criatura recebe dano de Energia (Force) igual a um número de d8 igual ao seu modificador de Sabedoria e fica com as condições Amedrontado e Incapacitado por 1 minuto; nesse período ela tenta se afastar de você em seus turnos. O efeito termina cedo se a criatura sofrer dano, se você ficar Incapacitado ou se morrer. Em um sucesso, a criatura recebe apenas metade do dano.
+
+ 
+
+Magias de Domínio
+ 
+Nível de ClérigoMagias 
+3ºDetectar Magia (Detect Magic), Mísseis Mágicos (Magic Missile), Arma Mágica (Magic Weapon), Presença Mística (Nystul's Magic Aura) 
+5ºContramágica (Counterspell), Dissipar Magia (Dispel Magic)
+7ºOlho Arcano (Arcane Eye), Baú Secreto (Leomund's Secret Chest) 
+9ºMão Arcana (Bigby's Hand), Círculo de Teletransporte (Teleportation Circle) 
+
+ 
+ 
+ Caos
+ 
+
+ 
+
+Domínio do Caos
+"Aprendi a deixar uma cadeira vazia para o inesperado. Khaelor não me pediu certezas — pediu fôlego. Quando acendi a vela amarela ao contrário e ouvi o riso que abre frestas, entendi: há regras que salvam e regras que engaiolam. Meu ofício é encontrar a linha onde a ordem virou jaula e, com uma sílaba torta, soltar o ferrolho.
+
+ 
+Em campo, não corro para destruir — corro para desatar. Abro uma brecha no instante exato, troco a cadência da briga, viro a mesa antes que a mesa vire túmulo. Minha oração não sobe reta: tropeça de propósito e cai no lugar certo. Onde um decreto perfeito demais estrangula, entoo o paradoxal; onde uma maldição pendura a alma, canto de trás para frente até que a amarra se lembre de afrouxar.
+
+ 
+Não confunda: loucura que devora não é meu culto. A fenda que ri existe para dar passagem, não para zombar de quem sofre. Carrego máscaras partidas e um espelho rachado — não para enganar, mas para lembrar que ninguém é obrigado a caber no rótulo do outro. Meu voto é simples: “Se a palavra prender, eu rio — e desato.” E quando o riso virar crueldade, que eu mesmo apague a chama e sente à mesa com Thamior, porque eixo e fresta precisam um do outro para que o mundo continue respirando."
+
+ 
+
+Nível 3: Mão e Língua do Contrassenso
+"Falo torto de propósito e a verdade escorrega para onde precisa.
+
+— Que a mão desobedeça à pauta e o truque mostre a saída que a regra não permite."
+
+ 
+Efeito:
+
+Você pode usar Sabedoria no lugar de Carisma para testes de Enganação e no lugar de Destreza para testes de Prestidigitação.
+
+ 
+
+Nível 3: Mente Estilhaçada
+"Quebro o espelho por dentro para que o reflexo não me prenda.
+
+— Que a fissura proteja o miolo, e que só entre o que eu convidar."
+
+ 
+Efeito:
+
+Ao final de cada Descanso Longo, você pode rolar na Tabela deTemperamento do Caos abaixo. Até o final do próximo Descanso Longo, você sofre o efeito obtido, mas também ganha Resistência a dano psíquico e Imunidade à leitura de pensamentos, a menos que permita voluntariamente.
+
+d10Temperamento do Caos
+
+1O Riso Inconveniente
+"Não consigo levar nada a sério. Quanto mais grave a situação, mais engraçada ela parece."
+Roleplay: Você ri em momentos de tensão, funerais ou diante de ameaças.
+Mecânica: Você tem Desvantagem em testes de Furtividade, mas tem Vantagem em testes de Resistência contra ser Amedrontado.
+
+ 
+
+2O Colecionador de Acasos
+"Eu guardo tudo o que encontro. Uma pedra, um botão, uma pena... são amuletos de sorte."
+Roleplay: Você se recusa a deixar para trás itens pequenos e "inúteis", e tenta negociar usando lixo como moeda.
+Mecânica: Você sempre tem um objeto estranho à mão. Uma vez por dia, você pode puxar um item mundano do bolso como se o tivesse coletado anteriormente. Ao começar um próximo descanso longo, o item simplesmente some.
+
+ 
+
+3O Espelho Vivo
+"Tento me tornar mais parecido com outra pessoa que conheço — adotando suas roupas e manias."
+Roleplay: Escolha um membro do grupo. Hoje você imita a postura, o sotaque e as frases de efeito dele.
+Mecânica: Você ganha proficiência em uma Perícia que aquele aliado tenha, mas tem Desvantagem em testes de Carisma (Persuasão) pois todos sabem que você está "atuando" saber de algo.
+
+ 
+
+4A Fábula Compulsiva
+"A verdade é chata. Preciso exagerar, distorcer ou inventar para tornar a vida interessante."
+Roleplay: Você nunca dá uma resposta direta. Todo relato de batalha vira uma epopeia exagerada.
+Mecânica: Você tem Vantagem em testes de Enganação, mas Desvantagem em testes de Intuição.
+
+ 
+
+5O Vício na Aposta
+"A única justiça é a moeda. Decisões difíceis devem ser deixadas ao acaso."
+Roleplay: Antes de qualquer escolha importante (esquerda ou direita? atacar ou negociar?), você joga uma moeda ou dado.
+Mecânica: Se você deixar uma decisão tática ser definida por cara-ou-coroa (e seguir o resultado), você ganha uma Inspiração Heróica, uma vez enquanto estiver sobre este efeito.
+
+ 
+
+6O Protagonista Intocável
+"Sou a pessoa mais sábia e importante aqui. O destino gira ao meu redor."
+Roleplay: Você ignora conselhos de quase todo mundo e age com orgulho exagerada.
+Mecânica: Você tem Vantagem em testes contra ser Enfeitiçado, mas não pode receber a ação "Ajuda" de aliados.
+
+ 
+
+7Os Sinais Ocultos
+"Inimigos poderosos estão me caçando. Vejo seus agentes em cada sombra e padrão."
+Roleplay: Você desconfia de taverneiros, gatos pretos e nuvens com formatos estranhos, bem como qualquer superstição/misticismo.
+Mecânica: Você tem +5 em sua Percepção Passiva, mas tem Desvantagem em testes de Persuasão com estranhos.
+
+ 
+
+8O Conselheiro Invisível
+"Só há uma pessoa em quem confio. E só eu posso ver esse amigo especial."
+Roleplay: Você conversa com o ar, pedindo conselhos táticos ou fofocando sobre o grupo.
+Mecânica: Você pode usar sua Ação Bônus para "pedir conselho". O Mestre (ou o dado) diz Sim ou Não para uma dúvida simples. Em combate, você pode parecer distraído falando sozinho.
+
+ 
+
+9A Alergia a Planos
+"Planos são jaulas. Se combinarmos algo, sinto uma vontade física de fazer o oposto."
+Roleplay: Você sugere improvisos constantes e odeia ficar parado discutindo tática por mais de 1 minuto.
+Mecânica: Você tem +2 na Iniciativa, mas se o grupo fizer uma rodada de preparação (Surpresa), você deve passar num teste de Sabedoria DC 13 ou atacará antes da hora.
+
+ 
+
+10O Niilismo Festivo
+"Descobri que nada importa, e isso é libertador. Vamos queimar o que for preciso."
+Roleplay: Você não tem apego a bens materiais ou consequências sociais. Propõe soluções destrutivas para problemas simples.
+Mecânica: Você causa o dobro de dano a objetos e estruturas, mas tem Desvantagem em testes de Medicina ou Lidar com Animais.
+
+ 
+
+Nível 3: Canalizar Divindade — Toque da Loucura
+"Sopro palavras que não cabem em linha reta e deixo que o alvo troque o passo.
+
+— Que o riso amarelo desarme a certeza antes que ela machuque."
+
+ 
+Efeito:
+
+Com uma Ação Mágica, escolha uma criatura que possa ouvi-lo a até 9 metros [30 pés]. Ela realiza um teste de Sabedoria.
+
+Em falha: a loucura divina infesta a mente do alvo. Ele fica Incapacitado por 1 minuto, balbuciando incoerências e usando todo o movimento para andar em uma direção aleatória. No primeiro turno em que o efeito começa, sofre 1d6 de dano; a cada turno subsequente, sofre 1d6 adicional (cumulativo) e usa a Reação para se mover também.
+
+No final de cada turno, o alvo pode repetir o teste, encerrando o efeito em sucesso.
+
+ 
+
+Magias de Domínio
+ 
+Nível de ClérigoMagias 
+3ºSussurros Dissonantes (Dissonant Whispers), Risada Histérica (Tasha's Hideous Laughter), Artimanha do Ilusionista (Nathair's Mischief), Força Fantasmagórica (Phantasmal Force) 
+5ºRogar Maldição (Bestow Curse), Invocar Paranóia (Enemies Abound)
+7ºConfusão (Confusion), Terreno Alucinógeno (Hallucinatory Terrain) 
+9ºDominar Pessoa (Dominate Person), Modificar Memória (Modify Memory) 
+
+ 
+ 
+ Escuridão
+ 
+
+ 
+
+Domínio da Escuridão
+"Fui recebido no lado de dentro do mundo, onde o passo desacelera e o ruído aprende a se calar. A Escuridão não me pediu medo — pediu cuidado. Ensinei meus olhos a ler sem lamparinas, e o peito a respirar devagar, até entender que o véu não apaga: ele acolhe. Onde muitos veem ausência, eu encontro abrigo; onde tudo estoura, abro espaço para o silêncio recompor.
+
+ 
+Em campo, não apago para esconder, mas para proteger. Estendo a Sombra de Guarda quando a mão vem rápida demais; ergo o Santuário do Anoitecer quando o excesso de luz virou punição. Meu manto é pausa; meu gesto, intervalo. Não é a noite que derrota ninguém — é a pressa que tropeça quando perde plateia.
+
+ 
+A sombra também erra quando vira mentira. Aprendi com os Liminares que todo segredo tem hora de ser levantado; o que se oculta além da cura apodrece memórias. Por isso converso com os que chamam a aurora: não para expulsá-la, mas para que volte com medida, não como holofote.
+
+ 
+Carrego carvão apagado, água de poço e um tecido negro para cobrir dores até que possam ser vistas sem ferir. Meu voto é simples: Nada profano o repouso; Devolvo o que finda. Se hoje eu puder recolher o excesso e guardar o que precisa de noite, que assim seja — e quando a sombra for demais, que eu mesmo abra um feixe por onde o dia retorne."
+
+ 
+
+Nível 3: Sombra de Guarda
+"Recolho o brilho que sobra e visto o sossego.
+
+— Que a noite amacie a mão apressada e me dê espaço para respirar."
+
+ 
+Efeito:
+
+Quando uma criatura que você possa ver a até 9 metros [30 pés] fizer um ataque contra você, você pode usar sua Reação para conjurar uma pequena nuvem de trevas ao seu redor, impondo Desvantagem na rolagem de ataque dessa criatura.
+
+Você pode usar esta reação um número de vezes igual ao seu modificador de Sabedoria (mínimo 1) e recupera todos os usos gastos ao terminar um Descanso Longo.
+
+ 
+
+Nível 3: Olhos da Noite
+"Apago a lâmpada de dentro e deixo a noite me ensinar seus contornos.
+
+— Que eu leia no escuro o que a pressa da luz não mostra, sem confundir mistério com mentira."
+
+ 
+Efeito:
+
+Você adquire Visão no Escuro com alcance de 36 metros [120 pés]. Se já possuir Visão no Escuro, seu alcance aumenta para 36 metros [120 pés].
+
+Aprimoramento (6º nível). Ao alcançar o 6º nível nesta classe, sua Visão no Escuro passa a enxergar através de escuridão comum e mágica dentro do mesmo alcance.
+
+ 
+
+Nível 3: Canalizar Divindade: Santuário do Anoitecer
+"Baixo o pano do mundo para que o excesso se aquiete e o medo perca voz.
+
+— Que o véu acolha, conserve e devolva medida ao que ficou."
+
+ 
+Efeito:
+
+Com uma Ação Mágica, empunhe seu Símbolo Sagrado e conjure uma nuvem de trevas avassaladora:
+
+Extinção do Brilho. Todas as fontes de luz e luz mágica dentro de 9 metros [30 pés] são extintas.
+
+Consolo do Véu. Criaturas à sua escolha dentro do mesmo raio recebem Pontos de Vida Temporários iguais a 2d6 + seu nível de Clérigo.
+
+Em seguida, uma esfera de crepúsculo emana de você:
+
+A esfera é centrada em você, tem raio de 9 metros [30 pés], exibe finos fios de escuridão, move-se com você e dura por 1 minuto (ou até você ficar Incapacitado ou morrer).
+
+Sempre que uma criatura (inclusive você) terminar o turno dentro da esfera, você pode conceder a ela um dos seguintes benefícios:
+
+Pontos de Vida Temporários iguais a 1d6 + metade do seu nível de Clérigo (arredonde para baixo).
+
+Encerrar um efeito de Encantamento que esteja afetando a criatura.
+
+ 
+
+Magias de Domínio
+ 
+Nível de ClérigoMagias 
+3ºMãos Sombrias (Arms of Hadar), Sono (Sleep), Escuridão (Darkness), Lâmina Umbral (Shadow Blade) 
+5ºEscuridão Devoradora (Hunger of Hadar), Invocar Espírito Sombrio (Summon Shadowspawn)
+7ºInvisibilidade Maior (Greater Invisibility), Assassino Fantasmagórico (Phantasmal Killer) 
+9ºSombras Enfraquecedoras (Enervation), Despistar (Mislead) 
+
+ 
+ 
+ Guerra
+ 
+
+ 
+
+Domínio da Guerra
+"Não vim para amar o sangue — vim para pesar o motivo. Aprendi a traçar o círculo onde o barulho vira decisão, a erguer o estandarte quando os joelhos querem ceder e a lembrar que vitória sem prova é só ruído. Ástyr não cria guerras: ele as limpa. Onde a mesa de Allór sustenta, abaixo a espada; onde a mesa não basta, ergo o campo para que cada um seja pesados à luz do próprio juramento.
+
+ 
+Em combate, mantenho o passo do tambor e a verdade do estandarte. Chamo de volta a lâmina que consagrei, firmo o flanco com a guarda certa, convoco a falange que não sangra para abrir espaço ao golpe honesto. Se um lado cai por covardia alheia, peço a reviravolta que restitui medida: não para humilhar, mas para provar. Quando a manobra poupa vidas, Zarquil pisca; quando a trégua é profanada, o céu fecha — e Ástyr pesa.
+
+ 
+Carrego ferro quebrado e couro de tambor. Meus votos são simples: 'Meu motivo é meu estandarte' e 'Se cair, levanto quem caiu comigo'. Se hoje houver decisão a nascer, que o trovão aponte o compasso — e que nossa vitória custe exatamente o que vale."
+
+ 
+
+Nível 3: Sacerdote de Guerra
+"Faço da reza um compasso e do golpe, resposta.
+
+— Que minha sabedoria guie a mão, e que o inimigo sinta o ritmo antes da lâmina."
+
+ 
+Efeito:
+
+Você pode fazer 1 ataque com arma ou desarmado como Ação Bônus. Para esse ataque, você pode usar sua Sabedoria no lugar de Força ou Destreza para as jogadas de ataque e dano.
+
+ 
+
+Nível 3: Oferenda de Guerra
+"Consagro a lâmina ao trovão e ela aprende meu pulso.
+
+— Quando chamo, Ástyr a devolve com fôlego de tempestade — e minha mão lembra o peso do motivo."
+
+ 
+Efeito:
+
+Você consagra armas a Ástyr e pode chamá-las ao combate.
+
+Consagrar Armas. Ao final de um Descanso Longo, você pode consagrar até um número de armas iguais ao seu bônus de proficiência. Essas armas são suas Oferendas até você consagrá-las novamente.
+
+Invocar Arma. Como Ação Mágica, você pode manifestar em sua mão vazia uma arma que tenha consagrado, não importando onde ela esteja. Se outra criatura a estiver segurando, a arma realiza um teste de Força contestado contra a criatura; em sucesso, ela se solta e surge em sua mão.
+
+Bênção da Lâmina. Enquanto você estiver empunhando uma arma consagrada, ela recebe +1 em jogadas de ataque e dano (+2 no 6º nível; +3 no 17º nível).
+
+Mão Fiel. Se você soltar ou for desarmado de uma arma consagrada, você pode fazê-la teleportar para sua mão (Ação Livre, 1 vez por rodada).
+
+Retorno Arremessado. Quando você arremessar uma arma consagrada, ela retorna à sua mão imediatamente após o ataque acertar ou errar.
+
+Desconsagrar. Você pode remover a consagração de qualquer número de armas ao final de um Descanso Longo para poder vende-las.
+
+ 
+
+ 
+
+Nível 3: Canalizar Divindade — Armamento da Guerra
+"Ergo o estandarte e a linha se firma; a guarda veste aço invisível.
+— Chamo as lâminas consagradas e a falange que não sangra abre o caminho da decisão."
+
+ 
+Efeito:
+Com uma Ação Mágica, você invoca a disciplina de Ástyr:
+
+Escudo de Batalha. Escolha você ou uma criatura que possa ver a até 9 metros [30 pés]. Você então conjura escudo da fé nele por 1 minuto, sem concentração. Se você conjurar Escudo da Fé novamente por esse ou outro meio o Canalizar Divindade se encerra.
+
+Falange Espiritual. Em espaços desocupados que você possa ver a até 18 metros [60 pés], crie até seu modificador de Sabedoria (mín. 1) armas espectrais, cada uma uma cópia de uma de suas Oferendas de Guerra (então caso você tenha apenas uma arma oferecida, você só pode criar uma, mesmo que tenha 2 de Sabedoria). Cada arma pode imediatamente fazer 1 ataque de arma espiritual contra uma criatura a até 1,5 metros [5 pés] dela, cada arma pode atacar apenas uma criatura individualmente, ou seja ela não podem atacar a mesma criatura. A arma recebe todos os bêneficios dela mesma, você pode usar sua Sabedoria no lugar de Força ou Destreza para as jogadas de ataque e dano com elas.
+
+Comandar a Falange. Em turnos subsequentes, você pode usar sua Ação Bônus para mover 6 metros [20 pés] uma dessas armas e fazer com que ela realize 1 ataque.
+
+Limites & Propriedades. As armas espectrais duram 1 minuto, são intangíveis, não ocupam espaço e desaparecem se você ficar Incapacitado ou se qualquer delas se afastar mais de 36 metros [120 pés] de você. Cada arma espectral herda as propriedades da arma copiada (por exemplo, alcance, leve, finesse) e recebe o mesmo bônus mágico de sua arma consagrada correspondente. Efeitos que exigem ativação ou gasto de cargas/recursos não podem ser acionados por estas cópias.
+
+ 
+
+Magias de Domínio
+ 
+Nível de ClérigoMagias 
+3ºRaio Guiador (Guiding Bolt), Escudo da Fé (Shield of Faith), Esquentar Metal (Heat Metal), Arma Mágica (Magic Weapon) 
+5ºManto do Cruzado (Crusader's Mantle), Espíritos Guardiões (Spirit Guardians)
+7ºEscudo Flamejante (Fire Shield), Movimento Irrestrito (Freedom of Movement) 
+9ºImobilizar Monstro (Hold Monster), Vendaval de Aço (Steel Wind Strike) 
+
+ 
+ 
+ Luz
+ 
+
+ 
+
+Domínio da Luz
+"Fui chamado a acordar as coisas pelo nome. Aprendi a esperar o primeiro feixe em silêncio, de face voltada ao leste, até que a claridade coubesse no meu peito sem transbordar. A Luz não veio para queimar — veio para traçar contornos. Onde muitos veem brilho, eu procuro bordas; onde há confusão, alinhei espelhos e deixei que o dia escrevesse a forma.
+
+ 
+Em campo, não luto para cegar, mas para medir. Ergo o Santuário do Amanhecer quando a sombra virou desculpa para a crueldade; levanto o Clarão de Guarda no instante entre o golpe e o arrependimento. Minha lâmina é linha de giz; meu escudo é um feixe que diz: “até aqui”. Não é a luz que vence o inimigo — é o inimigo que se enxerga e hesita.
+
+ 
+A claridade também erra quando se torna deserto. Aprendi com os Moderadores que excesso de dia estanca sementes; há hora de recolher os olhos e deixar que o mistério trabalhe. Por isso converso com os que guardam a noite: não para anulá-la, mas para que a aurora volte com propósito, não por vaidade.
+
+ 
+Levo sal branco, azeite claro e uma tira de pano para firmar juramentos. Meu voto é simples: Nada oculto entre nós; Que o primeiro raio me encontre íntegro. Se hoje eu puder pôr contorno onde só havia ruído, que assim seja — e quando o dia for demais, que eu saiba baixar os espelhos e devolver à noite a parte que lhe cabe."
+
+ 
+
+Nível 3: Clarão de Guarda
+"Ergo o braço ao primeiro feixe: não para cegar, mas para medir o golpe.
+— Que a luz anteceda o impacto e desarme a mão sem humilhar quem a empunha."
+
+ 
+Efeito:
+
+Quando uma criatura que você possa ver a até 9 metros [30 pés] fizer uma rolda de ataque, você pode usar sua Reação para impor Desvantagem nesse ataque, fazendo a luz irromper entre vocês antes que o golpe acerte ou falhe.
+
+Você pode usar esta característica um número de vezes igual ao seu modificador de Sabedoria (mínimo 1). Você recupera todos os usos gastos quando terminar um Descanso Longo.
+
+ 
+
+Nível 3: Primeiro Feixe
+"Não acendo para ferir: acendo para mostrar o que é.
+— Que o amanhecer encontre passagem, e que a sombra aceite a medida que a cura exige."
+
+ 
+Efeito:
+
+Você aprende o truque Luz (Light) se ainda não o conhecer.
+
+Sempre que você conjurar uma magia que emite luz, ela é tratada como sendo de +2 níveis de magia apenas para fins de dissipar escuridão mágica (ao comparar níveis com efeitos de escuridão mágica ativos).
+
+ 
+
+Nível 3: Canalizar Divindade: Santuário do Amanhecer
+"Abro o selo ao leste e convido o primeiro raio a pôr cada coisa no seu contorno.
+— Que a claridade não queime, mas ordene; que dissolva o excesso e firme o caminho."
+
+ 
+Efeito:
+
+Com uma Ação Mágica. Você empunha seu Símbolo Sagrado e cria uma explosão de luz:
+
+Dispersão das Sombras. Todas as fontes de Escuridões mágicas e não mágicas dentro de 9 metros [30 pés] são extintas.
+
+Clarão Purificador. Cada criatura à sua escolha a até 9 metros [30 pés] deve realizar um teste de Constituição. Sofre 2d10 + seu nível de Clérigo de dano Radiante ou de Fogo (à sua escolha) se falhar, ou metade desse dano se tiver sucesso. Criaturas com cobertura total contra você não são afetadas.
+
+Após o clarão, uma esfera do crepúsculo emana de você:
+
+A esfera é centrada em você, tem 9 metros [30 pés] de raio, emite luz baixa, move-se com você e dura por 1 minuto (ou até você ficar Incapacitado ou morrer).
+
+Criaturas à sua escolha que terminarem o turno dentro da esfera recebem um ou ambos dos efeitos abaixo (você escolhe para cada criatura):
+
+1d6 de dano Radiante ou de Fogo (à sua escolha para essa criatura).
+
+Cessa a condição Amedrontado nessa criatura.
+
+ 
+
+Magias de Domínio
+ 
+Nível de ClérigoMagias 
+3ºMãos Flamejantes (Burning Hands), Fogo das Fadas (Faerie Fire), Raio Ardente (Scorching Ray), Ver o Invisível (See Invisibility) 
+5ºLuz do Dia (Daylight), Bola de Fogo (Fireball)
+7ºOlho Arcano (Arcane Eye), Muralha de Fogo (Wall of Fire) 
+9ºAlvorada (Dawn), Vidência (Scrying) 
+
+ 
+ 
+ Morte
+ 
+
+ 
+
+Domínio da Morte
+"Os que temem o fim chamam-no de inimigo; eu aprendi a chamá-lo pelo nome. Quando entrei na casa do silêncio, a lanterna velada mostrou o caminho entre as camas e as lápides, e a voz de Cessira sussurrou: ‘Amparar é Lei’. Desde então, meu ofício não é apressar quedas nem negar partidas — é medir, aliviar e devolver o que finda ao ciclo que sustém tudo.
+
+ 
+Há noites em que apenas seguro a mão e ensino o suspiro a se despedir sem dor; há dias em que fecho portas que não deviam ter sido abertas, desfazendo profanações que deixaram os vivos à mercê dos inquietos. Meu símbolo não ameaça; ele aquieta. E quando a guerra pede corte limpo, eu marco o golpe para que seja breve e suficiente — nem crueldade, nem apego.
+
+ 
+Carrego água limpa para a fronte, sal para a língua, pano para a dignidade, pedra para o selo. Leio a terra em busca de ecos, escuto nomes que pedem memória e, se preciso, ergo por instantes os que consentem — não para mostrar poder, mas para proteger os que ficaram e restaurar o equilíbrio, com rito e retorno. Depois, cada um é reconduzido ao repouso que lhe pertence.
+
+ 
+Alguns me chamam de ceifeiro; sorrio e corrijo: sou acompanhante. Acompanho vivos e mortos até a porta certa, no tempo devido. E enquanto houver nome, haverá memória; enquanto houver luto, haverá amparo. Este é o voto que visto como manto escuro bordado de ciprestes — que o fim chegue sem violência, e que o que finda alimente o que virá."
+
+ 
+
+Nível 3: Entre Pulso e Silêncio
+"Sopro mínimo, vela no fim: minha mão não força a volta, apenas abre espaço para um último fôlego.
+— Que o corpo encontre passagem sem dor, e que a vida, se for voltar, volte inteira — não aos pedaços."
+
+ 
+Efeito:
+
+Quando você restauraria Pontos de Vida de uma criatura com 0 PV usando uma magia que rola 1 ou mais dados de cura, você pode optar por usar o maior valor possível em cada dado em vez de rolar.
+
+Você aprende o truque Poupar os Mortos (Spare the Dying) e mais 1 truque de Necromancia. Ambos ficam sempre preparados e não contam no seu limite de truques de Clérigo. Para você, Poupar os Mortos tem alcance de 9 metros [30 pés] e pode ser conjurado como Ação Bônus.
+
+Além disso, quando você conjurar um truque de Necromancia que normalmente mira apenas uma criatura, você pode, em vez disso, mirar duas criaturas que estejam a até 1,5 metro [5 pés] uma da outra.
+
+ 
+
+Nível 3: Ritos Fúnebres
+"Caminho devagar para não assustar o silêncio; ouço nomes que ficaram no ar.
+— Que a terra confesse seu luto e os ecos se calem no tempo devido, sem profanação nem esquecimento."
+
+ 
+Efeito:
+
+Você emana uma aura de 9 metros [30 pés] que “lê” a marca da morte e da Necromancia no entorno. Dentro dessa área, você sabe se:
+
+há efeitos de Necromancia ativos ou vestígios recentes;
+
+alguém morreu ali;
+
+há ou houve mortos-vivos na última semana (em locais de forte morte — como cemitérios — esse prazo pode aumentar a critério do mestre).
+
+Esta leitura não atravessa cobertura total e é bloqueada por: 30 cm (1 pé) de pedra, terra ou madeira; 2,5 cm (1 polegada) de metal; ou por uma lâmina fina de chumbo. Magias/efeitos que impeçam detecção também bloqueiam sua aura.
+
+ 
+
+Nível 3: Canalizar Divindade — Caminho para a Cova
+"Ponho o nome no selo e o selo no destino: não apresso a queda, apenas digo a direção.
+— Que o golpe que vier seja breve e suficiente, e depois o repouso encontre seu dono."
+
+ 
+Efeito:
+
+Com uma Ação Mágica. Você escolhe uma criatura que possa ver a até 9 metros [30 pés] e a amaldiçoa até o final do seu próximo turno. A próxima vez que você ou um aliado acertar essa criatura com um ataque, ela ganha Vulnerabilidade a todos os danos daquele ataque. Em seguida, a maldição se encerra.
+
+ 
+
+Magias de Domínio
+ 
+Nível de ClérigoMagias 
+3ºVitalidade Falsa (False Life), Proteção Contra o Bem e o Mal (Protection from Evil and Good), Armadura Fúnebre (Death Armor), Repouso Gentil (Gentle Repose) 
+5ºFalar com os Mortos (Speak with Dead), Invocar Morto Vivo (Summon Undead)
+7ºMalogro (Blight), Proteção Contra a Morte (Death Ward) 
+9ºCápsula Antivida (Antilife Shell), Reviver os Mortos (Raise Dead) 
+
+ 
+ 
+ Natureza
+ 
+
+ 
+
+Domínio da Natureza
+"Aprendi a pedir depois de devolver. Antes do mapa, toco a terra; antes da pressa, escuto o vento. Eldára não barganha — respira. Quando encosto a palma num tronco e sinto o âmbar sob a casca, entendo meu ofício: cuidar do ciclo, podar o excesso, guardar a margem do rio. A Mãe acolhe quem chega ferido e recusa o que corrói; cabe a mim reconhecer a diferença e agir sem vaidade."
+
+ 
+Em campo, não caminho sozinho. Bicho e folha me dão notícia quando desaprendo a língua do homem; raízes abrem veredas onde a cidade só via muro. Quando a jornada pede braço extra, chamo um ajudante de seiva e pêlo que luta ao meu lado como extensão do bosque. Se o céu morde com fogo, frio, trovão ou ácido, ensino corpo e aliados a lembrar sombra e inverno — o golpe passa por nós como vento entre galhos. E quando o ciclo exige voz mais funda, abro a Roda: por um instante, rios, matas e montanhas obedecem como se a própria Eldára falasse.
+
+ 
+Não faço culto de ornamento. Tomo e devolvo. Sacio sede e limpo a fonte. Caço com honra e deito os ossos no chão. Árvores-Sentinelas são âncoras do mundo: quem as fere me encontra. Em cidades, planto hortos de respiro e ligo suas raízes às das colinas próximas — para que a pedra lembre que ainda vive sobre terra. Meus votos cabem numa semente: “Tomo e devolvo; guardo a margem e o repouso.” Se hoje houver ruptura, que eu seja poda; se houver ferida, que eu seja seiva.
+
+ 
+
+Nível 3: Acólito da Natureza
+"Ouço o vento antes do conselho e a terra antes do mapa.
+— Que minha reza brote como folha nova e que meu gesto respeite a margem do rio."
+
+ 
+Efeito:
+
+No 3° nível, você aprende Druidismo (Druidcraft) e um outro truque de druida à sua escolha. Você também ganha proficiência em uma das seguintes perícias, à sua escolha: Adestrar Animais, Natureza ou Sobrevivência; caso você já seja proficiente na perícia escolhida, você ganha expertise.
+
+ 
+
+Nível 3: Falar com Plantas e Animais
+"Deito a mão no tronco, abaixo o queixo — a língua desaprende o humano.
+— Que bicho e folha me digam o que a pressa não ouve, e que eu leve a palavra de volta sem quebrar a vereda."
+
+ 
+Efeito:
+
+No 3º nível, você é capaz de falar com plantas e animais, como se compartilhasse um idioma em comum com eles. Adicionalmente, com uma Ação você pode escolher uma quantidade de criaturas igual ao seu modificador de Sabedoria. Essas criaturas podem se comunicar com bestas e plantas durante 1 hora. Esse recurso pode ser utilizado uma quantidade de vezes igual ao seu bônus de proficiência, recuperando todos os usos ao final de um Descanso Longo.
+
+ 
+
+Nível 3: Canalizar Divindade — Auxílio da Natureza
+"Sopro a brasa verde e ela toma corpo: raiz que anda, pata que guarda.
+— Que a Mãe empreste braço vivo quando nossas mãos forem poucas e o ciclo pedir amparo."
+
+ 
+Efeito:
+
+A natureza como um todo abençoa você com a ajuda dos espíritos primordiais, um ajudante vinculado a você por sua fé que toma a forma de uma besta ou planta.
+
+No 3° nível, com uma Ação você pode usar o seu Canalizar Divindade para invocar um Ajudante da Natureza a até 9 metros [30 feet] em um espaço não ocupado que você consiga ver.
+
+O Ajudante da Natureza permanece indefinidamente, desaparecendo caso chegue a 0 pontos de vida, caso você morra, ou caso você invoque outro Ajudante da Natureza (o anterior se desfaz).
+
+Ao desaparecer ao chegar a 0 pontos de vida, ele exige outro uso de Canalizar Divindade para ser trazido novamente.
+
+ 
+
+Magias de Domínio
+ 
+Nível de ClérigoMagias 
+3ºEmaranhar (Entangle), Bom Fruto (Goodberry), Lufada de Vento (Gust of Wind), Crescer Espinhos (Spike Growth) 
+5ºConjurar Animais (Conjure Animals), Crescer Plantas (Plant Growth)
+7ºVinha Restritora (Grasping Vine), Polimorfia (Polymorph) 
+9ºComunhão com a Natureza (Commune with Nature), Passo das Árvores (Tree Stride) 
+ 
+
+ 
+
+ BT 
+ 
+Ajudante da Natureza
+ 
+
+ 
+
+ 
+Médio planta ou besta (unidade média), qualquer 
+ 
+
+ 
+Classe de Armadura: 13 (Armadura Natural)
+ 
+Pontos de Vida: 10 + 5 vezes o seu nível
+ 
+Velocidade: 
+ 10,5 Metros [40 feet]
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+STR
+ 
+
+16 
+ +3 
+
+ 
+ 
+
+ 
+
+DEX
+ 
+
+14 
+ +2 
+
+ 
+ 
+
+ 
+
+CON
+ 
+
+16 
+ +3 
+
+ 
+ 
+
+ 
+
+INT
+ 
+
+8 
+ -1 
+
+ 
+ 
+
+ 
+
+WIS
+ 
+
+16 
+ +3 
+
+ 
+ 
+
+ 
+
+CHA
+ 
+
+10 
+ +0 
+
+ 
+ 
+ 
+ 
+
+ 
+Habilidades: 
+Ligação Divina. O Ajudante da Natureza tem um bônus em testes de habilidade, resistência e classe de armadura igual ao seu bônus de proficiência.
+
+Elo Divino. O Ajudante não sofre efeitos de enfeitiçar derivados de magias de controle mental que o fariam se rebelar contra você ou deixar de seguir suas ordens.
+ 
+Sentidos: Visão no Escuro 18 metros [60 feet], Percepção Passiva 13 + (BP)
+ 
+Idiomas: Entende todas que você fala. 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+Ações
+ 
+Golpe da Natureza. Ataque de Arma Corpo-a-Corpo com Arma: modificador de ataque de magia de clérigo para acertar, alcance 1,5 metros [5 feet], um alvo. Dano (1d8 + Modificador de Sabedoria do Clérigo + Bônus de Proficiência) de dano Cortante, Perfurante ou Concussivo (Você escolhe quando invocar o espírito). 
+ 
+
+ 
+ 
+ 
+ Ordem
+ 
+
+ 
+
+Domínio da Ordem
+"Aprendi a falar baixo para que a balança escute. Antes do veredito, o silêncio; antes da força, a forma. Quando tracei pela primeira vez o hexa-selo no chão e ergui o Olho de pedra, entendi que justiça não é fogo — é âncora. A ordem não vinga; ela sustém. É por isso que visto o hábito como quem veste uma medida: para que a cidade não desabe quando a paixão exige pressa.
+
+ 
+Em campo, meu símbolo não ameaça — organiza. Mostro o Olho e a disputa perde estrondo; linhas se desenham, armas descem, mãos soltam o que não podiam segurar. Quando um pacto precisa de braço, outorgo o gesto a quem pode cumpri-lo e respondo por ele. Meus milagres não fazem espetáculo: apenas abrem o espaço necessário para que a regra certa aconteça na hora certa, mesmo que o mundo esteja gritando por atalho.
+
+ 
+Há dias em que escrevo duas cláusulas no mesmo fôlego — uma para a mente, outra para o coração — e as sustento sem deixar que se anulem. Não faço isso por exibicionismo, mas porque a vida é mais larga do que um único parágrafo. Se a emoção sobe, eu sento; se a fúria chega, eu espero por um minuto inteiro até que a sombra da pedra-relógio marque o ponto exato do sim ou do não. A dúvida não me envergonha: depura.
+
+ 
+Carrego estilete sem fio, cera de lacre e uma tábua hexagonal onde cabem promessas honestas. Meu voto é simples: ‘Minha palavra pesa’; ‘Que o Olho me meça inteiro’. Se hoje eu puder alinhar instrumentos, aparar o excesso e dar licença ao braço justo — que assim seja. E quando o zelo virar grilhão, que eu mesmo abra margem para o fôlego, porque lei sem margem é queda por outro nome."
+
+ 
+
+Nível 3: Olho do Magistrado
+"Seguro a palavra antes que ela vire grito e pesá-la com mão fria.
+— Que minha voz não suba por vaidade, mas por medida; e que o veredito sirva ao equilíbrio."
+
+ 
+Efeito:
+
+Você pode usar Sabedoria no lugar de Carisma para testes de Persuasão e Intimidação.
+
+ 
+
+Nível 3: Mandato Concedido
+"Onde o pacto pede braço, eu outorgo o gesto em nome da ordem.
+— Que a ação venha justa e pontual, amparada pelo selo e não pelo ímpeto."
+
+ 
+Efeito:
+
+Se você conjurar uma magia de 1º ciclo (nível) ou maior e mirar um aliado com essa magia, esse alvo pode usar a Reação imediatamente após a magia para realizar 1 ataque de arma contra uma criatura à escolha dele que você possa ver.
+Se a magia mirar mais de um aliado, você escolhe qual aliado pode fazer o ataque.
+
+ 
+
+Nível 3: Canalizar Divindade — Exigência da Ordem
+"Mostro o Olho e traço o hexágono no ar; a balança pede silêncio.
+— Que corações se aquietem sob o peso da lei, e mãos soltem o que não podem segurar."
+
+ 
+Efeito:
+
+Com uma Ação Mágica, apresente seu Símbolo Sagrado. Cada criatura à sua escolha que possa vê-lo ou ouvi-lo a até 9 metros [30 pés] deve realizar um teste de Sabedoria. Em caso de falha, a criatura fica Encantada por você até o fim do seu próximo turno (ou até receber dano). Você também pode fazer com que a criatura encantada solte o que estiver segurando ao falhar no teste. Em caso de sucesso, nada acontece. 
+
+ 
+
+Magias de Domínio
+ 
+Nível de ClérigoMagias 
+3ºBenção (Bless), Comando (Command), Imobilizar Pessoa (Hold Person), Zona da Verdade (Zone of Truth) 
+5ºFortaleza do Intelecto (Intellect Fortress), Lentidão (Slow)
+7ºSantuário Privado (Mordenkainen's Private Sanctum), Lança Psíquica (Raulothim's Psychic Lance) 
+9ºComunhão (Commune), Imobilizar Monstro (Hold Monster) 
+
+ 
+ 
+ Paz
+ 
+
+ 
+
+Domínio da Paz
+"Aprendi a acender primeiro a brasa, depois a palavra. Na estrada, um fogo pequeno faz vizinhos de desconhecidos; na cidade, uma mesa comprida diminui a altura das coroas. Allór não me pediu rendição — pediu presença. Paz, para nós, não é silêncio à força: é ligar passos, repartir fôlego e lembrar que ninguém atravessa sozinho."
+
+ 
+Em campo, caminho entre lanças como quem leva uma chama azul nas mãos. Com o Bálsamo da Paz, passo ao alcance de um braço e a dor baixa um tom; com o Vínculo Encorajador, amarro coragem em comum — um dado breve que empurra o gesto certo na hora certa, crescendo conforme o laço amadurece. Quando o golpe cai onde não devia, o Vínculo Protetivo troca lugares, encurta distâncias e diz, sem dizer: “meu passo cobre o teu”. E quando a jornada pede fôlego mais longo, o laço se estende como estrada segura.
+
+ 
+Não fazemos “paz de cemitério”. Trégua sem justiça é medo vestido de branco — e Allór não abençoa covardia. Nosso ofício é aproximar para que o justo aconteça, não calar para que tudo continue igual. Se a ira quiser mesa, trazemos pratos, mas tiramos as facas. Se a intriga tentar quebrar o fio, reatamos em público, com pão e sal, para que a cidade se lembre do gosto do nós.
+
+ 
+Carrego corda trançada, pão repartido e um brasero portátil. Meus votos são simples: “Enquanto o fogo arder, seremos um”; “Meu passo cobre o teu”. Se hoje eu puder abrir espaço para o encontro — que assim seja. E quando o mundo esquecer que mesa também é fortaleza, ergueremos outra brasa e cantaremos baixo, até que os braços se estendam por vontade — não por medo.
+
+ 
+
+Nível 3: Implemento da Paz
+"Sento primeiro, falo depois — e só ergo a voz para abrir espaço.
+— Que minha palavra não pese por vaidade, mas una quem precisa caminhar junto."
+
+ 
+Efeito:
+
+Você pode usar Sabedoria no lugar de Carisma para testes de Persuasão.
+
+ 
+
+Nível 3: Vínculo Encorajador
+"Junto as brasas numa só chama e deixo o calor repartir coragem.
+— Que cada mão lembre a outra do passo certo, mesmo quando o medo sopra."
+
+ 
+Efeito:
+
+Como uma Ação, escolha até seu bônus de proficiência em criaturas dispostas a até 9 metros [30 pés] de você (você pode se incluir). Você cria um vínculo mágico entre elas por 10 minutos ou até reutilizar este recurso. Enquanto quaisquer criaturas vinculadas estiverem a até 9 metros [30 pés] uma da outra, cada criatura pode rolar 1d4 e adicionar o resultado a uma rolagem (ataque, teste de habilidade ou salvaguarda) por turno.
+Você pode usar esta característica um número de vezes igual ao seu bônus de proficiência e recupera todos os usos ao final de um Descanso Longo.
+
+ 
+
+Nível 3: Canalizar Divindade — Bálsamo da Paz
+"Caminho entre lanças como quem leva uma brasa azul nas mãos.
+— Que meu passo apazigue dores e que nenhum ferido fique para trás."
+
+ 
+Efeito:
+
+Com uma Ação, você se move até o seu deslocamento sem provocar ataques de oportunidade. Ao passar a até 1,5 metros [5 pés] de uma criatura durante esse movimento, você pode restaurar a ela 2d6 + seu modificador de Sabedoria PV (mínimo 1). Cada criatura pode receber essa cura uma vez por uso desta ação.
+
+ 
+
+Magias de Domínio
+ 
+Nível de ClérigoMagias 
+3ºHeroísmo (Heroism), Santuário (Sanctuary), Acalmar Emoções (Calm Emotions), Vínculo Protetor (Warding Bond) 
+5º Farol da Esperança (Beacon of Hope), Mensagem (Sending)
+7ºAura da Pureza (Aura of Purity), Esfera Resiliente (Otiluke's Resilient Sphere) 
+9ºRestauração Maior (Greater Restoration), Vínculo Telepático (Rary's Telepathic Bond) 
+
+ 
+ 
+ Tempestade
+ 
+
+ 
+
+Domínio da Tempestade
+"Aprendi a ler o céu pela água e a verdade pelo trovão. A primeira lição foi simples: socorrer antes de saquear. A segunda, mais dura: quem apaga farol por lucro chama a própria onda. Tempestus não é deus de muros — é corredor no meio do caos. Quando a tormenta fecha todas as portas, ele abre uma rua de espuma por um fôlego, o bastante para quem tem coragem passar. Minha fé cheira a sal, corda molhada e cobre batido; minha reza começa com o nó certo, continua com o rumo honesto e termina no clarão que diz: ‘por aqui’."
+
+ 
+Em viagem, trago o mar no corpo. A água me reconhece como dos seus e, quando preciso, minhas palavras vêm com raio e ribombo — a mentira de cais perde o vento da língua. Em combate, avanço como frente de tempestade: empurro o inimigo como quem devolve destroços à arrebentação, firmo aliados sob um estalo de luz e mantenho a linha enquanto o convés balança. Se o golpe vier com relâmpago, trovoada ou espuma pesada, aprendi a receber sem afundar — meu peito sabe a cadência do céu. E quando a rota pede pressa, o vento me veste; cruzo desfiladeiros e mastros como fragata em mar aberto, levando comigo a chance de recomeço.
+
+ 
+Não confunda tempestade com crueldade. O trovão pune soberba e fraude, mas poupa quem guarda juramento: faróis acesos, socorro antes de espada, verdade no mapa. Em Meraghos, meus passos são conhecidos nas torres; em Atlantis, já me viram acender sinos de concha quando a maré prende. Minha mesa tem lugar para pescador, náufrago, piloto e até pirata arrependido — mas quem vende rumo falso aprende que a onda tem memória longa. Em terra, sou juiz de cais: traço uma linha azul no chão, e sob ela ninguém morre sozinho.
+
+ 
+Carrego lanterna que não apaga na chuva, concha talhada que guarda vozes de marujos e corrente azulada para lembrar que ninguém ancora só. Meus votos cabem em três nós: “Minha luz não apaga”; “Socorro antes de saque”; “Não minto rumo”. Se hoje a cidade pedir calmaria, cantarei a brisa; se o mundo exigir prova, chamarei a tormenta — não para destruir, mas para limpar. E quando a vela murchar e o medo crescer no peito de quem me segue, levantarei o braço e deixarei que o céu fale por mim. O clarão virá. Sempre vem, para quem não apaga o farol.
+
+ 
+
+Nível 3: Filho das Marés
+"Pisei o convés, provei o sal — a água me reconheceu.
+— Que meu passo corte a espuma como gaivota, e que minhas mãos falem em raio e ribombo."
+
+ 
+Efeito:
+
+Você aprende os truques Thunderclap e Shocking Grasp (ambos contam como magias de Clérigo para você e não contam no seu limite de truques conhecidos). Além disso, você ganha Velocidade de Nado igual ao seu Deslocamento de Caminhada.
+
+ 
+
+Nível 3: Fúria da Tempestade
+"Engolfo a reza com raio e dou ao mar a palavra final.
+— Quando falo em nome do trovão, a mentira treme e a onda abre caminho."
+
+ 
+Efeito:
+
+Quando você conjurar uma magia de Clérigo de 1º nível ou maior, você pode infundir essa magia com poder de tempestade. Ao fazê-lo, uma criatura afetada pela magia (à sua escolha) sofre +1d8 + seu modificador de Sabedoria de dano Trovejante (Thunder) ou Elétrico (Lightning), à sua escolha.
+Usos: modificador de Sabedoria (mín. 1), recuperando todos os usos ao final de um Descanso Longo.
+Aumentos de dano: 2d8 no 6º nível; 3d8 no 17º nível.
+
+ 
+
+Nível 3: Canalizar Divindade — Ira Destrutiva
+"Ergo a lanterna do faroleiro — e o raio não rola, cai inteiro.
+— Que o trovão leve a medida certa, de uma vez só."
+
+ 
+Efeito:
+
+Quando você rolar dano Elétrico (Lightning) ou Trovejante (Thunder), você pode usar seu Canalizar Divindade para maximizar esse dano em vez de rolar. (Não requer ação.)
+
+ 
+
+Magias de Domínio
+ 
+Nível de ClérigoMagias 
+3ºNévoa Obscurecente (Fog Cloud), Onda Trovejante (Thunderwave), Lufada de Vento (Gust of Wind), Despedaçar (Shatter) 
+5ºRelâmpago (Lightning Bolt), Nevasca (Sleet Storm)
+7ºTempestade de Gelo (Ice Storm), Esfera da Tormenta (Storm Sphere) 
+9ºComandar Ventos (Control Winds), Onda Destrutiva (Destructive Wave) 
+
+ 
+ 
+ Trapaça
+ 
+
+ 
+
+Domínio da Trapaça
+"Aprendi que toda máscara é uma chave. Quando o mundo fechou as portas, desenhei uma com giz — e ela se abriu por riso. Zarquil não me pediu licença; pediu leveza. A trapaça certa não humilha: liberta. O truque bom não é para vencer plateia — é para salvar quem ficou preso na letra do tirano. Desde que vesti o capuz roxo, minha devoção é simples: onde a regra vira jaula, eu dobro o papel até que vire saída."
+
+ 
+Em campo, entro como quem chega atrasado de propósito. Invoco duplicatas que andam por conta própria, faço olhos jurarem que viram o que não viram e troco de lugar com meu próprio reflexo antes que a lâmina decida. Minha oração rima: metade reza, metade piada. Quando a pompa infla, eu furo com graça; quando a emboscada fecha, abro um beco com giz. E se me perguntam onde está o milagre, aponto a confusão: “Ali, onde o golpe errou e a esperança passou.”
+
+ 
+Não confunda astúcia com crueldade. Zarquil ri de cima para baixo só quando é para derrubar quem pisa nos outros. Palavra dada a aliado é âncora; promessa rimada em mesa pública é laço que segura até o fim do baile. Carrego cartas marcadas que valem como verdade quando a mentira oprime, e moedas furadas que sempre caem de pé — lembrando que sorte viciada é só justiça posta de cabeça para baixo.
+
+ 
+Meu voto cabe no bolso do casaco: “Se a porta fechar, pinto outra.” “Minha palavra é curva — e chega.” O resto é palco e providência: clones que confundem o golpe, espelhos que contam a verdade com atraso, risos que desarmam a mão antes que o sangue chegue. E quando a piada passar do ponto, que eu mesmo baixe a máscara e sente à mesa com Thamior — porque até o curinga sabe: há horas de curva, e há horas de linha.
+
+ 
+
+Nível 3: Mão e Língua do Curinga
+"Digo torto para acertar melhor — e o bolso sabe o que a palma não mostra.
+— Que a máscara seja chave, não jaula."
+
+ 
+Efeito:
+
+Você pode usar Sabedoria no lugar de Carisma para testes de Enganação e no lugar de Destreza para testes de Prestidigitação.
+
+ 
+
+Nível 3: Bênção do Trapaceiro
+"Apago a pegada, desenho outra — e rio baixinho.
+— Que o passo curvo passe onde a guarda só enxerga reta."
+
+ 
+Efeito:
+
+ Como uma Ação Mágica, escolha um número de criaturas igual ao seu modificador de Sabedoria que estejam até 9 metros [30 pés] de você. Até você terminar um Descanso Longo (ou usar esta característica novamente), os alvos recebme um bônus para testes de Destreza (Furtividade) igual ao seu modificador de Sabedoria.
+
+ 
+
+Nível 3: Canalizar Divindade: Invocar Duplicidade
+"Mostro meia máscara e deixo que as outras dancem.
+— Que o golpe escolha errado — e a saída certa apareça."
+
+ 
+Efeito:
+
+Como Ação Bônus, você gasta um uso de Canalizar Divindade para criar uma ilusão visual perfeita de si em um espaço desocupado que você vê a até 9 metros [30 pés]. A ilusão é intangível, não ocupa espaço e dura 1 minuto (ou até você encerrá-la com uma Ação Livre, ficar Incapacitado ou morrer). Ela é animada e imita seus gestos e expressões. Enquanto persistir, aplicam-se as regras abaixo:
+
+Clones Múltiplos. O número de ilusões criadas por esse Canalizar Divindade é igual a 1 no nível 3, 2 no nível 6 e 4 no nível 17 de Clérigo.
+
+Conjurar pelo Palco. Você pode conjurar magias como se estivesse no espaço de uma de suas ilusões, tendo que usar seus próprios sentidos para a conjuração.
+
+Distrair. Se você e uma ilusão estiverem a até 1,5 metros [5 pés] de uma criatura que possa ver a ilusão, você tem Vantagem nas rolagens de ataque contra essa criatura.
+
+Turno das Ilusões. Suas ilusões agem em um turno próprio, imediatamente após o seu turno, na sua mesma iniciativa. Nesse turno, cada ilusão pode se mover até a sua velocidade de deslocamento (igual à sua), podendo provocar ataques de oportunidade e sem realizar ações.
+
+Alcance e Linha. Uma ilusão não pode se afastar mais de 36 metros [120 pés] de você; se sair desse raio, ela se desfaz.
+
+Confusão de Palco. Uma criatura deve usar uma Ação para fazer um teste de Inteligência (Investigação) para identificar sua ilusão, como uma ilusão, a CD do teste é igual a sua CD de conjuração, uma criatura que pode ver ilusões ou esteja sob o efeito de identificar magia sabe que aquilo é uma ilusão automaticamente.
+
+Intangibilidade. As ilusões não bloqueiam movimento, não acionam armadilhas e não sofrem efeitos; ataques simplesmente atravessam.
+
+ 
+
+Magias de Domínio
+ 
+Nível de ClérigoMagias 
+3ºEnfeitiçar Pessoa (Charm Person), Disfarçar-se (Disguise Self), Imagem Espelhada (Mirror Image), Passos Sem Pegadas (Pass Without Trace) 
+5ºPadrão Hipnótico (Hypnotic Pattern), Proteção Contra Detecção (Nondetection)
+7ºConfusão (Confusion), Porta Dimensional (Dimension Door) 
+9ºDespistar (Mislead), Semblante Ilusório (Seeming) 
+
+ 
+ 
+ Vida
+ 
+
+ 
+
+Domínio da Vida
+"Aprendi a ouvir o mundo como quem encosta o ouvido no peito de um recém-nascido: primeiro vem o silêncio, depois o sopro, então o ritmo. Foi na mesa simples — água limpa, pão quente, ervas amassadas — que Nascira me ensinou o ofício: cuidar é lei. Não vim para prometer eternidades, mas para reacender o que se perdeu do caminho: o fôlego, a fome que encontra mesa, a força de ficar de pé.
+
+ 
+Trago avental limpo e riso manso. Onde a febre se instala, ensino o corpo a lembrar da manhã; onde a terra cansou, amasso o que foi para nutrir o que será. Minhas mãos não fazem espetáculo: lavam, ligam, costuram, repartem. E quando a dor tenta fazer morada, eu abro as janelas para a brisa do alvorecer — sem pressa, sem alarde, com constância.
+
+ 
+Nem tudo deve crescer sem margem. A vida que incha por vaidade apodrece o campo; a mão que retém esmaga o que pretende guardar. Por isso caminho ao lado de Cessira como se caminha com uma irmã: onde eu semeio, ela mede; onde eu restituo, ela encerra. Honro seu selo como honro minha mesa, porque sem repouso não há retorno, e sem retorno não há colheita.
+
+ 
+Levo comigo uma ânfora de alento e um livro de nomes: o primeiro para refrescar feridas, o segundo para lembrar que ninguém come sozinho. Quando ergo o símbolo, não é para impor medo, é para lembrar o corpo de que foi feito para viver. E se hoje eu puder ser ponte entre sede e água, entre cansaço e pão, entre escuridão e manhã — que assim se faça: enquanto houver pulso, haverá mesa; enquanto houver mesa, haverá partilha."
+
+ 
+
+Nível 3: Disciplina da Vida
+"Ponho água limpa na palma e ensino o corpo a lembrar do próprio fôlego.
+— Que o alvorecer passe pela ferida, e o pulso reencontre o caminho sem se perder."
+
+ 
+Efeito:
+
+A partir do 3º nível, suas magias de cura tornam-se mais eficazes. Sempre que você usar uma magia de 1º ciclo (nível) ou maior para restaurar Pontos de Vida a uma criatura, ela recupera PV adicionais iguais a 2 + o nível da magia.
+
+ 
+
+Nível 3: Voto Hospitalar
+"Trago avental limpo e riso manso: o cuidado é lei.
+— Que a febre não encontre pouso em mim, e que meus olhos saibam o que as mãos precisam fazer."
+
+ 
+Efeito:
+
+Você se torna imune a Doenças e ganha proficiência em Medicina. Se já tiver proficiência em Medicina, você ganha Especialização nessa perícia (dobro do seu bônus de proficiência para testes de Medicina).
+
+ 
+
+Nível 3: Canalizar Divindade — Preservar Vida
+"Ergo a ânfora do alento e deixo correr o que é de todos.
+— Que ninguém morra de sede à beira da fonte, e que o pão do pulso se reparta sem faltar."
+
+ 
+Efeito:
+
+Com uma Ação Mágica. Você apresenta seu Símbolo Sagrado e invoca energia curativa que pode restaurar um total de Pontos de Vida igual a 5 × seu nível de Clérigo. Escolha quaisquer criaturas a até 9 metros [30 pés] de você e divida esse total entre elas.
+
+Este recurso pode restaurar cada criatura até no máximo metade de seus PV máximos.
+
+Você não pode usar este recurso em mortos-vivos ou construtos.
+
+ 
+
+Magias de Domínio
+ 
+Nível de ClérigoMagias 
+3ºBenção (Bless), Curar Ferimentos (Cure Wounds), Auxílio (Aid), Restauração Menor (Lesser Restoration) 
+5ºFarol da Esperança (Beacon of Hope), Revivificar (Revivify)
+7ºAura da Vida (Aura of Life), Proteção Contra a Morte (Death Ward) 
+9ºRestauração Maior (Greater Restoration), Curar Ferimentos em Massa (Mass Cure Wounds) 
+
+ 
+ 
+ 
+
+ 
+
+Nível 4: Aumento no Valor de Habilidade
+"Polimento de lâmina e de alma: repito o gesto até que a oração responda.
+— Que a disciplina sustente o milagre, e o corpo obedeça ao voto."
+
+ 
+Efeito:
+
+Você ganha o talento Aumento no Valor de Habilidade ou outro talento para o qual cumpra os pré-requisitos. Ganha novamente nos níveis 8, 12 e 16.
+
+ 
+
+Nível 5: Autoridade Sagrada
+"Tua palavra fez de mim ministro do senso comum e do impossível.
+— Que o cânone pese mais que a vaidade dos homens, e a verdade encontre portas abertas."
+
+ 
+Efeito:
+
+Especialização em Religião. Você passa a ter proficiência em Religião, caso já tenha você passa a ter Especialização (dobro do seu bônus de proficiência para testes dessa perícia).
+
+Voz do Cânone. Sempre que realizaria um teste de Carisma (Persuasão) diretamente ligado ao seu Domínio Divino, à sua divindade, seus dogmas, ritos ou milagres (por exemplo, tratando com fiéis, clero, ordens, devotos, autoridades religiosas, ou defendendo ações alinhadas ao seu domínio), você pode fazer um teste de Sabedoria (Religião) no ludar do teste de Carisma (Persuasão).
+
+Limites. A criatura-alvo deve poder ouvi-lo e compreender sua fala. O mestre decide quando a situação está claramente vinculada ao seu domínio/divindade.
+
+ 
+
+Nível 6: Característica de Domínio Divino
+"O domínio passa do papel para a mão; o rito ganha peso novo no gesto.
+— Que o ofício se afine ao caminho escolhido, e eu sirva melhor onde teu selo me marcou."
+
+ 
+ Arcano
+ 
+
+ 
+
+Nível 6: Purificação Mística
+"Onde o feitiço se enrosca, desfaço o nó sem violentar o fio.
+— Que a Trama respire de novo, e que a forma volte a servir o mundo, não a vaidade de quem a lançou."
+
+ 
+Efeito:
+
+Quando você conjura uma magia de 1º ciclo (nível) ou maior em uma criatura que esteja sob um efeito causado por uma Ação de Magia, você pode encerrar esse efeito imediatamente, exceto se for uma maldição.
+
+Se o efeito tiver sido causado por uma Magia de nível maior do que a magia que você utilizou, você pode tentar um Teste de Sabedoria com CD = 12 + nível da magia que originou o efeito para encerrá-lo.
+ 
+ Caos
+ 
+
+ 
+
+Nível 6: Canalizar Divindade — Discórdia
+"Quando o peso do mundo cai em mim, eu viro a mesa com um estalo.
+— Que o alvo troque de lugar e a sentença erre a cadeira por um instante perfeito."
+
+ 
+Efeito:
+
+Quando você for forçado a realizar um teste de resistência de Inteligência, Sabedoria ou Carisma, você pode usar sua Reação para invocar esta canalização. Escolha uma criatura a até 9 metros [30 pés]: ela deve fazer o teste no seu lugar, tornando-se o novo alvo do efeito ou magia que o afetaria. Uma vez por Descanso Longo, ao invés de gastar um uso do seu Canalizar Divindade, o clérigo pode automaticamente rolar a Tabela de Paradoxo Entrópico. 
+
+ 
+Tabela D100 - Paradoxo Entópico
+ 
+
+ 
+
+d100
+Efeito do Paradoxo
+
+01
+Ecos do Caos: Role nesta tabela novamente no início de cada um dos seus turnos pelo próximo minuto. Ignore se cair 01 de novo.
+
+02
+Olhos do Vazio: Seus olhos se tornam poços de escuridão por 1d20 horas. Você ganha Visão no Escuro de 36m [120 pés]. Se já tiver, ganha a capacidade de ver em escuridão mágica.
+
+03
+Pele de Casca: Sua pele endurece e assume textura de madeira ou pedra por 1d20 horas. Sua CA aumenta em +1, mas seu deslocamento reduz em 1,5m [5 pés].
+
+04
+Forma de Arbusto Místico: Você ganha a aparência de um arbusto humanoide por 1 minuto. Você ganha Resistência a dano Perfurante e Frio, mas Vulnerabilidade a Fogo. Você pode se esconder como ação bônus em qualquer terreno natural.
+
+05
+Trilha Sonora Dramática: Uma música épica toca ao seu redor por 1 minuto. Você ganha Vantagem em testes de resistência contra ser Amedrontado (Frightened) e em testes de Carisma (Intimidação).
+
+06
+Disparo Arcano: Você conjura Mísseis Mágicos (Magic Missile) como uma magia de 3º nível. Os mísseis atingem automaticamente as criaturas hostis mais próximas.
+
+07
+Incandescência: Sua pele brilha com luz plena num raio de 6m [20 pés] por 1 minuto. Qualquer criatura que terminar o turno a 1,5m [5 pés] de você sofre (Mod. Sabedoria)d6 de dano radiante.
+
+08
+Bolhas de Obscuridade: Sempre que você fala, nuvens de bolhas grossas saem da sua boca por 1 minuto. A área a 1,5m [5 pés] de você é considerada Meia Cobertura para você contra ataques à distância (+2 CA), mas você não pode falar furtivamente.
+
+09
+Graxa Caótica: Você conjura Área Escorregadia (Grease) centrada em si mesmo. A graxa é roxa e brilha.
+
+10
+Terceira Mão: Um braço espectral cresce em seu torso e dura 1d20 horas. Ele funciona como uma mão normal, permitindo segurar um foco arcano ou escudo enquanto mantém as outras mãos livres para componentes somáticos ou armas.
+
+11
+Troca Súbita: Você troca de lugar instantaneamente com a criatura hostil mais próxima a até 18m [60 pés]. Após a troca, a criatura fica Atordoada (Stunned) até o início do próximo turno dela (Teste de Sabedoria anula).
+
+12
+Aura de Ozônio: Um cheiro de tempestade te segue por 1d20 horas. Pequenos arcos elétricos saltam de você. Você tem Desvantagem em Furtividade, mas qualquer criatura que te agarrar sofre (Mod. Sabedoria)d6 de dano elétrico.
+
+13
+Instabilidade Temporal: Você tem Desvantagem no próximo teste de resistência, mas ganha Vantagem na próxima jogada de ataque de magia.
+
+14
+Defesa Ilusória: Você conjura Imagem Espelhada (Mirror Image). Você e as cópias têm uma aparência bizarra e distorcida de você.
+
+15
+Regeneração Entrópica: Você recupera (Mod. Sabedoria)d6 Pontos de Vida no início de cada um dos seus turnos pelo próximo minuto.
+
+16
+Nuvem Pessoal: Uma pequena nuvem de chuva te segue por 1d20 horas. Você ganha Resistência a dano de Fogo, mas está constantemente molhado.
+
+17
+Gravidade Pessoal: A gravidade inverte para você por 1 minuto. Você flutua a 3m [10 pés] do chão. Você pode se mover voando com seu deslocamento normal, mas tem desvantagem para atacar alvos no chão corpo-a-corpo.
+
+18
+Interferência Visual: Borboletas e luzes ilusórias preenchem sua visão. Criaturas a mais de 9m [30 pés] têm Camuflagem (Concealment) contra você, mas você ganha imunidade a ataques visuais (como o olhar de um Basilisco) por 1 minuto.
+
+19
+Congelamento Súbito: O chão num raio de 6m [20 pés] ao seu redor congela (terreno difícil para outros). Você pode deslizar sobre o gelo, aumentando seu deslocamento em 3m [10 pés] por 1 minuto.
+
+20
+Surto de Adrenalina: Você pode realizar uma Ação Bônus extra neste turno e no seu próximo turno.
+
+21
+Reflexo Independente: Seu reflexo sai dos espelhos e superfícies por 1 minuto, agindo como um Servo Invisível (Unseen Servant) visível que pode realizar a ação de Ajuda (Help) em combate.
+
+22
+Desvanecer: Você fica Invisível (Invisible) até o final do seu próximo turno. A invisibilidade não quebra se você atacar ou conjurar magias.
+
+23
+Rima Compulsiva: Você fala em rimas por 1d20 horas. Enquanto rimar, você pode lançar a magia Zombaria Viciosa (Vicious Mockery) como ação bônus em cada turno.
+
+24
+Escudo de Força: Sua pele vibra. Você ganha +2 na CA e imunidade a Mísseis Mágicos por 1 minuto.
+
+25
+Levitação de Combate: Você conjura Levitação (Levitate) em si mesmo (sem concentração). Você pode se impulsionar no ar (6m [20 pés] de voo) disparando jatos de magia inofensiva das mãos.
+
+26
+Confusão em Massa: Um som de gongo ensurdecedor toca. Todas as criaturas (exceto você) a até 18m [60 pés] devem passar num teste de Constituição ou ficam Surdas (Deafened) por 1 minuto.
+
+27
+Recarga Arcana: Você recupera seu menor espaço de magia gasto.
+
+28
+Rastro Brilhante: Por 1 minuto, onde você pisa fica marcado com luz. Você não pode se perder, e aliados que sigam seu rastro ganham +3m [10 pés] de deslocamento.
+
+29
+Onda de Repulsão: Todos os inimigos a 9m [30 pés] de você devem fazer um teste de Força ou serem empurrados 4,5m [15 pés] para longe e caírem Caídos (Prone).
+
+30
+Salto Dimensional: Você se teletransporta para um espaço desocupado a até 18m [60 pés] que possa ver.
+
+31
+
+Unicórnio?: Um unicórnio controlado pelo mestre aparece a 1,5 metros [5 pés] de você, você tem um turno para imprecionar o unicórnio, ou ele irá atacar você e seus aliados. Ele desaparece após 1 minuto.
+
+32
+Envelhecimento Místico: Você fica mais velho, role 1d10 para determinar quantos anos você envelhece.
+
+33
+Potência Máxima: Role o dano da próxima magia que você lançar no próximo minuto. Se qualquer dado cair no valor 1 ou 2, trate como se fosse o valor máximo do dado.
+
+34
+Punhos de Titã: Suas mãos crescem desproporcionalmente por 1 minuto. Seus ataques desarmados ou com armas corpo-a-corpo causam +1d4 de dano e têm alcance de 3m [10 pés].
+
+35
+Névoa Protetora: Você conjura Névoa Obscurecente (Fog Cloud) centrada em você. Você, e apenas você, consegue ver através dessa névoa.
+
+36
+Poliglota Universal: Pelo próximo minuto, você entende qualquer idioma e suas magias verbais transcendem a barreira da linguagem (afetando alvos que precisem te entender).
+
+37
+Torcida Astral: 1d4 Flumphs intangíveis aparecem. Eles dão Vantagem no seu próximo teste de resistência contra magia e somem no início do seu próximo turno.
+
+38
+Fluxo de Mana: Você recupera (Mod. Sabedoria)d6 (mínimo 1) Pontos de Feitiçaria.
+
+39
+Pele de Salamandra: Você ganha Resistência a dano de Fogo por 1d20 horas. Sua pele fica morna ao toque.
+
+40
+Pés de Vento: Seu deslocamento aumenta em 9m [30 pés] pelo próximo minuto.
+
+41
+Camuflagem de Objeto: Sua pele assume a textura do material mais próximo (pedra, madeira, metal) por 1 minuto. Você ganha vantagem em Furtividade se ficar imóvel e +1 na CA.
+
+42
+Gravidade Leve: Você e aliados a 9m [30 pés] ganham o efeito de Queda Suave (Feather Fall) e sua distância de salto triplica por 1 minuto.
+
+43
+Aura Radiante: Você emite luz solar brilhante. Mortos-vivos e demônios a 6m [20 pés] têm desvantagem em ataques contra você por 1 minuto.
+
+44
+Presença Aterrorizante: Inimigos a até 9m [30 pés] devem passar num teste de Sabedoria ou ficam Amedrontados (Frightened) de você até o final do seu próximo turno.
+
+45
+Voz do Trovão: Sua voz reverbera como trovão por 1 minuto. Suas magias com componente verbal causam 1d6 de dano trovejante extra a alvos a até 3m [10 pés].
+
+46
+Visão da Verdade: Você conjura Ver o Invisível (See Invisibility) em si mesmo. Dura 10 minutos.
+
+47
+Armadura de Vinhas: Vinhas espectrais cobrem seu corpo por 1 minuto. Se uma criatura te acertar com um ataque corpo-a-corpo, as vinhas chicoteiam causando 1d6 de dano cortante.
+
+48
+Toque de Midas (Temporário): Ouro líquido escorre de suas mãos. Sua próxima magia de dano causa dano do tipo Ácido em vez do normal e caso o alvo esteja usando armadura, reduz a CA do alvo em 1 (permanente até reparada) se ele falhar no teste.
+
+49
+Passo Brumoso Instantâneo: Você conjura Passo Brumoso (Misty Step) imediatamente como ação livre.
+
+50
+Mente Blindada: Você ganha imunidade às condições Enfeitiçado (Charmed) e Amedrontado (Frightened) pelo próximo minuto.
+
+51
+Membros Elásticos: Seus braços e pernas esticam bizarramente. Seu alcance corpo-a-corpo e de magias de toque aumenta em 1,5m [5 pés] por 1d20 horas.
+
+52
+Metabolismo Acelerado: Você pode consumir qualquer alimento ao alcance instantaneamente (se tiver). Você recupera 2d8 PV e remove 1 nível de exaustão. Caso não tenha alimento ao alcance, leva um de exaustão por fome.
+
+53
+Forma de Sombra: Seu corpo se torna esfumaçado por 1 minuto. Ataques físicos contra você têm Desvantagem se você estiver em luz baixa ou escuridão.
+
+54
+Vórtice Gravitacional: Criaturas hostis a até 6m [20 pés] são puxadas 3m [10 pés] em sua direção. Você ganha Ataque de Oportunidade contra elas se entrarem no seu alcance.
+
+55
+Descarga Estática: Você conjura Relâmpago (Lightning Bolt) de 3º ciclo.
+
+56
+Arma Fantasma: Uma cópia translúcida da sua arma ou foco aparece flutuando. Ela ataca junto com você. Uma vez por turno, quando você causar dano de magia, adicione (Mod. Sabedoria)d6 de dano de força.
+
+57
+Benção do Unicórnio: Um chifre de luz aparece em sua testa por 1 minuto. Você e aliados a 3m [10 pés] ganham vantagem em testes de resistência contra magia.
+
+58
+Gigantismo Temporário: Seu tamanho aumenta em uma categoria (Ex: Médio para Grande) por 1 minuto. Seus ataques com arma causam 1d6 extra de dano.
+
+59
+Andarilho de Paredes: Você ganha os benefícios da magia Patas de Aranha (Spider Climb) por 10 minutos.
+
+60
+Escudo Reativo: Você conjura Escudo Arcano (Shield) em si mesmo. O efeito dura até o início do seu próximo turno sem gastar a reação.
+
+61
+Jardim do Caos: O chão num raio de 6m [20 pés] brota flores estranhas. É terreno difícil para inimigos. Se um inimigo terminar o turno lá, sofre 1d6 de dano de veneno.
+
+62
+Sentido Sísmico: Seus olhos se fecham (ou ficam brancos), mas você ganha Sentido Sísmico (Tremorsense) de 9m [30 pés] por 10 minutos.
+
+63
+Pó de Fada: Uma explosão de glitter cobre a área. Criaturas hostis a 3m [10 pés] devem passar num teste de Destreza ou ficam Cegas (Blinded) até o final do próximo turno delas.
+
+64
+Mímico de Combate: Você conjura Disfarçar-se (Disguise Self). Você assume a aparência exata do inimigo mais forte presente. Inimigos inteligentes podem hesitar em te atacar (Teste de Sabedoria CD 10 para te atacar).
+
+65
+Escudo Defletor: Um campo de força te circunda. Você ganha Resistência a dano de Força e Mísseis Mágicos são refletidos de volta ao conjurador original. Dura 1 minuto.
+
+66
+Tempestade Local: Raios caem do teto/céu. Até 3 inimigos a 18m [60 pés] sofrem (Mod. Sabedoria)d6 de dano elétrico.
+
+67
+Passo Etéreo: Você pode se mover através de criaturas e objetos sólidos até o final do turno. Se terminar dentro de um objeto, é empurrado para o espaço livre mais próximo e sofre 1d6 de dano de força.
+
+68
+Vômito Prismático: Você vomita um cone de energia colorida de 4,5m [15 pés]. Criaturas na área sofrem 2d6 de dano de um tipo aleatório (role 1d6 para o tipo: Fogo, Frio, Raio, Ácido, Veneno, Psíquico).
+
+69
+Magnetismo Pessoal: Todos os inimigos a 9m [30 pés] têm desvantagem em atacar qualquer criatura que não seja você até o início do seu próximo turno. (Efeito de "taunt").
+
+70
+Rebobinar: Você recupera os PVs que tinha no início do seu turno anterior, independente de ter perdido ou ganhado PV nesse meio tempo.
+
+71
+Pele de Gárgula: Sua pele fica cinza e pedregosa por 1 minuto. Você ganha Resistência a dano Cortante, Perfurante e de Concussão não-mágicos.
+
+72
+Língua de Cobra: Sua língua bifurca e sibila. Por 1d20 horas, você pode falar com cobras e ganha vantagem em testes para enganar (Enganação).
+
+73
+Transformação Ovina de Combate: Você se transforma em um híbrido de Ovelha Humanoide (Médio). Mantém suas estatísticas e capacidade de conjurar magias. Ganha +3m de deslocamento e um ataque de chifres (1d6 + Força). Dura 1d20 horas ou até dissipar.
+
+74
+Aura Gélida: A temperatura cai. Inimigos que te acertarem com ataques corpo-a-corpo sofrem (Mod. Sabedoria)d6 de dano de frio e têm o deslocamento reduzido em 3m [10 pés]. Dura 1 minuto.
+
+75
+Recarga Mística: Você recupera todos os seus espaços de magia de nível 1 e 2 gastos.
+
+76
+Aura Sagrada (ou Profana): Você emite uma aura de 3m [10 pés]. Aliados na aura ganham +1d4 nas jogadas de ataque. Dura 1 minuto.
+
+77
+Asas de Energia: Asas de pura magia brotam das suas costas. Você ganha deslocamento de voo de 9m [30 pés] por 1 minuto.
+
+78
+Teleporte Rápido: Pelo próximo minuto, você pode usar sua Ação Bônus para se teleportar 9m [30 pés].
+
+79
+Dreno Vital: Inimigos a 3m [10 pés] sofrem 1d8 de dano necrótico. Você cura o total de dano causado.
+
+80
+Braços Tentaculares: Seus braços se tornam tentáculos flexíveis por 1 minuto. Seu alcance para magias de toque aumenta para 4,5m [15 pés] e você tem vantagem em testes de Agarrar.
+
+81
+Segundo Fôlego Mágico: Você recupera 4d8 + Mod. Sabedoria Pontos de Vida.
+
+82
+Surto de Ação: Você pode realizar uma Ação padrão adicional imediatamente (como o Action Surge do Guerreiro).
+
+83
+Aceleração do Caos: Você ganha os efeitos da magia Velocidade (Haste) até o final do seu próximo turno. Quando acaba, você não sofre a letargia (não perde o turno).
+
+84
+Duplicata Ilusória: Uma cópia perfeita sua aparece no seu espaço. O primeiro ataque que te atingiria neste turno atinge a cópia e a destrói (anulando o dano).
+
+85
+Sopro do Dragão: Você conjura Cone de Frio (Cone of Cold) ou Mãos Flamejantes (Burning Hands) 5º ciclo.
+
+86
+Economia Caótica: A magia que disparou este surto (ou a próxima que fizer) não gasta espaço de magia nem pontos de feitiçaria.
+
+87
+Forma Espectral: Você se torna imune a dano Não-Mágico e Resistente a dano Mágico até o início do seu próximo turno.
+
+88
+Rejuvenescimento Maior: Você recupera 4d8 PV e remove todas as condições negativas (Cego, Surdo, Envenenado, Paralisado).
+
+89
+Forma de Papel: Você se torna bidimensional por 1 minuto. Você pode passar por baixo de portas e tem Vantagem em testes de Destreza e CA +2 contra ataques não-mágicos, mas Vulnerabilidade a Fogo.
+
+90
+Bola de Fogo Controlada: Você conjura Bola de Fogo (Fireball) centrada em si mesmo 3º ciclo. Você e criaturas escolhidas são imunes ao dano.
+
+91
+Avatar da Resistência: Você ganha Resistência a todos os tipos de dano por 1 minuto.
+
+92
+Sorte Restaurada: Você recupera o uso da sua habilidade "Aposta do Caos" e ganha 1 Ponto de Sorte (como o talento Sortudo) para usar na próxima hora.
+
+93
+Titã do Caos: Seu tamanho aumenta para "Enorme" (se o espaço permitir). Seus ataques de magia causam +1d8 de dano extra. Dura 1 minuto.
+
+94
+Recarga Superior: Você recupera seu espaço de magia de nível mais alto gasto (até 5º círculo).
+
+95
+Previsão Curta: Até o final do seu próximo turno, você tem vantagem em todas as rolagens de ataque, testes de habilidade e testes de resistência.
+
+96
+Cúpula de Santuário: Uma cúpula de energia impenetrável de 3 metros [10 pés] surge ao seu redor. Nada físico ou mágico passa por ela em nenhuma direção até o início do seu próximo turno (bom para curar/beber poção).
+
+97
+Fusão Metamágica: Sua próxima magia é conjurada com DUAS opções de Metamágica à sua escolha, sem custo de Pontos de Feitiçaria.
+
+98
+Fonte de Poder: Você recupera TODOS os seus Pontos de Feitiçaria.
+
+99
+Restauração Completa: Você recupera TODOS os seus Espaços de Magia (como um descanso longo instantâneo).
+
+100
+SINGULARIDADE DO CAOS: A realidade trinca. Role duas vezes novamente nesta tabela e aplique ambos os efeitos. Se em qualquer uma dessas rolagens extras você tirar 100 novamente, a realidade se rompe e você conjura Parar o Tempo (Time Stop) imediatamente.
+
+ 
+ 
+ 
+ Escuridão
+ 
+
+ 
+
+Nível 6: Sombra de Guarda Aprimorada
+"Estendo o véu a quem precisa e deixo a noite morder a mão que excede.
+— Que as sombras protejam o alvo e devolvam medida ao agressor."
+
+ 
+Efeito:
+
+Quando uma criatura que você possa ver a até 9 metros [30 pés] atacar outra criatura que você também possa ver, você pode usar sua Reação para conjurar o Manto das Sombras ao redor do alvo do ataque. Quando o faz, as sombras golpeiam o agressor, causando 2d6 de Frio ou Necrótico (à sua escolha) + seu modificador de Sabedoria.
+Este uso conta contra os usos de Manto das Sombras que você possui. 
+ 
+ Guerra
+ 
+
+ 
+
+Nível 6: Escudo de Linha de Frente
+"Tombo o ombro e reparto o impacto — o flanco fica de pé.
+— Enquanto a fé fizer guarda, ferro, corte e ponta batem em rocha."
+
+ 
+Efeito:
+
+Uma criatura sob o efeito de escudo da fé criado por seu Armamento da Guerra também tem Resistência a dano perfurante, cortante e concussivo enquanto a magia durar.
+ 
+ Luz 
+ 
+
+ 
+
+Nível 6: Clarão de Guarda Aprimorado
+"Levanto o feixe na hora certa e amacio o impacto com a mesma mão.
+— Que a luz desarme e sustente, para que ninguém caia quando aprende o limite."
+
+ 
+Efeito:
+
+Você recupera todos os usos gastos de Clarão de Guarda ao terminar um Descanso Curto ou um Descanso Longo.
+
+Além disso, sempre que você usar Clarão de Guarda, você pode conceder à criatura alvo do ataque que disparou o Clarão Pontos de Vida Temporários iguais a 2d6 + seu modificador de Sabedoria.
+ 
+ Morte
+ 
+
+ 
+
+Nível 6: Sentinela do Portão da Morte
+"Acompanho o fio sem rompê-lo: dedo na dobradiça entre pulso e silêncio.
+— Que eu feche a porta quando a violência for excesso, ou a abra quando o repouso chamar pelo nome."
+
+ 
+Efeito:
+
+Você se torna um arauto do limite entre a vida e a morte, capaz de tanto interromper quanto decretar o fim de um destino. Você pode usar uma das opções abaixo como Reação:
+
+Fechamento do Portão. Quando uma criatura dentro da sua Aura de Ritos Fúnebres (9 metros [30 pés]) sofrer um acerto crítico, você usa sua reação para interferir no fio da mortalidade: o acerto torna-se um acerto comum e quaisquer efeitos adicionais causados pelo crítico são cancelados.
+
+Abertura do Portão. Quando você ou uma criatura dentro da sua Aura de Ritos Fúnebres (9 metros [30 pés]) acertar uma criatura com um ataque corpo-a-corpo, você canaliza o mesmo poder em direção oposta, invocando a Morte em vez de negá-la. O ataque causa dano necrótico adicional igual a 5 + o dobro do seu nível de Clérigo.
+
+Você pode usar esta característica um número de vezes igual ao seu modificador de Sabedoria (mínimo 1). Você recupera todos os usos gastos ao terminar um Descanso Longo.
+ 
+ 
+ Natureza
+ 
+
+ 
+
+Nível 6: Amortecer Elementos
+"Quando o céu morde, ensino o corpo a lembrar sombra, musgo e inverno.
+— Que fogo, gelo e trovão passem por nós como vento entre galhos — sem quebrar o tronco."
+
+ 
+
+Nível 6: Amortecer Elementos
+Efeito:
+
+No 6° nível, quando você ou uma criatura a até 9 metros [30 feet] de você sofrer dano de ácido, frio, fogo, elétrico ou trovão, você pode usar sua Reação para conceder Resistência à criatura contra aquele tipo de dano.
+
+Por fim, ao invocar seu Ajudante da Natureza, você pode imbuí-lo com energia primordial, concedendo à criatura Resistência a um dos tipos de dano citados e podendo escolher seu tamanho entre Médio ou Grande.
+ 
+ 
+ Ordem
+ 
+
+ 
+
+Nível 6: Ato Contínuo
+"Concentro o rito e abro margem para o verbo correto no tempo exato.
+— Que a vontade não atropelhe a forma, e que duas cláusulas caibam sob o mesmo selo."
+
+ 
+Efeito:
+
+Quando você conjurar uma magia de Encantamento usando um espaço de 1º nível ou maior, se o tempo de conjuração dela for 1 Ação, você pode mudá-lo para 1 Ação Bônus.
+Você pode usar esta característica um número de vezes igual ao seu modificador de Sabedoria (mínimo 1), recuperando todos os usos ao fim de um Descanso Longo.
+
+Além disso, se você conjurar uma outra magia de Encantamento em turnos seguintes com 1 Ação, e ambas exigirem Concentração, você pode manter a concentração nas duas simultaneamente.
+
+Você só pode manter até duas concentrações dessa maneira, e ambas devem ser de Encantamento.
+
+A segunda magia não pode ter o tempo transformado em Ação Bônus por esta característica (ela deve ser conjurada com 1 Ação). 
+ 
+ Paz
+ 
+
+ 
+
+Nível 6: Vínculo Protetivo
+"Se o golpe vier, que me encontre primeiro — e que o laço não se rompa.
+— Meu passo cobre o teu."
+
+ 
+Efeito:
+
+Quando uma criatura afetada pelo seu Vínculo Encorajador for sofrer dano, uma segunda criatura vinculada a até 9 metros [30 pés] do alvo pode usar a Reação para teleportar-se para um espaço desocupado a até 1,5 metros [5 pés] do aliado e então receber esse dano no lugar dele.
+Além disso, caso você use essa reação, você pode optar por trocar de lugar com a criatura ao invês de se teleportar para 1,5 metros [5 pés] em um espaço ao lado dela.
+
+Aprimoramento do Vínculo Encorajador. A partir do 6º nível, o dado de bônus do Vínculo Encorajador aumenta para 1d6 (era 1d4).
+ 
+ Tempestade
+ 
+
+ 
+
+Nível 6: Coração de Tempestade
+"A chuva me pesa nos ombros e não me afunda; o raio me toca e volta para o céu.
+— O mar empurra para longe o que não devia estar tão perto."
+
+ 
+Efeito:
+
+Você ganha Resistência a dano Trovejante (Thunder) e Elétrico (Lightning).
+
+Empurrão da Onda. 1 vez por turno, quando você causar dano Trovejante ou Elétrico a uma criatura de tamanho Grande ou menor, você pode empurrá-la até 4,5 m [15 ft] em linha reta (sem teste).
+
+Fôlego Renovado. A partir deste nível, você também recupera os usos de Fúria da Tempestade ao final de um Descanso Curto (além do Longo).
+
+ 
+ Trapaça
+ 
+
+ 
+
+Nível 6: Transposição do Trapaceiro
+"Troco de lugar com meu próprio reflexo e deixo o golpe chegar atrasado.
+— Que o palco mude sem avisar, e a plateia jure que sempre foi assim."
+
+ 
+Efeito:
+
+Sempre que você criar uma ilusão com Invocar Duplicidade, você pode teleportar-se, trocando de lugar com essa ilusão.
+
+Giro de Atenção. No seu turno, você pode com uma Ação trocar novamente de lugar com uma Ilusão. Se uma criatura já havia desmascarado a ilusão via Investigação, ao ocorrer a transposição ela pode repetir o teste imediatamente sem o uso de Ação, desta vez com Vantagem.
+
+ 
+ Vida
+ 
+
+ 
+
+Nível 6: Curandeiro Abençoado
+"Parto o pão do fôlego e como do mesmo pedaço que ofereço.
+— Que o cuidado dado volte em medida suficiente, e que minhas mãos não faltem quando mais precisarem de mim."
+
+ 
+Efeito:
+
+A partir do 6º nível, as magias de cura que você concede aos outros também restauram você. Sempre que você conjurar uma magia de 1º ciclo (nível) ou maior que restaure Pontos de Vida a uma criatura que não seja você, você recupera PV iguais a 2 + o nível da magia.
+ 
+ 
+
+ 
+
+Nível 7: Golpes Abençoados
+"Onde a lâmina falha, o selo completa; onde a voz falha, a luz morde.
+— Que cada impacto leve um traço do céu, sem ódio, apenas por ofício."
+
+ 
+Efeito:
+
+Ao ganha essa característica, você escolhe uma das seguintes opções:
+
+Golpe Divino. 1 vez por turno, quando acertar um ataque com arma, você causa +1d8 de dano Necrótico ou Radiante (à sua escolha).
+
+Conjuração Potente. Adicione seu modificador de Sabedoria ao dano de quaisquer truques de Clérigo que você conjurar.
+
+ 
+
+Nível 10: Intervenção Divina
+"Rogo de campanha: breve, necessário, direto, sem ornamentos.
+— Que o impossível se incline por um instante, e a passagem se abra quando todos falharem."
+
+ 
+Efeito:
+
+Com uma Ação Mágica. Escolha qualquer magia da lista de Clérigo de nível 5 ou inferior, você conjura essa magia sem gastar espaço e sem Componentes Materiais. Magias que exijam Reação não são elegíveis.
+
+Após usar, você não pode fazê-lo novamente até terminar um Descanso Longo.
+
+ 
+
+Nível 14: Golpes Abençoados Aprimorados
+"A luz aprende o caminho das minhas mãos e encontra o ponto certo.
+— Que o brilho não desperdice ferida, e cada gesto carregue resposta."
+
+ 
+Efeito:
+
+Sua opção escolhida em Golpes Abençoados melhora:
+
+Golpe Divino. O dano extra aumenta para 2d8.
+
+Conjuração Potente. Quando um truque de Clérigo que você conjurar causar dano a uma criatura, você pode conceder a si ou a uma criatura a até 18 metros [60 pés] Pontos de Vida Temporários iguais a 2 × seu modificador de Sabedoria.
+
+ 
+
+Nível 17: Característica de Subclasse
+"O caminho estreita e o domínio se faz carne em meus gestos.
+— Que o brasão arda por dentro da pele, e a função fale mais alto que o ego."
+
+ 
+Efeito:
+
+Você ganha a característica correspondente da sua Subclasse.
+
+ 
+ Arcano
+ 
+
+ 
+
+Nível 17: Mandato Arcano Superior
+"O céu abre as páginas altas e me confia linhas que poucos leem.
+— Que eu as use com retorno e medida, e que nenhuma porta se erga sem caminho de volta."
+
+ 
+Efeito:
+
+Ao alcançar o 17º nível, escolha quatro magias da lista de Mago, sendo uma de cada nível: 6º, 7º, 8º e 9º. Você as adiciona à sua lista de magias de Domínio; como suas outras magias de Domínio, elas ficam sempre preparadas e contam como magias de Clérigo para você.
+
+Você pode trocar qualquer uma dessas magias por outra de mesmo nível da lista de Mago ao final de um Descanso Longo. Você não pode escolher Desejo (Wish) por este meio.
+ 
+ Caos
+ 
+
+ 
+
+Nível 17: Manto da Insanidade
+"Visto a chama que ri e deixo o mundo errar meio passo para o lado certo.
+— Que a mão que me mira confunda o alvo e descubra outra saída."
+
+ 
+Efeito:
+
+Aceitando a loucura e caos em volta do seu ser, você pode virar uma chave em sua mente e deixar o completo caos tomar conta de suas ações. Usando uma Ação, você pode ativar o Manto da Insanidade por 1 minuto. Enquanto estiver nesse estado, você está sob o efeito de Santuário (sem concentração). Durante esse efeito, sempre que um ataque ou ação hostil for redirecionada para outro alvo, a realidade se molda e você rola um efeito aleatório na Tabela de Paradoxo Entrópico. Para todas as circunstâncias, os efeitos da tabela tem ponto de origem o alvo atacante, a não ser que seja um efeito considerado "Pessoal". 
+
+ 
+Você pode ativar esse estado um número de vezes igual ao seu modificador de Sabedoria (mínimo 1) e recupera todos os usos ao terminar um Descanso Longo.
+ 
+ Escuridão
+ 
+
+ 
+
+Nível 17: Coroa de Sombras
+"Acendo a noite verdadeira por um instante e deixo que o excesso se cale.
+— Que sob este véu a crueldade hesite e o repouso encontre seu tempo."
+
+ 
+Efeito:
+
+Com uma Ação, você cria uma aura de escuridão mágica que emana de você em um raio de 18 metros [60 pés].
+
+Criaturas à sua escolha dentro dessa aura recebem um dos seguintes efeitos:
+
+Desvantagem em testes de resistência contra magias que causem dano de Frio, dano Necrótico ou imponham a condição Amedrontado.
+
+Visão no Escuro que enxerga através de escuridão comum e mágica no alcance de 18 metros [60 pés] 
+A aura dura por 1 minuto, ou até você ficar Incapacitado ou encerrar o efeito voluntariamente com uma Ação.
+ 
+ Guerra
+ 
+
+ 
+
+Nível 17: Mensageiro de Ástyr
+"Corro à frente do estandarte como cometa seco, e a tempestade corre comigo.
+— Onde piso, a guarda se ergue; onde aponto, a falange responde — duas batidas no mesmo tambor."
+
+ 
+Efeito:
+
+Aegis Permanente. Você está permanentemente sob o efeito de escudo da fé como se fosse criado por seu Armamento da Guerra. Quando você usar Armamento da Guerra, você ainda pode escolher uma outra criatura para também receber escudo da fé sem concentração por 1 minuto.
+
+Assalto Marcial. Quando usar sua Ação Bônus para o Sacerdote de Guerra, você pode fazer 2 ataques em vez de 1. Alternativamente, quando usar sua Ação Bônus para Comandar a Falange, você pode comandar até 2 armas espectrais para atacar, podendo ser o mesmo alvo.
+ 
+ Luz
+ 
+
+ 
+
+Nível 17: Coroa de Luz
+"Permito que a aurora me vista por inteiro: não para punir, mas para revelar.
+— Que sob esta coroa os enganos se dissipem e as rotas se abram sem terror."
+
+ 
+Efeito:
+
+Com uma Ação Mágica, você emite uma aura de luz solar que dura por 1 minuto ou até você encerrá-la (sem ação). Você emite Luz Plena em um raio de 18 metros [60 pés] e Luz Baixa por mais 9 metros [30 pés] além disso.
+
+Inimigos dentro da Luz Plena têm Desvantagem em testes de resistência contra sua Radiância da Aurora e contra quaisquer magias que causem dano de Fogo ou Radiante que você conjurar.
+
+Você pode usar esta característica um número de vezes igual ao seu modificador de Sabedoria (mínimo 1). Você recupera todos os usos gastos ao terminar um Descanso Longo.
+ 
+ Morte
+ 
+
+ 
+
+Nível 17: Sacerdote da Passagem
+"Aprendi a tocar a beira sem roubar nem reter: só guio o passo certo no tempo devido.
+— Que quem parte alivie quem fica, e que a ceifa sirva ao campo, não à vaidade dos ceifadores."
+
+ 
+Efeito:
+
+Você amplia sua autoridade sobre a travessia e ganha as duas habilidades a seguir:
+
+Guardião das Almas. Quando uma criatura dentro da sua Aura de Ritos Fúnebres (9 metros [30 pés]) morrer efetivamente, como ação livre você pode enviar parte da vitalidade que se dissolveria na Trama para alvos à sua escolha dentro da mesma aura, curando cada um em uma quantidade de Pontos de Vida igual ao seu modificador de Sabedoria (mínimo 1). Você só pode usar esta habilidade se não estiver Incapacitado.
+
+Ceifador das Almas. Quando você conjurar uma magia de Necromancia de 1º até 5º ciclo que tenha como alvo uma única criatura, a magia pode, então, ter +1 alvo adicional que esteja a até 1,5 metro [5 pés] do alvo primário. Se a magia exigir componentes materiais consumidos ou de custo, você deve prover os componentes também para o alvo adicional.
+
+ 
+ Natureza
+ 
+
+ 
+
+Nível 17: Mandato da Natureza
+"Abro o círculo das estações e a Roda responde à minha voz.
+— Que rio, bosque e montanha obedeçam por um instante, não para dominar — para devolver o compasso."
+
+ 
+Efeito:
+
+Ao alcançar o 17º nível, escolha quatro magias da lista de Druida, sendo uma de cada nível: 6º, 7º, 8º e 9º. Você as adiciona à sua lista de magias de Domínio; como suas outras magias de Domínio, elas ficam sempre preparadas e contam como magias de Clérigo para você.
+Você pode trocar qualquer uma dessas magias por outra de mesmo nível da lista de Druida ao final de um Descanso Longo.
+ 
+ Ordem
+ 
+
+ 
+
+Nível 17: Lex Arterna
+"Ergo a pedra-relógio e deixo que o minuto se alinhe em volta de mim.
+— Que sob esta jurisdição, o jogo pare de trapacear e o braço justo receba licença para agir."
+
+ 
+Efeito:
+
+Você cria uma aura de 18 metros [60 pés] por 1 minuto. Enquanto uma criatura estiver nessa área:
+
+Criaturas hostis a você não podem obter Vantagem em rolagens de ataque ou testes de resistência.
+
+Criaturas aliadas não sofrem Desvantagem em rolagens de ataque ou testes de resistência.
+Além disso, enquanto a aura durar, quando você ativar Mandato Concedido (Nível 3), você pode conceder o ataque reativo a até um número de aliados igual ao seu modificador de Sabedoria (em vez de apenas 1), desde que todos estejam dentro da aura.
+ 
+ Paz
+ 
+
+ 
+
+Nível 17: Vínculo Expansivo
+"Estendo a mesa até onde a vista alcança — e ainda há lugar.
+— Que a coragem viaje mais longe que o medo."
+
+ 
+Efeito:
+
+Os benefícios de Vínculo Encorajador e Vínculo Protetivo passam a funcionar enquanto as criaturas vinculadas estiverem a até 18 metros [60 pés] umas das outras. Além disso:
+
+Quando uma criatura utilizar Vínculo Protetivo para receber o dano de outra, ela ganha Resistência a esse dano.
+
+Qualquer par de criaturas vinculadas pode trocar de lugar entre si ao ativar o Vínculo Protetivo (não apenas você), mantendo os demais requisitos e alcances.
+
+Aprimoramento do Vínculo Encorajador. A partir do 17º nível, o dado de bônus do Vínculo Encorajador aumenta para 1d8.
+ 
+ Trapaça
+ 
+
+ 
+
+Nível 17: Duplicidade Aperfeiçoada
+"Quatro risos, um passo — e a verdade chega por último.
+— Que meus aliados acertem primeiro, e o inimigo só perceba depois do confete."
+
+ 
+Efeito:
+
+Distração Compartilhada. Enquanto um inimigo estiver a até 1,5 metros [5 pés] de uma de suas ilusões, você e seus aliados têm Vantagem nas rolagens de ataque contra ele.
+
+Cair do Pano. Quando uma de suas ilusões terminar, todas as criaturas a sua escolha em até 1,5 metros [5 pés] dela recuperam Pontos de Vida iguais ao seu nível de Clérigo.
+
+Troca de Cartolas. Você pode usar o Giro de Atenção do sua Transposição do Trapaceiro como Ação Bônus.
+
+ 
+ Tempestade
+ 
+
+ 
+
+Nível 17: Manto do Ciclone
+"A tempestade me veste; caminho por cima da espuma e volto com o vento certo.
+— Onde minha sombra passa, a rota se endireita e o raio aprende meu nome."
+
+ 
+Efeito:
+
+Você ganha Deslocamento de Voo igual ao seu Deslocamento de Caminhada (você pode pairar). Além disso, você sempre tem preparadas as seguintes magias (contam como magias de Clérigo para você e não contam no seu limite de magias preparadas):
+
+Chain Lightning (Relâmpago em Cadeia)
+
+Whirlwind (Redemoinho)
+
+Control Weather (Controlar o Clima)
+
+Blade of Disaster (Lâmina do Desastre)
+
+ 
+ Vida
+ 
+
+ 
+
+Nível 17: Cura Suprema
+"Ensino a luz a não tremer: cada gota chega inteira, sem se perder no caminho.
+— Que a cura venha por extenso, e que o corpo leia a manhã como quem lê um salmo sem tropeço."
+
+ 
+Efeito:
+
+Começando no 17º nível, sempre que você normalmente rolaria um ou mais dados para restaurar Pontos de Vida com uma magia, você pode usar o maior valor possível para cada dado.
+Exemplo: em vez de restaurar 2d6 PV, você restaura 12 PV.
+ 
+ 
+
+ 
+
+Nível 18: Intervenção Divina Maior
+"Quando a procissão pede milagre, que eu seja ponte e não obstáculo.
+— Que o Nome atravesse por mim sem se deter, e leve muitos ao outro lado."
+
+ 
+Efeito:
+
+Quando usar Intervenção Divina, você pode escolher Desejo (Wish) ao selecionar a magia. Se o fizer, você não pode usar Intervenção Divina novamente até terminar 2d4 Descansos Longos.
+
+ 
+
+Nível 20: Intervenção Suprema do Domínio
+"Ao fim do ofício, permita-me agir em teu Nome sem intercessão por um único toque perfeito.
+— Que a marca do meu domínio desça inteira para que, sem sombra de dúvida, o mundo saiba a quem servimos."
+
+ 
+Efeito:
+
+No 20º nível, sua Subclasse concede uma forma única de Intervenção Suprema, temática ao seu Domínio. Como a ação de sua Intervenção Divina: Desejo (Wish), você pode escolher como efeito do seu Desejo a habilidade abaixo. Todos os efeitos de utilização da magia Desejo e da habilidade de Intervenção Divina Maior se aplicam para o uso desta habilidade, bem como os seus próprios efeitos, caso tenham.
+
+ 
+ Arcano
+ 
+
+ 
+
+Nível 20: Manancial da Trama
+A Trama não é um poço fechado; é um rio que conecta a todos nós. Eu não apenas canalizo a magia — eu abro a comporta. Quando a libero, a energia inunda não só a mim, mas a todos que estão secos ao meu redor. Onde havia exaustão, agora transborda poder.
+
+ 
+
+Restauração Mística: Você invoca uma torrente de energia mágica pura para reabastecer os recursos arcanos do seu grupo. Você gera um estoque de Níveis de Magia igual ao seu Nível de Clérigo + seu Modificador de Sabedoria.
+
+Distribuição: Você pode dividir esses níveis entre si mesmo e qualquer número de criaturas que você possa ver a até 18 metros. As criaturas escolhidas recuperam Espaços de Magia gastos cuja soma dos níveis seja igual aos pontos que você alocou para elas. 
+Nota: A distribuição exata deve ser decidida em consenso com o grupo no momento da ativação.
+
+Por exemplo, caso o clérigo tenha um modificador de +5 de Sabedoria, ele pode recuperar 5 espaços de magia de 5° círculo ou até mesmo 6 espaços de magia de 3° círculo e 1 espaço de magia de 7° círculo.
+
+ 
+
+Restrição: Esta habilidade não pode ser usada para recuperar espaços de magia de 9º círculo. 
+ 
+ Caos
+ 
+
+ 
+
+Domínio do Caos: O Riso de Khaelor
+Meu ofício é encontrar a linha onde a ordem virou jaula e, com uma sílaba torta, soltar o ferrolho. Em campo, não corro para destruir — corro para desatar. Abro uma brecha, troco a cadência da briga e viro a mesa antes que a mesa vire túmulo. Se a palavra prender, eu rio — e desato.
+
+ 
+
+O Grande Desatar: Você acende a vela ao contrário e o riso de Khaelor ecoa em um raio de 18 metros [60 pés] ao seu redor, quebrando as correntes da causalidade.
+
+Para Inimigos: A lógica se desfaz. Criaturas hostis na área devem realizar um Teste de Resistência de Sabedoria. Em falha, sofrem 10d10 de dano Psíquico e ficam sob o efeito da magia Confusão (sem concentração) até o final do próximo turno delas. Em sucesso, sofrem metade do dano.
+
+Para Aliados: Você liberta seus aliados das "regras que engaiolam". Todo e qualquer tipo de controle mental, vínculo telepático e quaisquer magias hostis que toquem a mente afetando seus aliados na área são encerradas instantaneamente. Além disso, cada aliado pode usar sua Reação imediatamente para se mover até seu deslocamento sem provocar ataques de oportunidade.
+
+ 
+
+A Mesa Virada: Imediatamente após o desatar os possíveis deslocamentos, a realidade se torna fluida e instável na área de 18 metros [60 pés] de você por 1 minuto.
+
+Trocar a Cadência: Enquanto estiverem na zona, você e seus aliados podem se Teleportar até 9 metros [30 pés] como uma Ação Bônus. Se o fizerem para o espaço de outra criatura voluntária, trocam de lugar com ela instantaneamente.
+
+Sorte Torta: A sorte obedece ao seu riso. Enquanto a zona durar, sempre que uma criatura na área rolar um d20, você pode usar sua Reação para forçá-la a rolar novamente. Você pode fazer isso um número de vezes durante o período da zona igual ao seu Modificador de Sabedoria.
+
+ 
+
+Piada Mortal: Se a situação for desesperadora, você pode invocar a ruptura total. Como uma ação, você encerra a zona prematuramente para reescrever um evento recente.
+
+Efeito: Você força o "Reroll" de toda a rodada atual. O tempo volta ao início da contagem de Iniciativa desta rodada. Todos os PV, recursos e posições voltam ao que eram, mas as memórias permanecem. Apenas você sofre o efeito da exaustão ou dano sofrido nesse "futuro apagado".
+
+Custo: Khaelor acha graça apenas uma vez. Após usar este recurso, você perde o acesso a esta habilidade de Nível 20 permanentemente.
+
+ 
+ Escuridão
+ 
+
+ 
+
+Nível 20: O Manto do Vazio Onde tudo estoura, abro espaço para o silêncio recompor. Eu estendo o tecido negro para cobrir as dores e punir o ruído. A pressa do inimigo não apenas tropeça — ela quebra sob o peso do vazio, enquanto meus aliados respiram invisíveis no lado de dentro do mundo.
+
+ 
+
+A Pressa que Tropeça: Você impõe o peso esmagador do silêncio absoluto em um raio de 18 metros [60 pés]. Todas as criaturas hostis na área perdem imediatamente a Reação e a Concentração. 
+Além disso, a escuridão cobra o preço da interrupção: cada criatura hostil deve realizar um Teste de Resistência de Constituição. 
+Falha: A criatura sofre 10d10 de dano Necrótico (o apodrecimento da memória) e fica Atordoada (incapaz de agir) até o final do próximo turno dela, paralisada pelo choque do vazio. 
+Sucesso: A criatura sofre metade do dano e, embora não fique atordoada, seu deslocamento é reduzido a 0 e ela não pode realizar Ações Bônus até o final do próximo turno. 
+
+ 
+
+Sombra de Guarda: Imediatamente após o impacto, uma escuridão densa, fria e silenciosa preenche a área de 18 metros e permanece por 1 minuto (você pode encerrar antes sem ação). 
+Para Inimigos: A área é escuridão mágica impenetrável (visão verdadeira não funciona). Qualquer inimigo que termine o turno dentro da sombra sofre 4d10 de dano Gélido (a temperatura de poço fundo) e tem Desvantagem em jogadas de ataque. 
+Para Aliados: Você e seus aliados enxergam perfeitamente na sombra. Enquanto estiverem dentro dela, vocês estão Invisíveis para qualquer criatura fora dela. 
+ 
+ Guerra
+ 
+
+ 
+
+Nível 20: O Veredito de Ástyr Não vim para amar o sangue — vim para pesar o motivo. Quando a trégua é profanada, o céu fecha. Eu ergo o estandarte e chamo a reviravolta: quem vacila, firma o pé; quem bate, bate com luz. Se hoje houver decisão a nascer, que o trovão aponte o compasso.
+
+ 
+ 
+
+O Estandarte da Coragem: Ao fincar seu estandarte (metaforicamente ou não), uma aura de glória e disciplina preenche o campo de batalha em um raio de 18 metros [60 pés] de um espaço que você possa ver. 
+Disciplina Mental: Você e todos os aliados escolhidos na área ganham os efeitos da magia Heroísmo por 1 minuto (imunidade a Amedrontado e ganho de PV temporários igual ao seu Mod. Sabedoria a cada turno). 
+Aura de Conquista: Você ativa a magia Manto do Cruzado sobre o ponto que escolheu previamente para o estandarte por 1 minuto. Para esta habilidade, o raio da aura do Manto aumenta para 18 metros [60 pés], garantindo que todos os aliados na área causem 1d4 de dano Radiante extra em seus ataques com arma. 
+Sem Concentração: Esses efeitos não exigem concentração e não podem ser dissipados por meios comuns. 
+
+ 
+
+O Passo do Tambor: Imediatamente após o uso da habilidade, você ordena a carga. 
+Você e cada aliado afetado podem usar suas Reações para se mover até seu deslocamento (sem provocar ataques de oportunidade) e realizar um Ataque com Arma ou conjurar um Truque contra um inimigo. 
+O Golpe Honesto: Esses ataques são feitos com Vantagem e, se acertarem, causam 2d10 de dano de Força adicional (o peso do veredito). 
+
+ 
+
+O Peso da Guerra: O impacto dessa ofensiva coordenada estremece o solo. Todos os inimigos dentro do raio de 18 metros devem realizar um Teste de Resistência de Força. 
+Falha: O inimigo é derrubado (Caído) e suas armas/focos de conjuração são arremessados a 3 metros de distância, desarmando-o. 
+ 
+ Luz
+ 
+
+ 
+
+Nivel 20: O Santuário do Amanhecer A Luz não veio para queimar — veio para traçar contornos. Onde há confusão, alinhei espelhos e deixei que o dia escrevesse a forma. Ergo o Clarão de Guarda no instante entre o golpe e o arrependimento. Não é a luz que vence o inimigo — é o inimigo que se enxerga à luz da verdade e hesita.
+
+ 
+
+A Hesitação da Verdade: Você inunda um raio de 18 metros [60 pés] de você com uma claridade primordial que não permite segredos. O choque da revelação é devastador. 
+Todas as criaturas hostis na área perdem imediatamente a Reação e a Concentração. Além disso, a luz cobra o preço da impureza: cada criatura hostil deve realizar um Teste de Resistência de Constituição. 
+Falha: A criatura sofre 10d10 de dano Radiante e fica Atordoada até o final do próximo turno dela. 
+Sucesso: A criatura sofre metade do dano e, embora não fique atordoada, fica Cega até o final do próximo turno, ofuscada pela intensidade do julgamento. 
+
+ 
+
+Clarão de Guarda: Imediatamente após o uso da habilidade e o impacto, a luz se estabiliza em um brilho dourado que preenche a área de 18 metros [60 pés] de você e permanece por 1 minuto, podendo ser encerrada sem necessitar de nnehum tipo de ação. 
+Para Inimigos, a área é considerada luz solar plena. Ilusões, invisibilidade e formas transmutadas são automaticamente suprimidas durante o contato com a luz. Qualquer inimigo que termine o turno dentro do clarão sofre 2d10 de dano de Fogo e não pode se beneficiar de qualquer tipo de cobertura. 
+Para você e seus aliados na área ganham Visão Verdadeira dentro do toque da luz. Enquanto estiverem dentro dela, ganham imunidade a condições mentais (Amedrontado, Enfeitiçado). 
+ 
+ Morte
+ 
+
+ 
+
+Nível 20: O Selo de Céssira
+Enquanto houver nome, haverá memória; enquanto houver luto, haverá amparo. Eu trago a lanterna velada e o silêncio respeitoso para recolher o que findou. Minha mão não faz espetáculo: mede, alivia e devolve. Onde a dor insiste em gritar, eu fecho as portas para o repouso.
+
+ 
+
+O Crepúsculo da Noite: Você ergue seu símbolo e a sombra do fim se expande em um raio de 18 metros [60 pés] ao seu redor, separando o que é ciclo do que é apego.
+
+Para Inimigos: O vazio absoluto é insuportável para quem nega o fim. Criaturas hostis na área devem realizar um Teste de Resistência de Constituição.Em falha, sofrem 10d10 de dano Necrótico e ficam Amedrontadas de você até o final do próximo turno, envoltas pela escuridão do túmulo. Em sucesso, sofrem metade do dano.
+
+Para Aliados: Você e seus aliados na área ganham imediatamente Pontos de Vida Temporários iguais ao seu Nível de Clérigo + Modificador de Sabedoria. Além disso, o selo acalma o espírito: todas as condições Amedrontado, Enfeitiçado, Atordoado e níveis de Exaustão são removidos instantaneamente.
+
+ 
+
+O Leito do Silêncio: Imediatamente após o impacto, o chão é coberto por uma névoa baixa e um silêncio solene preenche a área de 18 metros [60 pés] por 1 minuto.
+
+O Fim é Lei: Enquanto estiverem na zona, uma vez por turno, uma fonte de dano Necrótico que você ou seus aliados causem é automaticamente Maximizado (não role os dados; use o valor máximo possível de dano).
+
+ 
+
+A Foice da Morte: Como uma ação, você pode cessar o efeito da aura e canalizar toda a autoridade de Cessira para um único ponto, um único alvo, um único ser cuja hora chegou.
+
+Efeito: Você profere a sentença final. O alvo sofre instantaneamente o efeito da magia Power Word Kill porém com o limiar para morte sendo o número máximo de pontos de vida do clérigo. Caso a morte instantânea se concretize, o corpo do alvo se desfaz em cinzas, impedindo qualquer retorno que não seja por intervenção divina direta ou Ressureição Verdadeira.
+
+Custo: Em contrapartida, o clérigo não poderá mais usar essa habilidade de nenhuma maneira, para que exista o equilíbrio.
+
+ 
+ Natureza
+ 
+
+ 
+
+O Ciclo de Eldára Eldára não barganha — respira. Se hoje houver ruptura, que eu seja poda; se houver ferida, que eu seja seiva. Eu abro a Roda e, por um instante, rios, matas e montanhas obedecem. O golpe passa por nós como vento entre galhos, e o excesso é devolvido à terra.
+
+ 
+
+A Poda do Excesso: Você bate no chão e a natureza responde com violência para restaurar o equilíbrio. Uma erupção de raízes, espinhos e poder elemental explode em um raio de 18 metros [60 pés] a sua volta. 
+Todas as criaturas hostis na área devem realizar um Teste de Resistência de Destreza. 
+Falha: A criatura sofre 10d10 de dano a sua escolha dentre: Ácido, Frio, Fogo, Elétrico ou Trovejante. Além disso, a criatura fica Contida por vinhas e raízes indestrutíveis até o final do próximo turno dela. 
+Sucesso: A criatura sofre metade do dano e não fica Contida. 
+
+ 
+
+O Abraço da Seiva: Imediatamente após a erupção das vinhas, no momento do uso da habilidade, a área de 18 metros [60 pés] a sua volta floresce em um santuário selvagem e vibrante que permanece por 1 minuto além das vinhas. 
+Para Inimigos, toda a área é Terreno Difícil para seus inimigos. As plantas tentam ativamente atrapalhá-los, impondo Desvantagem em Testes de Resistência de Destreza enquanto estiverem na zona. 
+Para você e seus aliados, o terreno difícil não impõe nenhum prejudicial eu sua movimentação. Além disso, a seiva elemental protege seus corpos: todos ganham Resistência a dano de Ácido, Frio, Fogo, Elétrico e Trovejante. 
+Renovação: No início do turno de cada aliado na área, ele recupera 10 Pontos de Vida, nutrido pela energia bruta de Eldára. 
+ 
+ Ordem
+ 
+
+ 
+
+Nível 20: O Axioma de Thamior O caos é apenas falta de instrução. Com uma palavra, endireito a espinha do mundo e imponho a lei. Eu não jogo dados com o universo; eu dito o resultado. Onde há dúvida, trago o veredito; onde há desordem, trago a sentença. O martelo cai, e a realidade obedece.
+
+ 
+
+O Veredito Final: Você impõe a perfeição matemática sobre o campo de batalha em um raio de 18 metros [60 pés] a um espaço que você possa ver. A vontade dos inimigos é esmagada pela autoridade divina. 
+Todas as criaturas hostis na área devem realizar um Teste de Resistência de Sabedoria. 
+Falha: A criatura sofre 10d10 de dano Psíquico e fica Paralisada (como se estivesse sob a magia Imobilizar Monstro) até o final do próximo turno dela. 
+Sucesso: A criatura sofre metade do dano e não fica Paralisada, mas seu deslocamento é reduzido a 0 até o final do próximo turno. 
+
+ 
+
+A Imposição da Ordem: Imediatamente após o veredito, você elimina o acaso para as próximas ações. 
+Escolha até 6 criaturas na área. A próxima jogada de ataque, teste de resistência ou teste de habilidade que cada um fizer antes do final do seu próximo turno do clérigo é tratada automaticamente como um 20 Natural. 
+Após, escolha até 6 inimigos na área. A próxima jogada de ataque, teste de resistência ou teste de habilidade que cada um fizer antes do final do seu próximo turno é tratada automaticamente como um 1 Natural.
+
+ 
+
+A Jurisdição: Uma aura de geometria perfeita e luz estática permanece na área de 18 metros por 1 minuto. 
+Lei Marcial: Inimigos dentro da zona não podem se beneficiar de Vantagem em nenhuma jogada (a sorte é anulada). 
+Cadeia de Comando: Sempre que você ou um aliado na zona conjurar uma magia de Encantamento ou realizar a ação de Ataque, um aliado diferente na zona pode usar sua Reação para fazer um ataque com arma imediatamente. 
+ 
+ Paz
+ 
+
+ 
+
+Nível 20: O Elo da Alma de Allór Paz, para nós, não é silêncio à força: é ligar passos. Se a intriga tentar quebrar o fio, reatamos com pão e sal. Eu ergo a mesa que também é fortaleza e digo: 'Meu passo cobre o teu'. Enquanto o fogo arder, seremos um, e ninguém atravessará o perigo sozinho.
+
+ 
+
+A Reprimenda de Allór: Você emite uma onda de autoridade pacífica que pesa sobre a consciência violenta em um raio de 18 metros [60 pés] ao seu redor. A agressão se torna um fardo insuportável. Todas as criaturas hostis na área devem realizar um Teste de Resistência de Sabedoria. 
+Falha: A criatura sofre 10d10 de dano Psíquico e fica Incapacitada até o final do próximo turno dela, perdendo a vontade de lutar. 
+Sucesso: A criatura sofre metade do dano e não fica Incapacitada, mas tem Desvantagem em todas as jogadas de ataque até o final do próximo turno. 
+
+ 
+
+A Fortaleza da Mesa: Imediatamente após a onde se manifestar, vínculos de luz dourada conectam você e seus aliados na área de 18 metros [60 pés] em volta de você, criando uma rede de proteção absoluta que dura 1 minuto. 
+Unidade Inquebrável: Você e todos os aliados na área são imunes às condições Amedrontado e Enfeitiçado. 
+"Meu Passo Cobre o Teu": Enquanto a zona durar, o alcance do seu Vínculo Protetor torna-se ilimitado dentro da aura. Sempre que um aliado na área for alvo de um ataque ou sofrer dano, qualquer outro aliado na área (incluindo você) pode usar sua Reação para se teleportar para um espaço a 1,5m do alvo e receber o ataque/dano no lugar dele. Bônus: Se o dano for transferido dessa forma, o novo alvo é caracterizado como resistente a todo o dano causado pelo ataque. 
+ 
+ Tempestade
+ 
+
+ 
+
+Nível 20: O Clarão de Tempestus Tempestus não é deus de muros — é corredor no meio do caos. Quando a tormenta fecha todas as portas, eu abro uma rua de espuma. Empurro a soberba como quem devolve destroços à arrebentação e acendo o clarão que diz: 'por aqui'. Se o mundo exigir prova, chamarei a tormenta — não para destruir, mas para limpar.
+
+ 
+
+A Punição da Soberba: Você levanta o braço e o céu desaba. Uma explosão catastrófica de ventos uivantes e relâmpagos varre um raio de 18 metros [60 pés] ao seu redor. Todas as criaturas hostis na área devem realizar um Teste de Resistência de Força. 
+Falha: A criatura sofre 10d10 de dano (metade Elétrico, metade Trovejante). A força do impacto é tal que a criatura é arremessada 6 metros [20 pés] para mais longe de você e fica Caída. 
+Sucesso: A criatura sofre metade do dano e é empurrada apenas 3 metros [10 pés], sem cair. 
+
+ 
+
+O Corredor no Turbilhão: Imediatamente após o impacto, a tempestade ao redor se organiza em um vórtice controlado que obedece à sua vontade por 1 minuto dentro do memso raio. 
+Fragatas em Mar Aberto: Você e seus aliados na área ganham um deslocamento de Voo de 9 metros [30 pés]. Esse movimento não provoca ataques de oportunidade. 
+Receber sem Afundar: Você e seus aliados na área ganham Resistência a danos Elétrico e Trovejante. 
+A Mentira Perde o Vento: A área é considerada Terreno Difícil para inimigos. Além disso, ataques à distância com armas feitos por inimigos contra alvos dentro da zona têm Desvantagem para acertar. 
+ 
+ Trapaça
+ 
+
+ 
+
+Nível 20: O Baile das Máscaras de Zarquil Onde a regra vira jaula, eu dobro o papel até que vire saída. Minha devoção é simples: se a porta fechar, pinto outra. Quando a emboscada fecha, abro um beco com giz. Se me perguntam onde está o milagre, aponto a confusão: ali, onde o golpe errou e a esperança passou.
+
+ 
+
+A Risada de Zarquil: Você estala os dedos e uma onda de distorção violeta e riso zombeteiro varre um raio de 18 metros [60 pés] ao seu redor. A certeza do inimigo é despedaçada. Todas as criaturas hostis na área devem realizar um Teste de Resistência de Sabedoria. 
+Falha: A criatura sofre 10d10 de dano Psíquico e fica Incapacitada até o final do próximo turno dela ou o clérigo pode escolher que o alvo faça um ataque corpo a corpo contra o aliado dela mais próximo, mesmo que precise se deslocar até ele, engasgada em gargalhadas histéricas ou furiosa pela confusão. 
+Sucesso: A criatura sofre metade do dano e não fica Incapacitada ou não ataca o aliado, mas tem Desvantagem em todos os testes de resistência até o final do próximo turno. 
+
+ 
+
+O Palco dos Espelhos: O ar cintila com purpurina e cheiro de ozônio. A mesma área área de 18 metros [60 pés] se torna um palco de ilusões por 1 minuto. 
+"Pinto outra Porta": Você e seus aliados na área podem se teleportar até 9 metros [30 pés] como uma Ação Bônus graças a portas coloridas e ilusórias que aparecem. 
+Onde o Golpe Erra: Você e cada aliado, incluindo suas cópias perfeitas do Canalizar Divindade, na área são cercados por 3 duplicatas ilusórias perfeitas (como na magia Reflexos, mas aprimorada). Sempre que um inimigo tentar atacar um aliado na zona, ele deve rolar um d20. Em um resultado de 11 ou mais, o ataque atinge uma duplicata e se desfaz em fumaça inofensiva. Se um inimigo errar um ataque contra qualquer alvo dentro da zona (seja por errar a CA ou acertar uma duplicata), ele sofre imediatamente 2d10 de dano Psíquico. A piada é sempre às custas dele. 
+ 
+ Vida
+ 
+
+ 
+
+Nível 20: O Sopro de Nascira Enquanto houver pulso, haverá mesa; enquanto houver mesa, haverá partilha. Eu trago o avental limpo e o riso manso para reacender o que se perdeu. Minha mão não faz espetáculo: lava, liga e costura. Onde a febre tenta fazer morada, eu abro as janelas para o alvorecer.
+
+ 
+
+O Alvorecer da Manhã: Você ergue seu símbolo e o pulso da vida explode em um raio de 18 metros [60 pés] ao seu redor, separando o que é semente do que é praga. 
+Para Inimigos: A vitalidade pura é tóxica para quem deseja o mal. Criaturas hostis na área devem realizar um Teste de Resistência de Constituição. Em falha, sofrem 10d10 de dano Radiante e ficam Cegas até o final do próximo turno, ofuscadas pela pureza da vida. Em sucesso, sofrem metade do dano e não ficam cegas.
+
+Para Aliados: Você e seus aliados na área recuperam imediatamente 20 Pontos de Vida. Além disso, o sopro limpa o corpo: todas as doenças, venenos e as condições Cego, Surdo, Paralisado, Envenenado e Atordoado são removidas instantaneamente. Aliados mortos há menos de 1 minutos sofrem o efeito de Revivify e a cura desta habilidade. 
+
+ 
+
+A Mesa da Partilha: Imediatamente após o sopro, o chão brilha com runas de acolhimento e uma brisa morna preenche a mesma área de 18 metros [60 pés] por 1 minuto. 
+Cuidar é Lei:Inimigos dentro da zona que tentarem recuperar Pontos de Vida de qualquer forma podem ser impedidos. O clérigo pode usar sua reação e realocar essa energia de vida para outro alvo que ele escolher dentro de sua aura.
+A Próxima Alvorada: Canalizando toda a energia positiva e de cura ao seu redor, o clérigo pode cessar o efeito da aura ao seu redor e redirecionar toda a energia na direção de um alvo, um ser que outrora viveu e já não está mais vivo, conjurando a magia Ressureição Verdadeira, sem gasto de componentes ou espaços de magia de forma instantânea. Após encerrar o efeito dessa forma, o clérigo não pode usar mais essa característica, para manter o equilíbrio. 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+Site projetado pela equipe do Bonfire Tales RPG, para diversão de todos que amam RPG!
+
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+
+ Metadados
+ 
+
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Article template
+ 
+
+ Generic article 
+ 
+ 
+
+ 
+
+ 
+World
+ 
+Bonfire Tales RPG
+ 
+
+ 
+ 
+
+ 
+Category
+ 
+Classes 
+ in Jogadores 
+ 
+ 
+ 
+ 
+
+ 
+Author
+ 
+Bonfire Tales
+ 
+
+ 
+
+ 
+Publication Date
+ 
+8 Oct, 2025
+ 
+ 
+ 
+
+ 
+Creation Date
+ 
+8 Oct, 2025
+ 
+
+ 
+
+ 
+Last Update Date
+ 
+8 Jan, 2026
+ 
+
+ 
+
+ 
+Visibility
+ 
+
+ Public
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+Views
+ 
+1403
+ 
+
+ 
+
+ 
+Favorites
+ 
+
+ 
+
+ 
+
+ 
+Comments
+ 
+0
+ 
+ 
+ 
+ Work In Progress
+ 
+ 
+ 
+
+ 
+
+ 
+Tags
+ 
+ classe 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+
+Hello! <3 I hope you are having a nice day! 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+Find your way!
+ 
+ 
+DO YOU NEED HELP?
+ 
+PRICING 
+ 
+GIFT A MEMBERSHIP! 
+
+ 
+ABOUT
+ 
+FAQ
+ 
+CHANGELOG
+ 
+
+ 
+Resources
+ 
+ 
+RANDOM GENERATORS
+ 
+WORLDBUILDING PROMPTS
+ 
+WHAT IS WORLDBUILDING?
+
+ 
+ 
+ 
+ 
+
+ 
+WHO WE ARE
+ 
+ 
+OUR TEAM
+
+ 
+WE ARE HIRING
+ 
+OUR NEWS
+
+ 
+ 
+LEGAL
+ 
+ 
+PRIVACY 
+ 
+TERMS OF SERVICE 
+ 
+COPYRIGHT 
+ 
+ETIQUETTE 
+ 
+ACCESSIBILITY 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+
+ 
+Get the news
+ 
+ 
+ WORLDANVIL PODCAST
+
+ 
+ DISCORD
+ 
+ BLOG
+ 
+ BLUESKY
+ 
+ TWITTER
+ 
+ YOUTUBE
+ 
+ TWITCH 
+ 
+ FACEBOOK 
+ 
+ REDDIT
+ 
+
+ 
+ 
+
+ 
+ 
+Our Shop
+ 
+ 
+GIFTS & WORLD ANVIL GEAR
+ 
+ 
+ 
+Development
+ 
+ 
+WORLD ANVIL API
+ 
+
+ 
+EVENTS
+ 
+ 
+
+ STREAMING
+ 
+ 
+
+ MAJOR CHALLENGES
+ 
+ 
+WORLDEMBER
+ 
+SUMMERCAMP
+ 
+
+ 
+ 
+
+ 
+ 
+
+ 
+REACHING OUT
+ 
+ 
+JOIN THE AFFILIATE PROGRAM
+ 
+GET SPONSORED
+ 
+ 
+A BIG THANK YOU
+ 
+
+ 
+
+ To all our Our Patrons for their unwavering love and support.
+ 
+ 
+ For the amazing images.
+ His Titanship Christopher Dravus of Ironrise Games,
+ Our Revered Deity Basic Dragon / Rin & 
+ His Majesty Caeora 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+ 
+ 
+
+ 
+ 
+
+ 
+
+ 
+
+ 
+ 
+ 
+ 
+ 
+
+ 
+

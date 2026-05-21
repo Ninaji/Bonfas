@@ -1,0 +1,39 @@
+{
+  "slug": "artifice",
+  "nome": "Artífice",
+  "saves": [
+    "Constituicao",
+    "Inteligencia"
+  ],
+  "armor_prof": [
+    "Armaduras Leves",
+    "Armaduras Médias",
+    "Escudos"
+  ],
+  "weapon_prof": [
+    "Armas Simples"
+  ],
+  "tool_prof": [
+    "Ferramentas de Ladrão",
+    "Ferramentas de Funileiro",
+    "1 Ferramenta de Artesão à escolha"
+  ],
+  "multiclass_prof": [
+    "Armaduras Leves",
+    "Armaduras Médias",
+    "Escudos",
+    "Ferramentas de Ladrão"
+  ],
+  "skills": {
+    "n": 2,
+    "options": [
+      "Arcanismo",
+      "História",
+      "Investigação",
+      "Medicina",
+      "Natureza",
+      "Percepção",
+      "Prestidigitação"
+    ]
+  }
+}

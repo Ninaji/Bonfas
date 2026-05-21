@@ -1,0 +1,229 @@
+{
+  "raca": {
+    "nome": "Folken",
+    "slug": "folken"
+  },
+  "linhagens": [
+    {
+      "nome": "Raizveloz",
+      "slug": "raizveloz",
+      "tagline": "Folken da Floresta"
+    },
+    {
+      "nome": "Limalumes",
+      "slug": "limalumes",
+      "tagline": "Folken Urbanos"
+    },
+    {
+      "nome": "Nimbídeos",
+      "slug": "nimbideos",
+      "tagline": "Folken do Caos"
+    },
+    {
+      "nome": "Subterraneus",
+      "slug": "subterraneus",
+      "tagline": "Folken das Rochas"
+    },
+    {
+      "nome": "Antídicos",
+      "slug": "antidicos",
+      "tagline": "Folken dos Pântanos"
+    }
+  ],
+  "tracos_base": [
+    {
+      "nome": "Sorte Incontrolável",
+      "descricao": "O caos protege seus filhos. Quando você obtém um 1 natural em uma jogada de ataque, teste de habilidade ou teste de resistência, você pode rolar o dado novamente. Você deve usar o novo resultado, mesmo que seja outro 1."
+    },
+    {
+      "nome": "Mente Genial",
+      "descricao": "Sua mente opera em caminhos não lineares que a magia hostil tem dificuldade de prender. Você tem Vantagem em Testes de Resistência de Inteligência , Sabedoria e Carisma contra magias e efeitos mágicos."
+    },
+    {
+      "nome": "Agilidade dos Pequeninos",
+      "descricao": "Seu tamanho permite táticas evasivas únicas. Você pode se mover através do espaço de qualquer criatura que seja de um tamanho maior que o seu (Médio ou maior).\nAlém disso, você pode realizar a ação de Esconder-se (Hide) mesmo quando estiver obscurecido apenas por uma criatura que seja pelo menos um tamanho maior que você. Divergência Ancestral O sangue de seu clã ou a influência dos planos moldam seus talentos finais. Escolha uma opção abaixo: Você deve escolher uma Linhagem (preservando o sangue puro dos Folken) ou uma Essência (alterando sua natureza com magia planar)."
+    }
+  ],
+  "tracos_linhagem": {
+    "Raizveloz": [
+      {
+        "nome": "Língua de Criatura",
+        "descricao": "Você tem uma conexão inata com bestas. Você está constantemente sob o efeito da magia Falar com Animais (Speak with Animals). Essa comunicação é empática e simples; você sente o que os animais sentem e eles compreendem suas intenções básicas."
+      },
+      {
+        "nome": "Passos Naturais",
+        "descricao": "Você ignora terreno difícil causado por vegetação, lama, raízes ou pedras soltas em ambientes naturais."
+      },
+      {
+        "nome": "Máscara da Natureza",
+        "descricao": "Você pode tentar se Esconder (Hide) mesmo quando estiver apenas levemente obscurecido por folhagem, chuva forte, neblina ou outros fenômenos naturais."
+      }
+    ],
+    "Limalumes": [
+      {
+        "nome": "Fala Silenciosa",
+        "descricao": "Você pode falar mentalmente com qualquer criatura que possa ver a até 9 metros [30 pés] de você. A criatura deve compartilhar um idioma com você para entender, mas não precisa ser telepata para responder. Você só pode manter conexão com uma criatura por vez."
+      },
+      {
+        "nome": "Dedos Leves",
+        "descricao": "Você possui um talento natural para o furto e a discrição. Você ganha proficiência na perícia Furtividade ou Prestidigitação (à sua escolha)."
+      },
+      {
+        "nome": "Escapista",
+        "descricao": "É quase impossível te segurar. Você tem Vantagem em testes de Força (Atletismo) ou Destreza (Acrobacia) para escapar de Agarrões (Grapple) ou para se libertar de cordas e correntes."
+      }
+    ],
+    "Nimbídeos": [
+      {
+        "nome": "Estouro Criativo",
+        "descricao": "Quando você realiza um teste de habilidade usando ferramentas de artesão, instrumentos musicais ou kits de ladrão, você pode adicionar 1d4 ao resultado da jogada. Você pode usar essa característica um número de vezes igual ao seu Bônus de Proficiência por Descanso Longo."
+      },
+      {
+        "nome": "Centelha Menor",
+        "descricao": "Você conhece um truque (Cantrip) à sua escolha da lista de Bardo ou Artífice . Sua habilidade de conjuração para este truque é Inteligência ou Carisma (escolha ao criar o personagem)."
+      },
+      {
+        "nome": "Mente de Mercúrio",
+        "descricao": "Seus pensamentos são tão rápidos e erráticos que ferem quem tenta invadi-los. Você tem Resistência a dano Psíquico."
+      }
+    ],
+    "Subterraneus": [
+      {
+        "nome": "Olhos das Profundezas",
+        "descricao": "Diferente dos outros Folken, você se adaptou à escuridão total. Você ganha Visão no Escuro com alcance de 18 metros [60 pés] ."
+      },
+      {
+        "nome": "Camuflagem Rochosa",
+        "descricao": "Você tem Vantagem em testes de Destreza (Furtividade) para se esconder em terrenos rochosos, cavernas ou estruturas de pedra trabalhada."
+      },
+      {
+        "nome": "Coração de Cristal",
+        "descricao": "A vida nas profundezas opressoras fortaleceu seu espírito. Você tem Vantagem em Testes de Resistência para evitar ou encerrar a condição Amedrontado ."
+      }
+    ],
+    "Antídicos": [
+      {
+        "nome": "Resiliência dos Robustos",
+        "descricao": "Você tem Resistência a dano de Veneno e Vantagem em Testes de Resistência para evitar ou encerrar a condição Envenenado ."
+      },
+      {
+        "nome": "Adaptação Anfíbia",
+        "descricao": "Você ganha um Deslocamento de Natação igual ao seu deslocamento de caminhada e consegue prender a respiração por até 15 minutos."
+      },
+      {
+        "nome": "Estômago de Ferro",
+        "descricao": "Você é imune a doenças causadas por ingestão de comida ou bebida, e pode se alimentar de coisas que deixariam outros doentes (como carne podre ou fungos estranhos) sem sofrer penalidades."
+      }
+    ]
+  },
+  "talentos": [
+    {
+      "nome": "Sorte Folken",
+      "descricao": "Pré-requisito: Folken, Nível 1+ Efeito: A sorte sorri para os audazes. 1 vez por dia, quando você falhar em um Teste de Habilidade (Perícia) ou Teste de Resistência, você pode rolar o dado novamente.\nVocê deve usar o novo resultado, mesmo que seja uma falha."
+    },
+    {
+      "nome": "Atirador de Titãs",
+      "descricao": "Pré-requisito: Folken, Nível 1+ Efeito: Você sabe exatamente onde acertar os grandalhões. Você ganha proficiência com Funda (Sling) e Zarabatana .\nAlém disso, quando você atinge uma criatura de tamanho Grande ou maior com um ataque à distância usando uma dessas armas, você causa 1d4 de dano extra ."
+    },
+    {
+      "nome": "Familiaridade Folken",
+      "descricao": "Pré-requisito: Folken, Nível 1+ Efeito: As armas do povo pequeno são mortais em suas mãos. Você ganha proficiência com Espadas Curtas , Arcos Curtos , Fundas e Zarabatanas .\nSempre que você rolar um \"1\" em um dado de dano com uma dessas armas, você pode rolar o dado novamente e deve usar o novo resultado."
+    },
+    {
+      "nome": "Tradição Folken",
+      "descricao": "Pré-requisito: Folken, Nível 1+ Efeito: Você cresceu ouvindo histórias de fugas impossíveis. Você ganha proficiência nas perícias Acrobacia e Furtividade .\nSe você já for proficiente em alguma delas, pode escolher outra perícia qualquer para ganhar proficiência no lugar."
+    },
+    {
+      "nome": "Folken Observador",
+      "descricao": "Pré-requisito: Folken, Nível 1+ Efeito: Você lê as intenções das \"pessoas grandes\" com facilidade. Você tem Vantagem em testes de Sabedoria (Intuição) para determinar as intenções de uma criatura ou se ela está mentindo.\nAlém disso, você não pode ser surpreendido enquanto estiver consciente."
+    },
+    {
+      "nome": "Sorte Compartilhada",
+      "descricao": "Pré-requisito: Folken, Nível 5+, Talento Sorte Folken Efeito: Sua sorte transborda para seus amigos. Quando um aliado que você possa ver a até 9 metros [30 pés] falhar em um ataque, teste de habilidade ou teste de resistência, você pode usar sua Reação para gastar um uso da sua Sorte Folken .\nO aliado rola o dado novamente e deve usar o novo resultado."
+    },
+    {
+      "nome": "Desaparecer",
+      "descricao": "Pré-requisito: Folken, Nível 5+ Efeito: Você aprende a magia de não ser visto. Você pode conjurar a magia Invisibilidade uma vez por Descanso Longo, sem gastar espaço de magia ou componentes materiais."
+    },
+    {
+      "nome": "Passo Vivo",
+      "descricao": "Pré-requisito: Folken, Nível 5+ Efeito: Você dança entre as pernas dos gigantes. Quando uma criatura de tamanho Grande ou maior terminar o turno adjacente a você ou fizer um ataque contra você, você pode usar sua Reação para se mover até metade do seu deslocamento.\nEsse movimento não provoca ataques de oportunidade."
+    },
+    {
+      "nome": "Truque Sujo",
+      "descricao": "Pré-requisito: Folken, Nível 5+ Efeito: Você luta sem honra, mas com eficácia. Quando estiver adjacente a um inimigo com a condição Caído (Prone), você pode usar uma Ação Bônus para realizar uma provocação física (como esfregar o pé no rosto dele ou jogar areia nos olhos).\nO alvo deve fazer um Teste de Resistência de Constituição (CD 8 + Proficiência + Des ou Con). Se falhar, fica Envenenado (Poisoned) até o final do próximo turno dele."
+    },
+    {
+      "nome": "Escalador Astuto",
+      "descricao": "Pré-requisito: Folken, Nível 5+ Efeito: Nenhuma estante de biscoitos é alta demais. Você ganha Deslocamento de Escalada igual ao seu deslocamento de caminhada.\nAlém disso, você tem Vantagem em testes de Atletismo para escalar superfícies difíceis ou se segurar em criaturas maiores."
+    },
+    {
+      "nome": "Sorte Guia",
+      "descricao": "Pré-requisito: Folken, Nível 9+, Talento Sorte Folken Efeito: Sua sorte se torna mais confiável. Você pode usar a habilidade Sorte Folken 2 vezes por dia, em vez de uma.\nAlém disso, agora você pode usar essa habilidade para rolar novamente jogadas de ataque e testes de Percepção que tenham falhado."
+    },
+    {
+      "nome": "Influência Feérica",
+      "descricao": "Pré-requisito: Folken, Nível 9+ Efeito: Você desperta a magia caótica de sua ancestralidade. Você passa a ser considerado do tipo Fada (Fey) para efeitos de regras. Escolha uma das manifestações abaixo. Você pode conjurar a magia associada uma vez por dia (atributo Carisma, Int ou Sab): Dryad: Conjura Crescer Espinhos (Spike Growth). Cat Sith: Conjura Polimorfia (Polymorph) apenas em si mesmo para virar um Gato. Gremlin: Conjura Perdição (Bane) como magia de 2º círculo. Unicorn: Conjura Curar Ferimentos (Cure Wounds) como magia de 2º círculo."
+    },
+    {
+      "nome": "Mente Irreprimível",
+      "descricao": "Pré-requisito: Folken, Nível 9+ Efeito: Sua mente é escorregadia demais para ser controlada. Se você falhar em um teste de resistência contra a condição Enfeitiçado (Charmed) ou Amedrontado (Frightened), você pode usar sua Reação para rolar novamente o teste."
+    },
+    {
+      "nome": "Engenheiro de Autômatos",
+      "descricao": "Pré-requisito: Folken, Nível 9+ Efeito: Você entende a alma das máquinas. Você tem Vantagem em testes para construir, reparar ou desativar autômatos e construtos.\nAlém disso, você pode conjurar a magia Remendar (Mending) com tempo de conjuração de 1 Ação. Ao usá-la em um Constructo, você recupera PV dele igual ao seu Modificador de Inteligência + Proficiência (1 vez por dia por alvo)."
+    },
+    {
+      "nome": "Guia da Escalada",
+      "descricao": "Pré-requisito: Folken, Nível 9+, Talento Escalador Astuto Efeito: Você encontra apoios onde não existem. Seu deslocamento de escalada aumenta em +3 metros [10 pés].\nAlém disso, aliados que escalarem seguindo sua rota (até 1 rodada depois de você) ganham Vantagem nos testes de Atletismo para escalar."
+    },
+    {
+      "nome": "Passagem Desimpedida",
+      "descricao": "Pré-requisito: Folken, Nível 13+ Efeito: Nada pode te prender. Se você for alvo de uma magia ou efeito que causaria as condições Imobilizado (Restrained) ou Paralisado , você tem Vantagem no teste de resistência.\nAlém disso, 1 vez por dia, se você falhar nesse teste, pode escolher ter sucesso automaticamente."
+    },
+    {
+      "nome": "Sorte Incrível",
+      "descricao": "Pré-requisito: Folken, Nível 13+, Talento Sorte Guia Efeito: Você dobra as probabilidades. Ao usar o talento Sorte Folken (ou Sorte Compartilhada), você pode rolar dois dados em vez de um e escolher o melhor resultado entre eles para substituir a jogada original."
+    },
+    {
+      "nome": "Passos de Musgo",
+      "descricao": "Pré-requisito: Folken, Nível 13+, Linhagem Raizveloz Efeito: Seu deslocamento aumenta em +1,5m [5 pés]. Você não deixa rastros em ambientes naturais a menos que queira e tem Vantagem em Furtividade nesses locais.\nVocê pode conjurar Passos sem Pegadas (Pass without Trace) uma vez por Descanso Longo sem gastar espaço de magia."
+    },
+    {
+      "nome": "Guardião das Colinas",
+      "descricao": "Pré-requisito: Folken, Nível 13+ Efeito: Você é o coração do grupo. Você tem Resistência a dano de Veneno e imunidade a Doenças.\nDurante um Descanso Curto, se você tocar uma música ou contar histórias, você e aliados que gastarem Dados de Vida curam PV adicionais iguais ao dobro do seu Bônus de Proficiência."
+    },
+    {
+      "nome": "Engenheiro de Combate",
+      "descricao": "Pré-requisito: Folken, Nível 13+, Linhagem Nimbídeo Efeito: Você prepara explosivos voláteis. Você pode substituir um de seus ataques na Ação de Ataque para lançar uma bomba (alcance 9m). Usos = Bônus de Proficiência por dia. Escolha o efeito no momento do lançamento: Luz: CD de Destreza ou fica Cego até o fim do próximo turno. Fumaça: Cria área Fortemente Obscurecida de 6m de raio por 1 minuto. Surpresa: 3d8 de dano em área de 4,5m (15 pés). Tipo de dano aleatório (d4): 1.Fogo, 2.Ácido, 3.Trovejante, 4.Elétrico. CD de Destreza para metade. CD das bombas = 8 + Prof + Int/Des."
+    },
+    {
+      "nome": "Herói de Três Polegadas",
+      "descricao": "Pré-requisito: Folken, Nível 17+ Efeito: Você se torna um matador de gigantes. Como uma Reação quando uma criatura Grande ou maior te ataca, você impõe Desvantagem no ataque. Se ela errar, você pode se mover metade do seu deslocamento sem provocar ataques de oportunidade. Uma vez por turno, ao acertar uma criatura maior que você com um ataque armado, você causa 1d8 de dano extra."
+    },
+    {
+      "nome": "Sorte em Cadeia",
+      "descricao": "Pré-requisito: Folken, Nível 17+ Efeito: Sua sorte altera o destino de todos ao redor.\nSempre que você rolar um 20 Natural no d20, todos os aliados a até 9 metros [30 pés] ganham Vantagem na próxima jogada de ataque ou teste de resistência deles.\nAlém disso, se você usar Sorte Folken e o resultado da nova rolagem for um 20 Natural, você não gasta o uso da habilidade."
+    },
+    {
+      "nome": "Inventor do Improvável",
+      "descricao": "Pré-requisito: Folken, Nível 17+ Efeito: Você sempre tem a ferramenta certa, mesmo que ela não devesse existir.\n1 vez por Descanso Curto, como Ação Bônus, você conjura magicamente um objeto ou ferramenta não-mágica de tamanho Pequeno ou Médio em sua mão (funciona como a magia Fabricar , mas instantâneo e temporário). O item dura 1 hora.\nEnquanto empunhar esse item, você tem Vantagem para usá-lo e adiciona seu Mod. de Inteligência aos testes."
+    },
+    {
+      "nome": "Sorte de Sobrevivente",
+      "descricao": "Pré-requisito: Folken, Nível 17+ Efeito: Você é duro de matar. Você tem Vantagem em testes contra Exaustão. 1 vez por dia, se você falhar em um teste de Constituição para levar metade do dano, você não leva dano nenhum (Evasão de Fortitude). 1 vez por dia, ao rolar um Teste de Resistência contra Morte e tirar 10 ou mais, você acorda instantaneamente com 2d10 + Proficiência Pontos de Vida."
+    },
+    {
+      "nome": "Só para Baixinhos",
+      "descricao": "Pré-requisito: Folken, Nível 17+ Efeito: Você transforma seu tamanho em sua maior arma. Você não pode ser surpreendido por criaturas maiores que você. Você tem Vantagem na Iniciativa se todos os inimigos visíveis forem maiores que você. Você tem Vantagem em testes de Percepção para notar criaturas maiores que você."
+    },
+    {
+      "nome": "Características Físicas",
+      "descricao": ""
+    },
+    {
+      "nome": "Variações de Linhagem",
+      "descricao": ""
+    }
+  ]
+}

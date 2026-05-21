@@ -1,0 +1,436 @@
+[
+  {
+    "nivel": 1,
+    "nome": "Conjuração",
+    "descricao": "Antes de cada caçada, eu escrevo. Não por gosto de poesia, mas por medo de não sobreviver. Anoto armadilhas, passos que denunciam emboscada, rituais antigos. O diário não é um livro: é um espelho do que enfrento. Se a criatura volta, eu também, mas nunca do mesmo jeito. Espaços de Magia A tabela O Caçador mostra quantos espaços de magia você possui para conjurar suas magias de nível 1 ou superior. Para conjurar uma dessas magias, você deve gastar um espaço do nível da magia ou superior. Você recupera todos os espaços de magia gastos quando termina um Descanso Longo . Por exemplo, se você preparou a magia de 1º nível Curar Ferimentos e tem um espaço de 1º nível e um de 2º nível disponíveis, você pode conjurar Curar Ferimentos usando qualquer um dos dois espaços. Magias Preparadas Você prepara a lista de magias de nível 1 ou superior que estarão disponíveis para você conjurar. Para fazer isso, escolha um número de magias da lista de magias de Caçador igual ao seu modificador de Inteligência ou Sabedoria (o mesmo escolhido para suas habilidades de classe) + metade do seu nível de Caçador , arredondado para baixo (mínimo de uma magia). As magias escolhidas devem ser de um nível para o qual você tenha espaços de magia. Preparar uma nova lista de magias requer tempo gasto em estudo e preparo dos componentes: pelo menos 1 minuto por nível de magia para cada magia preparada. Habilidade de Conjuração Inteligência ou Sabedoria (à sua escolha no nível 1) é a sua habilidade de conjura...",
+    "offset_inicio": 57728,
+    "offset_fim": 62703
+  },
+  {
+    "nivel": 1,
+    "nome": "Marca do Caçador",
+    "descricao": "Aprendi cedo que caçar não é correr atrás de tudo que se mexe. É olhar, escolher e assumir o peso daquele alvo. Quando marco alguém, é um acordo silencioso entre nós dois: os passos vão afinando até sobrar só um lado em pé. Você pode focar sua inimizade em um alvo específico. Marcar o Alvo: Use uma Ação Bônus para escolher uma criatura a até 27 metros [90 pés] que você possa ver. Ela se torna sua Presa Marcada. Dano Focado: Enquanto a criatura estiver marcada, seus ataques contra ela causam dano adicional igual ao seu Dado de Caça (conforme tabela da classe). Sentido da Presa: Enquanto estiverem no mesmo plano de existência , você sabe a direção geral da criatura marcada (mas não a distância exata). Limite: Você pode ter apenas uma Presa Marcada por vez. Marcar um novo alvo encerra a marca anterior imediatamente. Interação Mágica: Esta habilidade não é uma magia, mas conta como um efeito mágico para fins de Dissipar Magia e similares. O nível do efeito é igual a metade do seu nível de Caçador (arredondado para baixo, máximo 9º círculo).",
+    "offset_inicio": 62703,
+    "offset_fim": 64055
+  },
+  {
+    "nivel": 1,
+    "nome": "Preparos de Caçada",
+    "descricao": "Antes de sair, não é só questão de afiar a lâmina. Eu penso em como a caçada vai ser. Terreno aberto, floresta fechada, bicho que corre ou coisa que some na sombra… Cada dia pede uma postura diferente. É escolher bem agora pra não morrer distraído depois. Você ajusta seu estilo de combate e equipamento diariamente. Sempre que terminar um Descanso Longo , você pode definir os dois benefícios abaixo: Estilo de Luta Preparado: Escolha 1 Estilo de Luta da lista de estilos do Caçador (como Arquearia, Duelo, Defesa, Combate com Duas Armas, etc.). Você recebe os benefícios desse estilo até o próximo descanso. Regra de Acúmulo: Se você já possuir um Estilo de Luta vindo de outra classe, os efeitos não se acumulam se você escolher o mesmo estilo duas vezes. Escolha um diferente ou trate como um benefício único. Armas de Caçada: Você ganha 3 escolhas de Maestrias de Armas com as quais você tenha proficiência.",
+    "offset_inicio": 64055,
+    "offset_fim": 65206
+  },
+  {
+    "nivel": 2,
+    "nome": "Segredos de Caçador",
+    "descricao": "\"Algumas coisas eu aprendi no grito. Meus segredos não são 'magia' bonita. São soluções que nasceram no aperto: fio preso na sombra certa, mistura que arde na hora exata, olhar que sabe onde não pisar.\" Você desenvolve técnicas práticas chamadas Segredos de Caçador (armadilhas, conhecimentos ancestrais e alquimia de campo). Segredos Conhecidos: Você começa conhecendo 2 Segredos . Você aprende 2 segredos adicionais nos níveis 5, 9, 13 e 17 . Ao subir de nível, você pode substituir 1 segredo conhecido por outro. Pontos de Segredo: Você possui um reservatório de pontos para ativar essas habilidades, os pontos que você tem podem ser visto junto aos Dados de Caçador na tabela da Classe. Dado de Caçador: Seus segredos utilizam um dado variável que escala com seu nível (inicia como 1d4 , conforme a tabela). Este dado representa sua capacidade de improvisação e letalidade. Habilidade de Referência: Para CDs e ataques dos Segredos, use Inteligência ou Sabedoria (geralmente a mesma escolhida para o Diário). CD do Segredo = 8 + Bônus de Proficiência + Modificador de Habilidade Ataque de Segredo = Bônus de Proficiência + Modificador de Habilidade Segredos de Caçador Alquimia e Poções",
+    "offset_inicio": 65206,
+    "offset_fim": 67508
+  },
+  {
+    "nivel": 2,
+    "nome": "Inimigo Favorito",
+    "descricao": "Algumas presas pedem vigília, anotação e um olhar que não esquece. Já perdi mais noite medindo passo em pegada do que dormindo em cama. Mas vale cada página: quando a hora chega, eu já sei onde acertar. Você dedica seus estudos para combater tipos específicos de criaturas. Escolha de Inimigo: Escolha 1 tipo de criatura entre: Aberrações, Bestas, Celestiais, Constructos, Corruptores, Dragões, Elementais, Fadas, Gigantes, Humanoides, Monstruosidades ou Mortos-vivos. Você escolhe um Inimigo adicional nos níveis 6 e 14 . Bônus de Dano: Você causa +2 de dano com ataques de arma contra seus Inimigo Favorito. No 6º nível , esse bônus aumenta para +4 . Rastreio Especializado: Você tem Vantagem em testes de Sabedoria (Sobrevivência) para rastrear seus Inimigo Favorito. Conhecimento de Campo: Você tem Vantagem em testes de Inteligência (Arcanismo, História ou Natureza) para lembrar ou descobrir informações sobre elas. Análise de Sinais: Se tiver acesso a rastros ou restos físicos da criatura, você pode gastar 1 minuto analisando-os com seu Diário de Caça. O Mestre revelará detalhes úteis como espécie, hábitos, terreno típico e possíveis resistências ou fraquezas.",
+    "offset_inicio": 86561,
+    "offset_fim": 88053
+  },
+  {
+    "nivel": 2,
+    "nome": "Instinto de Caçador",
+    "descricao": "Caçar começa quando algo arranha o fundo da cabeça: um rastro estranho, um cheiro fora de lugar. Com o tempo, esses sinais pararam de ser ruído e viraram mapa. Meus olhos já fizeram metade do trabalho antes da emboscada. Você aguça suas percepções e conhecimentos. Olho Treinado: Escolha uma perícia baseada em Sabedoria ou Inteligência na qual você já tenha proficiência (como Percepção, Intuição, Investigação, Natureza, Religião, Arcanismo ou Sobrevivência). Seu bônus de proficiência é dobrado para qualquer teste com essa perícia. Instinto Refinado: Ao atingir o 9º nível , você escolhe outra perícia de Sabedoria ou Inteligência na qual seja proficiente para receber o mesmo benefício (bônus de proficiência dobrado).",
+    "offset_inicio": 88053,
+    "offset_fim": 89032
+  },
+  {
+    "nivel": 3,
+    "nome": "Ordem de Caçador",
+    "descricao": "Todo caçador precisa de um propósito. Alguns escolhem um símbolo, uma filosofia, uma herança. A Ordem é mais que um caminho; é a trilha que deixamos no mundo. Você escolhe uma Ordem de Caçador , que define seu estilo de combate e abordagem sobrenatural. Essa escolha concede características especiais no 3º nível e novamente nos níveis 6, 10, 14 e 18. Aliança Selvagem",
+    "offset_inicio": 89032,
+    "offset_fim": 89881
+  },
+  {
+    "nivel": 3,
+    "nome": "Companheiro Primordial",
+    "descricao": "O pacto está selado. A forma física pode mudar, mas a lealdade é absoluta. Ele é sua sombra armada com presas e garras. Você invoca um Espírito Primordial da Natureza para lhe auxiliar. Estatísticas de Jogo: O espírito usa o bloco de estatísticas Espírito Primordial (fornecido ao final desta subclasse). Ele assume a aparência de uma fera à sua escolha, adequada à forma totêmica selecionada. Forma Totêmica: Ao invocar o espírito, escolha um dos ambientes: Terra (focado em defesa terrestre), Céu (focado em voo) ou Marés (focado em natação). Essa escolha determina o tipo de deslocamento do espírito conforme detalhado no bloco de estatísticas. Iniciativa e Turno: O espírito compartilha sua contagem de Iniciativa, mas age imediatamente após o seu turno. A única ação que ele realiza sozinho é a ação Esquivar . Comando de Combate: Você pode usar sua Ação Bônus para comandar o espírito a realizar a ação Atacar , Disparada , Desengajar ou Ajuda . Se você tiver a característica Ataque Extra , pode substituir um dos seus ataques da ação Atacar para comandar o espírito a atacar. Vida e Morte: Se o espírito for reduzido a 0 Pontos de Vida , ele se dissipa. Você pode trazê-lo de volta com todos os PV ao terminar um Descanso Longo . Alternativamente, você pode gastar 1 Ponto de Segredo e 1 minuto em ritual para invocá-lo magicamente em um espaço a até 1,5 metro [5 pés] de você.",
+    "offset_inicio": 91214,
+    "offset_fim": 93016
+  },
+  {
+    "nivel": 3,
+    "nome": "Evolução Totêmica",
+    "descricao": "A natureza não é estática. Seu companheiro se adapta, desenvolvendo couro mais grosso, sentidos aguçados ou garras impregnadas com o poder das tempestades. Seu Espírito Primordial desenvolve adaptações sobrenaturais. Escolhas: Você ganha 1 Característica Menor (listadas abaixo) agora. Você ganha uma característica adicional no 6º , 10º , 14º e 18º níveis de Caçador. Progressão: A partir do 6º nível , sempre que ganhar uma nova característica, você pode escolher entre as Características Menores ou Características Maiores . Restrição: Você não pode escolher a mesma característica mais de uma vez, a menos que a descrição diga o contrário. Características Menores Audição e Olfato Aguçados: O espírito tem Vantagem em testes de Sabedoria (Percepção) que dependam de audição ou olfato. Camuflagem: O espírito tem Vantagem em testes de Destreza (Furtividade) enquanto estiver em terreno natural ou sob condições de Penumbra e Escuridão . Escalada Aracnídea: O espírito ganha deslocamento de Escalada igual ao seu deslocamento de caminhada. Ele pode escalar superfícies difíceis, incluindo tetos, sem precisar fazer testes de Habilidade. Prender a Respiração: O espírito pode prender a respiração por 1 hora . Resistência Elemental: Escolha um tipo de dano: Ácido , Elétrico , Fogo , Frio ou Trovão . O espírito ganha Resistência ao tipo escolhido. Você pode selecionar esta opção múltiplas vezes, escolhendo um tipo diferente a cada vez. Táticas de Matilha: O espírito tem Vantagem nas jogadas d...",
+    "offset_inicio": 93016,
+    "offset_fim": 105020
+  },
+  {
+    "nivel": 3,
+    "nome": "Estudo do Inimigo",
+    "descricao": "\"Eu o vi hesitar quando o selo brilhou. Não foi muito — um meio passo, um olho que apertou. Mas bastou. Significa que ele tem algo a perder. E se tem algo a perder, pode ser abatido.\" Você analisa a fisiologia e a natureza sobrenatural da sua presa no momento em que foca sua atenção nela. Leitura de Fraquezas: Imediatamente após você aplicar sua Marca do Caçador em uma criatura, você descobre se ela possui quaisquer Imunidades a Dano , Resistências a Dano ou Vulnerabilidades a Dano . O Mestre também deve revelar se a criatura possui Imunidades a Condição . Olhar Treinado: Enquanto uma criatura estiver sob efeito da sua Marca do Caçador , você tem Vantagem em testes de Inteligência (Arcanismo) , Inteligência (História) , Inteligência (Natureza) ou Inteligência (Religião) realizados para recordar informações sobre a origem, hábitos ou poderes dela. Limitação: Esta característica revela apenas traços estatísticos e fisiológicos da criatura. Ela não revela informações de trama, como identidades secretas, nomes verdadeiros ou planos ocultos.",
+    "offset_inicio": 110816,
+    "offset_fim": 112216
+  },
+  {
+    "nivel": 3,
+    "nome": "Marca Antecipada",
+    "descricao": "\"Não preciso vê-lo para saber que está ali. Rastro de sangue seco, pegadas repetidas... a criatura acha que está escondida, mas cada descuido escreve o nome que eu preciso.\" Você aprende a realizar um ritual de investigação para conectar-se magicamente a uma presa antes mesmo de encontrá-la. Ritual de Investigação: Você deve gastar 10 minutos analisando um local em busca de pistas de uma criatura específica. Ao final deste tempo, se você tiver reunido ao menos 3 Pistas Válidas (veja abaixo) e souber o Tipo de Criatura do alvo, você pode usar uma Ação Bônus para aplicar sua Marca do Caçador nela. Sem Linha de Visão: Ao usar esta característica, você não precisa ver a criatura e ela não precisa estar no seu alcance normal, desde que esteja a até 8 quilômetros [5 milhas] de você e no mesmo Plano de Existência. Pistas Válidas: Para o ritual funcionar, o Mestre deve confirmar que você identificou 3 elementos distintos, como: Vestígios Físicos (pegadas, sangue), Testemunhos Confiáveis (descrições de sobreviventes), Vestígios Arcanos (resíduos mágicos), Padrões de Comportamento (horários, rotas) ou Registros Prévios (anotações em diários ou lendas locais). Custo e Falha: Esta habilidade consome o uso da sua Marca do Caçador normalmente. Se a criatura estiver fora do alcance ou em outro plano, o uso é gasto sem efeito e você sente que o rastro \"esfriou\". Duração: A marca dura conforme as regras normais da habilidade, até que você marque outro alvo ou descanse. Viajantes",
+    "offset_inicio": 112216,
+    "offset_fim": 114400
+  },
+  {
+    "nivel": 3,
+    "nome": "Runas de Travessia",
+    "descricao": "\"Não aprendi a correr mais rápido. Aprendi a começar do outro lado. Um símbolo na parede, outro na lâmina — quando o monstro percebe, eu já não estou onde deveria.\" Você aprende a manipular o espaço no campo de batalha gravando âncoras mágicas. Criar uma Runa: No seu turno, você pode usar uma Ação Bônus para criar magicamente uma Runa de Travessia em um espaço ou objeto que você possa ver a até 9 metros [30 pés] de você. A runa é visível apenas para você. Limite de Runas: Você pode ter até 2 Runas de Travessia ativas simultaneamente. Se você criar uma terceira runa, a mais antiga desaparece imediatamente. Passo Rúnico (Ataque): Sempre que você realizar a ação Atacar no seu turno, imediatamente antes de realizar a jogada de ataque, você pode se teletransportar para um espaço desocupado a até 3 metros [10 pés] de uma de suas Runas de Travessia que você possa ver. Esse teleporte não provoca Ataques de Oportunidade . Salto Direto: Como uma Ação Bônus , você pode se teletransportar para um espaço desocupado a até 3 metros [10 pés] de uma de suas Runas de Travessia que você possa ver. Marca na Arma (Arremesso Cintilante): Quando você realizar um ataque com uma arma que esteja empunhando, você pode infundir a arma com uma runa temporária. Se o ataque envolver lançar a arma ou disparar uma munição (fazendo-a sair da sua mão), após o ataque ser resolvido, você pode se teletransportar magicamente para um espaço desocupado a até 3 metros [10 pés] do local onde a arma ou munição parou...",
+    "offset_inicio": 115623,
+    "offset_fim": 117554
+  },
+  {
+    "nivel": 3,
+    "nome": "Sentinela Planar",
+    "descricao": "\"O ar muda antes do portal abrir. O cheiro fica mais fino, o som parece bater numa parede que não está ali. Eu aprendi a ouvir esse silêncio.\" Você desenvolve um sexto sentido para detectar intrusões na realidade. Detectar Portais: Como uma Ação , você expande seus sentidos para detectar a presença de portais planares. Você descobre a localização e a distância de qualquer portal ativo ou fenda planar em um raio de 1,5 quilômetro [1 milha] de você. Rastro de Presa: Se uma criatura do tipo escolhido na sua característica Presa Estudada tiver atravessado um portal detectado recentemente, você sente uma conexão intuitiva indicando que a presa está associada àquele portal específico, embora não saiba a localização exata dela no outro plano. Usos: Você pode usar esta característica um número de vezes igual ao seu modificador de Sabedoria ou Inteligência (mínimo de 1). Você recupera todos os usos gastos ao terminar um Descanso Longo . Enxame",
+    "offset_inicio": 117554,
+    "offset_fim": 119123
+  },
+  {
+    "nivel": 3,
+    "nome": "Enxame Simbiótico",
+    "descricao": "\"Eles dormem em dobras de roupa, sob a pele, entre trançados de couro. Não como parasitas — como guarda-costas. Quando dou o sinal, o chão mexe e o ar escurece.\" Você abriga um enxame de espíritos da natureza ou pequenas criaturas (insetos, roedores, aves) que auxiliam você em combate. Natureza do Enxame: O enxame habita seu espaço e se move com você. Ele é intangível para os outros até que você o comande. As criaturas são consideradas Minúsculas. Gatilho: Uma vez em cada um dos seus turnos, quando você acertar uma criatura com uma jogada de ataque, você pode fazer com que o enxame auxilie o golpe. Ao fazer isso, escolha um dos efeitos abaixo para ocorrer imediatamente após o ataque. Opção 1 - Assalto Rastejante: O ataque causa dano extra ao alvo igual a 1 Dado de Caçador . O tipo de dano é Perfurante ou Necrótico (à sua escolha). Opção 2 - Passo do Enxame: O enxame movimenta você para uma posição segura. Você pode se mover imediatamente 1,5 metro [5 pés] horizontalmente para um espaço desocupado. Esse movimento não provoca Ataques de Oportunidade . Opção 3 - Investida Grudenta: O enxame tenta sobrecarregar o alvo. A criatura atingida deve realizar um Teste de Resistência de Força contra a sua CD de Segredos de Caçador . Em uma falha, o deslocamento da criatura é reduzido pela metade e ela não pode usar Reações até o início do seu próximo turno.",
+    "offset_inicio": 120293,
+    "offset_fim": 122037
+  },
+  {
+    "nivel": 3,
+    "nome": "Simbiose do Enxame",
+    "descricao": "\"Com o tempo, deixei de pensar neles como 'meu enxame' e passei a pensar como 'nós'. Se eu escalo, sou carregado. Se eu paro, eles vigiam.\" Seu corpo e o enxame operam em uma consciência compartilhada permanente. Enxame Arcano: Você aprende o truque Mãos Mágicas [Mage Hand] . Quando você conjura essa magia, a mão assume a forma de uma porção do seu enxame. Você usa seu modificador de Sabedoria ou Inteligência como atributo de conjuração para ela. Sentidos Coletivos: Você não pode ser Surpreendido enquanto não estiver Inconsciente , pois o enxame alerta você de perigos próximos. Escalada Orgânica: Você ganha um Deslocamento de Escalada igual ao seu Deslocamento de Caminhada. Você pode escalar superfícies verticais e tetos sem precisar realizar testes de Habilidade, desde que tenha ao menos uma mão livre ou o auxílio do enxame. Sombras",
+    "offset_inicio": 122037,
+    "offset_fim": 123523
+  },
+  {
+    "nivel": 3,
+    "nome": "Visão Umbral",
+    "descricao": "\"No começo, eu só via o contorno. Com o tempo, passei a enxergar o resto: a mudança de peso no passo, o brilho de olho com medo. A escuridão continua lá, mas pra mim ela só esconde quem quer ser pego.\" Você desenvolve sentidos sobrenaturais adaptados à ausência total de luz. Visão no Escuro Superior: Você ganha Visão no Escuro com alcance de 18 metros [60 pés] . Se você já possuir Visão no Escuro proveniente de sua raça, o alcance dela aumenta em 9 metros [30 pés] . Olhos na Escuridão: Você consegue enxergar através de qualquer Escuridão , seja ela mágica ou não mágica. Para você, áreas de escuridão a até 18 metros [60 pés] são tratadas como Penumbra . Você enxerga formas e criaturas nessas áreas normalmente.",
+    "offset_inicio": 124591,
+    "offset_fim": 125603
+  },
+  {
+    "nivel": 3,
+    "nome": "Emboscada Sombria",
+    "descricao": "\"Eu não corro pra chegar depois. Eu já estou lá quando o resto decide que é hora de lutar. O primeiro suspiro pesado, o primeiro olhar na direção errada… é aí que eu entro.\" Você domina a arte de atacar antes que o inimigo perceba o perigo. Instinto de Abertura: Sempre que você realizar uma Jogada de Iniciativa , você adiciona seu modificador de Sabedoria ou Inteligência ao resultado (mínimo de +1). Explosão do Primeiro Golpe: No seu primeiro turno de cada combate, se você realizar a ação Atacar , você pode fazer 1 Ataque Adicional com arma como parte da mesma ação. Dano Escalonado: Se esse ataque adicional acertar, ele causa dano extra igual ao seu Nível de Caçador . Este dano é do mesmo tipo da arma utilizada. Limite: Os benefícios desta característica aplicam-se apenas ao turno imediatamente posterior à sua rolagem de iniciativa. Mutante",
+    "offset_inicio": 125603,
+    "offset_fim": 127090
+  },
+  {
+    "nivel": 3,
+    "nome": "Fisiologia Mutante",
+    "descricao": "\"Depois de um tempo tomando coisa que queimaria um homem comum por dentro, o corpo muda. A pele engrossa, o sangue aprende a lidar com veneno. Não é bonito. Mas funciona.\" Seu corpo foi permanentemente alterado pelos experimentos alquímicos, tornando-se mais resistente e robusto. Vitalidade Aumentada: Seu máximo de Pontos de Vida aumenta em uma quantidade igual ao seu Nível de Caçador . Sempre que você ganhar um nível nesta classe, seu máximo de Pontos de Vida aumenta em 1 adicional. Corpo Adaptado: Você ganha Imunidade a dano de Veneno e à condição Envenenado .",
+    "offset_inicio": 128244,
+    "offset_fim": 129114
+  },
+  {
+    "nivel": 3,
+    "nome": "Fórmulas Mutagênicas",
+    "descricao": "\"Cada frasco é uma aposta: se eu aguentar, viro algo novo. Se não aguentar… bom, por isso testo em mim mesmo e não nos outros.\" Você domina a criação de elixires que alteram temporariamente sua biologia. Fórmulas Conhecidas: Você aprende 4 Fórmulas Mutagênicas da lista da Ordem dos Mutantes (detalhada a seguir). Você aprende fórmulas adicionais quando alcança os níveis 7 , 11 , 15 e 18 de Caçador. Sempre que aprender uma nova fórmula, você pode substituir uma que já conhece por outra da lista. Preparação: Ao terminar um Descanso Curto ou Descanso Longo , você pode preparar um número limitado de mutagênicos usando seu kit de alquimia. Os frascos duram até o seu próximo descanso, momento em que se tornam inertes se não forem usados. O número de mutagênicos que você pode ter prontos depende do seu nível: Nível 3: 1 Mutagênico Nível 7: 2 Mutagênicos Nível 15: 3 Mutagênicos Consumo e Ativação: Como uma Ação Bônus , você pode consumir ou injetar um mutagênico preparado. Ao fazer isso, você recebe imediatamente o Efeito Benéfico e o Efeito Colateral da fórmula. Duração: Os efeitos duram até você terminar um Descanso Curto ou Descanso Longo . Alternativamente, você pode usar uma Ação para purgar as toxinas do seu sistema, encerrando todos os efeitos (benéficos e colaterais) de todos os mutagênicos ativos. Toxicidade Específica: Os mutagênicos são calibrados para a sua biologia específica. Se outra criatura tentar consumir um de seus mutagênicos, ela não recebe nenhum benefício e d...",
+    "offset_inicio": 129114,
+    "offset_fim": 140091
+  },
+  {
+    "nivel": 4,
+    "nome": "Incremento de Atributo ou Talento",
+    "descricao": "Treinar não é polir espelhos; é engrossar a madeira do arco que me sustenta. Eu aparo arestas e afio o que importa. Cada pequena melhora abre um corredor novo para a perfeição. Sempre que você atingir determinados níveis nesta classe (4, 8, 12, 16 e 19), você evolui suas capacidades. A cada vez que ganha esta característica, você deve fazer uma escolha entre as duas opções abaixo: Aumento de Atributo: Você aumenta um valor de atributo à sua escolha em +2, ou dois valores de atributo à sua escolha em +1. Como de costume, você não pode aumentar um atributo acima de 20 usando esta característica. Talento: Você escolhe um Talento para o qual você atenda aos pré-requisitos.",
+    "offset_inicio": 140091,
+    "offset_fim": 140983
+  },
+  {
+    "nivel": 5,
+    "nome": "Segundo Ataque",
+    "descricao": "Tem gente que fala que caçar é saber esperar. Concordo — até o alvo aparecer. Quando ele dá o primeiro vacilo, eu não discuto com o momento: o primeiro disparo abre o caminho e o segundo encerra a conversa. Bicho que aguenta dois golpes bem colocados geralmente já virou lenda. Você ataca com velocidade e eficiência letal. Sempre que você realizar a Ação de Ataque no seu turno, você pode realizar dois ataques em vez de apenas um.",
+    "offset_inicio": 140983,
+    "offset_fim": 141549
+  },
+  {
+    "nivel": 5,
+    "nome": "Território de Caça",
+    "descricao": "\"Não importa se é lama, pedra gelada ou o paralelepípedo sujo de uma viela. Se tem rastro, eu sigo. Se tem caminho, eu corto. O mundo inteiro é meu quintal quando estou trabalhando.\" Sua experiência em perseguir presas através de terras inóspitas tornou você um mestre em navegação e sobrevivência, independentemente do ambiente. Após viajar por uma hora ou mais em qualquer região a céu aberto ou subterrânea, você ganha os seguintes benefícios: Movimento Desimpedido. Terreno difícil não retarda o deslocamento do seu grupo. Senso de Direção. Seu grupo não pode se perder, exceto por meios mágicos. Vigilância Constante. Mesmo quando você está engajado em outra atividade enquanto viaja (como forragear, navegar ou rastrear), você permanece alerta ao perigo e utiliza sua Percepção Passiva normalmente para evitar surpresas. Passos Silenciosos. Se estiver viajando sozinho, você pode mover-se furtivamente em ritmo normal (em vez de ritmo lento). Abundância. Ao forragear (buscar alimentos), você encontra o dobro de comida e água que encontraria normalmente. Rastreador Analítico. Ao rastrear outras criaturas, você também descobre o número exato delas, seus tamanhos e há quanto tempo elas passaram pela área.",
+    "offset_inicio": 141549,
+    "offset_fim": 143039
+  },
+  {
+    "nivel": 6,
+    "nome": "Característica de Ordem",
+    "descricao": "Com o tempo, o rito aprofunda e a marca cresce junto com você. O que antes parecia só um sussurro vira costume, e o costume vira instinto. Cada camada nova prende seu nome ao do seu caminho. Você ganha a característica de 6º nível da Ordem de Caçador que você escolheu no 3º nível. Aliança Selvagem",
+    "offset_inicio": 143039,
+    "offset_fim": 143771
+  },
+  {
+    "nivel": 6,
+    "nome": "Elo de Caça Rúnica",
+    "descricao": "\"Não preciso chamá-lo. Ele sente quando estou pronto para o golpe. Há uma linha invisível entre nós, traçada por rastros, caçadas passadas e silêncios partilhados. Quando avanço, ele já está em movimento. Quando hesito, ele recua comigo.\" Sua conexão com o Espírito Primordial transcende comandos verbais, permitindo uma coordenação ofensiva e defensiva perfeita. Instinto Compartilhado: Enquanto o seu Espírito Primordial puder ver você, ele tem Vantagem em todos os Testes de Resistência . Ataque Coordenado: Quando você realizar a ação Atacar no seu turno, você pode substituir um dos seus ataques por um ataque corpo a corpo do seu Espírito Primordial. Para isso, o espírito deve ser capaz de ver você e você não precisa usar sua Ação Bônus para comandá-lo a fazer este ataque específico. Exterminadores de Monstros",
+    "offset_inicio": 143771,
+    "offset_fim": 145133
+  },
+  {
+    "nivel": 6,
+    "nome": "Ruptura Rúnica",
+    "descricao": "\"Gravei um símbolo com cinzas e prata na bainha. Primeiro achei que fosse superstição. Aí vi um demônio tentar sumir no meio do golpe… e bater no próprio ar. Desde então, toda presa marcada sabe: se tentar fugir, eu travo.\" Você aprende a invocar proteções rúnicas instantâneas contra a magia e a fúria de suas presas. Gatilho: Uma criatura que esteja sob efeito da sua Marca do Caçador ou que pertença a um tipo de criatura escolhido na sua característica Presa Estudada realiza uma das seguintes ações contra você: conjura uma magia, usa uma ação mágica, tenta se teletransportar, tenta mudar de plano ou acerta você com um ataque corpo a corpo ou com arma. Reação de Defesa: Quando o gatilho ocorrer, você pode usar sua Reação para ativar a ruptura. O efeito depende da ação do inimigo: Teleporte e Viagem Planar: A criatura deve ser bem-sucedida em um Teste de Resistência de Sabedoria ou Inteligência contra a sua CD de Segredos de Caçador . Em uma falha, o teleporte ou mudança de plano falha e o recurso ou ação da criatura é gasto sem efeito. Magia Ofensiva: Se a criatura causar dano a você com uma magia ou efeito mágico, você ganha Resistência a todo o dano causado por esse efeito e tem Vantagem no Teste de Resistência exigido pela magia. Ataque Físico: Se a criatura acertar um ataque corpo a corpo ou com arma, você ganha Resistência a todo o dano causado por esse ataque. Usos: Você pode usar esta característica um número de vezes igual ao seu modificador de Sabedoria ou Inteligê...",
+    "offset_inicio": 145133,
+    "offset_fim": 147396
+  },
+  {
+    "nivel": 6,
+    "nome": "Ruptura de Selo",
+    "descricao": "\"Quando a lâmina veio, eu já tinha o símbolo pronto na palma. O aço atravessou um pedaço de nada, o impacto morreu no meio do caminho… e a força voltou para o lado errado. Não é sobre bloquear. É sobre devolver.\" Você aprende a dobrar o espaço para absorver impactos e redirecionar a energia cinética contra seus inimigos. Gatilho: Uma criatura que esteja sob o efeito da sua Marca do Caçador ou que pertença a um tipo escolhido na sua característica Presa Estudada acerta você com um ataque corpo a corpo ou à distância. Redução de Dano: Você pode usar sua Reação para reduzir o dano desse ataque. O valor da redução é igual a 1d10 + seu modificador de Sabedoria ou Inteligência (o atributo escolhido ao ingressar na Ordem) + seu Nível de Caçador . Se restar dano após a redução, você o sofre normalmente. Retaliação Planar: Se esta característica reduzir o dano do ataque a 0 , você pode redirecionar a energia. Escolha uma criatura hostil que você possa ver a até 18 metros [60 pés] de você. O alvo deve realizar um Teste de Resistência de Destreza contra a sua CD de Segredos de Caçador . Em uma falha, sofre dano de Energia (Força) igual a 2 Dados de Caçador + seu modificador de habilidade escolhido. Em um sucesso, sofre metade do dano. Usos: Você pode usar esta característica um número de vezes igual ao seu modificador de Sabedoria ou Inteligência (mínimo de 1). Você recupera todos os usos gastos ao terminar um Descanso Longo . Enxame",
+    "offset_inicio": 147396,
+    "offset_fim": 149496
+  },
+  {
+    "nivel": 6,
+    "nome": "Instinto Coletivo",
+    "descricao": "\"Teve um dia em que eu jurei ter sido rápido o bastante para desviar de uma flecha. Depois percebi que não fui eu. Eles se moveram antes. Desde então, não sei mais onde eu termino e onde eles começam.\" O enxame passa a agir de forma autônoma para preservar a vida do hospedeiro. Barreira Viva (Passiva): Uma vez por turno, quando você sofreria dano de qualquer fonte, você calcula o valor total do dano. Se esse valor for igual ou menor que seu modificador de Sabedoria ou Inteligência (à sua escolha, mínimo +1) somado ao seu Nível de Caçador , o dano é reduzido a 0 . Se o dano for superior a esse total, você sofre o dano completo. O enxame se dispersa momentaneamente após absorver o impacto. Resposta Instintiva (Reação): Quando uma criatura que você possa ver a até 9 metros [30 pés] realizar uma jogada de ataque contra você ou contra um aliado a até 1,5 metro [5 pés] de você, você pode usar sua Reação para intervir. O enxame impõe Desvantagem na jogada de ataque. Além disso, você pode mover a criatura alvo do ataque em até 1,5 metro [5 pés] para qualquer espaço desocupado. Esse movimento não provoca Ataques de Oportunidade . Usos: Você pode usar a Resposta Instintiva um número de vezes igual ao seu modificador de Sabedoria ou Inteligência (mínimo de 1). Você recupera todos os usos gastos ao terminar um Descanso Longo . Sombras",
+    "offset_inicio": 149496,
+    "offset_fim": 151459
+  },
+  {
+    "nivel": 6,
+    "nome": "Manto das Sombras",
+    "descricao": "\"Eles juram que olharam na minha direção. Mas ninguém acerta o lugar certo. Na penumbra, eu não sou pessoa — sou dúvida.\" Você se torna um mestre da furtividade estática e do movimento imperceptível. Sumir no Breu: Quando você realizar a ação Esconder estando em uma área de Penumbra ou Escuridão , se o teste for bem-sucedido, você ganha a condição Invisível . Esta invisibilidade dura até o início do seu próximo turno, ou termina prematuramente se você realizar um ataque, conjurar uma magia ou se mover voluntariamente. Ocultação Sobrenatural: Enquanto estiver sob o efeito desta invisibilidade, você permanece Invisível até mesmo para criaturas que dependam de Visão no Escuro para enxergar você. Apenas sentidos especiais (como Visão às Cegas ou Sentido Sísmico ) podem detectá-lo. Deslocamento sem Brecha: Uma vez por rodada, enquanto estiver em Escuridão , você pode se mover até 3 metros [10 pés] durante o seu turno. Esse movimento não provoca Ataques de Oportunidade . Mutante",
+    "offset_inicio": 151459,
+    "offset_fim": 152996
+  },
+  {
+    "nivel": 6,
+    "nome": "Supressão Alquímica",
+    "descricao": "\"Nem toda mutação manda em mim. Respiro fundo, ativo o que destilei pra isso… e, por um tempo, sou eu quem manda no frasco. Não o contrário.\" Você desenvolve o controle fisiológico necessário para ignorar temporariamente a toxicidade de seus próprios elixires. Ativação: Enquanto estiver sob o efeito de pelo menos 1 Mutagênico , você pode usar uma Ação Bônus para suprimir seus efeitos nocivos. Supressão Temporária: Escolha um mutagênico ativo em você. Por 1 minuto , você ignora totalmente o Efeito Colateral dessa fórmula, mas mantém o Efeito Benéfico . O mutagênico continua contando como ativo para fins de limites de toxicidade. Recuperação: Uma vez que você use esta característica, não pode usá-la novamente até terminar um Descanso Longo .",
+    "offset_inicio": 152996,
+    "offset_fim": 154050
+  },
+  {
+    "nivel": 7,
+    "nome": "Caçador Implacável",
+    "descricao": "Presa que corre, morre. É simples assim. Aprendi a mover o corpo como água em correnteza: se ela dispara, eu aperto o passo; se escala, eu acho onde pôr a mão. Não existe “longe demais”, só distância que ainda não foi fechada. Sua capacidade de perseguição e mobilidade atinge níveis sobrenaturais. Disparo Rápido: No seu turno, você pode usar a ação de Disparada como uma Ação Bônus . Passo Alongado: Sua velocidade de caminhada aumenta em 3 metros [10 pés] . Mobilidade Adaptada: Você ganha deslocamento de Escalada e de Natação iguais ao seu deslocamento de caminhada, permitindo mover-se com facilidade em qualquer terreno.",
+    "offset_inicio": 154050,
+    "offset_fim": 154925
+  },
+  {
+    "nivel": 8,
+    "nome": "Incremento de Atributo ou Talento",
+    "descricao": "Fio a corda, ajusto a mira, fortaleço o braço. Cada ajuste pavimenta outro centímetro de poder, e a estrada adiante fica larga o suficiente para correr. Você aumenta um valor de atributo à sua escolha em +2, ou dois valores de atributo em +1 (máximo 20), ou escolhe um Talento.",
+    "offset_inicio": 154925,
+    "offset_fim": 155341
+  },
+  {
+    "nivel": 9,
+    "nome": "Instinto Afiado",
+    "descricao": "A caçada não depende só das pernas — depende da cabeça. Quando a dor pesa, é a mente que decide se você cai ou continua. É esse fio interno que separa o caçador que volta pra escrever daquele que vira anotação no diário de outra pessoa. Sua disciplina mental protege seu corpo contra efeitos debilitantes. Habilidade de Referência: Escolha Inteligência ou Sabedoria . Essa escolha representa seu foco (cálculo ou instinto) e não pode ser alterada posteriormente. Resistência Mental: Sempre que você realizar um Teste de Resistência de Força, Destreza ou Constituição , você adiciona um bônus igual ao modificador da habilidade escolhida (mínimo +1). Acúmulo: Este bônus é adicional e se soma a quaisquer outros modificadores ou bônus de proficiência que você já possua no teste.",
+    "offset_inicio": 155341,
+    "offset_fim": 156350
+  },
+  {
+    "nivel": 10,
+    "nome": "Característica de Ordem",
+    "descricao": "O rito afunda até o osso. Aquilo que você antes chamava em grito agora atende até no silêncio. Sua trilha deixa de ser só decisão do momento e vira marca. Você carrega o caminho por dentro. Você ganha a característica de 10º nível da Ordem de Caçador que você escolheu no 3º nível. Aliança Selvagem",
+    "offset_inicio": 156350,
+    "offset_fim": 157083
+  },
+  {
+    "nivel": 10,
+    "nome": "Cerco de Presas Rituais",
+    "descricao": "\"Feras não atacam ao acaso. Elas cercam, testam, encurralam. No meio do caos, nós dois nos movemos como um anel de dentes fechando em um único golpe.\" Seu espírito aprende a lidar com múltiplos inimigos simultaneamente, girando em um redemoinho de garras e dentes. Golpe em Círculo: Quando você comandar o espírito a atacar, ou usar a característica Ataque Coordenado , o espírito pode realizar um ataque corpo a corpo separado contra cada criatura à escolha dele que esteja a até 1,5 metro [5 pés] dele. Cada ataque utiliza uma jogada de ataque separada. Recuperação: Após usar essa característica, você não pode usá-la novamente até terminar um Descanso Curto ou Descanso Longo . Empoderar com Segredos: Se você não tiver usos disponíveis dessa característica, você pode gastar 2 Pontos de Segredo para usá-la novamente. Exterminadores de Monstros",
+    "offset_inicio": 157083,
+    "offset_fim": 158450
+  },
+  {
+    "nivel": 10,
+    "nome": "Eco Purgante",
+    "descricao": "\"Quando o fio da lâmina encontra o primeiro alvo, eu já estou pensando no segundo. A carne do primeiro só abre o caminho: o resto sente o impacto como um sino batido dentro do osso.\" Seus ataques contra alvos marcados reverberam, punindo criaturas semelhantes que estejam próximas. Gatilho: Uma vez em cada um dos seus turnos, quando você acertar uma jogada de ataque contra uma criatura afetada pela sua Marca do Caçador . Dano em Cadeia: Todas as criaturas hostis que sejam do mesmo Tipo de Criatura do alvo marcado e estejam a até 3 metros [10 pés] dele sofrem dano automático. O dano é igual a uma rolagem do seu Dado de Caçador (o dado de dano extra da Marca). O tipo de dano é o mesmo do ataque que ativou o efeito. Bônus de Presa Estudada: Se as criaturas afetadas pelo Eco Purgante também pertencerem a um tipo escolhido na sua característica Presa Estudada , elas sofrem dano adicional igual ao bônus concedido por aquela característica (+2, ou +4 se você for de 6º nível ou superior). Restrição: Este efeito não afeta seus aliados, nem criaturas que não compartilhem o tipo da criatura marcada. Viajantes",
+    "offset_inicio": 158450,
+    "offset_fim": 160141
+  },
+  {
+    "nivel": 10,
+    "nome": "Salto de Travessia",
+    "descricao": "\"Com um corte eu marco, com o outro eu sumo. O campo vira um mapa de portas abertas: cada runa é um passo adiante, cada inimigo, um ponto de chegada.\" Seu domínio sobre as Runas de Travessia permite um estilo de combate de alta mobilidade, transformando cada golpe em uma oportunidade de reposicionamento. Salto Ampliado: Sempre que você realizar uma jogada de ataque com arma contra uma criatura no seu turno, imediatamente após resolver o ataque (acertando ou errando), você pode se teletransportar para um espaço desocupado que você possa ver a até 3 metros [10 pés] . Este teleporte não provoca Ataques de Oportunidade . Golpe em Cadeia: Uma vez por turno, imediatamente após o teleporte, se houver uma criatura inimiga diferente dentro do alcance da arma utilizada, você pode realizar 1 Ataque Adicional contra ela como parte da mesma ação. Este ataque segue as regras normais, incluindo benefícios da sua Marca do Caçador . Restrições: Você não pode usar este benefício se seu deslocamento for 0 ou se estiver impedido de se teletransportar. Você deve terminar o teleporte em um espaço onde seu corpo caiba fisicamente. Enxame",
+    "offset_inicio": 160141,
+    "offset_fim": 161839
+  },
+  {
+    "nivel": 10,
+    "nome": "Enxame Expansivo",
+    "descricao": "\"Eles começaram pequenos: um zumbido no ombro. Agora sinto o corpo andar com mais do que só meu próprio peso. Quando eu avanço, o campo inteiro sabe que não dá mais pra fingir que eles são só insetos.\" Seu vínculo com o enxame se aprofunda, aprimorando suas capacidades ofensivas e defensivas. Assalto Rastejante Aprimorado: Quando uma criatura falhar no Teste de Resistência contra seu Assalto Rastejante, ela também fica com a condição Envenenado até o início do seu próximo turno. Investida Grudenta Aprimorada: Quando uma criatura falhar no Teste de Resistência contra sua Investida Grudenta, além dos efeitos normais, você pode derrubá-la, deixando-a com a condição Caído . Passo do Enxame Reforçado: Ao usar o Passo do Enxame, você ganha Meia Cobertura (+2 na CA e Testes de Resistência de Destreza) até o início do seu próximo turno. Força Multiplicada: Sempre que você realizar um teste de Força (Atletismo) para empurrar, agarrar ou evitar ser agarrado, você adiciona uma rolagem do seu Dado de Caçador ao resultado. Predador da Presa: Criaturas que pertençam a um tipo escolhido na sua característica Presa Estudada têm Desvantagem nos Testes de Resistência contra todos os efeitos do seu Enxame Simbiótico . Sombras",
+    "offset_inicio": 161839,
+    "offset_fim": 163684
+  },
+  {
+    "nivel": 10,
+    "nome": "Golpe Cirúrgico",
+    "descricao": "\"Na penumbra, tudo faz menos barulho — inclusive o erro. Ajusto o passo, corrijo o ângulo... e o que era falha vira acerto.\" Sua precisão torna-se letal quando você luta a partir das sombras. Correção de Mira: Uma vez por turno, quando você errar uma jogada de ataque com arma, você pode rolar 1 Dado de Caçador e somar o resultado à jogada de ataque original. Se o novo total igualar ou superar a Classe de Armadura do alvo, o ataque acerta. Corte que Ignora Couraça: Enquanto você estiver em Penumbra ou Escuridão e atacar uma criatura que não possa ver você, seus ataques com arma ignoram Resistência a dano Contundente , Cortante e Perfurante não mágica. Imunidades não são afetadas. Mutante",
+    "offset_inicio": 163684,
+    "offset_fim": 164950
+  },
+  {
+    "nivel": 10,
+    "nome": "Percepção Predatória",
+    "descricao": "\"Depois de tanta mutação, a cabeça muda junto. O cheiro do sangue, o ritmo da respiração… tudo entrega. Agora, quando eu marco uma presa, não é só o corpo que sigo — é o erro dela tentando se esconder.\" Seus sentidos alterados permitem que você rastreie suas presas através de ilusões e disfarces. Localização Exata: Enquanto uma criatura estiver afetada pela sua Marca do Caçador e no mesmo Plano de Existência que você, você sabe a localização exata dela. Você não sofre desvantagem ao atacar a criatura se ela estiver Invisível ou Escondida , embora você não veja sua aparência real, apenas sua posição no espaço. Interferência na Mudança de Forma: Se a criatura marcada tentar se transformar ou mudar de forma (através de magias como Polimorfismo ou habilidades naturais) e essa tentativa exigir uma jogada de dados (como um teste de Carisma ou Inteligência), ela realiza a jogada com Desvantagem . Falha na Transformação: Se a criatura falhar na rolagem mencionada acima, além de sofrer as consequências normais da falha, ela fica desorientada. Até o final do seu próximo turno, a criatura tem Desvantagem nas jogadas de ataque contra você e perde qualquer benefício de Camuflagem ou Invisibilidade contra seus sentidos.",
+    "offset_inicio": 164950,
+    "offset_fim": 166492
+  },
+  {
+    "nivel": 11,
+    "nome": "Predador Astuto",
+    "descricao": "Monstro grande demais pra encarar de frente sempre ensina a mesma lição: nada é invencível, só mal entendido. Hoje, quando eu marco um alvo, não vejo só um corpo. Vejo um mapa de falhas esperando o golpe certo. Você explora as fraquezas da sua presa com precisão letal. Esta característica está sempre ativa contra criaturas afetadas pela sua Marca do Caçador . Olho Treinado: Sempre que realizar um ataque contra uma criatura marcada, você tem Vantagem na jogada de ataque.",
+    "offset_inicio": 166492,
+    "offset_fim": 167162
+  },
+  {
+    "nivel": 12,
+    "nome": "Incremento de Atributo ou Talento",
+    "descricao": "A chama não cresce por capricho; cresce por hábito. Eu corrijo o passo, alongo o fôlego, ensino a mão a não tremer. Cada ajuste pavimenta outro centímetro de poder. Você aumenta um valor de atributo à sua escolha em +2, ou dois valores de atributo em +1 (máximo 20), ou escolhe um Talento.",
+    "offset_inicio": 167162,
+    "offset_fim": 167591
+  },
+  {
+    "nivel": 13,
+    "nome": "Passos Invisíveis",
+    "descricao": "Já tentei copiar truque de ladino: andar agachado, segurar a respiração. Funcionou mal. O que resolveu foi aprender a ouvir o lugar antes de me mexer. Hoje, quando eu quero sumir, nem eu mesmo encontro meus rastros. Sua furtividade torna-se sobrenatural, permitindo que você desapareça em qualquer terreno. Esconder em Movimento: No seu turno, você pode usar a ação Esconder como uma Ação Bônus . Você ainda deve atender às condições normais para se ocultar (cobertura, escuridão, distração, etc.). Rastros Apagados: Você não pode ser rastreado por meios não mágicos , a menos que decida conscientemente deixar sinais claros (como pegadas ou marcas em árvores). Rastreadores e animais falham automaticamente em seguir sua trilha.",
+    "offset_inicio": 167591,
+    "offset_fim": 168539
+  },
+  {
+    "nivel": 14,
+    "nome": "Característica de Ordem",
+    "descricao": "Minha presença carimba o espaço. A linhagem não é lembrança: é farol aceso, e seu feixe mapeia rotas que só quem carrega o sinal enxerga. Você ganha a característica de 14º nível da Ordem de Caçador que você escolheu no 3º nível. Aliança Selvagem",
+    "offset_inicio": 168539,
+    "offset_fim": 169220
+  },
+  {
+    "nivel": 14,
+    "nome": "Reflexo Instintivo",
+    "descricao": "\"Meu espírito não espera ordem. Quando o perigo chega perto demais, ele já está entre mim e a ameaça. Não é magia. É instinto. O dele e o meu, batendo juntos.\" O Espírito Primordial ganha a capacidade de intervir fisicamente para proteger seu mestre. Gatilho: Uma criatura que o espírito possa ver atinge você com uma jogada de ataque enquanto o espírito estiver a até 9 metros [30 pés] de você. Reação do Espírito: O espírito usa sua Reação para absorver o impacto. O dano que você sofreria desse ataque é reduzido pela metade . Restrição: O espírito não pode usar essa reação se estiver Incapacitado . Exterminadores de Monstros",
+    "offset_inicio": 169220,
+    "offset_fim": 170410
+  },
+  {
+    "nivel": 14,
+    "nome": "Última Palavra",
+    "descricao": "\"Alguns monstros juram que me viram cair. Estão certos pela metade. Tem um instante, entre o último suspiro e a escuridão, em que algo me puxa de volta pelos dentes.\" Sua determinação em finalizar a caçada impede que você morra antes de sua presa. Quase-Morte Adiada: Quando você for reduzido a 0 Pontos de Vida e não morrer instantaneamente, você pode escolher cair para 1 Ponto de Vida e permanecer consciente. Duração: Este estado de resistência dura por 1 minuto ou até você ser reduzido a 0 Pontos de Vida novamente, o que ocorrer primeiro. Recuperação: Uma vez que você use esta característica, você não pode usá-la novamente até terminar um Descanso Longo . Viajantes",
+    "offset_inicio": 170410,
+    "offset_fim": 171648
+  },
+  {
+    "nivel": 14,
+    "nome": "Véu Desfeito",
+    "descricao": "\"Tem lugar que não se alcança com passo — só com fenda. Quando puxo o selo, o corpo afina, o peso some. Não é ficar invisível, é existir de lado.\" Você aprende a desfocar sua presença material, deslizando pelas dobras do espaço. Ativar o Véu: No início do seu turno, se não estiver Incapacitado , você pode entrar em um estado semi-etéreo (sem exigir ação). Este efeito dura por um número de turnos igual ao seu modificador de Sabedoria ou Inteligência (mínimo de 1). Fantasmal: Enquanto o efeito durar, você pode se mover através de outras criaturas e objetos como se fossem Terreno Difícil . Visão Etérea: Você pode ver e interagir com criaturas no Plano Etéreo como se estivessem no Plano Material. O Mestre define a aparência visual dessas interações. Consequência Física: Se você encerrar seu turno dentro de um objeto, você sofre 1d10 de dano de Energia (Força) e é expelido imediatamente para o espaço desocupado mais próximo. Você sofre dano de Energia (Força) adicional igual a 2 para cada 0,3 metro [1 pé] que for deslocado dessa forma. Usos: Você pode usar esta característica um número de vezes igual ao seu Bônus de Proficiência . Você recupera todos os usos gastos ao terminar um Descanso Curto ou Descanso Longo . Enxame",
+    "offset_inicio": 171648,
+    "offset_fim": 173530
+  },
+  {
+    "nivel": 14,
+    "nome": "Colmeia Instintiva",
+    "descricao": "\"Eles já não esperam meu comando — reagem comigo. Eu só aponto quem precisa ficar de pé, e centenas de corpos pequenos fazem o resto.\" Sua capacidade de proteção se estende aos seus aliados, transformando o enxame em um escudo móvel. Proteção Ampliada: Você pode usar a Resposta Instintiva (Nível 6) quando qualquer criatura a até 9 metros [30 pés] de você for alvo de um ataque ou estiver prestes a sofrer dano. Defesa contra Ataques: Se o gatilho for um ataque, você impõe Desvantagem na jogada. Se o ataque ainda acertar, o alvo tem Resistência ao dano causado por esse ataque. Defesa contra Área: Se o gatilho for um efeito que exige um Teste de Resistência para evitar dano, o alvo realiza o teste normalmente, mas ganha Resistência ao dano sofrido. Resgate Tático: Ao usar a Resposta Instintiva, você pode mover a criatura protegida em até 9 metros [30 pés] para um espaço desocupado. Esse movimento não provoca Ataques de Oportunidade .",
+    "offset_inicio": 173530,
+    "offset_fim": 174818
+  },
+  {
+    "nivel": 14,
+    "nome": "Voo Simbiótico",
+    "descricao": "\"Um dia, eles não só cercaram meus passos — me ergueram. Não foi feitiço. Foi confiança: milhares de asas decidindo que, se eu precisava estar mais alto, eles me levariam.\" O enxame é denso o suficiente para erguer você do chão. Voo do Enxame: Enquanto não estiver Incapacitado , você ganha Deslocamento de Voo igual ao seu Deslocamento de Caminhada. Queda Amortecida: Se você cair ou for derrubado enquanto estiver voando, o enxame retarda sua descida. Você aterrissa suavemente no final do turno e não sofre Dano de Queda . Sombras",
+    "offset_inicio": 174818,
+    "offset_fim": 175885
+  },
+  {
+    "nivel": 14,
+    "nome": "Contra-Ataque Sombrio",
+    "descricao": "\"O erro deles não é atacar. É atacar onde eu já não estou. O golpe corta o ar, encontra só breu — e, antes que percebam, a lâmina certa vem do lugar errado.\" Você usa as sombras para desviar golpes e punir a imprudência dos inimigos. Gatilho: Uma criatura que você possa ver realiza uma jogada de ataque contra você. Sombras que Desviam: Você pode usar sua Reação para impor Desvantagem nessa jogada de ataque. Você deve declarar o uso antes de saber se o ataque acertou ou errou. Golpe em Retorno: Se o ataque errar você após o uso dessa reação, você pode realizar 1 Ataque com Arma contra o atacante como parte da mesma reação. Se você estiver em Penumbra ou Escuridão , você tem Vantagem nessa jogada de ataque. Mutante",
+    "offset_inicio": 175885,
+    "offset_fim": 177186
+  },
+  {
+    "nivel": 14,
+    "nome": "Transfusão Mutagênica",
+    "descricao": "\"Já perdi a conta de quantas vezes mudei de corpo sem morrer. Se a mutação não serve mais, eu não aceito o erro — eu corrijo.\" Você aprende a purgar e reinjetar mutagênicos rapidamente no calor da batalha. Troca Rápida: Como uma Ação Bônus , você pode encerrar imediatamente o efeito de 1 mutagênico ativo em seu corpo e, como parte da mesma ação, consumir um novo mutagênico que você tenha preparado. Regras: O novo mutagênico ativa seus efeitos benéficos e colaterais normalmente. O mutagênico encerrado deixa de afetar você imediatamente. Usos: Você pode usar esta característica um número de vezes igual ao seu modificador de Sabedoria ou Inteligência (mínimo de 1). Você recupera todos os usos gastos ao terminar um Descanso Longo .",
+    "offset_inicio": 177186,
+    "offset_fim": 178218
+  },
+  {
+    "nivel": 15,
+    "nome": "Vontade Inabalável",
+    "descricao": "Já ouvi voz demais tentando mandar em caçador: sussurro de entidade velha, promessa de demônio. Hoje, quando algo tenta entrar, eu não empurro de volta. Eu fico parado e deixo que ela se perca em mim. Sua mente torna-se uma fortaleza impenetrável contra influências externas. Mentor de Si Mesmo: Você é imune à condição Possuído e a qualquer efeito que tente assumir controle direto de suas ações (como magias de dominação). Você ainda pode ser afetado por ilusões que alteram sua percepção, mas não seu comando sobre o corpo. Resistência Mental: Você tem Vantagem em testes de resistência contra as condições Encantado e Amedrontado , independentemente da origem (mágica, sobrenatural ou natural).",
+    "offset_inicio": 178218,
+    "offset_fim": 179151
+  },
+  {
+    "nivel": 16,
+    "nome": "Incremento de Atributo ou Talento",
+    "descricao": "Se não moldo o poder, ele me molda. Então lapido ossos de dentro, afio a disciplina até que brilhe. Não busco atalhos — busco alavancas. Você aumenta um valor de atributo à sua escolha em +2, ou dois valores de atributo em +1 (máximo 20), ou escolhe um Talento.",
+    "offset_inicio": 179151,
+    "offset_fim": 179552
+  },
+  {
+    "nivel": 17,
+    "nome": "Instinto Predatório",
+    "descricao": "Com o tempo, parei de depender só dos olhos. Comecei a notar o jeito que o ar muda quando alguém respira fundo. Em campo aberto ou em caverna escura, quando eu chego, eu já sei onde a presa está. Seus sentidos de combate atingem o ápice, eliminando pontos cegos. Sem Ponto Cego: Suas jogadas de ataque contra criaturas a até 9 metros [30 pés] de você nunca sofrem Desvantagem . Isso ignora penalidades por escuridão, invisibilidade, cobertura parcial ou criaturas escondidas (desde que você saiba a posição aproximada). Leitura de Presença: Você detecta automaticamente a localização exata de qualquer criatura escondida ou invisível que esteja a até 9 metros [30 pés] de você, negando os benefícios de furtividade delas contra sua percepção.",
+    "offset_inicio": 179552,
+    "offset_fim": 180523
+  },
+  {
+    "nivel": 18,
+    "nome": "Característica de Ordem",
+    "descricao": "A linhagem abre as asas dentro de mim e o mundo acusa o golpe. Há um contorno novo nos meus passos, uma assinatura que dobra o horizonte. Você ganha a característica de 18º nível da Ordem de Caçador que você escolheu no 3º nível. Aliança Selvagem",
+    "offset_inicio": 180523,
+    "offset_fim": 181204
+  },
+  {
+    "nivel": 18,
+    "nome": "Segredo: Chamado da Presa Imortal",
+    "descricao": "\"Nenhum caçador sai ileso da trilha. Mas toda vez que achei que era o fim, senti algo responder lá no fundo. Com o ritual certo, ele volta. Não igual, nunca igual. Volta mais feroz, mais selvagem.\" Você aprende um Segredo de Caçador exclusivo desta ordem. Você pode gastar 3 Pontos de Segredo e usar uma Ação Bônus para infundir seu espírito com fúria ancestral por 1 minuto . O espírito deve estar presente e não dissipado. Enquanto o efeito durar, o espírito ganha os seguintes benefícios: Fúria da Natureza: O espírito tem Vantagem em todas as jogadas de ataque. Potência Sobrenatural: Os ataques do espírito causam +1 Dado de Caçador de dano extra. Além disso, os ataques dele ignoram Resistência a qualquer tipo de dano (mas não imunidade). Imortalidade Temporária: A primeira vez que o espírito for reduzido a 0 Pontos de Vida enquanto este efeito estiver ativo, ele não se dissipa. Em vez disso, ele retorna imediatamente a 1 Ponto de Vida . Limitação: Uma vez que você use este Segredo, você não pode usá-lo novamente até terminar um Descanso Longo . Exterminadores de Monstros",
+    "offset_inicio": 181204,
+    "offset_fim": 182922
+  },
+  {
+    "nivel": 18,
+    "nome": "Segredo: Cilada Final",
+    "descricao": "\"Mergulho a munição no óleo escuro, risco a runa que fecha caminhos — e, quando esse disparo encontra a presa, até a sombra dela entende que não tem mais para onde ir.\" Você aprende o Segredo de Caçador exclusivo chamado Cilada Final . Ativação: Antes de realizar uma jogada de ataque contra uma criatura afetada pela sua Marca do Caçador , você pode gastar 3 Pontos de Segredo para declarar a Cilada Final. Armadilha Espiritual: Independente de o ataque acertar ou errar, a criatura é presa por uma magia antiga. Por 1 minuto , ou até o fim do combate, a criatura sofre os seguintes efeitos: Bloqueio Dimensional: A criatura não pode se teletransportar ou utilizar viagem planar. Sombra Fixada: A criatura não pode se tornar Invisível nem entrar no Plano Etéreo . Silêncio Mental: A criatura não pode usar Telepatia . Dreno Purgante: No início de cada turno da criatura, ela sofre dano Radiante igual a 2 Dados de Caçador . Limitação: Você só pode manter uma Cilada Final ativa por vez. Aplicá-la em um novo alvo encerra o efeito no anterior. Recuperação: Após usar este Segredo, você não pode usá-lo novamente até terminar um Descanso Longo . Viajantes",
+    "offset_inicio": 182922,
+    "offset_fim": 184782
+  },
+  {
+    "nivel": 18,
+    "nome": "Segredo: Caminho Final",
+    "descricao": "\"Depois de ver portais rasgarem vilas e monstros cruzarem fendas que nunca deveriam existir, eu entendi: alguém precisava aprender a ir e voltar por esses lugares sem se perder.\" Você adquire o Segredo de Caçador conhecido como Caminho Final. Este segredo não conta no limite de segredos que você pode conhecer. Lista de Travessias: Você aprende a conjurar as seguintes magias: Portal Arcano [Arcane Gate] Palavra de Recordação [Word of Recall] Etereidade [Etherealness] Mansão Magnífica de Mordenkainen [Mordenkainen’s Magnificent Mansion] Teletransporte [Teleport] Viagem Planar [Plane Shift] Preparação: Ao terminar um Descanso Longo , você pode preparar até 2 magias dessa lista. Uma vez que você conjure uma magia preparada desta forma, você não pode conjurá-la novamente através deste Segredo até prepará-la de novo. Custo: Para conjurar uma dessas magias preparadas, você deve gastar 3 Pontos de Segredo . Você não gasta espaços de magia nem componentes materiais. Atributo de Conjuração: Use seu modificador de Sabedoria ou Inteligência para definir a CD e jogadas de ataque dessas magias. Maestria de Pergaminhos: Você pode usar Pergaminhos de Magia contendo qualquer uma das magias da lista acima sem necessidade de testes, independente da sua lista de magias de classe. Enxame",
+    "offset_inicio": 184782,
+    "offset_fim": 186801
+  },
+  {
+    "nivel": 18,
+    "nome": "Segredo: Ninho Devorador",
+    "descricao": "\"Minha lâmina só abriu caminho. O que matou veio depois. Quando o aço cortou, o enxame entrou — escondido em carne, veia e sombra, comendo por dentro.\" Você adquire o Segredo de Caçador conhecido como Ninho Devorador. Ativação: Quando você acertar um ataque contra uma criatura afetada pela sua Marca do Caçador , você pode gastar 3 Pontos de Segredo para ativar este efeito (sem necessidade de ação). Infestação: O alvo deve realizar um Teste de Resistência de Constituição contra sua CD de Segredos de Caçador . Falha: Um enxame devorador infesta o alvo por 1 minuto . A criatura não pode recuperar Pontos de Vida e, no início de cada turno dela, sofre 4 Dados de Caçador de dano Necrótico . Sucesso: O alvo sofre dano Necrótico imediato igual a 2 Dados de Caçador e o efeito termina. Propagação: Se uma criatura morrer enquanto estiver infestada pelo Ninho Devorador, você pode escolher uma nova criatura hostil a até 27 metros [90 pés] do cadáver. O enxame salta para o novo alvo, aplicando automaticamente sua Marca do Caçador nele (sem custo). O novo alvo deve fazer o Teste de Resistência de Constituição imediatamente para evitar ser infestado. Limitação: Você só pode ter 1 Ninho Devorador ativo por vez. Sombras",
+    "offset_inicio": 186801,
+    "offset_fim": 188716
+  },
+  {
+    "nivel": 18,
+    "nome": "Segredo: Névoa Sepulcral",
+    "descricao": "\"Puxei o selo de fumaça e deixei cair no chão. A névoa subiu pesada, como se o próprio ar tivesse lembrado dos mortos. Lá dentro, passo e lâmina viram sussurro.\" Você aprende o Segredo de Caçador conhecido como Névoa Sepulcral. Ativação: Como uma Ação , você gasta 3 Pontos de Segredo para criar uma esfera de escuridão mágica com 9 metros [30 pés] de raio, centrada em você. Essa névoa dura por 1 minuto ou até ser dissipada com uma Ação Bônus . Escuridão Absoluta: A névoa bloqueia luz natural e dissipa magias de luz de 6º Círculo ou inferior. Criaturas dentro da área que não possuam a capacidade de ver em Escuridão Mágica sofrem a condição Cego . Passo entre Lâminas: Enquanto estiver na névoa, você pode usar uma Ação Bônus para se teletransportar para um espaço desocupado dentro da área. Não é necessário ter linha de visão. Golpe e Desapareço: Sempre que você realizar um ataque contra uma criatura dentro da névoa, você pode se teletransportar para um espaço desocupado na área (antes ou depois do ataque) sem gastar movimento e sem provocar Ataques de Oportunidade . Recuperação: Após usar este Segredo, você não pode usá-lo novamente até terminar um Descanso Longo . Mutante",
+    "offset_inicio": 188716,
+    "offset_fim": 190555
+  },
+  {
+    "nivel": 18,
+    "nome": "Segredo: Sangue Venenoso",
+    "descricao": "\"Dizem que meu corpo está contaminado. Estão certos. Só esquecem um detalhe: a toxina não é problema meu. É deles.\" Você adquire o Segredo de Caçador conhecido como Sangue Venenoso. Gatilho: Quando você realizar a ação Atacar (corpo a corpo ou desarmado), você pode gastar 3 Pontos de Segredo para ativar este efeito antes ou depois da jogada de ataque. A ativação ocorre independente de o ataque acertar ou errar. Pulso Tóxico: Criaturas à sua escolha num raio de 3 metros [10 pés] de você devem realizar um Teste de Resistência de Constituição contra sua CD de Segredos de Caçador . Falha: A criatura sofre 6 Dados de Caçador de dano Ácido e fica Cega e Atordoada por 1 minuto . Enquanto estiver sob esse efeito, o deslocamento dela é reduzido pela metade . Sucesso: A criatura sofre metade do dano e não sofre nenhuma condição ou redução de deslocamento. Resistência Contínua: Uma criatura afetada pode repetir o Teste de Resistência sempre que sofrer dano. Em um sucesso, todos os efeitos terminam para ela. Recuperação: Após usar este Segredo, você não pode usá-lo novamente até terminar um Descanso Longo .",
+    "offset_inicio": 190555,
+    "offset_fim": 192085
+  },
+  {
+    "nivel": 19,
+    "nome": "Incremento de Atributo ou Talento",
+    "descricao": "Cheguei às portas maiores pela soma de portas pequenas. Agora cada respiração pesa como promessa cumprida. Ajusto um último parafuso no motor do peito e sinto o ruído ficar puro. Você aumenta um valor de atributo à sua escolha em +2, ou dois valores de atributo em +1 (máximo 20), ou escolhe um Talento.",
+    "offset_inicio": 192085,
+    "offset_fim": 192528
+  },
+  {
+    "nivel": 20,
+    "nome": "Domínio da Caçada",
+    "descricao": "Caçar nunca foi só encontrar a presa; é aceitar que ela já estava morta desde o momento em que eu a escolhi. As presas não lutam contra mim — elas tentam escapar de um fim que já está escrito. Sou o ponto final da trilha. Você se torna a força de eliminação definitiva. Estas características aplicam-se contra qualquer criatura que esteja atualmente afetada por um dos seus Segredos de Caçador (armadilhas, venenos, marcas, etc). Pressão Constante: A criatura afetada tem Desvantagem em todas as jogadas de ataque contra você. Terceiro Golpe Certeiro: Quando você usar a Ação de Ataque e atacar a criatura afetada, você pode realizar 1 ataque adicional como parte da mesma ação (totalizando 3 ataques). Este ataque extra deve ser direcionado a uma criatura sob efeito de seus Segredos. Instinto Acima de Tudo: Sempre que a criatura afetada forçar você a realizar um Teste de Resistência ou um Teste de Habilidade (como tentar agarrá-lo ou empurrá-lo), você tem Vantagem no teste. Site projetado pela equipe do Bonfire Tales RPG, para diversão de todos que amam RPG! if ( \"\" || \"Classes\" || \"\" || \"\") { var find_article_url = \"/article-data/b9dbb268-33b3-4bf5-9781-746cd78141bc\"; $( document ).ready(function() { $.ajax({ url: find_article_url, type: \"GET\", dataType: \"json\", async: true, success: function (navData) { $(\"#linear-navigation-container\").html(navData.contents); } }); }); } Metadados Article template Generic article World Bonfire Tales RPG Category Classes in Jogadores Author Bonfi...",
+    "offset_inicio": 192528,
+    "offset_fim": 218051
+  }
+]

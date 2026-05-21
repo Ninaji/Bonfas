@@ -1,0 +1,338 @@
+[
+  {
+    "slug": "colegio-do-conselho",
+    "nome": "Colégio do Conselho",
+    "tagline": "Mestre da retórica e da diplomacia armada com palavras-bisturi.",
+    "features_sub": [
+      {
+        "nome": "Conselho Bárdico",
+        "nivel": 3,
+        "descricao": "\"Se a dúvida é grande, eu começo pelo fato que ninguém ousa negar.\" Você carrega uma biblioteca de bolso na cabeça e o hábito de encontrar a frase exata. Às vezes é um dado esquecido; noutras, o jeito certo de dizer a mesma coisa. O efeito é o mesmo: a mesa inclina, e os passos ficam mais seguros. Efeito: Sempre que você fizer um teste de Inteligência para recordar informação, ou um teste de Carisma para convencer uma criatura de algo, você pode substituir o d20 pelo seu nível de Bardo (antes de saber o resultado). Você ganha proficiência em Enganação (Deception) , História (History) e Persuasão (Persuasion) ."
+      },
+      {
+        "nome": "Lógica Cortante",
+        "nivel": 3,
+        "descricao": "\"Uma vírgula muda o tempo; um adjetivo, a coragem; um silêncio, a sentença.\" Você aprendeu a inserir palavras no instante certo — não para gritar por cima, mas para afinar a jogada de alguém. Uma tesoura invisível recorta a hesitação do adversário; um grampo elegante fixa a decisão do aliado. O texto do momento passa por você. Efeito: Quando uma criatura sem ser você a até 18 metros [60 pés] que possa ouvir e entender você fizer uma jogada de ataque , teste de resistência ou teste de habilidade , você pode usar sua Reação para gastar 1 uso de Inspiração Bárdica e rolar seu Dado de Inspiração , aplicando o resultado à rolagem da criatura: Somar o resultado (para reforçar a rolagem da criatura). Subtrair o resultado (para enfraquecer a rolagem da criatura). Você deve decidir antes de saber o resultado da rolagem. Esta Reação não concede nem consome nenhum “dado de inspiração” que a criatura já tenha — é uma modificação direta da rolagem dela."
+      },
+      {
+        "nome": "Conselho Potente",
+        "nivel": 3,
+        "descricao": "\"Quando meu empurrão não resolve, eu guardo o empurrão para a hora certa.\" Nem toda tese vence no primeiro rascunho. O seu truque é simples e generoso: se a palavra não virou a cena, ela volta ao bolso — intacta, pronta para ser usada onde realmente fará diferença. Efeito: Se você usar sua Reação de Inspiração Bárdica (da Lógica Cortante ) e, ainda assim, a criatura errar o ataque, falhar no teste de habilidade ou na resistência, o uso de Inspiração Bárdica não é gasto . Conspiração id =\" spoiler-rMRuH0 \">"
+      },
+      {
+        "nome": "Descobertas Mágicas",
+        "nivel": 6,
+        "descricao": "\"Um bom argumento cita fontes; um argumento excelente as domina.\" Você coleciona ferramentas fora do seu repertório usual — tratados sagrados, doutrinas naturais, axiomas arcanos — e as incorpora à sua fala. Quando o tema pede, sua voz invoca o que templos, bosques e bibliotecas já concordaram ser verdade. Efeito: Escolha 2 magias de sua preferência das listas de Clérigo , Druida e/ou Mago . Cada magia escolhida deve ser um truque ou uma magia para a qual você possua espaços de magia (conforme sua tabela de Bardo). Você sempre tem essas magias preparadas . Ao terminar um Descanso Longo , você pode substituir 1 dessas magias por outra que atenda aos mesmos requisitos."
+      },
+      {
+        "nome": "Perícia Inigualável",
+        "nivel": 14,
+        "descricao": "\"Se a tese escorrega, eu reenuncio — e mostro por que nunca foi sobre sorte.\" Você domina a arte da revisão em tempo real. Um ajuste fino, uma premissa reordenada, a palavra que faltava — e o que seria tropeço volta como passo seguro. É a elegância de quem não discute com o resultado: o reescreve. Efeito: Quando você fizer um teste de habilidade e falhar , você pode gastar 1 uso de Inspiração Bárdica ; role seu Dado de Inspiração e some ao d20, potencialmente convertendo a falha em sucesso. Se ainda assim você falhar, o uso não é gasto . Conspiração id =\" spoiler-M8L1z2 \">"
+      },
+      {
+        "nome": "Palavras Contagiantes",
+        "nivel": 18,
+        "descricao": "\"Convencer não termina no convencido — propaga-se como palmas bem marcadas.\" Quando alguém acerta por sua causa, você não deixa o impulso morrer: engata a próxima mente, acende outro olhar, põe mais uma pessoa na cadência certa. O auditório vira coro — e a decisão, inevitável. Efeito: Quando uma criatura a até 18 metros [60 pés] de você adicionar um dos seus Dados de Inspiração a uma jogada de ataque, teste de habilidade ou resistência e tiver sucesso ou quando uma criatura que estiver sob o efeito de Palavras Cortantes tiver uma falha, você pode usar sua Reação para encorajar ou desmoralizar uma criatura diferente (que não seja você) que possa ouvi-lo a até 18 metros [60 pés] , concedendo a ela 1 Dado de Inspiração Bárdica ou aplicando novamente Palavras Cortantes sem gastar seus usos. Você pode usar essa Reação um número de vezes igual ao seu modificador de Carisma (mínimo 1), e recupera todos os usos ao terminar um Descanso Longo . Conspiração id =\" spoiler-6RD5Oz \">"
+      }
+    ]
+  },
+  {
+    "slug": "colegio-da-conspiracao",
+    "nome": "Colégio da Conspiração",
+    "tagline": "Sussurros venenosos, mentes manipuladas, segredos como moeda.",
+    "features_sub": [
+      {
+        "nome": "Influência Astuta",
+        "nivel": 3,
+        "descricao": "\"Nem todo recado precisa atravessar a sala. Às vezes eu só ajusto a luz, viro o corpo meio grau e deixo a frase cair no ouvido certo. Quem não foi convidado acha que não houve cena; quem ouviu, muda de ideia sem notar.\" Efeito: Você ganha proficiência em Enganação (Deception) e em 2 ferramentas , à sua escolha entre: Kit de Disfarces , Kit de Falsificação , Kit de Venenos ou Ferramentas de Ladrão . Quando você conjura uma magia de Bardo com componente verbal que tenha apenas 1 alvo a até 3 metros [10 pés] de você, você pode escolher que somente o alvo ouça o componente verbal."
+      },
+      {
+        "nome": "Assalto Psíquico",
+        "nivel": 3,
+        "descricao": "\"A lâmina distrai, a frase decide. Corto onde a atenção não está — uma observação precisa, um detalhe que desarma certezas — e o golpe encontra a mente aberta no instante exato.\" Efeito: Quando você acertar uma criatura com um ataque com arma , você pode gastar 1 Dado de Inspiração Bárdica para causar dano psíquico adicional igual a 2 rolagens do seu Dado de Inspiração. No 6º nível esse extra passa a +3 rolagens ; no 14º , +4 rolagens ; e no 18º , +5 rolagens ."
+      },
+      {
+        "nome": "Sementes do Terror",
+        "nivel": 3,
+        "descricao": "\"Um minuto basta. Eu organizo a sala como um palco: posiciono olhares, empilho silêncios, planto a hipótese correta. Quando percebem, a desconfiança já elegeu um inimigo… e não fui eu quem apontou.\" Efeito: Se você conversar com uma criatura que possa ouvir e entender você por pelo menos 1 minuto , você pode gastar 1 Dado de Inspiração Bárdica para forçar a criatura a fazer um teste de resistência de Sabedoria contra sua CD de Magia de Bardo . Falha: por 1 hora , ela fica Amedrontada de uma criatura (à sua escolha) que ambos possam ver e passa a tratar essa criatura como inimiga . Encerramento precoce: o efeito termina se o alvo amedrontado ou seus aliados forem atacados por você ou seus aliados. Discrição: o alvo não percebe que você tentou influenciar seus pensamentos, independentemente do resultado. Criação id =\" spoiler-hAdfSs \">"
+      },
+      {
+        "nome": "Golpe Sorrateiro",
+        "nivel": 6,
+        "descricao": "\"Treinei para que meu segundo gesto valha mais que o primeiro. A plateia acompanha as mãos; meu acento verdadeiro cai onde ninguém está olhando — no momento entre a respiração e a resolução.\" Efeito: 1 vez por turno , quando você acertar uma criatura com um ataque com arma , cause dano adicional igual a 1 rolagem do seu Dado de Inspiração (não gasta o dado). No 14º nível , esse dano adicional se torna 2 rolagens ; no 18º nível , 3 rolagens ."
+      },
+      {
+        "nome": "Visagem Roubada",
+        "nivel": 6,
+        "descricao": "\"Rostos são figurinos que contam histórias antes da fala. Quando uma máscara cai para sempre, eu estudo a costura e a visto por uma hora — postura, manias, lembranças rasas. Não é magia de cadáver; é dramaturgia perfeita.\" Efeito: Quando um humanoide que você possa ver morrer a até 9 metros [30 pés] de você, você pode usar sua Reação para capturar magicamente a Visagem dele. Como Ação , você pode consumir a Visagem para se transformar e parecer-se com aquele humanoide como era em vida, ganhando acesso a lembranças superficiais e informações que ele compartilharia com um conhecido casual. A transformação dura 1 hora (você pode encerrá-la como Ação). Uma criatura desconfiada pode perceber a farsa com um teste de Sabedoria (Intuição) oposto ao seu Carisma (Enganação) . Você só pode manter 1 Visagem por vez; capturar outra faz você perder a anterior . Criação id =\" spoiler-nkMfNp \">"
+      },
+      {
+        "nome": "Manipulação Sinistra",
+        "nivel": 14,
+        "descricao": "\"Não peço obediência; ofereço discrição. Sussurro o contorno de um segredo que você não pode pagar para ver exposto e, de repente, cooperar vira a opção mais confortável. O resto, a própria consciência resolve por nós.\" Efeito: Você pode usar Sementes do Terror como Ação . Em uma falha no teste de resistência do alvo, em vez do efeito normal, você pode escolher plantar a crença de que você conhece o segredo mais sombrio dele. Se o fizer, o alvo fica Enfeitiçado por você indefinidamente (ou até que você ou aliados ajam com hostilidade contra ele). Enquanto enfeitiçado dessa forma, ele o ajuda secretamente da melhor maneira que puder, exceto lutar diretamente ou arriscar a própria vida . Você só pode manter 1 criatura enfeitiçada por este recurso por vez. Tentar enfeitiçar outra encerra o efeito na anterior. Criação id =\" spoiler-OQVDqd \">"
+      },
+      {
+        "nome": "Angústia Mental",
+        "nivel": 18,
+        "descricao": "\"Quando meu nome vira o assunto que ninguém quer ouvir, cada gesto meu chega com peso de veredito. Posso encerrar o medo num único golpe — ponto final limpo, como quem fecha a cortina no timing perfeito.\" Efeito: Quando você usar Assalto Psíquico , o alvo deve fazer um teste de resistência de Sabedoria contra sua CD de Magia ou ficará Amedrontado de você até o fim do seu próximo turno . Além disso, quando você acertar uma criatura que esteja Amedrontada de você com um ataque com arma , você pode encerrar a condição no alvo para transformar esse ataque em um Acerto Crítico automático . Criação id =\" spoiler-gM6E3A \">"
+      }
+    ]
+  },
+  {
+    "slug": "colegio-da-criacao",
+    "nome": "Colégio da Criação",
+    "tagline": "Canta o mundo em existência — invoca objetos e companheiros do nada.",
+    "features_sub": [
+      {
+        "nome": "Fragmento da Canção",
+        "nivel": 3,
+        "descricao": "\"Um pequeno símbolo orbita quem você inspira — peça solta da realidade à espera do parafuso certo.\" No instante decisivo, ele estala: garante o melhor resultado, ecoa em trovão manso ou derrama vigor quente no corpo. Efeito. Sempre que você conceder Inspiração Bárdica a uma criatura, cria um Fragmento da Canção (nota, estrela, flor, runa) que orbita até 1,5 m [5 pés] do alvo. O fragmento é intangível, invulnerável e dura até o alvo gastar o Dado de Inspiração . Ao usar o dado, aplique um dos efeitos e então o fragmento se desfaz: Teste de Habilidade. O alvo pode rolar o Dado de Inspiração duas vezes e escolher o melhor resultado. Jogada de Ataque. Após aplicar o dado ao ataque, o fragmento se parte num estrondo: o alvo atingido e cada criatura à sua escolha a até 1,5 m [5 pés] dele fazem Teste de Resistência de Constituição contra sua CD de Magia . Em falha, sofrem dano trovejante igual ao resultado do Dado de Inspiração; em sucesso, nenhum dano. Teste de Resistência. Após aplicar o dado, o alvo recebe pontos de vida temporários iguais ao resultado do Dado de Inspiração + seu modificador de Carisma (mínimo 1)."
+      },
+      {
+        "nome": "Obra da Criação",
+        "nivel": 3,
+        "descricao": "\"Você risca o contorno no ar e a matéria lembra seu formato.\" A peça surge com brilho baixo e timbre próprio — parece nova, mas encaixa como se sempre tivesse sido sua. Efeito. Como uma Ação, você cria um objeto inanimado não mágico que caiba na sua mão, na sua mão ou em um espaço desocupado que possa suportá-lo a até 3 m [10 pés] . O objeto é visivelmente mágico (brilho suave, música baixa ao toque), possui PV = seu nível de Bardo , CA = seu valor de Carisma e dura 1 hora , desaparecendo se chegar a 0 PV, se você morrer, ou se criar outro com esta habilidade. Valor e familiaridade. O objeto deve ter valor em PO ≤ 20 × seu nível de Bardo . Você deve ser familiar com o objeto; se sua fabricação exigir perícia específica, você precisa ter proficiência nas ferramentas correspondentes . Escala por slot. Ao usar esta habilidade, você pode gastar um espaço de magia para criar em tamanhos maiores, conforme a tabela: Espaço de Magia Tamanho Nenhum Do tamanho da mão 1º Minúsculo (Tiny) 2º Pequeno (Small) 3º Médio (Medium) 4º Grande (Large) 5º Enorme (Huge) Uso e limite ativo. Você pode usar 1/Descanso Longo . Se estiver sem usos, pode gastar um espaço de magia de 2º nível ou maior para usar novamente. Você pode ter apenas 1 Obra da Criação ativa por vez . ( Este limite muda no 14º nível — veja Crescendo Criativo . ) Componentes materiais. Obra da Criação pode substituir componentes não consumíveis , mas não substitui componentes consumíveis (ex.: o diamante de Revivificar ). Dança id =\" spoiler-InMKOA \">"
+      },
+      {
+        "nome": "Língua Ancestral",
+        "nivel": 6,
+        "descricao": "\"Toda porta tem um idioma secreto: o da primeira vez que ela ouviu ‘sim’.\" Você veste a Canção da Criação como gramática raiz e fala com as pessoas no ponto mais profundo da compreensão delas. Não há bravata aqui — só a sensação de que, por uma hora, todo mundo está finalmente conversando de verdade. Efeito: Como Ação , você infunde sua fala com a Canção da Criação . Por 1 hora , qualquer criatura a até 18 m [60 pés] que possa ouvi-lo o entende como se você falasse o idioma nativo dela (a criatura deve ser capaz de falar ao menos um idioma). Usos: 1/Descanso Longo. Se estiver sem usos, você pode gastar um espaço de magia de 2º nível ou superior para usar novamente. Conspiração id =\" spoiler-uPi3lb \">"
+      },
+      {
+        "nome": "Dança da Criação",
+        "nivel": 6,
+        "descricao": "\"Você chama e o objeto se endireita como colega de ofício recém-desperto.\" Em combate, guarda e bloqueia; fora dele, carrega, ilumina e vira degrau — até repousar de novo, satisfeito. Efeito. No 6º Nível, como uma Ação , você pode animar um item não mágico Grande ou menor que possa ver até 9 metros [30 feet] . O item animado usa a ficha do Item Dançante (Dancing Item) , a qual usa o seu bônus de proficiência . O item é amigável a você e seus companheiros e obedece aos seus comandos. Ele fica animado até ser reduzido a 0 pontos de vida ou até você morrer . Uma vez que animou um item com essa habilidade, você não poderá fazê-lo novamente até terminar um Descanso Longo , ou gastar um espaço de magia de 3° nível ou maior . Você só pode ter um item animado ativo por vez com essa habilidade; se usar a Ação para animar um novo, o primeiro imediatamente se torna inanimado . title =\" Fonte \"> BT title =\" Nome do Item \"> Item Dançante constructo (unidade média), grande ou menor, sem alinhamento Classe de Armadura: 16 (Armadura Natural) Pontos de Vida: 10 + 5 vezes o seu nível. Velocidade: 9 Metros [30 feet] Planar: 9 Metros [30 feet]"
+      },
+      {
+        "nome": "Crescendo Criativo",
+        "nivel": 14,
+        "descricao": "\"A bancada vira coro de utilidades sem ruído.\" Uma peça grande sustenta a cena; as menores entram e saem com discrição, afinando luz, sombra e propósito. Efeito. Ao usar Obra da Criação , você pode criar até um número de objetos igual ao seu modificador de Carisma (mínimo 2) de uma só vez. Se exceder esse número, escolha quais criações anteriores desaparecem até voltar ao limite. Tamanhos. Apenas um dos objetos pode ocupar o maior tamanho que você consegue criar; os demais devem ser Pequenos ou Minúsculos . Sem limite em PO. Você remove o limite de valor em peças de ouro ao criar com Obra da Criação (a restrição de componentes consumíveis permanece). Duração estendida por slot. Quando gastar um espaço de magia com Obra da Criação, a criação dura 24 horas (em vez de 1 hora). Dança id =\" spoiler-N3Tgny \">"
+      },
+      {
+        "nome": "Canção Verdadeira",
+        "nivel": 18,
+        "descricao": "\"O rascunho decide morar no mundo.\" Obras tornam-se definitivas; duas criações trabalham em coro, e a matéria que você chama aprende a escolher por si. Efeito. Obra perene. Quando você usar Obra da Criação gastando um espaço de magia , o objeto criado é permanente (até ser destruído). Orquestra da Matéria. Você pode manter até dois Itens Dançantes animados simultaneamente. Para animar o segundo item, você deve gastar um espaço de magia de 3º nível ou maior . Se você animar um terceiro , escolha um dos anteriores para se tornar inanimado imediatamente. ( Isto amplia a regra do 6º nível sem alterá-la: ainda é 1 por padrão; o 2º exige slot. ) Comando em coro. Uma vez por turno, quando você conjurar uma magia de Bardo ou conceder Inspiração Bárdica , você pode ordenar que um dos seus Itens Dançantes realize a Ação Ajudar como parte da mesma ação (sem custo de ação adicional). Despertar a matéria. Você aprende despertar (awaken) e pode conjurá-la sem o componente material . Após fazê-lo assim, precisa concluir 1 Descanso Longo para repetir. Se lançar despertar em um Item Dançante seu, ele pode se comunicar telepaticamente com os mesmos idiomas que você. Dança id =\" spoiler-v5l5rW \">"
+      }
+    ]
+  },
+  {
+    "slug": "colegio-da-danca",
+    "nome": "Colégio da Dança",
+    "tagline": "Performance vira combate. Estilos de Ki monástico bebem Inspiração.",
+    "features_sub": [
+      {
+        "nome": "Cena é Corpo",
+        "nivel": 3,
+        "descricao": "Seu carisma não sai da boca — sai do eixo. Quando você dança, o chão aceita seu argumento e a plateia acredita antes de entender por quê. Efeito. Você ganha proficiência em Atuação (Performance) . Se já for proficiente, ganha Especialização (dobra o bônus de proficiência) nessa perícia. Sempre que você fizer um teste de Carisma (Performance) dançando , você pode substituir o d20 pelo seu nível de Bardo (antes de saber o resultado)."
+      },
+      {
+        "nome": "Defesa Desarmada & Golpe de Palco",
+        "nivel": 3,
+        "descricao": "Guarda é desenho e passo é escudo. Seu golpe acerta no intervalo entre batidas — breve, limpo, inevitável. Efeito. Defesa Desarmada. Sua CA base = 10 + seu mod. de Destreza + seu mod. de Carisma , enquanto você não estiver vestindo armadura nem empunhando escudo. Golpe de Palco. Você pode usar Destreza em vez de Força nas jogadas de ataque dos seus Golpes Desarmados . Ao causar dano com um Golpe Desarmado, você pode escolher causar dano de concussão igual a uma rolagem do seu Dado de Inspiração Bárdica + seu mod. de Destreza (em vez do dano normal do golpe). Esta rolagem não gasta o seu Dado de Inspiração. Nível 3: Estilos de Dança Técnicas antigas, paga em aplauso. Um nome, um gesto, e o corpo do inimigo esquece o próprio ritmo. Efeito. Você aprende 1 Estilo de Ki da classe Monge que se torna um Estilo de Dança para você. Regra de custo. Sempre que um Estilo disser “gaste 1 ponto de Ki”, leia como “ gaste 1 uso de Inspiração Bárdica ”. Você aprende outro Estilo aos níveis 6, 14 e 18 desta classe."
+      },
+      {
+        "nome": "Dança em Cena",
+        "nivel": 3,
+        "descricao": "Você liga o palco dentro do combate: passos apagam oportunidades, o ar afina reflexos, e cada técnica sua vira inspiração para alguém mais. Efeito. Como uma Ação Bônus, você pode gastar 1 uso de Inspiração Bárdica para iniciar uma apresentação de Dança , que dura 1 minuto e termina mais cedo se você ficar incapacitado . A Dança concede: Você deve se mover ao menos 1,5 metros [5 pés] em cada um dos seus turnos para manter a Dança ativa (senão ela termina ao fim do turno). Seu deslocamento não provoca Ataques de Oportunidade . Você tem vantagem em testes de resistência de Destreza . Sempre que você usar um Estilo de Dança gastando Inspiração Bárdica , você pode conceder 1 Inspiração Bárdica a uma criatura à sua escolha a até 18 metros [60 pés] que possa ver ou ouvir você, sem a necessidade de gastar outro uso de Inspiração Bárdica. Espíritos id =\" spoiler-qjUFHb \">"
+      },
+      {
+        "nome": "Inspiração em Movimento",
+        "nivel": 6,
+        "descricao": "\"Sua palavra abre um corredor invisível.\" Os pés encontram trilho e atravessam perigos como cortinas — chegam onde precisam, no exato compasso. Efeito. Sempre que uma criatura usar seu Dado de Inspiração (seja em ataque, teste ou resistência), ela pode se mover até 4,5 m [15 pés] sem provocar Ataques de Oportunidade após resolver a jogada. Dança id =\" spoiler-BOFxkl \">"
+      },
+      {
+        "nome": "Estilo de Fuga",
+        "nivel": 6,
+        "descricao": "Você abre uma fresta de tempo e espaço. Quem você chama atravessa por ela sem ser tocado. Efeito. Você aprende o Estilo de Fuga . Ele não conta para o total de Estilos que você conhece. Quando você usar o Estilo de Fuga, escolha uma criatura a até 9 metros [30 pés] . Ela pode usar a Reação para mover-se até metade do deslocamento em qualquer direção sem provocar Ataques de Oportunidade . Espíritos id =\" spoiler-ptHc5y \">"
+      },
+      {
+        "nome": "Evasão Coreografada",
+        "nivel": 14,
+        "descricao": "Explosões obedecem a quem manda no tempo. Você puxa o impacto para o silêncio — e quem está ao seu lado aprende o passo. Efeito. Quando um efeito exigir de você um teste de resistência de Destreza para sofrer metade do dano , você sofre dano 0 em sucesso e apenas metade em falha . Se uma ou mais criaturas a até 1,5 m [5 pés] de você fizerem o mesmo teste , você pode compartilhar este benefício com elas para aquele teste. Você não pode usar esta característica se estiver incapacitado ."
+      },
+      {
+        "nome": "Magia em Passo",
+        "nivel": 14,
+        "descricao": "Feitiço entra na batida e a técnica vem junto. Você costura a magia no giro e solta o golpe como ponto final. Efeito. Quando você conjurar uma magia com uma Ação, você pode ativar 1 Estilo de Dança de Ação Bônus que normalmente exigiria “ao acertar um ataque desarmado”. Espíritos id =\" spoiler-qUFCXS \">"
+      },
+      {
+        "nome": "Cortesia da Plateia",
+        "nivel": 18,
+        "descricao": "Por um instante, o mundo paga a entrada. Você usa uma técnica sem custo — e o palco inteiro agradece, movendo-se a seu favor. Efeito. Uma vez por combate, você pode usar 1 Estilo de Dança sem gastar um uso de Inspiração Bárdica . Espíritos id =\" spoiler-K1LTd4 \">"
+      }
+    ]
+  },
+  {
+    "slug": "colegio-dos-espiritos",
+    "nome": "Colégio dos Espíritos",
+    "tagline": "Conta histórias dos mortos e canaliza poderes ancestrais.",
+    "features_sub": [
+      {
+        "nome": "Sussurros de Orientação",
+        "nivel": 3,
+        "descricao": "\"O espírito não grita; ajeita um grau a bússola e você sente o mundo concordar.\" Você aprende a dar empurrõezinhos de destino sem invadir a escolha de ninguém. Um toque no ombro, uma carta encostada perto da mão certa — e, de repente, o passo sai no compasso ideal. Efeito: Você aprende o truque Orientação ; não conta no seu limite de truques. Para você, o alcance é 18 metros [60 pés] ao conjurar."
+      },
+      {
+        "nome": "Foco Espiritual",
+        "nivel": 3,
+        "descricao": "\"Velas, vidro, osso e tinta — cada peça é uma porta que se abre quando a atenção gira a chave.\" Seu palco é portátil. Uma vela firma a cena, a caveira “ouve”, o quadro guarda olhos demais, o baralho respira. Você não precisa explicar: a presença do objeto já diz tudo . Efeito: Você pode usar como Foco de Conjuração para suas magias de Bardo: vela , bola de cristal , caveira , quadro espiritual ou baralho de tarô . Além disso, para quaisquer itens que pedem ser um instrumento musical, você pode adicionar os itens ditos nos requisitos e tipologia de itens."
+      },
+      {
+        "nome": "Arcanos do Véu",
+        "nivel": 3,
+        "descricao": "\"Não adivinho o futuro — eu o coleciono de antemão e escolho qual destino virar na hora certa.\" Você compra possibilidades e guarda uma carta virada para cima na manga da performance. Ao jogar, decide entre o efeito do Arcano ou deixar que a carta fale por uma magia vinculada — como se a figura estampada tivesse aprendido a conjurar por você. A plateia pode chamar de truque; você chama de acerto de tempo . Efeito: Enquanto estiver segurando seu Foco Espiritual, você pode usar uma Ação Bônus para gastar 1 uso de Inspiração Bárdica e “comprar cartas”: Comprar: role 2× d12 na lista de Arcanos abaixo e escolha 1 . Você prepara esse Arcano (fica “virado para cima”) por até 10 minutos . Comprar novamente encerra o Arcano preparado anterior. Jogar: como Ação Bônus (no mesmo turno ou depois), escolha uma criatura a até 9 m [30 pés] (inclusive você) e aplique o efeito do Arcano preparado. Só é possível manter 1 Arcano preparado por vez. Alternativamente, você pode conjurar uma magia vinculada a carta, essa magia é conjurada com essa Ação Bônus, mesmo que ela use uma Ação. Regras comuns: testes de resistência usam sua CD de Magia de Bardo ; danos/curas usam seu Dado de Inspiração Bárdica (d6/d8/d10/d12). Arcanos (d12) 1) O Louco — Salto de Fé: o alvo pode usar a própria Reação para se teletransportar até 9 m [30 pés] para um espaço desocupado que veja. Até Carisma (mín. 1) outras criaturas a até 9 m do alvo podem, se quiserem, imitar esse teleporte usando suas Reações. 2) O Mago — Manifestação: faça um ataque corpo a corpo com magia contra uma criatura a seu alcance. Acerto: causa 2× seu Dado de Inspiração em dano de força + seu modificador de Carisma . 3) A Sacerdotisa — Intuição: por 10 min , sempre que o alvo fizer um teste de INT, SAB ou CAR , ele rola +1 dado do tamanho do seu Dado de Inspiração e soma ao resultado. 4) A Imperatriz — Abundância: o alvo recebe PV temporários = 1× seu Dado de Inspiração + seu nível de Bardo . Enquanto tiver esses PV temporários: +3 m [10 pés] de deslocamento e +1 CA . 5) O Imperador — Bastião: por 1 min , o alvo ganha +2 na CA contra o primeiro ataque que o atingir em cada rodada e Vantagem em testes para resistir a empurrão ou derrubar . 6) O Eremita — Vulto: o alvo fica invisível até o fim do próximo turno ou até acertar um ataque. Se acertar um ataque durante a invisibilidade, esse ataque causa +1× seu Dado de Inspiração em necrótico e o atingido fica Amedrontado até o fim do próximo turno dele. 7) A Justiça — Golpe Equivalente: cada criatura à escolha do alvo que ele veja a até 9 m realiza Teste de Força . Falha: 3× seu Dado de Inspiração em trovão e fica Derrubada ; Sucesso: metade, sem cair. 8) A Roda — Virada de Sorte: o alvo ganha Vantagem na próxima jogada de ataque, teste ou resistência até o fim do próximo turno. Se falhar nessa jogada, pode rolá-la novamente 1 vez . 9) O Carro — Investida: o alvo pode imediatamente realizar Correr ou Desengajar e, até o fim do turno, não provoca Ataques de Oportunidade . 10) A Temperança — Restauro: o alvo recupera 2× seu Dado de Inspiração + seu Carisma em PV e você remove 1 condição : cego , surdo , paralisado , petrificado ou envenenado . 11) O Diabo — Tentação: o alvo faz Teste de Sabedoria ; falha: sofre 2× seu Dado de Inspiração em psíquico e fica Incapacitado até o fim do próximo turno dele; sucesso: metade, sem incapacitar. 12) A Torre — Ruptura: partindo do alvo , expele um cone de 9 m [30 pés] . Criaturas na área fazem Teste de Destreza ; Falha: 4× seu Dado de Inspiração em fogo ; Sucesso: metade. Coberturas frágeis/objetos na área podem desabar (a critério do Mestre). Criaturas concentrando-se fazem Teste de Constituição contra sua CD de Magia ou perdem a concentração . Segredo do Véu Sempre que você comprar cartas por rolagem (qualquer característica desta subclasse), você faz uma jogada de dados apenas para você e o Mestre e apenas vocês dois sabem o resultado antes da ativação. Se qualquer outro jogador souber qual é a carta antes de ela ser jogada, a carta não produz efeito quando for ativada (recursos gastos não são reembolsados). Fascínio id =\" spoiler-vlNfcB \">"
+      },
+      {
+        "nome": "Sessão de Tarô",
+        "nivel": 6,
+        "descricao": "\"Três velas, cartas viradas, respirações presas. Cada um segura o próprio relâmpago sem saber que céu vai cair.\" Efeito (ritual): Você conduz um ritual de 1 hora (durante Descanso Curto ou Longo ) com seu Foco Espiritual, você e qualquer número de criaturas dispostas (incluindo você). Ao final: Leitura Compartilhada: para cada participante, role 1× d12 nos Arcanos e associe 1 carta virada para baixo a essa criatura (incluindo você). Apenas você e o Mestre conhecem cada resultado. Usar a carta: até o próximo Descanso Longo , cada participante pode gastar a própria Ação Bônus para virar e jogar a sua carta (1 uso). Ao jogar, a criatura escolhe alvos/posições, mas todos os cálculos usam o seu Dado de Inspiração, sua CD de Magia e seu modificador de Carisma . A origem do efeito é considerada você para fins de resistências/concentração; a área e o alcance são medidos a partir da criatura que jogou . Magia emprestada: você “aprende” temporariamente 1 magia de Adivinhação ou Necromancia de qualquer classe com nível ≤ número de participantes e ≤ o nível de magia que você pode conjurar . Ela conta como magia de Bardo para você e não ocupa sua lista. Você a conhece até o próximo Descanso Longo . Frequência: 1/Descanso Longo ."
+      },
+      {
+        "nome": "Foco Espiritual Aprimorado",
+        "nivel": 6,
+        "descricao": "\"Quando a mesa acredita, até a magia simples pesa mais do que deveria.\" Efeito: Sempre que você conjurar uma magia de Bardo que cause dano ou cure usando seu Foco Espiritual , adicione 1 rolagem do seu Dado de Inspiração Bárdica a uma rolagem de dano ou de cura dessa magia. Fascínio id =\" spoiler-2YpZgf \">"
+      },
+      {
+        "nome": "Conexão Mística",
+        "nivel": 14,
+        "descricao": "\"Corte de três: uma carta para o risco, outra para o desejo, outra para o acerto. Eu escolho o que a sala está pronta para ouvir.\" Sua leitura fica exata . Você vê mais caminhos antes de se comprometer — e, quando decide, o foco responde melhor , como se o pano tivesse sido esticado na tensão perfeita. Efeito: Sempre que usar Arcanos do Véu para comprar cartas, role 3× d12 e escolha 1 para preparar. Se dois resultados forem iguais, você pode ignorar ambos e escolher qualquer Arcano da lista. Afinamento do foco: quando aplicar o bônus do Foco Espiritual Aprimorado em uma magia, você pode rolar seu Dado de Inspiração duas vezes e ficar com o maior resultado . Fascínio id =\" spoiler-e7Pz0i \">"
+      },
+      {
+        "nome": "Arcano Maior",
+        "nivel": 18,
+        "descricao": "\"Algumas cartas não se compram — se declaram. E quando elas falam, o resto silencia.\" Você começa cenas já com um presságio escolhido , pronto para cair como trovão polido. E, nos momentos certos, duas cartas viram de uma vez — como se a mesa, enfim, confiasse completamente em você. Efeito: Ao rolar Iniciativa , prepare 1 Arcano à sua escolha (da lista) sem gastar Inspiração ; ele permanece pronto por até 10 minutos . 1 vez por Descanso Longo: no seu turno, você pode jogar 2 Arcanos diferentes na mesma Ação Bônus . Fascínio id =\" spoiler-2U9MJZ \">"
+      }
+    ]
+  },
+  {
+    "slug": "colegio-do-fascinio",
+    "nome": "Colégio do Fascínio",
+    "tagline": "Encanto, glamour e ilusões que prendem corações e mentes.",
+    "features_sub": [
+      {
+        "nome": "Dom de Palco",
+        "nivel": 3,
+        "descricao": "\"Se houver plateia, já existe uma luz me esperando.\" Você não entra em cena: a cena acontece onde você está . Riso aparece no compasso certo, olhos se alinham sem esforço, e a conversa aprende a te dar passagem. Quando já dominava a arte, ela apenas aceitou ficar ainda mais precisa . Efeito. Você ganha proficiência em Atuação (Performance) . Se já for proficiente, você ganha Especialização nessa perícia (seu bônus de proficiência é dobrado nos testes de Atuação)."
+      },
+      {
+        "nome": "Manto Deslumbrante",
+        "nivel": 3,
+        "descricao": "\"Visto brilho como quem veste um verbo: ele diz ‘vamos’ e as pessoas entendem ‘agora’.\" Por um instante, o ar vira costume sob medida : contorna aliados, aparafusa coragem, reposiciona passos com a educação de uma cortina que se abre. É proteção que parece moda; impulso que parece boa ideia sua. Efeito. Como uma Ação Bônus, você pode gastar 1 uso de Inspiração Bárdica e rolar seu Dado de Inspiração. Em seguida, escolha um número de criaturas que possam ver você a até 9 m [30 pés] (máximo igual ao seu modificador de Carisma , mínimo 1). Cada alvo escolhido recebe pontos de vida temporários iguais ao resultado e pode se mover até o próprio deslocamento sem provocar Ataques de Oportunidade imediatamente."
+      },
+      {
+        "nome": "Presença Hipnótica",
+        "nivel": 3,
+        "descricao": "\"Dê-me um minuto. O resto a plateia resolve sozinha.\" Você derrama carisma como quem serve vinho caro: discreto, inevitável. Quando termina, corações já marcaram o seu tempo . Ninguém jura ter sido encantado; todos juram que foi a escolha certa desde o começo. Efeito. Após você se apresentar por pelo menos 1 minuto , como uma Ação você pode gastar 1 uso de Inspiração Bárdica para forçar criaturas à sua escolha que ouviram a apresentação e estejam a até 27 m [90 pés] a fazer um Teste de Resistência de Sabedoria contra sua CD de Magia de Bardo. Em uma falha , a criatura fica enfeitiçada por você por 1 hora (ou até você ou seus aliados realizarem algo hostil contra qualquer membro da audiência). Enquanto enfeitiçada dessa forma, ela idolatra você e fará o que você pedir, desde que isso não envolva arriscar a vida nem lutar por você . Em um sucesso , a criatura fica inconsciente da tentativa de encanto. Lâminas id =\" spoiler-dys9ED \">"
+      },
+      {
+        "nome": "Abertura de Palco",
+        "nivel": 6,
+        "descricao": "O combate começa no seu compasso. Uma chamada curta, e todos entram na marca exata — antes do mundo perceber. Efeito. Como uma Reação ao rolar iniciativa , você pode gastar 1 uso de Inspiração Bárdica para iniciar imediatamente sua Dança em Cena . Além disso, você e criaturas à sua escolha a até 9 metros [30 pés] que possam ouvir você podem rolar seu Dado de Inspiração Bárdica e adicionar o resultado à própria jogada de iniciativa ."
+      },
+      {
+        "nome": "Visagem de Outro Mundo",
+        "nivel": 6,
+        "descricao": "\"Não é que eu mude — é a sala que lembra quem sempre quis me ver.\" O Manto deixa de ser lampejo e vira estado de cena . Entre batidas, sua presença dá ordens com a delicadeza de um convite, renova ânimo como quem ajusta um tecido, e mantém todos numa dança que protege . Efeito. Quando você usa o Manto Deslumbrante , ele pode durar até 1 minuto , terminando mais cedo se você ficar incapacitado ou se encerrá-lo como uma Ação Bônus . Enquanto o Manto estiver ativo, em cada um dos seus turnos você pode usar uma Ação Bônus para escolher uma criatura que possa ver ou ouvir você a até 9 m [30 pés] e produzir um dos efeitos a seguir: Encanto Sutil. Você conjura charm person ou command sem gastar espaço de magia (a charm person lançada assim dura apenas enquanto o Manto estiver ativo, máximo 1 minuto). Brilho que Protege. O alvo recebe pontos de vida temporários iguais a uma rolagem do seu Dado de Inspiração e pode se mover até o próprio deslocamento sem provocar Ataques de Oportunidade imediatamente."
+      },
+      {
+        "nome": "Encanto Reflexo",
+        "nivel": 6,
+        "descricao": "\"Se vierem com ferro, que a mão escorregue de admiração.\" Há golpes que perdem coragem diante do verniz correto. Seu olhar vira superfície lisa , seu gesto vira ângulo impossível; a violência tropeça no próprio impulso. Com o Manto aceso, o mundo parece educado demais para te atingir. Efeito. Quando uma criatura que possa ver você acertar um ataque contra você, como uma Reação você pode gastar 1 uso de Inspiração Bárdica, rolar seu Dado de Inspiração e adicionar o resultado à sua CA contra aquele ataque (o que pode fazê-lo errar). Enquanto o seu Manto Deslumbrante estiver ativo , você pode usar esta característica sem gastar Inspiração Bárdica (ainda consome sua Reação normal). Lâminas id =\" spoiler-50Dutn \">"
+      },
+      {
+        "nome": "Manto de Proteção",
+        "nivel": 14,
+        "descricao": "\"Onde eu lidero, ninguém perde a cabeça — perde o medo.\" Sua aura aprende a cuidar de plateias inteiras : desfaz pânicos com palavra limpa, endireita espinhas com um aceno, fura ilusões vulgares como quem abre janela. À primeira batida da batalha, o Manto se ergue sozinho — a cortina sobe porque a orquestra respirou. Efeito. Enquanto o seu Manto Deslumbrante estiver ativo (ou enquanto você executar um Acorde de Poder , se aplicável), você e as criaturas à sua escolha a até 9 m [30 pés] que possam ver ou ouvir você ganham: Vantagem em testes de resistência para resistir e encerrar as condições: enfeitiçado , amedrontado , paralisado e atordoado . Visão através de ilusões fracas. Vocês veem através de quaisquer ilusões produzidas por magias de nível menor ou igual ao seu modificador de Carisma (mínimo 1). (O Mestre pode representar isso como transparências/falhas visuais; mecanicamente, tratem-nas como automaticamente discernidas ou com vantagem para desfazer, a critério da mesa.) Além disso, quando você rolar iniciativa e não estiver surpreendido nem incapacitado , você pode, como uma Reação , gastar 1 uso de Inspiração Bárdica para ativar imediatamente o Manto Deslumbrante . Lâminas id =\" spoiler-ZOuOJj \">"
+      },
+      {
+        "nome": "Presença Majestosa",
+        "nivel": 18,
+        "descricao": "\"Há vontades que parecem rocha — até serem vistas de perto.\" Seu enlevo já é força da natureza social . Diante dos seus feitiços, defesas se comportam como boas maneiras : cedem, não por fraqueza, mas por etiqueta diante de quem conduz tão bem. Com o Manto aceso, basta existir; o resto é o mundo acompanhando o tom. Efeito. Sempre que você conjurar uma magia de Encantamento contra uma criatura que possa ver você a até 9 m [30 pés] , você pode gastar 1 uso de Inspiração Bárdica para impor Desvantagem no teste de resistência dessa criatura. Se o seu Manto Deslumbrante estiver ativo , você pode usar esta característica sem gastar Inspiração Bárdica . Lâminas id =\" spoiler-5i44Ds \">"
+      }
+    ]
+  },
+  {
+    "slug": "colegio-das-laminas",
+    "nome": "Colégio das Lâminas",
+    "tagline": "Florete e canção — o duelista cuja arma é palco e ameaça.",
+    "features_sub": [
+      {
+        "nome": "Duelista Elegante",
+        "nivel": 3,
+        "descricao": "\"A mão que segura a lâmina também segura o olhar de quem assiste. Técnica é etiqueta — e etiqueta salva vidas.\" Você ganha proficiência com Armas Marciais . Você ganha 1 Maestrica com Arma e pode altera-la no fim de um Descanso Longo . Você pode usar uma arma Simples ou Marcial como Foco de Conjuração para suas magias de Bardo. Você ganha proficiência em Performance . Sempre que for fazer um teste de Carisma (Performance) , você pode, em vez disso, fazer um teste de Destreza (Performance) se a apresentação incorporar uma arma cortante com a qual você seja proficiente."
+      },
+      {
+        "nome": "Estilo de Luta",
+        "nivel": 3,
+        "descricao": "\"Escolha sua gramática: guarda fechada, cortes curtos, um contra-ataque que parece um cumprimento.\" Escolha 1 Estilo de Luta da lista a seguir. Sempre que você subir um nível em Bardo, pode substituir este Estilo por outro desta lista. Defesa: enquanto vestir armadura, recebe +1 CA . Duelo: quando empunhar uma arma corpo a corpo em uma mão e não estiver empunhando outra arma , recebe +2 no dano com essa arma. Combate com Duas Armas: quando realizar o ataque adicional da Luta com Duas Armas , você também adiciona seu modificador de habilidade ao dano do ataque secundário. Arma Pesada: ao rolar 1 ou 2 em um dado de dano de um ataque com uma arma corpo a corpo de duas mãos ou empunhada com as duas mãos, você pode rolar novamente o dado (deve usar o novo resultado)."
+      },
+      {
+        "nome": "Floreios de Lâmina",
+        "nivel": 3,
+        "descricao": "\"Velocidade é silêncio estudado. Primeiro corto o espaço, depois corto a dúvida.\" Efeito: Quando você fizer a Ação de Ataque no seu turno, sua velocidade aumenta em 3 metros [10 pés] até o fim do turno. Se um ataque com arma dessa ação acertar uma criatura, você pode gastar 1 uso de Inspiração Bárdica para aplicar um dos Floreios de Lâmina abaixo (apenas 1 floreio por turno ): Floreio Defensivo: adicione o resultado do seu Dado de Inspiração ao dano do ataque e à sua CA até o início do seu próximo turno . Floreio Móvel: adicione o resultado do seu Dado de Inspiração ao dano do ataque. Você pode empurrar o alvo até 5 vezes o resultado do dado em pés . Em seguida, você pode usar sua Reação para se mover até sua velocidade para um espaço desocupado a até 1,5 metro [5 pés] do alvo, sem provocar Ataques de Oportunidade do alvo . Floreio Cortante: adicione o resultado do seu Dado de Inspiração ao dano do ataque e cause o mesmo valor de dano do Dado de Inspiração a outra criatura à sua escolha que você possa ver a até 1,5 metro [5 pés] de você. Skald id =\" spoiler-HQ3cca \">"
+      },
+      {
+        "nome": "Segundo Ataque Mágico",
+        "nivel": 6,
+        "descricao": "\"Entre um corte e outro, um gesto que redesenha a cena.\" Efeito: Quando você fizer a Ação de Ataque no seu turno, poderá atacar duas vezes , em vez de uma. Você pode substituir um de seus ataques extras por um truque de Bardo (magia de tempo de conjuração Ação ) que você conheça e que não tenha aprendido através da habilidade de nível 10 \"Segredos Mágicos\". Skald id =\" spoiler-Qjof9Z \">"
+      },
+      {
+        "nome": "Ritmo Infindável",
+        "nivel": 14,
+        "descricao": "\"Quando o corpo sabe a coreografia, a lâmina dança sozinha.\" Efeito: Sempre que você usar um Floreio de Lâmina , você pode optar por rolar 1d6 e usar esse resultado em vez de gastar um uso de sua Inspiração Bárdica . (Você decide após acertar o ataque, antes de aplicar os efeitos do floreio.) Skald id =\" spoiler-Il6RNb \">"
+      },
+      {
+        "nome": "Represália Letal",
+        "nivel": 18,
+        "descricao": "\"Se tocar no meu compasso, recebe a resposta no mesmo tempo.\" Efeito: Quando uma criatura que você possa ver o acertar com um ataque corpo a corpo , você pode usar sua Reação para fazer 1 ataque corpo a corpo contra ela, com Vantagem . Sempre que você usar um Floreio de Lâmina durante sua ação, você pode realizar Correr ou Desengajar como Ação Bônus neste turno. Além disso, você aprende 2 Técnicas de Combate da classe Guerreiro à sua escolha. Sempre que uma dessas técnicas pedir para rolar o dado de recurso dela, use o seu Dado de Inspiração Bárdica . Skald id =\" spoiler-Rjtm0w \">"
+      }
+    ]
+  },
+  {
+    "slug": "colegio-skald",
+    "nome": "Colégio Skald",
+    "tagline": "Bardo de batalha do norte: runas, brados e hidromel sagrado.",
+    "features_sub": [
+      {
+        "nome": "Forja do Skald",
+        "nivel": 3,
+        "descricao": "\"Se a saga pede aço, eu aprendi a caligrafar com lâminas.\" Você trocou o palco pela vanguarda — onde o verso é batida de bota e o aplauso, choque de escudos. Seu repertório inclui paradas firmes, estocadas com o peso certo e a velha lição: herói que canta por último, canta vitória. Efeito. Você ganha proficiência com todas as armas marciais , escudos e armaduras pesadas . Você pode usar sua arma ou escudo como foco de conjuração para magias de Bardo. Além disso, seu vigor excede o de outros bardos: seu máximo de pontos de vida aumenta em 3 imediatamente e aumenta em +1 toda vez que você ganhar um novo nível de Bardo ."
+      },
+      {
+        "nome": "Estrofe de Batalha",
+        "nivel": 3,
+        "descricao": "\"Um verso bem posto vira guarda, vira ponta — vira chance.\" Você conhece o segundo exato antes do impacto — e coloca palavras onde outros colocariam medo. O resultado é simples: golpes erram, lâminas pesam mais, e a linha não cede. Efeito. Uma criatura que possua um Dado de Inspiração Bárdica seu pode gastá-lo para um dos seguintes efeitos: Defesa. Como uma Reação, quando for atingida por um ataque , a criatura rola o Dado de Inspiração e adiciona o resultado à própria CA contra aquele ataque , potencialmente fazendo o golpe errar. Ofensa. Imediatamente após acertar uma jogada de ataque, a criatura rola o Dado de Inspiração e adiciona o resultado ao dano do ataque."
+      },
+      {
+        "nome": "Verso Afiado",
+        "nivel": 3,
+        "descricao": "\"Se o corte falha por um sopro, eu costuro o sopro ao corte.\" Na sua boca, erro vira rima interna: uma emenda, uma batida curta, e o aço encontra o destino que vacilou por um triz. Efeito. Quando você fizer uma jogada de ataque com arma e errar , você pode gastar 1 uso de Inspiração Bárdica , rolar seu Dado de Inspiração e adicionar o resultado à jogada de ataque , possivelmente transformando o erro em acerto. ( Sem ação; decida após ver que errou, antes do Mestre seguir adiante. )"
+      },
+      {
+        "nome": "Segundo Ataque (Mágico)",
+        "nivel": 6,
+        "descricao": "\"Entre duas batidas, cabe um truque bem empunhado.\" Você alterna rima e lâmina, runa e riposta. O inimigo se perde no compasso — você, nunca. Efeito. Quando você fizer a Ação de Ataque no seu turno, poderá atacar duas vezes , em vez de uma. Você pode substituir 1 desses ataques por um truque de bardo que você conheça. Este truque deve ter sido aprendido naturalmente por você e não pode ter sido obtido através da habilidade de nível 10 \"Segredos Mágicos\"."
+      },
+      {
+        "nome": "Brado de Investida",
+        "nivel": 6,
+        "descricao": "\"Eu digo ‘agora’, e os pés entendem ‘primeiro’.\" Seu grito de guerra organiza o caos: cordas invisíveis puxam companheiros para a dianteira, e a história começa um segundo antes para quem está do seu lado. Efeito. Como uma Reação quando você rolar iniciativa, você pode gastar 1 uso de Inspiração Bárdica . Então, criaturas à sua escolha que possam ouvir você a até 9 m [30 pés] adicionam o resultado de uma rolagem do seu Dado de Inspiração às próprias jogadas de iniciativa ."
+      },
+      {
+        "nome": "Runas no Aço",
+        "nivel": 14,
+        "descricao": "\"Refrão arcano, riposta de ferro.\" Você grava sílabas antigas no ar com a ponta da lâmina — e termina a frase com o aço. A magia prepara; o golpe assina. Efeito. Após conjurar uma magia com tempo de conjuração: Ação no seu turno, você pode fazer 1 ataque com arma como uma Ação Bônus ."
+      },
+      {
+        "nome": "Hidromel do Valor",
+        "nivel": 14,
+        "descricao": "\"Eu não empresto só números — empresto fôlego.\" Suas palavras esquentam o sangue e endireitam a coluna. Há quem chame de encorajamento; você chama de fermento de lenda. Efeito. Quando você adicionar um Dado de Inspiração Bárdica seu à jogada de ataque , teste de habilidade ou teste de resistência de outra criatura , você também concede a ela pontos de vida temporários iguais ao seu modificador de Carisma (mínimo 1). Enquanto mantiver esses PV temporários, o deslocamento da criatura aumenta em 3 m [10 pés] ."
+      },
+      {
+        "nome": "Coro das Sagas",
+        "nivel": 18,
+        "descricao": "\"Se a guerra começa, começamos juntos — cada voz com seu verso.\" Na primeira batida do tambor, sua voz reparte coragem como quem reparte escudos. O campo reconhece a cadência — e a maré vira ao seu compasso. Efeito. Quando você usar a habilidade Brado de Investida , você pode conceder a cada criatura aliada até 1 Dado de Inspiração Bárdica , no início do combate. (Esses dados funcionam como Inspiração Bárdica normal concedida por você.) Você pode usar esta habilidade novamente gastando 1 Dado de Inspiração Bárdica como reação, quando vir uma criatura cair a 0 pontos de vida a até 9 metros (30 pés) de você. Ao fazê-lo, você escolhe novamente as criaturas que receberão os Dados de Inspiração."
+      }
+    ]
+  }
+]

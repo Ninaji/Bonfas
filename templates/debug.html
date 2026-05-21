@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Bonfas Debug · TagsJSON</title>
+<link rel="stylesheet" href="/static/debug.css">
+</head>
+<body>
+
+<header class="topnav">
+  <div class="brand">Bonfas Debug · TagsJSON</div>
+  <nav>
+    <a data-nav="classes"   href="/debug/classes">Classes</a>
+    <a data-nav="talentos"  href="/debug/talentos">Talentos</a>
+    <a data-nav="racas"     href="/debug/racas">Raças</a>
+    <a data-nav="essencias" href="/debug/essencias">Essências</a>
+    <a data-nav="items"     href="/debug/items">Itens</a>
+  </nav>
+</header>
+
+<main id="debug-root">
+  <div class="loading">Carregando...</div>
+</main>
+
+<!-- Modal: adicionar tag assistido -->
+<div id="addTagModal" class="modal hidden">
+  <div class="modal-box">
+    <header>
+      <h3>Adicionar tag</h3>
+      <button class="close" data-close>×</button>
+    </header>
+    <div class="modal-body">
+      <label>Tipo
+        <select id="addTagPrefix">
+          <option value="prof">prof</option>
+          <option value="expertise">expertise</option>
+          <option value="save-prof">save-prof</option>
+          <option value="save-prof-vontade">save-prof-vontade</option>
+          <option value="resist">resist</option>
+          <option value="immune">immune</option>
+          <option value="vuln">vuln</option>
+          <option value="cond-immune">cond-immune</option>
+          <option value="adv-cond">adv-cond</option>
+          <option value="andar">andar</option>
+          <option value="voar">voar</option>
+          <option value="nadar">nadar</option>
+          <option value="cavar">cavar</option>
+          <option value="pv-por-nivel">pv-por-nivel</option>
+          <option value="pick:pericia">pick:pericia</option>
+          <option value="pick:idioma">pick:idioma</option>
+          <option value="pick:ferramenta">pick:ferramenta</option>
+          <option value="pick:talento-origem">pick:talento-origem</option>
+          <option value="conjurador">conjurador (standalone)</option>
+          <option value="infernal">infernal (standalone)</option>
+        </select>
+      </label>
+      <label>Valor / N
+        <input id="addTagValue" type="text" placeholder="ex: Atletismo, Fogo, 2, Sabedoria">
+        <small id="addTagValueHint" class="hint"></small>
+      </label>
+      <label>Whitelist (opcional, só faz sentido em pick:*)
+        <input id="addTagFilter" type="text" placeholder="A|B|C separados por |">
+        <small class="hint">Se preenchido, gera forma objeto: <code>{"tag":"...","filter":[...]}</code></small>
+      </label>
+      <label>Progressão por nível (opcional)
+        <input id="addTagProgressao" type="text" placeholder="1=3,4=4,10=5,16=6">
+        <small class="hint">Se preenchido, o "valor" acima vira o N na chave; nivel da classe resolve. Ex.: <code>1=3,4=4</code> = 3 maestrias no Nv 1, 4 no Nv 4. Tag fica como objeto com <code>n_por_nivel</code>.</small>
+      </label>
+      <div class="preview">
+        Resultado: <code id="addTagPreview">""</code>
+      </div>
+    </div>
+    <footer>
+      <button data-close>Cancelar</button>
+      <button id="addTagOk" class="primary">Adicionar</button>
+    </footer>
+  </div>
+</div>
+
+<script src="/static/debug.js"></script>
+</body>
+</html>

@@ -1,0 +1,24 @@
+{
+  "saves": [
+    "Constituicao",
+    "Carisma"
+  ],
+  "skills": {
+    "choose": 2,
+    "from": [
+      "Arcanismo",
+      "Enganação",
+      "Intimidação",
+      "Intuição",
+      "Persuasão",
+      "Religião"
+    ]
+  },
+  "weapon_prof": [
+    "Adagas, dardos, fundas, bastões, bestas leves"
+  ],
+  "armor_prof": [],
+  "dado_vida": "1d6",
+  "equipamento_inicial_raw": "Você começa com os seguintes equipamentos, em adição aos recebidos por seu antecedente: (a) Uma besta leve e 20 virotes ou (b) uma arma simples (a) Uma bolsa de componentes ou (b) um foco arcano (a) Um pacote de masmorra ou (b) um pacote de explorador Duas adagas",
+  "_raw_text": "Como um Feiticeiro, você ganha as seguintes características de classe. Pontos de Vida (PV) Dados de Vida: 1d6 por nível de Feiticeiro Dados de Vida no Nível 1: 6 + Modificador de Constituição Pontos de Vida em Níveis Superiores: 4 + Modificador de Constituição por nível de Feiticeiro após o 1º. Proficiências Armaduras: Nenhuma Armas: Adagas, dardos, fundas, bastões, bestas leves Testes de Resistência: Constituição e Carisma Perícias: Escolha duas dentre Arcanismo, Enganação, Intimidação, Intuição, Persuasão e Religião. Equipamentos Você começa com os seguintes equipamentos, em adição aos recebidos por seu antecedente: (a) Uma besta leve e 20 virotes ou (b) uma arma simples (a) Uma bolsa de componentes ou (b) um foco arcano (a) Um pacote de masmorra ou (b) um pacote de explorador Duas adagas"
+}

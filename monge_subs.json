@@ -1,0 +1,260 @@
+[
+  {
+    "nome": "Alma Ardente",
+    "slug": "alma-ardente",
+    "offset_start": 56103,
+    "offset_end": 62204,
+    "features_sub": [
+      {
+        "nivel": 3,
+        "nome": "Primeiro Ardor - Brasa da Alma",
+        "descricao": "\"Primeiro ardor: a alma acorda como brasa sob cinzas. O corpo lembra o compasso do próprio coração, a pele escuta o ar. O mundo não fica mais claro — fica mais nítido: cada gesto encontra seu peso, cada passo, seu propósito. Onde encosto a palma, a hesitação evapora.\" Efeito: Ativação: Ação Bônus • Custo: 1 Ki • Duração: 1 minuto (veja melhorias nos níveis 11 e 17). Aura/Luz: Você possui uma Aura de 3 metros [10 pés] e emite luz brilhante em 3 metros [10 pés] e luz baixa por +3 metros [10 pés] . Você pode suprimir/reativar no seu turno (Ação Livre). Disparo da Alma: ganha um ataque especial à distância de 9/18 metros [30/60 pés] . Você é proficiente e usa Destreza ou Sabedoria (à escolha a cada ataque) nas jogadas de ataque e dano. O dano é de Energia (Force) e o dado é seu Dado de Artes Marciais . Você pode aplicar neste ataque técnicas de Ki que disparem “no acerto” (pagando Ki normalmente).",
+        "offset_inicio": 59339,
+        "offset_fim": 60584
+      },
+      {
+        "nivel": 3,
+        "nome": "Segundo Ardor - Chama da Alma",
+        "descricao": "\"Segundo ardor: o calor cresce e o ar ao redor aprende a obedecer. A cada investida contra mim, o fluxo recua como se temesse queimar os dedos. O adversário vê avanço; eu vejo abertura. A chama responde sozinha — e devolve o golpe com a elegância de quem já sabia o final.\" Efeito: Ativação: Ação Bônus • Custo: 3 Ki, ou apenas +1 Ki se já estiver sob Primeiro Ardor - Brasa da Alma • Duração: 1 minuto (veja melhorias no nível 17). Retroativo: mantém todos os benefícios do Primeiro Ardor - Brasa da Alma. Resistência Ardente: enquanto este ardor estiver ativo, você tem Resistência a dano de Força . Reflexo Ofensivo: quando uma criatura dentro da sua aura o atacar pela primeira vez no turno , você pode usar sua Reação para realizar 1 ataque contra ela: corpo a corpo (se estiver no alcance) ou seu Raio da Alma (se não estiver). Nesse ataque, você pode aplicar técnicas de Ki que disparem “no acerto” sem gastar Ki . Forma da Alma Astral",
+        "offset_inicio": 60584,
+        "offset_fim": 62204
+      }
+    ],
+    "tagline": "\"Não busco outra forma — eu acendo a minha. O Ki sobe como calor sob a pele, a respiração marca o compasso, e cada músculo aprende a obedecer à chama. Não é ira: é direção. Onde a alma arde, o corpo responde; onde o corpo responde, o mundo cede meio "
+  },
+  {
+    "nome": "Alma Astral",
+    "slug": "alma-astral",
+    "offset_start": 62204,
+    "offset_end": 67174,
+    "features_sub": [
+      {
+        "nivel": 3,
+        "nome": "Braços da Alma Astral",
+        "descricao": "\"Estendo o que não pesa. Meus braços de luz alcançam onde a carne não chega; seguram, empurram, moldam. Não é força — é forma. Não é distância — é presença.\" Efeito: Com uma Ação Bônus , você gasta 1 ponto de Ki para invocar os braços de sua Alma Astral . Ao fazer isso, criaturas à sua escolha que você possa ver a até 3 metros [10 pés] devem realizar um Teste de Resistência de Destreza contra sua CD de Ki . Em falha , cada alvo sofre dano de Força igual a duas vezes sua rolagem do Dado de Artes Marciais e você pode empurrá-lo 1,5 metro [5 pés] diretamente para longe de você. Em sucesso , o alvo não sofre esses efeitos. Duração: 10 minutos ; os braços somem se você ficar Incapacitado ou morrer. Aparência: os braços astrais flutuam próximos aos seus ombros ou ao seu redor (à sua escolha). Cada Alma Astral é única . Benefícios enquanto os braços astrais estiverem presentes: Força pela Sabedoria: você pode usar seu modificador de Sabedoria no lugar do de Força em testes de habilidade de Força e em Testes de Resistência de Força . Golpes Astrais: você pode usar os braços astrais para realizar Golpes Desarmados . Alcance Estendido: quando realizar um Golpe Desarmado com os braços astrais, seu alcance para esse ataque é +1,5 metro [5 pés] além do normal. Ki como Lâmina: ao atacar com os braços astrais, você pode usar seu modificador de Sabedoria no lugar de Força ou Destreza para as jogadas de ataque e dano ; quando o fizer, o tipo de dano do golpe torna-se Força . Elemental",
+        "offset_inicio": 64741,
+        "offset_fim": 67174
+      }
+    ],
+    "tagline": "\"Fecho os olhos e minha silhueta permanece — mas não é a de carne. É um contorno de propósito, tecido de Ki. A mão que alcança não é a mão; é o gesto anterior à mão. O que levanta, segura e protege não são músculos: é a vontade que os antecede.\" Os m"
+  },
+  {
+    "nome": "Elemental",
+    "slug": "elemental",
+    "offset_start": 67174,
+    "offset_end": 78283,
+    "features_sub": [
+      {
+        "nivel": 3,
+        "nome": "Início da Jornada",
+        "descricao": "\"Toda montanha começou num grão; todo trovão, numa brisa. Escolho um elemento como quem escolhe um primeiro traço: simples, decidido, repetido até virar caminho. Hoje sou faísca, onda, rocha ou sopro — amanhã aprenderei a ser todos, um de cada vez, no ritmo certo da respiração.\" Efeito: Ao escolher esta Tradição no 3º nível , escolha um Elemento inicial : Água, Ar, Fogo ou Terra . Esse elemento define suas primeiras técnicas. Você aprende um novo elemento adicional nos níveis 6 , 11 e 17 .",
+        "offset_inicio": 70963,
+        "offset_fim": 71756
+      },
+      {
+        "nivel": 3,
+        "nome": "Conjuração Elemental",
+        "descricao": "\"Meus selos são passos; minha reza, a cadência do quadril. Abro a mão e o fogo escreve velocidade, fecho a mão e a água desenha alcance; firmo o calcanhar e a terra sustenta, ergo o olhar e o ar desvenda. Não é truque — é gramática da natureza, falada no sotaque do meu Ki.\" Efeito: Magias por Ki: você aprende a conjurar magias ligadas aos elementos que domina (veja a Tabela de Magias Elementais desta Tradição). Para conjurar uma dessas magias, gaste pontos de Ki iguais ao ciclo da magia. Truques não custam Ki. Componentes materiais não são necessários ao conjurá-las por Ki. Aumento de ciclo: ao conjurar, você pode gastar Ki adicional para aumentar o ciclo em +1 por ponto gasto. Você só pode aumentar até o maior ciclo que seu nível permitir (abaixo). Limite de ciclo por nível: no 3º nível , até 1º ciclo ; aumenta para 2º no 5º , 3º no 9º , 4º no 13º e 5º no 17º . Fluxo Marcial: quando você usa a ação Atacar no seu turno, você pode usar sua Ação Bônus para conjurar uma magia desta Tradição através do Ki. Atributo de Conjuração: use Sabedoria (CD de salvaguarda = sua CD de Ki ; ataque de magia = Proficiência + Sabedoria ). Observações: As magias são lançadas no menor ciclo por padrão, a menos que você invista Ki adicional para elevar o ciclo. Lista de Magias Elementais Lista de Magia Nível do Círculo Água Ar Fogo Terra Truque Moldar Água (Shape Water) Lufada (Gust) Controlar Chamas (Control Flame) Moldar Terra (Mold Earth) 1° Criar Ou Destruir Água (Create Or Destroy Water) D...",
+        "offset_inicio": 71756,
+        "offset_fim": 75679
+      },
+      {
+        "nivel": 3,
+        "nome": "Técnica Elemental",
+        "descricao": "\"Não misturo vozes, harmonizo turnos. Um coração, um pulso: agora o aço da chama, depois a mão líquida; primeiro o chão que não cede, então o céu que concede. No começo do turno escolho o dicionário — e o corpo escreve, sem ruído, o verbo do elemento em mim.\" Efeito (Estilos Passivos): Ao aprender um elemento, você recebe a respectiva Técnica Elemental abaixo. Essas técnicas são passivas , mas elementos opostos não podem estar ativos ao mesmo tempo : Fogo ↔ Água e Terra ↔ Ar . No início do seu turno , declare quais técnicas estão ativas . Fogo — Golpe Ígneo Durante o seu turno, você pode adicionar o seu Dado de Artes Marciais como dano extra de fogo em 1 dos seus ataques que acertar. No 5º nível , pode aplicar em 2 ataques; no 11º , em 3 ; no 17º , em 4 . Água — Alcance Fluido Seus Golpes Desarmados ganham +1,5 metro [5 pés] de alcance. No 5º nível , +3 metros [10 pés] ; no 11º , +4,5 metros [15 pés] ; no 17º , +6 metros [20 pés] . Terra — Pulso Sísimico Você ganha Sentido Sísmico de 3 metros [10 pés] e Vantagem em testes para resistir a ser movido enquanto estiver no chão. No 5º nível , o sentido aumenta para 9 metros [30 pés] ; no 11º , você não pode ser movido contra a vontade estando no chão; no 17º , o sentido aumenta para 18 metros [60 pés] . Ar — Passo Aéreo Você ganha deslocamento de voo igual à metade do seu deslocamento de caminhada, mas deve terminar o deslocamento no chão . No 5º nível , você não provoca ataques de oportunidade ao voar para fora do alcance de u...",
+        "offset_inicio": 75679,
+        "offset_fim": 78283
+      }
+    ],
+    "tagline": "\"Inspiro fogo, expiro água; firmo os calcanhares na terra, ergo o olhar ao ar. Não comando — sincronizo. Meu Ki é ponte entre pulseiros do mundo: brasa que acelera, mar que alcança, rocha que sustenta, vento que concede passagem. Onde a respiração en"
+  },
+  {
+    "nome": "Imortal",
+    "slug": "imortal",
+    "offset_start": 78283,
+    "offset_end": 83843,
+    "features_sub": [
+      {
+        "nivel": 3,
+        "nome": "Toque da Morte",
+        "descricao": "\"Onde toco, a chama se contrai. Giro o punho e o frio assina junto. Não é crueldade: é precisão. A mão não encerra — apenas lembra ao corpo a ordem que o silêncio conhece.\" Efeito: Quando você atingir um alvo com um Golpe Desarmado ou uma Arma de Monge , você pode gastar de 1 a 4 pontos de Ki para ampliar a mortalidade do golpe. Para cada ponto de Ki gasto, o ataque causa +1 × seu Dado de Artes Marciais como dano necrótico adicional.",
+        "offset_inicio": 81641,
+        "offset_fim": 82312
+      },
+      {
+        "nivel": 3,
+        "nome": "Velar o Corpo",
+        "descricao": "\"Nem todo fim precisa ser agora. Ajo com mãos frias e respiração medida; cubro a fronte, aquieto o pulso. O corpo descansa, a história aguarda. Onde a morte apressa, eu imponho intervalo.\" Efeito: Sua conexão com o limiar entre a vida e a morte permite que você preserve a essência daqueles que caíram. Você ganha os seguintes benefícios: Artes Fúnebres: Você aprende o truque Estabilizar (Spare the Dying) e a magia Repouso Gentil (Gentle Repose). Sabedoria é o seu atributo de conjuração para estas magias. Toque de Preservação: Você pode conjurar Estabilizar à vontade, sem gastar pontos de Ki. Rito do Repouso: Você pode gastar 2 pontos de Ki para conjurar Repouso Gentil como uma ação, sem a necessidade de componentes materiais. Alternativamente, você pode conjurar essa magia como um ritual (adicionando 10 minutos ao tempo de conjuração) sem gastar pontos de Ki. Kensei",
+        "offset_inicio": 82312,
+        "offset_fim": 83843
+      }
+    ],
+    "tagline": "\"Conto os batimentos como quem conta degraus rumo a um porão frio. Inspiro, registro; expiro, concluo. A morte não me assusta — me instrui. Onde outros desviam o olhar, eu mantenho a calma do escriba. O Ki é meu estetoscópio; o silêncio, minha pranch"
+  },
+  {
+    "nome": "Kensei",
+    "slug": "kensei",
+    "offset_start": 83843,
+    "offset_end": 89214,
+    "features_sub": [
+      {
+        "nivel": 3,
+        "nome": "Bushidō",
+        "descricao": "\"Segurar é prometer. Sacar é cumprir. Entre promessa e cumprimento, cabe uma vida inteira de repetição. A mão não domina a arma: harmoniza-se a ela. Quando a mente está certa, qualquer lâmina encontra o ideograma correto no corpo do inimigo.\" Efeito: Ao escolher esta Tradição no 3º nível , você consagra um conjunto de ferramentas e armas como extensões do seu ofício: Armas de Kensei (3º nível): escolha duas armas para se tornarem suas Armas de Kensei : uma corpo a corpo e uma à distância . Elas podem ser simples ou marciais , desde que não tenham as características Pesada ou Especial . Proficiência, Integração e Maestris: você ganha proficiência com as armas escolhidas (se ainda não tiver). Essas armas passam a ser consideradas Armas de Monge para você, você também recebe 1 maestria de arma para cada uma dessas armas. Ferramentas Finas: você adquire proficiência com Suprimentos de Caligrafia e Suprimentos de Pintura . Escalonamento de Arsenal: ao atingir os níveis 6 , 11 e 17 , escolha +1 arma adicional como Arma de Kensei (corpo a corpo ou à distância), seguindo os mesmos critérios. As armas escolhidas nos níveis 11 e 17 podem ter a característica Pesada , mas não podem ter a característica Especial . Foco do Estilo: salvo indicação em contrário, as características desta Tradição interagem apenas com suas Armas de Kensei .",
+        "offset_inicio": 86238,
+        "offset_fim": 88082
+      },
+      {
+        "nivel": 3,
+        "nome": "Estilos Kensei",
+        "descricao": "\"A lâmina ensina o silêncio que corta. O estojo da espada é a respiração, o fio é a intenção. Cada passo mede a distância certa; cada guarda escolhe o tempo certo. No caminho Kensei, a forma do corte é a forma do corpo.\" Efeito: Seus Estilos de Ki são substituídos pelos Estilos Kensei . Eles seguem as mesmas regras gerais dos Estilos de Ki (inclusive não usar o mesmo Estilo mais de uma vez por turno ). Ao escolher este arquétipo, você aprende +1 Estilo adicional imediatamente. Estilos Kensei",
+        "offset_inicio": 88082,
+        "offset_fim": 89214
+      }
+    ],
+    "tagline": "\"A lâmina não corta para ferir: corta para revelar. Entre inspirar e expirar, há um traço — e nele cabem peso, ângulo, distância e intenção. Treinei até que a arma deixasse de ser objeto; tornou-se gesto puro. O aço é o pincel, meu corpo é o papel, e"
+  },
+  {
+    "nome": "Misericórdia",
+    "slug": "misericordia",
+    "offset_start": 93397,
+    "offset_end": 100021,
+    "features_sub": [
+      {
+        "nivel": 3,
+        "nome": "Máscara da Piedade",
+        "descricao": "\"Cubro o rosto para revelar a intenção. Por trás do branco, não há medo; há foco. A máscara é o juramento que visto para lembrar que a mão cura antes de ferir — e que, quando fere, é para poupar.\" Efeito: Você ganha proficiência em Intuição , Medicina e com o Kit de Herbalismo . Você recebe uma Máscara da Piedade . Você deve estar vestindo-a para usar as características desta subclasse. Máscara da Piedade - Defina a aparência da máscara (ou role 1d6) D6 Aparência da Máscara 1 Corvo 2 Lisa e Branca 3 Rosto Chorando 4 Rosto Sorrindo 5 Caveira 6 Borboleta de Asas Abertas",
+        "offset_inicio": 96803,
+        "offset_fim": 97868
+      },
+      {
+        "nivel": 3,
+        "nome": "Estilos Adicionais da Misericórdia",
+        "descricao": "\"Entre o pulso e a lâmina, escolho o que o momento pede. Velocidade para alcançar a vida; precisão para poupar a dor.\" Efeito: Você aprende os Estilos de Ki Debilitante e Ágil . Se já possuir um deles, escolha outro Estilo de Ki no lugar. Sinergia com Palma da Cura: ao usar Palma da Cura , você pode ativar Estilo Ágil imediatamente após como Ação Bônus , ignorando a exigência “após a ação Atacar”.",
+        "offset_inicio": 97868,
+        "offset_fim": 98560
+      },
+      {
+        "nivel": 3,
+        "nome": "Palma da Cura",
+        "descricao": "\"A pressão certa, o sopro certo, o silêncio certo. Onde o sangue corre apressado, devolvo ritmo; onde a pele reclama, devolvo repouso. A mão conhece o caminho de volta.\" Efeito: Com uma Ação , gaste 1 ponto de Ki para tocar uma criatura e restaurar PV iguais a 1 rolagem do seu Dado de Artes Marciais + seu modificador de Sabedoria .",
+        "offset_inicio": 98560,
+        "offset_fim": 99104
+      },
+      {
+        "nivel": 3,
+        "nome": "Palma do Sangue",
+        "descricao": "\"Mesmo a compaixão tem lâmina. Quando o sofrimento não recua, fecho os olhos por quem não pode — e encerro.\" Efeito: Quando você acertar uma criatura com um Golpe Desarmado , pode gastar 1 ponto de Ki para causar dano necrótico adicional igual a 1 rolagem do seu Dado de Artes Marciais + seu modificador de Sabedoria . Você só pode usar esta característica uma vez por turno . Palma Aberta",
+        "offset_inicio": 99104,
+        "offset_fim": 100021
+      }
+    ],
+    "tagline": "\"Visto a máscara para que minhas mãos falem primeiro. Uma palma guarda o pulso, a outra encerra a dor. Entre o suspiro que volta e o suspiro que cessa, escolho com calma — não para ser temido, mas para ser preciso. Meu voto é simples: aliviar o que p"
+  },
+  {
+    "nome": "Palma Aberta",
+    "slug": "palma-aberta",
+    "offset_start": 100021,
+    "offset_end": 105793,
+    "features_sub": [
+      {
+        "nivel": 3,
+        "nome": "Técnica da Palma Aberta",
+        "descricao": "\"O Ki do outro é espelho do meu. Toco, cedo, redireciono: a mão não luta contra — convida o corpo alheio a concordar. Onde há tensão, há desperdício; onde há palma aberta, há economia.\" Efeito: Estilos Aprendidos: você aprende os Estilos de Ki Hábil e Ágil . Se já possuir algum deles, escolha outro Estilo de Ki no lugar. Sinergia com Estilo Ágil: quando você ativar o Estilo Ágil , todos os seus outros Estilos que exigem acerto (ex.: Rasteiro, de Impulso, Debilitante, Constritor) não custam Ki se forem aplicados nos ataques da Ação Bônus concedidos pelo Estilo Ágil. Hábil Expandido: o Estilo Hábil pode ser utilizado da mesma forma que Rasteiro , de Impulso , Debilitante ou Constritor — isto é, você pode aplicá-lo em qualquer ataque que acerte. Se esse uso ocorrer nos ataques da Ação Bônus do Estilo Ágil, o alvo falha automaticamente no teste de resistência referente ao efeito aplicado por Hábil (por exemplo, ficar sem Reações até o fim do seu próximo turno). Dupla Aplicação de Estilo: você pode usar o mesmo Estilo duas vezes no mesmo turno . O segundo uso não tem custo de Ki .",
+        "offset_inicio": 103082,
+        "offset_fim": 104770
+      },
+      {
+        "nivel": 3,
+        "nome": "Visão de Ki",
+        "descricao": "\"Fecho os olhos do rosto para abrir os da palma. O mundo vibra linhas e volumes; o que se esconde apenas muda de tinta. Meu Ki vê por dentro da escuridão.\" Efeito: Você ganha Visão às Cegas de 3 metros [10 pés] . Dentro desse alcance, você percebe criaturas e objetos que não estejam atrás de Cobertura Total , mesmo se estiver cego ou em escuridão (mágica ou não). Você também pode perceber criaturas invisíveis nesse alcance, a menos que elas se escondam com sucesso de você. Punho Bêbado",
+        "offset_inicio": 104770,
+        "offset_fim": 105793
+      }
+    ],
+    "tagline": "\"Fecho o punho para lembrar a força; abro a palma para escolher o rumo. O golpe perfeito não empurra: convida. Eu não venço o corpo do outro — ensino-o a concordar comigo por um instante. Entre o avanço e o recuo, existe uma dobra do mundo onde tudo "
+  },
+  {
+    "nome": "Punho Bêbado",
+    "slug": "punho-bebado",
+    "offset_start": 105793,
+    "offset_end": 111264,
+    "features_sub": [
+      {
+        "nivel": 3,
+        "nome": "Proficiência Adicional",
+        "descricao": "\"Bebo o aplauso como quem sorve espuma — não por vaidade, por técnica: distrair também é defesa.\" Efeito: Você ganha proficiência em Performance (se ainda não tiver). Você ganha proficiência com Suprimentos de Cervejeiro (se ainda não tiver).",
+        "offset_inicio": 108787,
+        "offset_fim": 109268
+      },
+      {
+        "nivel": 3,
+        "nome": "Estado Bêbado Monástico",
+        "descricao": "\"Um gole, e o mundo abranda. Entre um passo e outro, tropeço de propósito — e, no tropeço, nenhum golpe me encontra inteiro.\" Efeito: Quando você beber pelo menos 1 copo de bebida alcoólica usando uma Ação , você entra no Estado Bêbado Monástico por 1 minuto . Nesse estado, você está sempre sob o efeito de Desengajar (Disengage) , pode usar Desviar (Dodge) como Ação Bônus e pode gastar 1 ponto de Ki para usar Desviar (Dodge) como Ação Livre . Você pode entrar nesse estado um número de vezes igual ao seu Bônus de Proficiência . Todos os usos se recuperam ao final de um Descanso Longo . Caso entre mais de uma vez antes de um descanso longo, para cada vez adicional faça um Teste de Resistência de Constituição CD 10 + 5 para cada entrada anterior; em falha, você recebe 1 nível de Exaustão .",
+        "offset_inicio": 109268,
+        "offset_fim": 110358
+      },
+      {
+        "nivel": 3,
+        "nome": "Técnica do Bêbado",
+        "descricao": "\"Toda taverna é arsenal. Copo vira martelo de vento, banquinho vira alavanca, barril vira aríete simpático. O truque não é o objeto — é o ângulo.\" Efeito: Enquanto estiver no Estado Bêbado Monástico , você pode usar Armas Improvisadas (como copo, garrafa, barril, banquinho etc.) como Armas de Monge . O Mestre determina como o objeto pode ser usado e quais são suas propriedades. Punho do Dragão",
+        "offset_inicio": 110358,
+        "offset_fim": 111264
+      }
+    ],
+    "tagline": "\"Tropeço de propósito para que o golpe tropece comigo. Deixo o mundo achar que perdi o passo — e, quando ele relaxa, eu mudo a música. Meus joelhos conversam com o chão, meus ombros bebem o vento; a garrafa inclina, a guarda cede, o riso abre caminho"
+  },
+  {
+    "nome": "Punho do Dragão",
+    "slug": "punho-do-dragao",
+    "offset_start": 111264,
+    "offset_end": 118141,
+    "features_sub": [
+      {
+        "nivel": 3,
+        "nome": "Discípulo Dracônico",
+        "descricao": "\"Minha língua aprende o peso dos nomes antigos; meu olhar, o hábito de quem foi feito para ser visto — e obedecido.\" Efeito: Você aprende a falar, ler e escrever Dracônico e mais 1 idioma à sua escolha . Além disso, quando fizer Carisma (Intimidação) ou Carisma (Persuasão) , você pode usar seu modificador de Sabedoria no lugar do de Carisma.",
+        "offset_inicio": 115132,
+        "offset_fim": 115758
+      },
+      {
+        "nivel": 3,
+        "nome": "Avatar dos Dragões",
+        "descricao": "\"Respiro fundo e deixo que uma antiga presença respire comigo. No espelho da alma, vejo escamas — não por fora, mas como quem lembra o próprio contorno original.\" Efeito: Ao terminar um Descanso Curto ou Longo , você sintoniza sua alma ao aspecto Cromático ou Metálico . Esse vínculo define o tipo de dano dracônico que suas técnicas usarão e outros benefícios que a classe concederá a seguir. Além disso, você pode gastar 1 ponto de Ki para imbuir seus punhos com energia dracônica por 1 minuto : seus próximos 2 Golpes Desarmados que acertarem causam +1 dado de seu Dado de Artes Marciais como dano do tipo do seu Dragão . No 11º nível , o número de ataques aprimorados por ativação aumenta de 2 para 4 .",
+        "offset_inicio": 115758,
+        "offset_fim": 116732
+      },
+      {
+        "nivel": 3,
+        "nome": "Baforada do Dragão",
+        "descricao": "\"Canalizo a forja por trás dos dentes — não um grito, mas um traço de poder cru. Onde a palma toca, a baforada nasce.\" Efeito: Uma vez por turno , quando você realizar um ataque corpo a corpo , pode gastar 2 pontos de Ki para expelir uma Baforada Dracônica a partir do ponto do seu ataque: escolha cone de 6 m [20 pés] ou linha de 9 metros × 1,5 metros [30 × 5 pés] . Cada criatura na área faz um Teste de Resistência de Destreza contra sua CD de Ki . Em falha , sofre 2 × seu Dado de Artes Marciais como dano do tipo do seu Dragão ; em sucesso , sofre metade . A partir do 5º nível , você pode potencializar a baforada: gaste Ki adicional para adicionar +1 Dado de Artes Marciais ao dano (no 11º nível , você pode investir até +2 dados ; no 17º nível , até +3 dados ). Sombras",
+        "offset_inicio": 116732,
+        "offset_fim": 118141
+      }
+    ],
+    "tagline": "\"Deito a testa na pedra quente e ouço o que dorme sob as montanhas. O fôlego entra áspero como cascalho e sai em brasa; a coluna aprende a curvatura das asas; o olhar, o peso de um nome antigo. Não finjo ser dragão — alinho meu Ki ao que faz do mundo"
+  },
+  {
+    "nome": "Sombras",
+    "slug": "sombras",
+    "offset_start": 118141,
+    "offset_end": 123929,
+    "features_sub": [
+      {
+        "nivel": 3,
+        "nome": "Treinamento das Sombras",
+        "descricao": "\"O corpo aprende a dobrar esquinas; a mão, a desaparecer depois do gesto. Toda luz tem uma borda — é por ela que passo.\" Efeito: Furtividade das Sombras: você ganha proficiência em Furtividade . Se já a possuir, em vez disso ganhe proficiência em Acrobacia ou Prestidigitação (à sua escolha). Em seguida, escolha Furtividade , Acrobacia ou Prestidigitação em que você tenha proficiência: você adquire Aptidão (Expertise) nessa perícia. Treinamento Shinobi: você domina o Estilo de Luta: Armas de Arremesso e pode se esconder como Ação Bônus quando estiver em Escuridão densa . Sempre que você arremessar uma arma, após o ataque ela pode reaparecer na sua mão , desfazendo-se e refazendo-se em sombras (mesmo espaço e mão usados no arremesso).",
+        "offset_inicio": 121303,
+        "offset_fim": 122425
+      },
+      {
+        "nivel": 3,
+        "nome": "Magia das Sombras",
+        "descricao": "\"Abro os olhos por dentro e a noite deixa de ser muralha. Com um sussurro, desenho ruídos que não existem, portas que não estavam lá.\" Efeito: Visão Sombria Aperfeiçoada: você enxerga normalmente na penumbra e na escuridão , inclusive mágica , até 36 metros (120 pés) . Truque Sombrio: você aprende o truque Ilusão Menor (Minor Illusion) e pode lançá-lo sem componentes. Tecidos da Noite: você pode gastar 2 pontos de Ki para lançar, sem componentes, uma das seguintes magias: Disfarçar (Disguise Self) Imagem Silenciosa (Silent Image) Névoa Obscurecente (Fog Cloud) Escuridão (Darkness) Imagem Espelhada (Mirror Image) Passos Sem Pegadas (Pass Without Trace) Silêncio (Silence) Conjuração por Ki: ao lançar magias desta característica por Ki, use Sabedoria como atributo de conjuração ( CD de resistência = sua CD de Ki ; ataque de magia = Proficiência + Sabedoria ).",
+        "offset_inicio": 122425,
+        "offset_fim": 123929
+      }
+    ],
+    "tagline": "\"A noite não me esconde — me instrui. Ouço o som que a luz não alcança, conto passos pelo silêncio entre batidas, escrevo caminhos nas bordas do clarão. Onde o mundo pisca, eu passo. Onde a respiração prende, eu entro. Volto levando só o que prometi:"
+  }
+]

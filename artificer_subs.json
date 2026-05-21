@@ -1,0 +1,259 @@
+[
+  {
+    "slug": "alquimista",
+    "nome": "Alquimista",
+    "tagline": "Elixires alquímicos e poções potentes — química arcana embotelhada.",
+    "features_sub": [
+      {
+        "nome": "Ferramentas do Ofício",
+        "nivel": 3,
+        "descricao": "Antes de aprender a mexer com a Trama, eu aprendi a mexer com vidros, fogo e coisas que ninguém em sã consciência colocaria no mesmo recipiente. Seu treinamento em laboratório é tão importante quanto seu estudo de magia. Você recebe os benefícios a seguir: Você adquire proficiência com Suprimentos de Alquimista . Se você já possui proficiência com Suprimentos de Alquimista, em vez disso você ganha proficiência com outro conjunto de ferramentas de artesão à sua escolha."
+      },
+      {
+        "nome": "Magias de Alquimista",
+        "nivel": 3,
+        "descricao": "Algumas fórmulas não cabem em um frasco. Elas precisam ser lançadas direto na realidade, como qualquer outro feitiço. Você aprende certas magias nos níveis de Artífice indicados na tabela abaixo. Essas magias contam como magias de Artífice para você, mas não contam contra o seu número total de Magias Conhecidas (ou Preparadas) e não podem ser substituídas quando você sobe de nível. Nível de Artífice Magias 3º healing word , inflict wounds 5º acid arrow , flaming sphere 9º gaseous form , mass healing word 13º blight , death ward 17º cloudkill , reincarnate"
+      },
+      {
+        "nome": "Elixires Alquímicos",
+        "nivel": 3,
+        "descricao": "Um gole, um arremesso, um frasco quebrando no lugar certo. Meus elixires são meu jeito de estar em todos os lugares ao mesmo tempo. Você aprende a transformar magia em compostos químicos instáveis e potentes, conhecidos como Elixires . Infusões de Elixir Como um Alquimista, você ganha acesso a uma categoria exclusiva de Infusões chamadas Infusões de Elixir . No 3º nível , e novamente nos 5º , 9º , 13º e 17º níveis , seu número de Infusões Conhecidas aumenta em +1 . Essas Infusões adicionais devem ser escolhidas da lista de Infusões de Elixir apresentada ao final da descrição desta Especialização de Artífice. Criando Elixires Você pode converter tempo de estudo e reagentes em frascos de magia engarrafada. Produção Diária. Ao terminar um Descanso Longo , você pode gastar 1 hora usando seus Suprimentos de Alquimista para criar, sem gastar espaços de magia , 1 frasco de cada Elixir cuja Infusão de Elixir você conhece. Cada Elixir criado dessa forma reproduz a magia no nível mais baixo possível para aquela magia. Todas as decisões da magia (como escolha de dano, tipo de efeito, área exata, etc.) são definidas por você no momento da criação do Elixir . Esses Elixires permanecem viáveis até o final do seu próximo Descanso Longo ; após isso, seus conteúdos se tornam inertes e inutilizáveis. Síntese Rápida (Ação Bônus). Como uma Ação Bônus , você pode gastar um Espaço de Magia do nível indicado na descrição da sua Infusão de Elixir para criar 1 frasco de um Elixir que você conhece. Você deve estar segurando Suprimentos de Alquimista para realizar essa ação. O Elixir aparece em uma de suas mãos livres e você pode usá-lo como parte da mesma ação em que ele é criado. Restrição de Estoque. Você só pode ter 1 Elixir ativo de cada tipo (mesma fórmula de magia) existindo ao mesmo tempo. Se você criar um novo Elixir de um tipo enquanto já existir outro Elixir do mesmo tipo (em seu inventário ou no de um aliado), o frasco mais antigo se torna imediatamente inerte . Assinatura Mágica. Embora um Elixir seja um item, o efeito produzido por ele é tratado como uma magia conjurada por você no momento em que é ativado, para fins de: Aplicar bônus de cura (como o de um Clérigo da Vida). Aplicar bônus de talentos e itens mágicos que afetem suas magias. Determinar a CD de resistência de magia e o Bônus de Ataque Mágico , que usam seus valores de Artífice, independentemente de quem utiliza o Elixir. Como Usar um Elixir Qualquer criatura que esteja segurando um de seus Elixires pode usar sua Ação para realizar a Ação Usar um Objeto e escolher uma das opções a seguir. Beber (Ingestão) A criatura bebe o Elixir e recebe os benefícios da magia reproduzida por ele. O efeito é tratado como se a criatura tivesse sido o alvo da magia conjurada por você . Metabolismo Mágico. Se a magia reproduzida pelo Elixir exigir Concentração , o próprio Elixir sustenta o efeito por toda a sua duração, sem exigir concentração do alvo . Isso permite que criaturas que normalmente teriam dificuldade em manter Concentração (como um Bárbaro em fúria) usufruam plenamente do efeito. Toxicidade. Uma criatura só pode estar sob o efeito de um Elixir de ingestão por vez . Se uma criatura beber um segundo Elixir de ingestão enquanto o primeiro ainda estiver ativo, o efeito do primeiro Elixir termina imediatamente. Administrar A criatura pode usar sua Ação para administrar o conteúdo de um Elixir a uma criatura Inconsciente ou voluntária a até 1,5 metro (5 pés) de distância. O efeito ocorre exatamente como se o alvo tivesse bebido o Elixir, seguindo todas as regras de Ingestão e Toxicidade . Arremessar (Impacto) A criatura pode usar sua Ação para arremessar um Elixir em um ponto que possa ver a até 9 metros (30 pés) . O frasco se estilhaça no impacto, liberando a magia centrada naquele ponto. O Elixir reproduz a magia escolhida com os parâmetros (área, tipo de dano, etc.) definidos por você ao criá-lo. Elixires arremessados não podem reproduzir magias com alcance \"Pessoal\" (Self) , \"Toque\" (Touch) ou magias claramente de cura ou buff direto (como curar ferimentos , heroísmo , proteção contra o bem e o mal , etc.). Eles servem apenas para efeitos ofensivos de área ou de controle de campo (como névoas, áreas escorregadias, explosões, zonas perigosas, etc.). Duração de Impacto. Se a magia reproduzida por um Elixir arremessado normalmente exigir Concentração , ela não exige concentração , mas dura apenas 2 rodadas : a duração termina ao final do seu próximo turno ou do turno da criatura que arremessou o Elixir (o que for apropriado na sua mesa). Parâmetros Mágicos dos Elixires Um Elixir sempre reproduz sua magia no menor nível possível para aquela magia, a menos que explicitamente indicado pela Infusão. Todas as escolhas da magia (tipo de dano, forma exata da área, etc.) são feitas por você no momento da criação do Elixir , não no momento do uso. Os Elixires usam a sua CD de Resistência de Magia e seu Bônus de Ataque Mágico de Artífice , independentemente de quem efetivamente os utiliza. Infusões de Elixir id =\" spoiler-uI1i1g \">"
+      },
+      {
+        "nome": "Poções Potentes",
+        "nivel": 5,
+        "descricao": "Se um pouco já funciona, eu só preciso descobrir quanto é “quase demais” antes de começar a desperdiçar reagente. Sempre que um Elixir criado por você ou uma magia de Artífice conjurada por você causar dano de ácido, fogo, necrótico ou veneno , ou restaurar pontos de vida de uma criatura, você pode adicionar seu modificador de Inteligência (mínimo de +1) a uma das rolagens de dano ou cura dessa magia ou Elixir. Armadurista id =\" spoiler-Nm2Acz \">"
+      },
+      {
+        "nome": "Reagentes Restauradores",
+        "nivel": 10,
+        "descricao": "Cada gota que eu misturo carrega um pouco mais do que o rótulo promete. Cura, foco, resistência… tudo depende do aditivo certo no frasco certo. Você inclui aditivos revitalizantes em cada Elixir que prepara. Sempre que uma criatura beber voluntariamente um de seus Elixires, ela também recebe Pontos de Vida Temporários iguais ao seu nível de Artífice . Além disso, sua maestria alquímica permite manipular reagentes curativos com precisão ritualística. Você aprende a magia restauração menor (lesser restoration) e pode conjurá-la como um ritual . Essa magia não conta no total de magias de Artífice que você prepara. Armadurista id =\" spoiler-kZap7d \">"
+      },
+      {
+        "nome": "Mestre Alquimista",
+        "nivel": 15,
+        "descricao": "Depois de anos mexendo com toxinas, ácidos e vapores que matariam um ogro, meu corpo aprendeu a tratar veneno como se fosse só mais um tempero. Você se tornou um verdadeiro mestre entre os Artífices Alquimistas. Você é imune a qualquer efeito produzido por um Elixir que você tenha criado, a menos que deseje ser afetado por ele. Resistência Química Você adquire resistência a dano ácido e dano de veneno , e também se torna imune à condição Envenenado . Caldeirão Conjurado Você pode conjurar Caldeirão Borbulhante de Tasha sem gastar espaço de magia , sem precisar preparar a magia e sem componentes materiais , desde que utilize seus Suprimentos de Alquimista como foco de conjuração. Após usar esta habilidade, você só poderá utilizá-la novamente ao finalizar um Descanso Longo . Administração Rápida Você pode realizar a Ação Usar um Objeto para usar um de seus Elixires como uma Ação Bônus no seu turno. Quando fizer isso, você pode gastar um espaço de magia para criar um Elixir que você conhece como parte dessa mesma Ação Bônus, seguindo as regras de Síntese Rápida da característica Elixires Alquímicos . Armadurista id =\" spoiler-LZDRN2 \">"
+      }
+    ]
+  },
+  {
+    "slug": "armadurista",
+    "nome": "Armadurista",
+    "tagline": "Veste uma armadura arcana modular: infiltrador ou colosso de guerra.",
+    "features_sub": [
+      {
+        "nome": "Ferramentas do Ofício",
+        "nivel": 3,
+        "descricao": "Se eu posso desmontar uma armadura até o último rebite, eu posso reconstruí-la para fazer muito mais do que só segurar pancada. Seu treinamento foca na construção e modificação de armaduras complexas. Você adquire proficiência com armaduras pesadas e com ferramentas de ferreiro . Se você já possuir proficiência com ferramentas de ferreiro, em vez disso adquire proficiência com um conjunto de ferramentas de artesão à sua escolha."
+      },
+      {
+        "nome": "Magias do Armadurista",
+        "nivel": 3,
+        "descricao": "Minha armadura não é só metal. É um circuito de feitiços pré-carregados, prontos para responder no exato momento em que o impacto vem. Você aprende magias adicionais quando alcança certos níveis nesta classe, conforme mostrado na tabela Magias do Armadurista . Cada uma dessas magias conta como uma magia de Artífice para você, mas não é incluída no número de magias de Artífice que você prepara e não pode ser substituída ao subir de nível. Nível de Artífice Magias 3º Escudo [shield], Onda Trovejante [thunderwave] 5º Imagem Espelhada [mirror image], Detonar [shatter] 9º Raio Relâmpago [lightning bolt], Passo Trovejante [thunder step] 13º Escudo de Fogo [fire shield], Esfera de Tempestade [storm sphere] 17º Onda Destrutiva [destructive wave], Muralha de Força [wall of force]"
+      },
+      {
+        "nome": "Armadura Arcana",
+        "nivel": 3,
+        "descricao": "Se vou confiar minha vida a um pedaço de metal, ele tem que conhecer minha magia tão bem quanto eu conheço cada dobradiça dele. No 3º nível , você aprende a canalizar sua magia em uma armadura, transformando-a em uma extensão do seu corpo. Durante um Descanso Longo , você pode gastar 1 hora trabalhando em uma armadura que esteja vestindo, usando ferramentas de ferreiro , para transformá-la em sua Armadura Arcana . Você só pode ter uma Armadura Arcana ativa por vez ; se criar outra, a anterior perde todas as propriedades especiais desta característica. Enquanto estiver vestindo sua Armadura Arcana , você recebe os seguintes benefícios: Você ignora qualquer requisito de Força da armadura. Você pode vestir ou remover a armadura como uma Ação . A armadura não pode ser removida de você contra sua vontade . Você pode usar a Armadura Arcana como foco de conjuração para suas magias de Artífice. O elmo da armadura pode ser aberto ou fechado como uma Ação Bônus . Estrutura Integrada Por dentro, minha armadura é menos um traje e mais um conjunto modular de sistemas, cada um pronto para receber uma melhoria “temporária”. Sua Armadura Arcana é composta por cinco módulos principais : Elmo Arcano Peitoral Arcano Botas Arcanas Manopla de Energia (mão direita) Manopla de Energia (mão esquerda) Itens mágicos compatíveis podem ser integrados a esses módulos. Por exemplo: Um item mágico de cabeça pode ser integrado ao elmo . Um item mágico de botas pode ser integrado às botas da armadura. Dois itens mágicos de foco arcano podem ser integrados a cada uma das manoplas , um em cada. Um item integrado dessa forma: Mantém todas as suas propriedades e requisitos normais . Ainda conta para o seu limite de itens sintonizados . Pode receber Infusões normalmente, desde que respeite os limites da campanha ."
+      },
+      {
+        "nome": "Configuração de Combate",
+        "nivel": 3,
+        "descricao": "A mesma armadura que atravessa um corredor cheio de guardas sem ser vista é a que aguenta uma linha inteira de lanças no peito. A diferença está em como eu ajusto os parâmetros. Sua Armadura Arcana pode operar em duas configurações distintas : Modo Infiltrador — mobilidade, precisão e furtividade. Modo Colosso — resistência, controle de campo e força bruta. Ao final de um Descanso Longo , escolha qual modo sua armadura assume. Modo Infiltrador Quando sua Armadura Arcana está nessa configuração, seus sistemas priorizam mobilidade e percepção. Sensores do Infiltrador (Elmo) Você tem vantagem em testes de Sabedoria (Percepção) e Inteligência (Investigação) . Sistema de Mobilidade (Peitoral) No seu turno, você pode usar uma Ação Bônus para realizar uma das seguintes ações: Correr , Desengajar ou Esconder-se . Propulsores Arcanos (Botas) Você possui deslocamento de voo igual ao seu deslocamento de caminhada durante seu turno. Ao final do turno, você deve estar sobre uma superfície sólida ou cai. Modo Colosso Nesta configuração, sua armadura maximiza proteção e presença no campo de batalha. Visor Intimidante (Elmo) Você tem vantagem em testes de Carisma (Intimidação) . Você também tem vantagem em testes de resistência contra ficar Amedrontado . Reforço Energético (Peitoral) Você pode usar uma Ação Bônus para ganhar Pontos de Vida Temporários iguais ao seu nível de Artífice + seu modificador de Inteligência (mínimo 1). Você pode usar essa característica um número de vezes igual ao seu modificador de Inteligência (mínimo 1), recuperando todos os usos ao terminar um Descanso Longo . Estabilizadores de Massa (Botas) Você tem vantagem em testes e testes de resistência para evitar ser derrubado ou movido contra sua vontade ."
+      },
+      {
+        "nome": "Manoplas de Energia",
+        "nivel": 3,
+        "descricao": "Se a armadura é o corpo, as manoplas são os punhos. Toda a energia que eu canalizo precisa de um ponto de impacto. Sua Armadura Arcana inclui duas Manoplas de Energia , que canalizam energia arcana em combate. Enquanto estiver vestindo sua Armadura Arcana: Você é considerado sempre empunhando essas manoplas. Cada manopla conta como um item separado para fins de Infusões . Cada manopla pode ser integrada a itens mágicos de mãos ou luvas . As duas manoplas contam como duas armas corpo a corpo , uma em cada mão. Você pode usar seu modificador de Inteligência no lugar de Força ou Destreza para as jogadas de ataque e dano realizadas com elas. Dano das Manoplas. As Manoplas de Energia causam dano de Energia (force) e escalam com seu nível de Artífice: Nível de Artífice Dado de Dano das Manoplas 3º 1d6 de dano de Energia (force) 5º 1d8 de dano de Energia (force) 11º 1d10 de dano de Energia (force) 17º 1d12 de dano de Energia (force) Modos das Manoplas A mesma manopla que corta o ar em silêncio também pode esmagar como um aríete, se eu reconfigurar os servomotores e a distribuição de impacto. Modo Infiltrador — Manoplas Ágeis As Manoplas de Energia contam como armas simples corpo a corpo com a propriedade Leve . Você tem as seguintes Maestrias de Arma com elas: Corte ( Nick ) Vexar ( Vex ) Modo Colosso — Manoplas de Impacto As Manoplas de Energia contam como armas marciais corpo a corpo com a propriedade Pesada . Você tem as seguintes Maestrias de Arma com elas: Minar ( Sap ) Debilitar ( Weaken ) Aprimorado id =\" spoiler-KaP5ug \">"
+      },
+      {
+        "nome": "Ataque Extra Mágico",
+        "nivel": 5,
+        "descricao": "Se eu já estou no alcance do golpe, não faz sentido escolher entre aço e feitiço. Eu faço os dois responderem no mesmo movimento. No 5º nível , você aprende a combinar ataques físicos com descargas arcanas de forma fluida. Você pode atacar duas vezes , em vez de uma, sempre que realizar a Ação de Ataque no seu turno. Além disso, você pode conjurar um truque de Artífice que tenha tempo de conjuração de 1 Ação no lugar de um desses ataques do seu Ataque Extra. Este truque deve naturalmente ser um truque de Artífice para você e não pode ter sido alterado por nenhuma habilidade ou item mágico para esse propósito. Aprimorado id =\" spoiler-Kl8lgo \">"
+      },
+      {
+        "nome": "Reconfiguração Tática",
+        "nivel": 10,
+        "descricao": "Basta alguns ajustes de runa e pressão nos servos e a mesma armadura que atravessa um beco vira um muro ambulante. No 10º nível , você aprende a alternar mais rapidamente entre as configurações da sua Armadura Arcana. Você pode alterar o modo da sua Armadura Arcana gastando 10 minutos trabalhando nela com ferramentas de ferreiro ."
+      },
+      {
+        "nome": "Sistema Modular Avançado",
+        "nivel": 10,
+        "descricao": "Minha armadura nunca está “terminada”. Ela só está entre uma versão e a próxima. No 10º nível , você aperfeiçoa a modularidade da sua Armadura Arcana. Você aprende 2 Infusões adicionais , que devem ser aplicadas à sua Armadura Arcana (um ou mais de seus módulos). Além disso, cada modo recebe um novo aprimoramento: Modo Infiltrador — Controle de Propulsão Seu voo torna-se totalmente estável. Você não precisa mais terminar seu turno no chão para evitar queda enquanto estiver usando os Propulsores Arcanos das suas Botas Arcanas. Modo Colosso — Protocolo de Proteção Quando você entrar em estado de Sangrando , você recebe Pontos de Vida Temporários iguais ao seu nível de Artífice + seu modificador de Inteligência . Uma vez que usar esse efeito, você precisa terminar um Descanso Curto antes de poder usá-lo novamente. Além disso, você pode usar seu Reforço Energético para conceder os Pontos de Vida Temporários a uma criatura a até 9 metros [30 pés] de você, usando sua Ação Bônus . Aprimorado id =\" spoiler-1lOtMR \">"
+      },
+      {
+        "nome": "Núcleo Arcano Sintonizado",
+        "nivel": 15,
+        "descricao": "Depois de tanto tempo ajustando essa armadura, eu e o núcleo dela pensamos quase ao mesmo tempo. Às vezes, eu tenho certeza de que ele muda antes mesmo de eu decidir. No 15º nível , o núcleo arcano da sua Armadura Arcana responde diretamente à sua vontade. Você pode mudar o modo da sua Armadura Arcana (entre Infiltrador e Colosso ) como uma Ação Bônus um número de vezes igual ao seu modificador de Inteligência (mínimo 1). Você recupera todos os usos gastos ao terminar um Descanso Longo . Além disso, a capacidade de infusão dos seus módulos é ampliada: Cada módulo da sua Armadura Arcana (Elmo Arcano, Peitoral Arcano, Botas Arcanas, Manopla de Energia direita e esquerda) pode receber até duas Infusões diferentes simultaneamente , desde que respeitem os limites gerais de Infusões. Se você aplicar uma Infusão a uma de suas Manoplas de Energia , você pode considerar que ambas as manoplas estão afetadas por essa Infusão. No entanto, isso consome um espaço de infusão em cada manopla (ou seja, duas Infusões ativas no total). Aprimorado id =\" spoiler-zxuaYU \">"
+      }
+    ]
+  },
+  {
+    "slug": "aprimorado",
+    "nome": "Aprimorado",
+    "tagline": "Físico modular com armas integradas — o próprio corpo é a engenhoca.",
+    "features_sub": [
+      {
+        "nome": "Magias do Aprimorado",
+        "nivel": 3,
+        "descricao": "Quando o corpo vira laboratório, cada feitiço passa a ser uma atualização de sistema. Você aprende magias adicionais quando alcança certos níveis nesta classe, conforme mostrado na tabela Magias do Aprimorado . Cada uma dessas magias conta como uma magia de Artífice para você, mas não conta no número total de magias que você conhece e não pode ser substituída ao subir de nível. Nível de Artífice Magias 3º Absorver Elementos [absorb elements], Golpe Trovejante [thunderous smite] 5º Alterar-se [alter self], Escalada de Aranha [spider climb] 9º Golpe Cegante [blinding smite], Aceleração [haste] 13º Liberdade de Movimentação [freedom of movement], Invisibilidade Maior [greater invisibility] 17º Golpe de Banimento [banishing smite], Potencializar Perícia [skill empowerment]"
+      },
+      {
+        "nome": "Ferramentas do Ofício",
+        "nivel": 3,
+        "descricao": "Para refazer um corpo, você precisa entender tanto a carne quanto o metal. E não ter medo de abrir nenhum dos dois. Você aprofunda seu domínio sobre materiais que podem ser ligados ao seu próprio corpo. Você adquire proficiência com ferramentas de coureiro e ferramentas de ferreiro . Se já possuir proficiência com essas ferramentas, você pode escolher proficiência com outro conjunto de ferramentas de artesão à sua escolha."
+      },
+      {
+        "nome": "Físico Modular",
+        "nivel": 3,
+        "descricao": "Meu corpo deixou de ser um limite e passou a ser um conjunto de slots. Cada parte é um espaço disponível para uma ideia nova. Você aprimora sua forma física com melhorias mecânicas e arcanas. Seu próprio corpo passa a contar como itens individuais para fins de Infusões . As seguintes partes podem receber Infusões: Cabeça (elmo) Tronco (armadura) Braços (manoplas) Pernas (botas) Cada uma dessas partes do corpo pode receber uma Infusão . Essas modificações também reforçam seu exterior. Se você não estiver vestindo armadura , sua Classe de Armadura é igual a: 10 + seu modificador de Destreza + seu modificador de Inteligência Você ainda pode usar um escudo e receber esse benefício, e quaisquer Infusões aplicadas ao seu tronco também contam para essa Classe de Armadura. Além disso, seu número de Infusões Conhecidas aumenta em 1 , mas essa Infusão adicional deve ser aplicada a uma parte do seu corpo . Seu número total de Infusões Conhecidas aumenta novamente em 1 no 5º nível , no 10º nível e no 15º nível , e essas Infusões adicionais também devem ser aplicadas a partes do seu corpo ."
+      },
+      {
+        "nome": "Armas Integradas",
+        "nivel": 3,
+        "descricao": "Eu não carrego armas. Eu as encaixo onde antes havia limitações anatômicas. Você modificou seus braços para integrar armas diretamente ao seu corpo. Você pode infundir e integrar qualquer arma que não possua a propriedade Duas Mãos em seus braços. Cada um de seus braços conta como uma manopla e uma arma separadamente para efeitos de Infusões e empunhadura . Se você tiver duas armas infundidas em braços diferentes, você pode lutar com elas usando as regras de Combate com Duas Armas . Como uma Ação Bônus , você pode retrair ou estender uma arma integrada do seu antebraço. Enquanto estiver estendida : Você pode usar a arma como se estivesse empunhando-a normalmente . Você não pode usar essa mão para outros propósitos (como segurar outra arma, escudo ou objeto). Você pode manter um número de armas integradas infundidas em seu corpo igual ao seu Bônus de Proficiência e você tem Maestria de Arma em cada uma das armas integradas infundidas. Além disso, essas armas recebem os seguintes benefícios enquanto estiverem integradas ao seu corpo: O dano base da arma se torna 1d10 . A arma ganha a propriedade Acuidade . Se a arma possuir a propriedade Versátil , ela perde essa propriedade enquanto estiver integrada. Se a arma possuir a propriedade Arremessável , ela funciona normalmente, separando-se do seu corpo ao ser arremessada. Você pode trocar qual arma integrada está ativa: No início de cada um dos seus turnos . Sempre que realizar um ataque . Essa troca não requer ação . Engenheiro de Construto id =\" spoiler-Mpbagi \">"
+      },
+      {
+        "nome": "Ataque Extra Mágico",
+        "nivel": 5,
+        "descricao": "Se eu já calibrei meu corpo para lutar, não faz sentido desperdiçar o momento com um único golpe. No 5º nível , suas modificações corporais permitem que você ataque com mais frequência e fluidez. Você pode atacar duas vezes , em vez de uma, sempre que realizar a Ação de Ataque em seu turno. Além disso, você pode conjurar um truque de Artífice que tenha tempo de conjuração de 1 Ação no lugar de um desses ataques do seu Ataque Extra. Este truque deve naturalmente ser um truque de Artífice para você e não pode ter sido alterado por nenhuma habilidade ou item mágico para esse propósito Engenheiro de Construto id =\" spoiler-fp7o77 \">"
+      },
+      {
+        "nome": "Integração Otimizada",
+        "nivel": 10,
+        "descricao": "Cada nova peça que eu instalo não é um remendo, é uma atualização. Meu corpo inteiro é um sistema em constante overclock. No 10º nível , suas modificações passam a superar claramente o desempenho das partes originais do seu corpo. Para cada parte do seu corpo (incluindo suas Armas Integradas ) que esteja portando uma Infusão , você recebe os seguintes benefícios cumulativos: +1 em testes de habilidade baseados em Força , Destreza e Constituição (até um máximo de +6 a partir desta característica). Seu deslocamento de caminhada aumenta em 1,5 metro (5 pés) (até um máximo de 9 metros [30 pés] de bônus vindo desta característica). Além disso, o dano base das suas Armas Integradas aumenta para 2d10 . Engenheiro de Construto id =\" spoiler-aajkbM \">"
+      },
+      {
+        "nome": "Mestre Aprimorado",
+        "nivel": 15,
+        "descricao": "Em algum momento, deixei de consertar um corpo mortal e comecei a projetar algo que não precisa mais obedecer às mesmas regras. No 15º nível , você finalmente alcança o objetivo de todo Artífice Aprimorado: transcender sua mortalidade . Você recebe os seguintes benefícios: Você é considerado tanto Humanoide quanto Construto para efeitos de magias e habilidades. Você não precisa mais comer, dormir ou respirar , e também não envelhece . Para obter os benefícios de um Descanso Longo , você deve realizar 4 horas de manutenção mecânica em si mesmo, em estado de semitranse, em vez de dormir. Você adquire resistência a dano contundente , perfurante e cortante . Engenheiro de Construto id =\" spoiler-buReyk \">"
+      }
+    ]
+  },
+  {
+    "slug": "engenheiro-de-construto",
+    "nome": "Engenheiro de Construto",
+    "tagline": "Comanda um Defensor de Aço que protege e repara o grupo.",
+    "features_sub": [
+      {
+        "nome": "Magias do Engenheiro de Construto",
+        "nivel": 3,
+        "descricao": "Se eu posso prever os problemas que meu construto vai enfrentar, também posso pré-carregar as soluções na minha lista de feitiços. A partir do 3º nível , você sempre tem certas magias preparadas quando alcança níveis específicos nesta classe, conforme mostrado na Tabela de Magias do Engenheiro de Construto . Essas magias contam como magias de Artífice para você, mas não contam no número de magias que você pode preparar. Nível do Artífice Magias 3º Mísseis Mágicos [magic missile], Escudo Arcano [shield] 5º Bafo de Dragão [dragon’s breath], Vínculo Protetor [warding bond] 9º Aura de Vitalidade [aura of vitality], Pequena Cabana de Leomond [leomond's tiny hut] 13º Metamorfose [polymorph], Escudo de Fogo [fire shield] 17º Círculo de Teletransporte [teleportation circle], Passo Distante [far step]"
+      },
+      {
+        "nome": "Defensor de Aço",
+        "nivel": 3,
+        "descricao": "Alguns levam escudos, outros contratam guarda-costas. Eu construí o meu, para ter certeza de que ele nunca esquece quem deve proteger primeiro. No 3º nível , seu ofício gerou um companheiro fiel, um Defensor de Aço . Ele é amigável a você e seus companheiros e obedece aos seus comandos . Use o bloco de estatísticas do Defensor de Aço descrito na classe para definir seus atributos de combate e capacidades. Você determina a aparência da criatura e se ela possui duas ou quatro pernas ; sua escolha não altera as estatísticas de jogo do Defensor. O Defensor de Aço interage de forma especial com suas magias e ferramentas: Se a magia consertar (mending) for conjurada nele, ele recupera 2d6 pontos de vida . Se ele tiver morrido dentro da última hora , você pode usar suas ferramentas de ferreiro como uma Ação para revivê-lo, contanto que você esteja a até 1,5 metro (5 pés) dele e gaste um espaço de magia de 1º círculo ou superior . Ao fazê-lo, o Defensor de Aço retorna à vida após 1 minuto com todos os seus pontos de vida restaurados . No final de um Descanso Longo , você pode criar um novo Defensor de Aço se tiver suas ferramentas de funileiro consigo. Se você já tiver um Defensor de Aço ativo quando fizer isso, o primeiro automaticamente deixa de existir enquanto o novo assume seu lugar. title =\" Fonte \"> BT title =\" Nome do Item \"> Defensor de Aço Médio construto (unidade maior), sem alinhamento Classe de Armadura: 13 (Armadura Natural) Pontos de Vida: 20 + 10 vezes o seu nível após o terceiro (Os dados de vida do Defensor são d10 e ele tem dados de vida igual o seu nível) Velocidade: 12 Metros [40 feet]."
+      },
+      {
+        "nome": "Reparos Rápidos",
+        "nivel": 3,
+        "descricao": "Enquanto os outros entram em pânico quando veem faíscas e rachaduras, eu só vejo um lembrete de que é hora da manutenção preventiva. Ainda no 3º nível , sua eficiência em preservar seu Defensor de Aço melhora significativamente. O Defensor de Aço pode ser afetado por magias de cura conjuradas por você, mesmo que essas magias normalmente não afetem construtos . Além disso, você pode utilizar uma Ação para realizar Reparos Rápidos diretamente no Defensor de Aço, restaurando 2d6 + seu modificador de Inteligência pontos de vida do Defensor. Você pode usar essa característica um número de vezes igual ao seu Bônus de Proficiência . Você recupera todos os usos gastos ao terminar um Descanso Longo . Ferreiro de Batalha id =\" spoiler-XSsfWW \">"
+      },
+      {
+        "nome": "Ataque Reativo",
+        "nivel": 5,
+        "descricao": "Se alguém achar que atacar meu construto é uma boa ideia, o mínimo que posso fazer é garantir que se arrependa na mesma fração de segundo. No 5º nível , você e seu Defensor de Aço passam a funcionar como uma única força de retaliação precisa. Quando o Defensor de Aço utilizar seu traço Defletir Ataque e o ataque errar , como parte da mesma reação o Defensor pode fazer um ataque contra o atacante."
+      },
+      {
+        "nome": "Defensor Aprimorado",
+        "nivel": 5,
+        "descricao": "Chamar isso de “defensor” é modesto. Com os módulos certos, ele é laboratório móvel, guindaste, batedor e muralha, tudo no mesmo chassi. Também no 5º nível , você aprende a aprimorar seu Defensor de Aço com aparatos mágicos que melhoram seu desempenho em diversas funções. Ao final de um Descanso Longo , desde que você tenha acesso a ferramentas de funileiro , você pode escolher um dos seguintes aprimoramentos para aplicar ao seu Defensor de Aço: Radar de Localização O Defensor tem vantagem em testes de Sabedoria (Percepção) . Sobrecarga: Com uma Ação , o Defensor pode começar a emitir um sinal de varredura . Após 1 minuto emitindo esse sinal, ele consegue sentir a presença de todas as criaturas dentro de uma distância de 2 quilômetros (1 milha) . Ele pode emitir esse sinal um número de vezes igual à metade do seu Bônus de Proficiência (arredondado para baixo). Sonar O Defensor ganha visão às cegas de 9 metros (30 pés) . Sobrecarga: O Defensor ganha visão verdadeira de 9 metros (30 pés) . Com uma Ação , você pode usar um dispositivo visual (como óculos ou visor ligados ao Defensor) para observar através dos olhos do Defensor . Enquanto estiver utilizando esse dispositivo, você não pode usar o seu próprio sentido de visão . Mecanismo de Camuflagem O Defensor tem vantagem em testes de Destreza (Furtividade) . Ele pode se mover com seu deslocamento total enquanto está furtivo. Sobrecarga: O Defensor pode conjurar em si mesmo a magia invisibilidade [invisibility] um número de vezes por Descanso Longo igual à metade do seu Bônus de Proficiência (arredondado para cima). Foguetes de Investida Se o Defensor se mover pelo menos 6 metros (20 pés) em linha reta em direção a uma criatura logo antes de atingi-la com seu ataque, o alvo sofre 1d8 de dano de Energia (force) adicional . O alvo deve ser bem sucedido em um Teste de Resistência de Força contra CD 8 + seu Bônus de Proficiência + seu modificador de Inteligência para não ser derrubado . Sobrecarga: Quando o Defensor acertar uma criatura com os Foguetes de Investida , todas as criaturas à sua escolha a até 1,5 metro (5 pés) do alvo devem ser bem sucedidas no mesmo Teste de Resistência de Força ou sofrerão 1d8 de dano de Energia e serão derrubadas . Aumento de Estrutura O tamanho do Defensor aumenta para Grande . Sua capacidade de carga é dobrada . Sobrecarga: O tamanho do Defensor aumenta para Enorme . Sua capacidade de carga é dobrada novamente . Testes de Força (Atletismo) do Defensor são feitos com vantagem . Se o local onde o Defensor estiver não possuir espaço suficiente para que ele cresça, seu tamanho não é alterado . Chapas Revestidas A Classe de Armadura do Defensor aumenta em um valor igual à metade do seu modificador de Inteligência (arredondado para baixo). Sobrecarga: O Defensor pode usar uma Ação Bônus para ganhar uma quantidade de Pontos de Vida Temporários igual à metade do seu nível de Artífice + seu modificador de Inteligência . Módulo de Deslocamento O Defensor ganha deslocamento de nado , escalada e voo iguais ao seu deslocamento de caminhada . Sobrecarga: O Defensor ganha a característica Sobrevoo : ele não provoca ataques de oportunidade quando voa para fora do alcance de um oponente. Aprimoramentos Adicionais Você pode escolher um aprimoramento adicional no 10º e no 15º nível de Artífice, totalizando 3 aprimoramentos ativos . Além disso, ao alcançar o 10º nível nesta classe, você pode usar uma Ação para Sobrecarregar uma das melhorias do Defensor por 1 hora . Quando você faz isso, o Defensor entra em modo de Sobrecarga , ganhando o efeito adicional de Sobrecarga da melhoria escolhida, como descrito acima. O Defensor só pode estar Sobrecarregado em uma melhoria por vez. Depois de usar uma Sobrecarga, você precisa terminar um Descanso Longo junto ao Defensor para poder Sobrecarregar uma melhoria novamente. Ferreiro de Batalha id =\" spoiler-7cCV1u \">"
+      },
+      {
+        "nome": "Vínculo Arcano",
+        "nivel": 10,
+        "descricao": "Depois de tanto tempo recalibrando esse núcleo, seria desperdício não usar o mesmo canal de energia que me protege para proteger ele também. No 10º nível , você estabelece um vínculo arcano entre seus aparatos mágicos e o núcleo do seu Defensor de Aço. Qualquer magia conjurada por você que tenha alcance Pessoal (Self) pode afetar tanto você quanto seu Defensor de Aço . Além disso, você pode conjurar magias de reação que normalmente teriam efeito desencadeado em você, como Escudo Arcano [shield] ou Absorver Elementos [absorb elements] , tendo como alvo seu Defensor de Aço em vez de você. Ferreiro de Batalha id =\" spoiler-AwJkzm \">"
+      },
+      {
+        "nome": "Especialização de Núcleo",
+        "nivel": 15,
+        "descricao": "Chega uma hora em que você para de fazer manutenção e começa a fazer história. O núcleo dele não é só um motor, é uma decisão sobre o que ele foi criado para ser. No 15º nível , você atinge o ápice da sua engenhosidade, capacitando seu Defensor de Aço para funções inimagináveis e refinando seu núcleo para a função exata para a qual foi projetado. Com 1 hora de trabalho , desde que você tenha acesso a ferramentas de funileiro , você pode escolher dois núcleos dentre: Ofensivo , Defensivo , Batedor ou Arcano . O Defensor de Aço então ganha os seguintes benefícios gerais: Os atributos de Força , Destreza e Constituição do Defensor de Aço aumentam em 4 , totalizando 18 de Força , 16 de Destreza e 18 de Constituição . Em seguida, aplique os efeitos dos núcleos escolhidos: Núcleo Ofensivo: O Defensor de Aço ganha Ataque Extra . Ele pode atacar duas vezes , em vez de uma, sempre que realizar a ação de Ataque . Núcleo Defensor: Quando o Defensor de Aço utilizar seu Defletir Ataque , ele impõe desvantagem em todos os ataques do alvo até o fim do turno, em vez de apenas no primeiro ataque. Núcleo Batedor: O Defensor aumenta seu deslocamento para 18 metros (60 pés) e pode usar a ação de Disparada (Dash) ou Desengajar (Disengage) como uma Ação Bônus . Núcleo Arcano: O Defensor possui vantagem em testes de resistência contra magias que afetem apenas ele (não se aplica a efeitos em área). Se o Defensor for bem sucedido no teste de resistência e a magia for de 4º círculo ou menor , a magia não tem efeito no Defensor e é refletida , tendo como novo alvo o conjurador da magia . Ferreiro de Batalha id =\" spoiler-KJosmg \">"
+      }
+    ]
+  },
+  {
+    "slug": "ferreiro-de-batalha",
+    "nome": "Ferreiro de Batalha",
+    "tagline": "Forja arcana na vanguarda: duplica infusões e desfere choque arcano.",
+    "features_sub": [
+      {
+        "nome": "Proficiências do Ferreiro",
+        "nivel": 3,
+        "descricao": "Se vai quebrar no impacto, eu não uso. Se eu fiz, aguenta mais do que o problema que a gente veio resolver. Quando você adota esta especialização no 3º nível , seu domínio sobre a forja se expande. Você ganha proficiência com ferramentas de ferreiro . Se você já tiver essa proficiência, em vez disso ganha proficiência com outro tipo de ferramenta de artesão à sua escolha. Além disso, você também ganha proficiência com armaduras pesadas ."
+      },
+      {
+        "nome": "Magias do Ferreiro de Batalha",
+        "nivel": 3,
+        "descricao": "Cada arma que eu reforço vem acompanhada do feitiço certo para garantir que o golpe faça mais do que só cortar ou perfurar. A partir do 3º nível , você sempre tem certas magias preparadas ao alcançar níveis específicos nesta classe, conforme a Tabela de Magias do Ferreiro de Batalha . Essas magias contam como magias de Artífice para você, mas não contam no número de magias que você pode preparar. Nível do Artífice Magias 3º Destruição Trovejante [thunderous smite], Escudo Arcano [shield] 5º Marca da Punição [branding smite], Arma Espiritual [spiritual weapon] 9º Destruição Cegante [blinding smite], Manto do Cruzado [crusader’s mantle] 13º Destruição Estonteante [staggering smite], Escudo de Fogo [fire shield] 17º Círculo de Poder [circle of power], Arma Sagrada [holy weapon]"
+      },
+      {
+        "nome": "Duplicar Infusão",
+        "nivel": 3,
+        "descricao": "O segredo não é ter mais recursos, é aproveitar melhor os que você já tem. Uma boa infusão nunca deveria servir só para uma lâmina quando pode fortalecer duas. A partir do 3º nível , você se torna especialista em manusear seus recursos arcanos, evitando ao máximo desperdício. Suas Infusões que têm como pré-requisito aplicação em Armas , Armaduras e Escudos podem ser aplicadas simultaneamente em dois itens em vez de apenas um. Lembrete de regra: Infusões de armadura, para esta característica, são apenas aquelas que deixam claro o termo \"Armadura\" em seus pré-requisitos. Infusões que se aplicam especificamente a capacetes, luvas, botas, cintos ou outras peças não contam como “Infusões de Armadura” para fins de Duplicar Infusão."
+      },
+      {
+        "nome": "Choque Arcano",
+        "nivel": 3,
+        "descricao": "Metal é só o canal. O que realmente machuca é a onda de energia que eu resolvo adicionar no exato momento em que a lâmina encontra o alvo. Ainda no 3º nível , você aprende novas formas de canalizar energia arcana através de suas armas modificadas. Quando você acerta um alvo com uma arma infusionada por você, ou utilizando sua reação quando um aliado que estiver portando uma arma infusionada por você acerta um ataque, você pode canalizar energia mágica pelo golpe para que o alvo receba 1d6 de dano de Energia (force) adicional . O dano extra causado por Choque Arcano aumenta conforme você adquire mais níveis nesta classe: Nível de Artífice Dano Extra do Choque Arcano 3º 1d6 de dano de Energia 5º 2d6 de dano de Energia 9º 3d6 de dano de Energia 15º 4d6 de dano de Energia Você pode usar o Choque Arcano um número de vezes igual ao seu modificador de Inteligência (mínimo de 1 uso), mas só pode aplicá-lo uma vez por turno . Você recupera todos os usos gastos ao finalizar um Descanso Longo . Se você não tiver mais usos de Choque Arcano disponíveis, ainda pode utilizá-lo ao gastar um Espaço de Magia de 1º círculo ou maior no momento em que aplicar o efeito. Magiduelista id =\" spoiler-jLyhHX \">"
+      },
+      {
+        "nome": "Ataque Extra Mágico",
+        "nivel": 5,
+        "descricao": "Quando a arma certa está na mão certa, cada abertura é uma chance de acertar mais de uma vez ou de encaixar um feitiço no meio do movimento. No 5º nível , suas técnicas de combate e uso de armas encantadas se refinam. Você pode atacar duas vezes , em vez de uma, sempre que realizar a Ação de Ataque em seu turno. Além disso, você pode conjurar um truque de Artífice que tenha tempo de conjuração de 1 Ação no lugar de um desses ataques do seu Ataque Extra. Este truque deve naturalmente ser um truque de Artífice para você e não pode ter sido alterado por nenhuma habilidade ou item mágico para esse propósito. Magiduelista id =\" spoiler-awIeJP \">"
+      },
+      {
+        "nome": "Ajustes do Ferreiro",
+        "nivel": 10,
+        "descricao": "Se a arma de um aliado falha, eu trato isso como um erro meu de projeto. Então eu corrijo esse projeto até que nenhum golpe soe “comum” de novo. A partir do 10º nível , você utiliza sua maestria em forja e recursos mágicos para aprimorar ainda mais suas armas e as de seus companheiros. Ao final de um Descanso Longo , desde que você tenha acesso a ferramentas de ferreiro , você pode aprimorar um número de armas igual ao seu modificador de Inteligência (mínimo 1). Uma arma aprimorada dessa maneira recebe os seguintes benefícios: É considerada mágica para fins de ultrapassar resistências e imunidades a ataques e danos não mágicos. Uma vez durante o turno de uma criatura empunhando essa arma, quando ela acertar um ataque, pode causar 1d8 de dano de Energia (force) adicional . Os aprimoramentos desta habilidade duram por 8 horas . Adicionalmente, armas modificadas por esta habilidade contam como armas infusionadas para fins de ativação do Choque Arcano . Magiduelista id =\" spoiler-jYUFHz \">"
+      },
+      {
+        "nome": "Pax Armada",
+        "nivel": 15,
+        "descricao": "Armas bem-feitas não servem só para destruir. Elas mantêm você de pé enquanto o mundo tenta derrubar tudo à sua volta. A partir do 15º nível , sua habilidade de conduzir energia arcana através das armas que você modificou é aprimorada, amplificando o potencial destrutivo e protetor do Choque Arcano . Você recebe os seguintes benefícios: O número de usos de Choque Arcano é alterado para 2 vezes o seu modificador de Inteligência (mínimo 2 usos). Sempre que você causar dano com o Choque Arcano , você ganha uma quantidade de Pontos de Vida Temporários igual ao dano causado pelo Choque Arcano . Quando você utilizar sua Reação para permitir que um aliado cause dano com o Choque Arcano (ao usar a reação para canalizar o Choque Arcano através do ataque de uma arma infusionada por você), esse mesmo aliado ganha uma quantidade de Pontos de Vida Temporários igual ao dano causado pelo Choque Arcano . Quando você ou um de seus aliados realizarem um ataque utilizando uma arma modificada pela habilidade Ajustes do Ferreiro durante o próprio turno, no lugar de causar o dano extra de 1d8 provido por Ajustes do Ferreiro, poderão rolar 1d8 para somar à jogada de ataque . Esse bônus deve ser declarado após ver o resultado do dado , mas antes de saber se o ataque foi bem-sucedido ou não . Magiduelista id =\" spoiler-YndNhs \">"
+      }
+    ]
+  },
+  {
+    "slug": "magiduelista",
+    "nome": "Magiduelista",
+    "tagline": "Arma arcana e raio arcano — duelista que canaliza varinha em combate.",
+    "features_sub": [
+      {
+        "nome": "Ferramentas do Ofício",
+        "nivel": 3,
+        "descricao": "Se a arma que dispara minha magia não for tão bem feita quanto a magia em si, alguma coisa está errada nas prioridades. Você aperfeiçoa sua habilidade em esculpir e canalizar magia em implementos arcanos. Você adquire proficiência com ferramentas de entalhador de madeira . Se já possuir proficiência com essas ferramentas, você ganha proficiência com outro conjunto de ferramentas de artesão à sua escolha."
+      },
+      {
+        "nome": "Magias de Magiduelista",
+        "nivel": 3,
+        "descricao": "Cada duelo é um teste prático do meu repertório. Se a magia não serve para vencer um confronto direto, eu não a mantenho na lista. Você aprende magias adicionais quando alcança certos níveis nesta classe, conforme mostrado na tabela Magias de Magiduelista . Essas magias contam como magias de Artífice para você, mas não contam para o total de Magias Conhecidas e não podem ser trocadas ao subir de nível. Nível de Artífice Magias 3º Escudo [shield], Repreensão Infernal [hellish rebuke] 5º Borrão [blur], Raio Abrasador [scorching ray] 9º Contramágica [counterspell], Relâmpago [lightning bolt] 13º Rechaço [backlash], Muralha de Fogo [wall of fire] 17º Deslocamento Temporal [temporal shunt], Muralha de Força [wall of force]"
+      },
+      {
+        "nome": "Arma Arcana",
+        "nivel": 3,
+        "descricao": "Minha varinha não é um pedaço de madeira com runas. É uma equação carregada, pronta para ser resolvida na direção de quem tiver a pior ideia de me enfrentar. Sua pesquisa arcana resultou na criação de um foco singular conhecido como Arma Arcana , a ferramenta característica de um Magiduelista. Criando a Arma Durante um Descanso Longo , você pode gastar 1 hora utilizando suas ferramentas de entalhador de madeira para transformar um foco arcano de sua escolha em sua Arma Arcana . O foco arcano ainda mantém todas as suas propriedades mágicas . Você só pode possuir uma Arma Arcana por vez . Se criar outra, a anterior perde suas propriedades mágicas especiais desta característica. A Arma Arcana pode assumir diversas formas, como uma varinha, cajado, arma de fogo arcana, conjunto de ferramentas ou outro implemento místico, mas para todos os efeitos de regras ela sempre conta como um foco arcano , inclusive para o uso de Infusões . Potencialização Arcana Sempre que você conjura uma magia de Artífice utilizando sua Arma Arcana como foco, essa magia causa 1d8 de dano adicional a um dos alvos da magia. O tipo de dano adicional é o mesmo tipo de dano principal causado pela magia (ou dano de Energia (force) , a critério do Mestre, se a magia não causar dano). Estrutura Arcana Por baixo da ornamentação, toda Arma Arcana é um casamento de condução e armazenamento: madeira para guiar, núcleo para explodir. Sua Arma Arcana possui dois componentes místicos : Madeira Arcana Núcleo Arcano Cada componente pode receber uma Infusão de Varinha , escolhida das listas apresentadas nesta subclasse ou entre Infusões aplicáveis a focos arcanos . Você pode trocar essas Infusões sempre que terminar um Descanso Longo . As Infusões desta subclasse possuem as seguintes particularidades: Não contam no seu limite máximo de Infusões Conhecidas . Só podem ser aplicadas à sua Arma Arcana . Infusões de Varinha id =\" spoiler-MUdesV \">"
+      },
+      {
+        "nome": "Raio Arcano",
+        "nivel": 3,
+        "descricao": "Se o inimigo acha que está em segurança por estar longe, é porque ainda não viu o que uma linha perfeitamente reta de energia pura consegue fazer. Você canaliza energia arcana através de sua Arma Arcana, disparando um Raio Arcano concentrado contra seus inimigos. Como uma Ação , você dispara um Raio Arcano contra uma criatura que possa ver a até 36 metros (120 pés) . Faça um ataque mágico à distância usando sua Inteligência como modificador de ataque. Em caso de acerto, o alvo sofre 1d10 + seu modificador de Inteligência de dano de Energia (force) . Este ataque conta como um ataque de magia de Artífice . O número total de raios aumenta conforme seu nível de Artífice: Nível de Artífice Raios por Ação 3º 1 Raio Arcano 5º 2 Raios Arcanos 10º 3 Raios Arcanos 15º 4 Raios Arcanos Quando você tiver mais de um raio, você pode direcionar os Raios Arcanos para o mesmo alvo ou para alvos diferentes . Você realiza uma jogada de ataque separada para cada Raio Arcano."
+      },
+      {
+        "nome": "Duelista Arcano",
+        "nivel": 5,
+        "descricao": "Se eu tiver que escolher entre atirar ou conjurar, significa que ainda não aperfeiçoei a coreografia do duelo. No 5º nível , sua velocidade e precisão com magia aumentam. Quando você usar Raio Arcano , pode conjurar um truque de Artífice que tenha tempo de conjuração de 1 Ação como Ação Bônus no mesmo turno. Este truque deve naturalmente ser um truque de Artífice para você e não pode ter sido alterado por nenhuma habilidade ou item mágico para esse propósito."
+      },
+      {
+        "nome": "Saque Rápido",
+        "nivel": 10,
+        "descricao": "Duelos não são sobre quem tem a magia mais poderosa, e sim sobre quem reage primeiro e melhor. No 10º nível , sua velocidade em duelos arcanos permite que você reaja antes mesmo que a magia do inimigo se complete. Você adiciona seu bônus de proficiência às suas jogadas de iniciativa . Além disso, quando você usar sua reação para conjurar uma magia de 1º círculo ou superior , pode disparar um Raio Arcano como parte da mesma reação, imediatamente antes de a magia ser resolvida. Quando usado dessa forma, você dispara apenas um raio , independentemente de quantos raios normalmente poderia disparar. Se o Raio Arcano acertar o alvo da magia que desencadeou sua reação, aplica-se um dos efeitos abaixo: Se a magia exigir que o alvo faça um teste de resistência , ele realiza esse teste com desvantagem . Se a magia exigir que você faça um ataque mágico , você realiza esse ataque com vantagem . Você só pode aplicar esse benefício ao primeiro alvo da magia que desencadeou a reação."
+      },
+      {
+        "nome": "Mestre Magiduelista",
+        "nivel": 15,
+        "descricao": "Minha Arma Arcana não dispara feitiços. Ela conduz uma sequência inteira de decisões perfeitas, uma depois da outra, até o silêncio final do oponente. No 15º nível , seu domínio da Arma Arcana e das técnicas de duelo mágico atinge o auge, permitindo que você combine conjuração e disparos arcanos em perfeita sincronia. Você recebe os benefícios abaixo. Conjuração Encadeada Depois de usar sua Ação para usar seu Raio Arcano , você pode conjurar uma magia de Artífice com tempo de conjuração de 1 Ação como Ação Bônus no mesmo turno. Campo de Proteção Arcana Quando você usar sua reação para conjurar uma magia de 1º círculo ou superior , você cria um campo de proteção arcana que se estende em um raio de 4,5 metros (15 pés) ao seu redor. Até o início do seu próximo turno, você e seus aliados dentro dessa área recebem cobertura três-quartos contra ataques e efeitos originados de fora dessa área."
+      }
+    ]
+  }
+]

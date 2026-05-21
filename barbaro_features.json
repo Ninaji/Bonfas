@@ -1,0 +1,122 @@
+[
+  {
+    "nome": "Fúria",
+    "nivel": 1,
+    "descricao": "Você sente o sangue esquentar e o mundo afunilar à sua frente. Em vez de pensar, você reage. A mão aperta a arma como se ela fosse parte do seu braço. Por alguns instantes que parecem mais longos que um combate inteiro, você só conhece uma direção: ir em frente e derrubar. Você pode entrar em um estado de frenesi primitivo. Ativar: Você entra em fúria usando uma Ação Bônus , desde que não esteja vestindo armadura pesada. Duração: A fúria dura 1 minuto . Ela termina mais cedo se você ficar Inconsciente ou se for alvo de um efeito que acalme suas emoções. Você não pode encerrá-la voluntariamente antes de acabar. Manter a Fúria: Em cada um dos seus turnos, se você não atacar uma criatura e não for alvo de um ataque, deve gastar sua Ação Bônus para manter a fúria ativa. Se não o fizer, a fúria termina ao final do turno. Benefícios: Enquanto estiver em fúria: Você tem Vantagem em testes de resistência e testes de habilidade que usem Força . Quando acerta um ataque corpo a corpo que use Força, você causa dano extra igual à metade do seu nível de Bárbaro (arredondado para cima). Você possui Resistência a dano de Concussão, Cortante e Perfurante. Restrições: Enquanto em fúria, você tem Desvantagem em testes de habilidade de Inteligência. Você não pode conjurar magias nem manter concentração. Você não pode ativar a fúria se já estiver em fúria, Inconsciente ou de armadura pesada. Usos: Você pode entrar em fúria um número de vezes igual ao seu Bônus de Proficiência . Recupera todos os usos ao terminar um Descanso Longo ."
+  },
+  {
+    "nome": "Guerreiro Desprotegido",
+    "nivel": 1,
+    "descricao": "Você se acostumou a sentir o mundo na pele. Couro, osso e cicatriz viraram a sua couraça. O vento esfria o suor, o chão responde a cada passo pesado. Quando alguém olha para você, não vê placas de ferro: vê o próprio corpo dizendo que não recua. Seu corpo é tanto escudo quanto arma. Defesa Instintiva: Enquanto você não estiver usando armadura, sua Classe de Armadura (CA) passa a ser igual a 10 + seu modificador de Destreza + seu modificador de Constituição . Você pode usar um escudo e ainda receber esse benefício. Este cálculo não se acumula com outras fórmulas de CA. Golpes Desarmados: Seu corpo aprende a bater como uma arma. Seus ataques desarmados causam 1d6 + modificador de Força de dano de Concussão. Esse dado aumenta conforme você ganha níveis de Bárbaro: 1d8 no 5º nível, 1d10 no 11º nível e 1d12 no 17º nível."
+  },
+  {
+    "nome": "Maestria em Armas",
+    "nivel": 1,
+    "descricao": "Você aprendeu a conhecer uma arma além do peso e do fio. Sabe onde ela flexiona e qual é o ângulo certo para arrancar o máximo de força. Dias de treino ensinaram seu corpo a repetir os mesmos movimentos até eles virarem instinto. Você domina o uso técnico de seus instrumentos de guerra. Armas Escolhidas: Escolha dois tipos de armas corpo a corpo (Simples ou Marciais), como machados grandes e machadinhas. Quando está empunhando um desses tipos, você pode usar a propriedade de maestria associada a ele. Treino Diário: Sempre que terminar um Descanso Longo , você pode praticar e substituir um dos tipos de arma escolhidos por outro. Progressão: O número de armas que você domina aumenta conforme você sobe de nível, conforme indicado na tabela do Bárbaro."
+  },
+  {
+    "nome": "Ataque Imprudente",
+    "nivel": 2,
+    "descricao": "Às vezes você decide que pensar demais só atrasa. Você se joga para frente de propósito, abre a guarda e foca só no alvo. A defesa fica em segundo plano, porque a única coisa que importa é ser o primeiro a acertar. Você pode sacrificar sua defesa por ofensiva brutal. Ativar: Quando fizer seu primeiro ataque no seu turno, você pode declarar que está atacando imprudentemente. Benefício: Você tem Vantagem em todas as jogadas de ataque corpo a corpo que usem Força até o início do seu próximo turno. Risco: Até o início do seu próximo turno, as jogadas de ataque contra você também têm Vantagem ."
+  },
+  {
+    "nome": "Sentido de Perigo",
+    "nivel": 2,
+    "descricao": "Você aprende a notar pequenas coisas que a maioria ignora. Um silêncio rápido, um sopro de ar na direção errada. Às vezes é só a sensação de que precisa sair dali agora. O corpo responde antes da mente terminar a pergunta. Você desenvolve uma percepção sobrenatural para ameaças imediatas. Instinto: Você tem Vantagem em testes de resistência de Destreza . Condição: Você não recebe este benefício se estiver Incapacitado (como quando está Cego ou Surdo para a fonte do perigo)."
+  },
+  {
+    "nome": "Caminho do Bárbaro",
+    "nivel": 3,
+    "descricao": "Todo clã tem um rito e todo caçador carrega um juramento. Totem, tempestade, sangue ou trilha solitária: o nome importa menos do que a decisão de ir até o fim com aquilo que você escolheu ser. Você escolhe um Caminho do Bárbaro que define a manifestação da sua fúria. Sua escolha concede características no 3º nível e novamente nos níveis 6, 10, 14 e 18. Arauto Rúnico id =\" spoiler-InnKqM \">"
+  },
+  {
+    "nome": "Incremento de Atributo ou Talento",
+    "nivel": 4,
+    "descricao": "Com o tempo, você aprende a se lapidar como quem afia uma lâmina. Respira fundo, corta o que é excesso e fortalece o que mais precisa em você. Força que cresce, passo que firma, mente que não desvia. Sempre que você atingir determinados níveis nesta classe (4, 8, 12, 16 e 19), você evolui suas capacidades. A cada vez que ganha esta característica, você deve fazer uma escolha entre as duas opções abaixo: Aumento de Atributo: Você aumenta um valor de atributo à sua escolha em +2, ou dois valores de atributo à sua escolha em +1. Como de costume, você não pode aumentar um atributo acima de 20 usando esta característica. Talento: Você escolhe um Talento para o qual você atenda aos pré-requisitos."
+  },
+  {
+    "nome": "Ataque Extra",
+    "nivel": 5,
+    "descricao": "Seu corpo aprende um novo ritmo em combate. O primeiro golpe abre caminho, o segundo decide o que fica de pé. Você não para no primeiro acerto: continua avançando até ter certeza de que a luta realmente acabou. Você ataca com velocidade e ferocidade implacável. Sempre que você realizar a Ação de Ataque no seu turno, você pode realizar dois ataques em vez de apenas um."
+  },
+  {
+    "nome": "Conhecimento Primitivo",
+    "nivel": 5,
+    "descricao": "O mundo fora do campo de batalha também ensina. Você aprende a ler pegadas na lama, o cheiro de sangue seco, o jeito que alguém baixa os olhos. Ouvir o que o ambiente conta é metade da vitória. Você expande seus instintos de sobrevivência e sabedoria natural. Novo Instinto: Você escolhe 1 perícia da lista de perícias disponíveis para o Bárbaro no 1º nível. Você ganha proficiência nessa perícia (caso ainda não a possua). Aprimoramento Futuro: Ao atingir o 10º nível , você recebe este benefício novamente, escolhendo outra perícia da mesma lista para ganhar proficiência."
+  },
+  {
+    "nome": "Característica de Caminho",
+    "nivel": 6,
+    "descricao": "Os saberes dos antigos permeiam meus passos, a trilha a ser seguida está clara, a vontade de continuar agora deve ser solidificada. Você ganha a característica de 6º nível do Caminho do Bárbaro que você escolheu no 3º nível. Arauto Rúnico id =\" spoiler-J8HhCv \">"
+  },
+  {
+    "nome": "Ímpeto Selvagem",
+    "nivel": 7,
+    "descricao": "Quando a luta chama, seu corpo responde antes do pensamento. Um meio passo já vira investida. Você foi feito para chegar primeiro: ombro à frente, olhar fixo, o chão cedendo sob o peso do seu avanço. Seus instintos de batalha tornam-se sobrenaturalmente rápidos. Reflexo de Combate: Você tem Vantagem em testes de Iniciativa. Passo Acelerado: Sua velocidade de caminhada aumenta em 3 metros [10 pés] . Avanço Furioso: Ao entrar em Fúria, você pode se mover até metade da sua velocidade imediatamente, como parte da mesma Ação Bônus usada para ativar a fúria."
+  },
+  {
+    "nome": "Incremento de Atributo ou Talento",
+    "nivel": 8,
+    "descricao": "Com o tempo, você aprende a se lapidar como quem afia uma lâmina. Respira fundo, corta o que é excesso e fortalece o que mais precisa em você. Força que cresce, passo que firma, mente que não desvia. Sempre que você atingir determinados níveis nesta classe (4, 8, 12, 16 e 19), você evolui suas capacidades. A cada vez que ganha esta característica, você deve fazer uma escolha entre as duas opções abaixo: Aumento de Atributo: Você aumenta um valor de atributo à sua escolha em +2, ou dois valores de atributo à sua escolha em +1. Como de costume, você não pode aumentar um atributo acima de 20 usando esta característica. Talento: Você escolhe um Talento para o qual você atenda aos pré-requisitos."
+  },
+  {
+    "nome": "Fôlego Furioso",
+    "nivel": 9,
+    "descricao": "Quando a morte estende a mão, você morde o ar e se recusa a cair. Sua teimosia ganha pulso próprio: mesmo quando o corpo cede, você se agarra a um último fôlego e espera a brecha certa para levantar de novo. Sua fúria sustenta seu corpo além dos limites mortais. Esta característica só funciona enquanto você estiver em Fúria . Gatilho: Se você cair a 0 pontos de vida enquanto estiver em fúria e não morrer instantaneamente, você pode fazer um Teste de Resistência de Constituição com CD 10 . Sucesso: Se passar no teste, você fica com 1 ponto de vida em vez de cair inconsciente. Dificuldade Crescente: Cada vez que você usar esta característica novamente antes de descansar, a CD aumenta em +5 . Recuperação: Ao terminar um Descanso Curto ou Descanso Longo , a CD volta a ser 10."
+  },
+  {
+    "nome": "Característica de Caminho",
+    "nivel": 10,
+    "descricao": "O rito afunda até o osso. Aquilo que você antes chamava em grito agora atende até no silêncio. Totem no peito, passo mais firme. Você carrega o caminho por dentro, e ele segura você de volta quando o mundo fica pesado demais. Você ganha a característica de 10º nível do Caminho do Bárbaro que você escolheu no 3º nível. Arauto Rúnico id =\" spoiler-npex0b \">"
+  },
+  {
+    "nome": "Fúria Devastadora",
+    "nivel": 11,
+    "descricao": "Com o tempo, você encontra o ponto certo entre brutalidade e precisão. O braço aprende a pesar o golpe, a arma encontra o lugar certo. Quando acerta, o osso aceita sem discutir. Seus ataques críticos tornam-se golpes de finalização brutais. Quando você realiza um Acerto Crítico com uma arma corpo a corpo: Dano de Crítico: Você adiciona dados de dano extras dependendo da arma usada: Arma Comum: +1d10 de dano adicional. Arma Pesada ou Ataque Desarmado: +1d12 de dano adicional. Arma Leve: +1d8 de dano adicional. Evolução: No 17º nível, a quantidade de dados adicionais dobra (+2d10, +2d12 ou +2d8). Fúria no Crítico: Enquanto estiver em Fúria , ao realizar um acerto crítico com uma arma corpo a corpo que use Força, você adiciona o seu nível de Bárbaro inteiro como bônus de dano (em vez de apenas metade)."
+  },
+  {
+    "nome": "Incremento de Atributo ou Talento",
+    "nivel": 12,
+    "descricao": "Com o tempo, você aprende a se lapidar como quem afia uma lâmina. Respira fundo, corta o que é excesso e fortalece o que mais precisa em você. Força que cresce, passo que firma, mente que não desvia. Sempre que você atingir determinados níveis nesta classe (4, 8, 12, 16 e 19), você evolui suas capacidades. A cada vez que ganha esta característica, você deve fazer uma escolha entre as duas opções abaixo: Aumento de Atributo: Você aumenta um valor de atributo à sua escolha em +2, ou dois valores de atributo à sua escolha em +1. Como de costume, você não pode aumentar um atributo acima de 20 usando esta característica. Talento: Você escolhe um Talento para o qual você atenda aos pré-requisitos."
+  },
+  {
+    "nome": "Instinto Brutal",
+    "nivel": 13,
+    "descricao": "Você passa a enxergar brechas que antes pareciam invisíveis. Um vacilo de postura, um escudo levantado tarde demais. Qualquer erro do inimigo vira oportunidade de ferida profunda. Sua ferocidade explora qualquer falha na defesa inimiga. Margem de Crítico: Quando você realiza um ataque que use Força (tanto na jogada de ataque quanto no dano), sua margem de acerto crítico aumenta em 1 ponto . Exemplo: Se você normalmente causa crítico com um 20 natural, passa a causar com 19 ou 20 . Se já possuir uma margem ampliada (ex: 19-20), ela se torna 18-20 ."
+  },
+  {
+    "nome": "Característica de Caminho",
+    "nivel": 14,
+    "descricao": "A tradição não anda mais ao seu lado: ela vai à frente. Sua fúria aprende o nome antigo das coisas. Você se torna história viva do seu clã, mais uma tatuagem que se move e um juramento que respira. Você ganha a característica de 14º nível do Caminho do Bárbaro que você escolheu no 3º nível. Arauto Rúnico id =\" spoiler-bDbbuQ \">"
+  },
+  {
+    "nome": "Ira Incontrolável",
+    "nivel": 15,
+    "descricao": "Agora a fúria não vem e vai rápido como antes; ela fica. Vira pele, vira fôlego longo, vira chão firme debaixo dos seus pés. Você continua avançando, sempre um pouco mais longe do que achava que ia conseguir. Sua fúria torna-se uma força sustentável e inesgotável. Fúria Incessante: Sempre que você rolar Iniciativa , você pode escolher recuperar todos os usos gastos de Fúria. Após utilizar este benefício, você não pode usá-lo novamente até terminar um Descanso Longo . Duração Estendida: Sua Fúria agora dura 10 minutos . Ela termina antecipadamente apenas se você cair Inconsciente , se for alvo de um efeito que acalme emoções ou se decidir encerrá-la no seu turno (sem exigir ação). Esta característica substitui a restrição de 1º nível que impedia o encerramento voluntário."
+  },
+  {
+    "nome": "Incremento de Atributo ou Talento",
+    "nivel": 16,
+    "descricao": "Com o tempo, você aprende a se lapidar como quem afia uma lâmina. Respira fundo, corta o que é excesso e fortalece o que mais precisa em você. Força que cresce, passo que firma, mente que não desvia. Sempre que você atingir determinados níveis nesta classe (4, 8, 12, 16 e 19), você evolui suas capacidades. A cada vez que ganha esta característica, você deve fazer uma escolha entre as duas opções abaixo: Aumento de Atributo: Você aumenta um valor de atributo à sua escolha em +2, ou dois valores de atributo à sua escolha em +1. Como de costume, você não pode aumentar um atributo acima de 20 usando esta característica. Talento: Você escolhe um Talento para o qual você atenda aos pré-requisitos."
+  },
+  {
+    "nome": "Força Indomável",
+    "nivel": 17,
+    "descricao": "Você chega a um ponto em que a própria ideia de fracassar em um teste de força parece errada. Seus músculos carregam anos de queda, peso e teimosia. A sua própria Força se impõe, como se o mundo tivesse que aceitar o quanto você aguenta. Sua força física atinge um patamar absoluto, superando a variabilidade do acaso. Força Inquestionável: Sempre que você realizar um Teste de Habilidade de Força ou um Teste de Resistência de Força , compare o resultado final (após aplicar modificadores e bônus) com o seu valor de atributo Força. Se o resultado for menor que o seu valor de Força, você pode usar o seu valor de Força no lugar do resultado."
+  },
+  {
+    "nome": "Característica de Caminho",
+    "nivel": 18,
+    "descricao": "No fim da trilha, o caminho deixa de ser escolha e vira carne. O rito que guiou seus passos acende por inteiro. A marca da sua subclasse sobe à superfície e governa o corpo: passo mais pesado, golpe mais certo, vontade que não recua. Você ganha a característica de 18º nível do Caminho do Bárbaro que você escolheu no 3º nível. Arauto Rúnico id =\" spoiler-CjxFCF \">"
+  },
+  {
+    "nome": "Incremento de Atributo ou Talento",
+    "nivel": 19,
+    "descricao": "No fim da trilha, o caminho deixa de ser escolha e vira carne. O rito que guiou seus passos acende por inteiro. Você não luta sozinho, luta com tudo o que o trouxe até aqui. A marca da sua subclasse governa o corpo. Você aumenta um valor de atributo à sua escolha em +2, ou dois valores de atributo em +1 (máximo 20), ou escolhe um Talento."
+  },
+  {
+    "nome": "Avatar da Fúria",
+    "nivel": 20,
+    "descricao": "Chega a hora em que a pele vira rito e o corpo vira estandarte do clã. O fôlego vira fornalha, o sangue vira martelo. Não é só força: é um juramento antigo batendo junto do coração. Você não vem atrás do fim — você o carrega nos ombros. Você transcende os limites mortais, tornando-se uma lenda viva de poder físico. Fisicalidade Transcendental: Seus valores de Força e Constituição aumentam em +4 . O máximo para esses atributos passa a ser 26 . Golpes Devastadores: Enquanto estiver em Fúria , seus ataques corpo a corpo que utilizem Força recebem um bônus de dano adicional igual ao seu modificador de Constituição (além do bônus de dano normal da Fúria). id =\" linear-navigation-container \""
+  }
+]

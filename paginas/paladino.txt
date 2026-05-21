@@ -1,0 +1,1104 @@
+[RECURSOS]
+Nivel: 1
+Bônus de Proficiência: +2
+1º: 2
+---
+Nivel: 2
+Bônus de Proficiência: +2
+1º: 2
+---
+Nivel: 3
+Bônus de Proficiência: +2
+1º: 3
+---
+Nivel: 4
+Bônus de Proficiência: +2
+1º: 3
+---
+Nivel: 5
+Bônus de Proficiência: +3
+1º: 4
+2º: 2
+---
+Nivel: 6
+Bônus de Proficiência: +3
+1º: 4
+2º: 2
+---
+Nivel: 7
+Bônus de Proficiência: +3
+1º: 4
+2º: 3
+---
+Nivel: 8
+Bônus de Proficiência: +3
+1º: 4
+2º: 3
+---
+Nivel: 9
+Bônus de Proficiência: +4
+1º: 4
+2º: 3
+3º: 2
+---
+Nivel: 10
+Bônus de Proficiência: +4
+1º: 4
+2º: 3
+3º: 2
+---
+Nivel: 11
+Bônus de Proficiência: +4
+1º: 4
+2º: 3
+3º: 3
+---
+Nivel: 12
+Bônus de Proficiência: +4
+1º: 4
+2º: 3
+3º: 3
+---
+Nivel: 13
+Bônus de Proficiência: +5
+1º: 4
+2º: 3
+3º: 3
+4º: 1
+---
+Nivel: 14
+Bônus de Proficiência: +5
+1º: 4
+2º: 3
+3º: 3
+4º: 1
+---
+Nivel: 15
+Bônus de Proficiência: +5
+1º: 4
+2º: 3
+3º: 3
+4º: 2
+---
+Nivel: 16
+Bônus de Proficiência: +5
+1º: 4
+2º: 3
+3º: 3
+4º: 2
+---
+Nivel: 17
+Bônus de Proficiência: +6
+1º: 4
+2º: 3
+3º: 3
+4º: 3
+5º: 1
+---
+Nivel: 18
+Bônus de Proficiência: +6
+1º: 4
+2º: 3
+3º: 3
+4º: 3
+5º: 1
+---
+Nivel: 19
+Bônus de Proficiência: +6
+1º: 4
+2º: 3
+3º: 3
+4º: 3
+5º: 2
+---
+Nivel: 20
+Bônus de Proficiência: +6
+1º: 4
+2º: 3
+3º: 3
+4º: 3
+5º: 2
+---
+
+[HABILIDADES]
+Nome: Sentido Divino
+Nivel: 1
+Subclasse:
+Table Only: nao
+Descrição:
+*Fecho os olhos e deixo que o mundo responda: o puro soa como sinos longínquos; o profano, como ferrugem no fio da lâmina. Se houver presença que fira meu voto, eu a encontro.*
+
+Você pode expandir sua percepção para detectar forças extraplanares. Como uma **Ação**, você abre seus sentidos até o final do seu próximo turno.
+
+- **Detecção:** Você sabe a localização de qualquer Celestial, Corruptor (Fiend) ou Morto-vivo a até **18 metros [60 pés]** que não tenha cobertura total.
+- **Locais:** Você detecta a presença de qualquer local ou objeto que tenha sido consagrado ou conspurcado.
+- **Usos:** Você pode usar esta característica um número de vezes igual a **1 + seu modificador de Carisma**. Você recupera todos os usos gastos ao terminar um **Descanso Longo**.
+---
+Nome: Cura Pelas Mãos
+Nivel: 1
+Subclasse:
+Table Only: nao
+Descrição:
+*Coloco a mão e recordo ao corpo sua forma inteira. Não é milagre; é promessa cumprida. Enquanto eu sustentar o estandarte, a dor não dita o fim. Eu reparto fôlego e ergo os meus.*
+
+Você possui uma reserva de poder curativo que se renova com sua fé.
+
+- **Poço de Cura:** Você tem uma reserva de pontos de cura igual a **5 × seu nível de Paladino**.
+- **Restaurar Vida:** Como uma **Ação Bônus**, você pode tocar uma criatura (ou a si mesmo) e gastar pontos do seu poço para restaurar um número de Pontos de Vida igual aos pontos gastos.
+- **Curar Aflições:** Você pode gastar **5 pontos** do poço de cura para curar o alvo de uma doença ou neutralizar um veneno que o afete. Você pode curar múltiplas doenças e neutralizar múltiplos venenos com um único uso, gastando pontos separadamente para cada um.
+- **Remover Condições:** Você pode gastar **5 pontos** para remover uma das seguintes condições do alvo: **Cego, Enfeitiçado, Surdo, Amedrontado, Paralisado** ou **Atordoado**.
+- **Recuperação:** Você recupera todos os pontos do seu poço de cura ao terminar um **Descanso Longo**.
+---
+Nome: Conjuração
+Nivel: 1
+Subclasse:
+Table Only: nao
+Descrição:
+*Treino a vontade até que obedeça ao gesto e ao símbolo. Quando declaro, o mundo toma forma; quando silencio, o mundo descansa comigo, à espera do próximo chamado.*
+
+Você aprendeu a canalizar magia divina através de meditação e oração.
+
+- **Preparação de Magias:** Você prepara a lista de magias disponíveis para conjurar. Escolha um número de magias de Paladino igual ao seu modificador de **Carisma + metade do seu nível de Paladino** (mínimo de uma magia). As magias devem ser de níveis para os quais você tenha espaços.
+- **Espaços de Magia:** A tabela do Paladino mostra quantos espaços de magia você tem. Você recupera todos os espaços gastos ao terminar um **Descanso Longo**.
+- **Atributo de Conjuração:** **Carisma** é sua habilidade para conjurar magias. Use-o para definir a CD (8 + Bônus de Proficiência + Mod. Carisma) e ataques de magia.
+- **Foco de Conjuração:** Você pode usar um **Símbolo Sagrado** como foco de conjuração.
+
+::center
+**CD de Magia** = 8 + Bônus de Proficiência + Modificador de Carisma
+**Ataque de Magia** = Bônus de Proficiência + Modificador de Carisma
+::
+---
+Nome: Maestria em Armas
+Nivel: 1
+Subclasse:
+Table Only: nao
+Descrição:
+*Cada arma tem uma voz, e eu aprendi a cantar com todas elas. Onde a lâmina toca, o dever é cumprido.*
+
+Seu treinamento marcial permite que você utilize técnicas avançadas com armamentos.
+
+- **Armas Escolhidas:** Escolha **dois tipos de armas** com as quais você tenha proficiência (como Espadas Longas e Azagaias).
+- **Benefício:** Enquanto estiver empunhando uma arma dos tipos escolhidos, você pode utilizar as **propriedades de maestria** associadas a ela.
+- **Troca:** Sempre que terminar um **Descanso Longo**, você pode praticar e substituir os tipos de armas escolhidos por outros.
+---
+Nome: Doutrina Marcial
+Nivel: 2
+Subclasse:
+Table Only: nao
+Descrição:
+*O aço de um cavaleiro não é apenas forjado na bigorna, mas no espírito. Não importa se empunha espada, maça ou lança — cada movimento é um ato de justiça.*
+
+Você aprimora seu estilo de combate ou sua devoção mágica. Escolha uma das opções abaixo:
+
+- **Estilo de Luta:** Você ganha um Talento de Estilo de Luta à sua escolha (como Defesa, Duelo, Proteção ou Combate com Armas Grandes).
+- **Guerreiro Abençoado:** Você aprende dois truques da lista de Clérigo (sugestões: *Chama Sagrada*, *Orientação*). Esses truques contam como magias de Paladino para você, e Carisma é sua habilidade de conjuração para eles.
+- **Armas Treinadas:** Você ganha 3 escolhas de Maestrias de Armas com as quais você tenha proficiência.
+---
+Nome: Destruição Divina
+Nivel: 2
+Subclasse:
+Table Only: nao
+Descrição:
+*Minha lâmina carrega juramento. Não corto carne: corto a mentira que a sustenta. Onde meu voto toca, o perjúrio cede.*
+
+Você pode canalizar energia radiante em seus golpes. Quando você acertar uma criatura com um ataque corpo a corpo desarmado ou com arma:
+
+- **Efeito:** Você pode gastar um **Espaço de Magia** para causar dano radiante extra ao alvo. O dano é **2d8** para um espaço de 1º nível, mais **1d8** para cada nível de espaço acima do 1º.
+- **Inimigos Profanos:** O dano aumenta em **1d8** se o alvo for um Corruptor (Fiend) ou um Morto-vivo.
+- **Limite:** Você só pode usar Destruição Divina uma vez por turno.
+---
+Nome: Juramento Sagrado
+Nivel: 3
+Subclasse:
+Table Only: nao
+Descrição:
+*Ergo meu símbolo e falo em voz alta: de hoje em diante, minha palavra possui caminho, peso e preço. Enquanto meu juramento permanecer de pé, eu também permaneço.*
+
+Você realiza o juramento que o define como Paladino. Escolha uma **Trilha de Juramento** (Subclasse), como o Juramento da Devoção ou o Juramento da Vingança.
+
+- **Magias de Juramento:** Você ganha magias específicas do seu juramento. Elas estão sempre preparadas e não contam no seu limite de preparação.
+- **Características:** Você ganha as características do seu juramento nos níveis 3, 7, 15 e 20.
+---
+Nome: Canalizar Divindade
+Nivel: 3
+Subclasse:
+Table Only: nao
+Descrição:
+*Eu declaro, concentro e faço valer. A promessa contrai-se como um punho, depois se abre e alimenta o golpe seguinte.*
+
+Seu juramento permite que você canalize energia divina para alimentar efeitos mágicos.
+
+- **Opções:** Seu Juramento Sagrado fornece duas opções de uso para esta característica.
+- **Usos:** Você pode usar Canalizar Divindade **2 vezes**. Você recupera os usos gastos ao terminar um Descanso Curto ou Longo. No nível 11, você ganha um uso adicional (total de 3).
+- **CD:** Se um efeito exigir um teste de resistência, a CD é igual à das suas magias de Paladino.
+
+#### Canalizar Divindade: Recorrer ao Poder Divino
+*Quando a chama baixa, ergo o símbolo e lembro quem confia em mim. O fôlego volta; a lâmina pesa certo.*
+
+- **Tipo:** Ação Bônus
+- **Efeito:** Recupera 1 espaço de magia de nível **até metade do bônus de proficiência** (arred. p/ cima).
+- **Usos/Recargas:** Gasta 1 uso de Canalizar Divindade.
+---
+Nome: Saúde Divina
+Nivel: 3
+Subclasse:
+Table Only: nao
+Descrição:
+*O que me atravessa não me define. Minha disciplina fecha portas à doença. Se eu cair, que seja por falha minha — não por febre covarde.*
+
+A magia divina fluindo em você o torna imune a **doenças**.
+---
+Nome: Característica de Juramento (Nível 3)
+Nivel: 3
+Subclasse:
+Table Only: nao
+Descrição:
+*O voto recém-feito ainda queima nos lábios, mas já se torna braço, passo, palavra. A trilha escolhida começa a moldar quem você é em campo: cada gesto carrega o selo do juramento.*
+
+Você ganha as características de 3º nível da Trilha de Juramento que você escolheu nesse mesmo nível.
+---
+Nome: Incremento de Atributo ou Talento
+Nivel: 4
+Subclasse:
+Table Only: nao
+Descrição:
+*Um voto só permanece se corpo e mente suportam seu peso. Lapido ambos, devagar e sempre: cada pequena vitória é pedra no alicerce. Não busco facilidade, busco capacidade — para carregar mais sem me partir.*
+
+Sempre que você atingir determinados níveis nesta classe (4, 8, 12, 16 e 19), você evolui suas capacidades. A cada vez que ganha esta característica, você deve fazer uma escolha entre as duas opções abaixo:
+
+- **Aumento de Atributo:** Você aumenta um valor de atributo à sua escolha em +2, ou dois valores de atributo à sua escolha em +1. Como de costume, você não pode aumentar um atributo acima de 20 usando esta característica.
+- **Talento:** Você escolhe um Talento para o qual você atenda aos pré-requisitos.
+---
+Nome: Ataque Extra
+Nivel: 5
+Subclasse:
+Table Only: nao
+Descrição:
+*Quando a linha ameaça ceder, avanço em cadência: o primeiro golpe abre caminho, o segundo cumpre a sentença. Não é pressa — é ritmo treinado, martelo e bigorna, até a dúvida se render.*
+
+Sua disciplina marcial permite atacar com velocidade punitiva. Sempre que você realizar a ação de **Atacar** no seu turno, você pode realizar **dois ataques** em vez de um.
+---
+Nome: Montaria Heróica
+Nivel: 5
+Subclasse:
+Table Only: nao
+Descrição:
+*O Juramento que aceitastes é de tremenda responsabilidade, carregar este peso sozinho não seria o ideal. Todo campeão precisa de uma fiel montaria, pois a jornada que seguirá já será demasiadamente árdua.*
+
+Seu potencial divino e ações em nome de seu juramento o atam a um leal espírito de montaria. Você possui a magia **Encontrar Montaria (Find Steed)** sempre preparada e ela não conta contra as suas magias preparadas diariamente. Adicionalmente, você pode conjurar a magia com espaços de magia ou com um uso do seu **Canalizar Divindade**, quando a magia é conjurada desta maneira, ela é conjurada em um **nível igual ao seu nível de Paladino dividido por três e arredondado para cima**.
+---
+Nome: Aura de Proteção
+Nivel: 6
+Subclasse:
+Table Only: nao
+Descrição:
+*Fiquem perto. Aqui, a promessa segura o teto e firma o chão. Sob meu alcance, a dúvida treme menos e o golpe encontra menos carne. Quebrem em mim, antes de quebrar em vocês.*
+
+Sua presença irradia um poder protetor que blinda a alma e o corpo dos seus aliados.
+
+- **Efeito:** Enquanto você estiver consciente, você e quaisquer aliados a até **3 metros [10 pés]** de você ganham um bônus em todos os **Testes de Resistência**.
+- **Bônus:** O bônus é igual ao seu modificador de **Carisma** (mínimo de +1).
+- **Alcance:** No 18º nível, o alcance desta aura aumenta para **9 metros [30 pés]**.
+---
+Nome: Característica de Juramento (Nível 7)
+Nivel: 7
+Subclasse:
+Table Only: nao
+Descrição:
+*O juramento aprofunda suas raízes. A magia que antes vinha do esforço agora flui como consequência natural da sua convicção, moldando o campo de batalha ao seu redor.*
+
+Você ganha a característica de 7º nível da Trilha de Juramento que você escolheu no 3º nível.
+---
+Nome: Incremento de Atributo ou Talento
+Nivel: 8
+Subclasse:
+Table Only: sim
+Descrição:
+---
+Nome: Aura da Coragem
+Nivel: 10
+Subclasse:
+Table Only: nao
+Descrição:
+*O terror pode latir do lado de fora; por dentro, ficamos inteiros. Enquanto eu ficar, a linha fica. Respiramos juntos, contamos até três — e avançamos.*
+
+Sua determinação inabalável protege a mente dos seus aliados contra o pânico.
+
+- **Efeito:** Enquanto você estiver consciente, você e quaisquer aliados a até **3 metros [10 pés]** de você não podem ser **Amedrontados**.
+- **Alcance:** No 18º nível, o alcance desta aura aumenta para **9 metros [30 pés]**.
+---
+Nome: Destruição Divina Aprimorada
+Nivel: 11
+Subclasse:
+Table Only: nao
+Descrição:
+*Mesmo quando não declaro, minha lâmina lembra. A promessa fica gravada como rebarba de luz: cada corte repete o juramento que me sustenta.*
+
+A energia divina inunda seu corpo de tal forma que seus golpes mundanos carregam poder sagrado.
+
+- **Efeito Passivo:** Sempre que você acertar uma criatura com um ataque corpo a corpo, a criatura sofre **1d8 de dano radiante** extra.
+---
+Nome: Incremento de Atributo ou Talento
+Nivel: 12
+Subclasse:
+Table Only: sim
+Descrição:
+---
+Nome: Toque Purificador
+Nivel: 14
+Subclasse:
+Table Only: nao
+Descrição:
+*O que te amarra não é teu. Nomeio o nó e corto — devagar, sem hesitar. Levanta, respira, caminha: quando o feitiço vira grilhão, minha palavra vira chave.*
+
+Você pode usar seu poder divino para romper amarras mágicas.
+
+- **Ação:** Como uma **Ação**, você pode tocar a si mesmo ou uma criatura voluntária.
+- **Efeito:** Você encerra **1 magia** de sua escolha que esteja afetando a criatura tocada.
+- **Usos:** Você pode usar esta característica um número de vezes igual ao seu modificador de **Carisma** (mínimo de 1 vez). Você recupera todos os usos gastos quando termina um **Descanso Longo**.
+---
+Nome: Característica de Juramento (Nível 15)
+Nivel: 15
+Subclasse:
+Table Only: nao
+Descrição:
+*Seu juramento tornou-se sua própria pele. A magia que você conjura e a espada que você empunha agora operam em perfeita sincronia com seus dogmas sagrados.*
+
+Você ganha a característica de 15º nível da Trilha de Juramento que você escolheu no 3º nível.
+---
+Nome: Incremento de Atributo ou Talento
+Nivel: 16
+Subclasse:
+Table Only: sim
+Descrição:
+---
+Nome: Melhoria de Aura
+Nivel: 18
+Subclasse:
+Table Only: nao
+Descrição:
+*Minha fé não é mais uma lanterna, é um farol. A proteção que irradia de mim se expande, cobrindo todo o campo de batalha e transformando o ar ao redor em solo sagrado.*
+
+O alcance das suas **Aura de Proteção** e **Aura da Coragem** aumenta para **9 metros [30 pés]**.
+---
+Nome: Talento Épico
+Nivel: 19
+Subclasse:
+Table Only: nao
+Descrição:
+*Aproximei-me da perfeição do meu ideal. Corpo, mente e espírito operam em uníssono. Onde eu aponto a espada, a vontade divina se manifesta sem hesitação.*
+
+No 19º nível, você ganha um avanço final equivalente ao Incremento de Atributo ou Talento, marcando o ápice do seu treinamento como Paladino.
+
+- **Aumento de Atributo:** Você aumenta um valor de atributo à sua escolha em +2, ou dois valores de atributo em +1 (máximo 20).
+- **Talento:** Você escolhe um Talento para o qual você atenda aos pré-requisitos.
+---
+Nome: Característica de Juramento (Nível 20)
+Nivel: 20
+Subclasse:
+Table Only: nao
+Descrição:
+*Eu me torno a encarnação viva do meu juramento. Não sou apenas um cavaleiro que serve a uma causa; eu sou a própria causa manifestada em carne, aço e luz divina.*
+
+Você ganha a característica de 20º nível da Trilha de Juramento que você escolheu no 3º nível. Esta é geralmente uma transformação poderosa que o torna um avatar do seu ideal sagrado.
+---
+Nome: Destruição Moral
+Nivel: 3
+Subclasse: juramento-da-conquista
+Table Only: nao
+Descrição:
+*"Meu passo encerra discussões. Eu não peço rendição — imponho-a. Onde meu nome pesa, a coragem alheia murcha; se a luz não quebra o inimigo, eu quebro o que sustenta sua lâmina: a mente. Conquista é silêncio após o meu comando."*
+
+- **Tipo:** Passiva
+- **Efeito:** Ao escolher este juramento, você pode optar por causar **dano psíquico** em vez de **radiante** ao usar **Destruição Divina**. Se possuir **Destruição Divina Aprimorada**, também pode optar por psíquico nesse dano adicional.
+
+**Magias de Domínio (Conquista):**
+
+| Nível de Paladino | Magias |
+|---|---|
+| 3º | Armadura de Agathys (Armor of Agathys), Destruição Furiosa (Wrathful Smite) |
+| 5º | Imobilizar Pessoa (Hold Person), Silêncio (Silence) |
+| 9º | Rogar Maldição (Bestow Curse), Medo (Fear) |
+| 13º | Assassino Fantasmagórico (Phantasmal Killer), Pele de Pedra (Stoneskin) |
+| 17º | Onda Destrutiva (Destructive Wave), Imobilizar Monstro (Hold Monster) |
+---
+Nome: Canalizar Divindade: Presença Conquistadora
+Nivel: 3
+Subclasse: juramento-da-conquista
+Table Only: nao
+Descrição:
+*"Eu chego e o ar engrossa. A ordem é simples: ajoelhar, soltar as armas, viver. Teimosia vira tremor quando minha insígnia ergue a linha; quem me encara aprende que resistência tem preço. Rendam-se e sobrevivam; persistam, e a minha palavra encerra a marcha."*
+
+- **Tipo:** Ação
+- **Efeito:** Cada criatura à sua escolha que você vê a até **9 m [30 pés]** realiza uma **Teste de Resistência de Sabedoria**. Em falha, fica **Amedrontada por você** por **1 minuto**. Pode repetir a salvaguarda no fim de cada turno, encerrando em sucesso.
+---
+Nome: Canalizar Divindade: Acerto Guiado
+Nivel: 3
+Subclasse: juramento-da-conquista
+Table Only: nao
+Descrição:
+*"Eu declaro e o aço obedece. Não desperdiço golpes — corrijo-os. Quando digo 'agora', a lâmina encontra carne e o erro aprende a se tornar acerto. Meu estandarte aponta o alvo, e meu juramento conduz a ponta até o fim."*
+
+- **Tipo:** Passiva (ativada ao rolar o ataque)
+- **Efeito:** Ao realizar uma rolagem de ataque, você pode ganhar **+10** na rolagem. Declare após ver o resultado do dado, mas antes do Mestre dizer se acerta ou erra.
+---
+Nome: Aura da Conquista
+Nivel: 7
+Subclasse: juramento-da-conquista
+Table Only: nao
+Descrição:
+*"Minha proximidade desfaz bravatas. O passo vacila, o joelho trai. Sob meu alcance, o medo se torna grilhão — e aprendem parados o preço de me desafiar. Quem ousa erguer a voz, encontra a falange do meu voto segurando o mundo no lugar."*
+
+- **Tipo:** Passiva (Aura)
+- **Efeito:** Enquanto você não estiver incapacitado, criaturas **amedrontadas por você** a até **3 m [10 pés]** têm **velocidade 0** e sofrem **dano psíquico** igual à **metade do seu nível de Paladino** ao iniciar o turno na aura.
+- **Aprimoramento:** Alcance aumenta para **9 m [30 pés]** no 18º nível.
+---
+Nome: Repreensão Desdenhosa
+Nivel: 15
+Subclasse: juramento-da-conquista
+Table Only: nao
+Descrição:
+*"Ousou tocar meu escudo? Que a dor ensine hierarquia. Quem me fere sente meu desprezo retornar pela própria lâmina — e aprende a baixar a cabeça. Em meu alcance, insolência é taxa cobrada a cada golpe."*
+
+- **Tipo:** Passiva
+- **Efeito:** Sempre que uma criatura o acertar com um ataque, ela sofre **dano psíquico** igual ao seu **modificador de Carisma** (mín. 1), se você não estiver incapacitado.
+---
+Nome: Conquistador Invencível
+Nivel: 20
+Subclasse: juramento-da-conquista
+Table Only: nao
+Descrição:
+*"Ergo toda a minha estatura e a guerra termina cedo. Meus golpes não descansam; minha pele recusa sentença. Cada batimento dita o veredito: resistir é perder tempo. Hoje, a vitória marcha comigo e a rendição aprende a se chamar prudência."*
+
+- **Tipo:** Ação
+- **Efeito:** Por **1 minuto**, você ganha: **resistência a todos os danos**; ao usar **Atacar**, faz **1 ataque adicional** como parte da ação; seus ataques com armas são **críticos em 19–20**.
+- **Usos/Recargas:** **1 vez**; recarrega ao final de um **descanso longo**.
+---
+Nome: Conhecimento Real
+Nivel: 3
+Subclasse: juramento-da-coroa
+Table Only: nao
+Descrição:
+*"Aprendo nomes, brasões e precedentes. Um estandarte sem memória é só pano; com memória, vira autoridade. Onde a lei vacila, cito capítulos; onde a história pesa, a multidão cede. Só governa quem sabe o que sustenta o comando."*
+
+- **Tipo:** Passiva
+- **Efeito:** Ao escolher este juramento, você recebe proficiência em **Carisma (Persuasão)** ou **Inteligência (História)** (à sua escolha), caso ainda não possua.
+
+**Magias de Domínio (Coroa):**
+
+| Nível de Paladino | Magias |
+|---|---|
+| 3º | Benção (Bless), Comando (Command) |
+| 5º | Vínculo Protetor (Warding Bond), Zona da Verdade (Zone of Truth) |
+| 9º | Aura da Vitalidade (Aura of Vitality), Espíritos Guardiões (Spirit Guardians) |
+| 13º | Banimento (Banishment), Santuário Privado (Mordenkainen's Private Sanctum) |
+| 17º | Círculo do Poder (Circle of Power), Consagração (Hallow) |
+---
+Nome: Canalizar Divindade: Desafio do Campeão
+Nivel: 3
+Subclasse: juramento-da-coroa
+Table Only: nao
+Descrição:
+*"Ergo o estandarte e chamo o foco para mim. Não por bravata, mas para poupar os meus. Quem me ouve sente o campo estreitar: a batalha tem centro, e sou eu. Se tens coragem, fica; se não, quebra teu juramento e foge."*
+
+- **Tipo:** Ação Bônus
+- **Efeito:** Cada criatura à sua escolha que você pode ver a até **9 metros [30 pés]** realiza uma **teste de resistência de Sabedoria**. Em falha, não pode se mover voluntariamente a mais de **9 metros [30 pés]** de você. O efeito termina para a criatura se você ficar **incapacitado** ou **morto** ou se a criatura estiver a mais de **9 metros [30 pés]** de você.
+- **Usos/Recargas:** Gasta **1 uso de Canalizar Divindade**; recarrega no descanso **curto ou longo**.
+---
+Nome: Canalizar Divindade: Um Novo Amanhecer
+Nivel: 3
+Subclasse: juramento-da-coroa
+Table Only: nao
+Descrição:
+*"Minha voz atravessa capacetes e poeira: levantem-se. Onde minha ordem chega, feridas lembram de fechar e passos voltam à cadência. Não é milagre; é promessa pública: sob esta coroa, ninguém cai sem resposta."*
+
+- **Tipo:** Ação Bônus
+- **Efeito:** Cada criatura à sua escolha que possa ouvi-lo a até **9 metros [30 pés]** recupera **2d6 + seu nível de Paladino** pontos de vida.
+- **Usos/Recargas:** Gasta **1 uso de Canalizar Divindade**; recarrega no descanso **curto ou longo**.
+---
+Nome: Aura da Bravura
+Nivel: 7
+Subclasse: juramento-da-coroa
+Table Only: nao
+Descrição:
+*"Minha proximidade torna heroico o que antes era medo. Quando meu golpe marca, tomo o olhar inimigo para mim. Enquanto sustento a linha, quem tenta atingir os meus hesita — e aprende que a lei tem rosto."*
+
+- **Tipo:** Passiva (Aura)
+- **Efeito:** A partir do 7º nível, enquanto não estiver **incapacitado**, quando você atingir uma criatura com um ataque corpo-a-corpo **dentro de sua Aura de Proteção**, essa criatura tem **desvantagem** em rolagens de ataque contra qualquer alvo que **não** seja você até o fim do seu próximo turno.
+- **Aprimoramento:** No **18º nível**, o alcance passa a **9 m [30 pés]**.
+---
+Nome: Escudo Protetor
+Nivel: 15
+Subclasse: juramento-da-coroa
+Table Only: nao
+Descrição:
+*"Vejo o vacilo e intervenho: 'de novo'. Sob a coroa, falhar é lição — não sentença. Reposiciono, corrijo, cubro. Ninguém fica para trás por causa de um dado ruim."*
+
+- **Tipo:** Reação
+- **Efeito:** A partir do 15º nível, quando um aliado a até **9 m [30 pés]** falhar em um **Teste de Resistência**, você pode usar sua Reação para fazê-lo **rolar novamente** e escolher o melhor resultado.
+---
+Nome: Campeão Exaltado
+Nivel: 20
+Subclasse: juramento-da-coroa
+Table Only: nao
+Descrição:
+*"Quando a ordem precisa de um rosto, eu a visto inteira. Minha presença organiza curas, endurece aço e dá fôlego à retaguarda. Por um minuto, o campo lembra por que existe hierarquia: viver juntos, resistir juntos, vencer juntos."*
+
+- **Tipo:** Ação
+- **Efeito:** Por **1 minuto**: ao entrar na forma, aliados a até **9 m [30 pés]** recebem **PV temporários** iguais ao seu **nível de Paladino**; você tem **resistência** a dano concussivo, perfurante e cortante; **rolagens de cura** suas e de aliados **dentro da aura** são **maximizadas**.
+- **Usos/Recargas:** **1 vez**; recarrega após um **descanso longo**.
+---
+Nome: Olhar Honesto
+Nivel: 3
+Subclasse: juramento-da-devocao
+Table Only: nao
+Descrição:
+*"Olho nos olhos e a máscara perde o brilho. Minha fé não é ingenuidade; é luz que revela as dobras onde a mentira se esconde. Entre doutrina e mundo, escolho a verdade — dita com firmeza, aplicada com compaixão."*
+
+- **Tipo:** Passiva
+- **Efeito:** Ao escolher este juramento, você recebe proficiência em **Sabedoria (Intuição)** ou **Inteligência (Religião)** (à sua escolha), caso ainda não possua.
+
+**Magias de Domínio (Devoção):**
+
+| Nível de Paladino | Magias |
+|---|---|
+| 3º | Proteção Contra o Bem e o Mal (Protection from Evil and Good), Escudo da Fé (Shield of Faith) |
+| 5º | Auxílio (Aid), Zona da Verdade (Zone of Truth) |
+| 9º | Farol da Esperança (Beacon of Hope), Dissipar Magia (Dispel Magic) |
+| 13º | Aura da Vida (Aura of Life), Movimento Irrestrito (Freedom of Movement) |
+| 17º | Comunhão (Commune), Alvorada (Dawn) |
+---
+Nome: Canalizar Divindade: Arma Sagrada
+Nivel: 3
+Subclasse: juramento-da-devocao
+Table Only: nao
+Descrição:
+*"Levanto a lâmina e peço que minha intenção a ilumine. Não é brilho por vaidade; é farol para o golpe certo e abrigo para quem fica ao meu lado. Enquanto a luz estiver erguida, meu acerto não vacila."*
+
+- **Tipo:** Ação
+- **Efeito:** Imbui uma arma que você empunha por **1 minuto**. Você adiciona seu **modificador de Carisma** (mín. +1) às rolagens de ataque com ela; a arma emite **luz clara 6 m [20 pés]** e **luz difusa +6 m**; se não for mágica, torna-se **mágica** pela duração. Você pode encerrar o efeito no seu turno como parte de outra ação. Termina se soltar/deixar de carregar a arma ou se ficar **inconsciente**.
+- **Usos/Recargas:** Gasta **1 uso de Canalizar Divindade**; recarrega no descanso **curto ou longo**.
+---
+Nome: Canalizar Divindade: Afastar o Profano
+Nivel: 3
+Subclasse: juramento-da-devocao
+Table Only: nao
+Descrição:
+*"Aponto o símbolo e nomeio o erro. Não grito; ordeno que recuem. Se vieram da noite para profanar, conhecerão a distância que a misericórdia impõe: afastem-se, enquanto ainda lhes deixo a escolha."*
+
+- **Tipo:** Ação
+- **Efeito:** Cada **morto-vivo** ou **corruptor** que possa ver ou ouvir você em até **9 m [30 pés]** realiza um **teste de resistência de Sabedoria**. Em falha, fica **expulso** por **1 minuto** ou até sofrer dano. Enquanto expulsa, a criatura deve se afastar de você, não pode se aproximar voluntariamente a menos de **9 m**, não pode usar **reações** e, em sua Ação, só pode **Disparar** ou tentar escapar de efeitos que a impeçam de mover; se não houver para onde ir, pode **Esquivar**.
+- **Usos/Recargas:** Gasta **1 uso de Canalizar Divindade**; recarrega no descanso **curto ou longo**.
+---
+Nome: Aura da Devoção
+Nivel: 7
+Subclasse: juramento-da-devocao
+Table Only: nao
+Descrição:
+*"Sob meu alcance, o coração lembra quem é. Sussurros que seduzem perdem cor, promessas ocas não encontram eco. Eu fico, e com minha presença, a vontade dos meus permanece inteira."*
+
+- **Tipo:** Passiva (Aura)
+- **Efeito:** A partir do 7º nível, você e criaturas aliadas a **3 m [10 pés]** não podem ser **encantadas** enquanto você estiver **consciente**.
+- **Aprimoramento:** No **18º nível**, o alcance aumenta para **9 m [30 pés]**.
+---
+Nome: Pureza do Espírito
+Nivel: 15
+Subclasse: juramento-da-devocao
+Table Only: nao
+Descrição:
+*"Trago comigo uma guarda silenciosa: oração, hábito, vigilância. As garras do corrompido escorregam no meu voto; o toque que deturpa encontra barreira, como se um círculo invisível me lembrasse de ficar inteiro."*
+
+- **Tipo:** Passiva
+- **Efeito:** A partir do 15º nível, você está sempre sob os efeitos de **Proteção Contra o Bem e o Mal** (*Protection from Evil and Good*).
+---
+Nome: Nimbo Sagrado
+Nivel: 20
+Subclasse: juramento-da-devocao
+Table Only: nao
+Descrição:
+*"Abro o peito e deixo a aurora sair. A luz não humilha: revela. Quem veio ferir encontra resistência; quem veio proteger, encontra abrigo. Por um minuto, minha presença é sol — e onde alcança, a noite perde o direito de mandar."*
+
+- **Tipo:** Ação
+- **Efeito:** Por **1 minuto**, você emana **luz clara 9 m [30 pés]** e **luz difusa +9 m**. Inimigos que começarem o turno na luz clara sofrem **10 de dano radiante**. Além disso, você tem **vantagem em testes de resistência** contra **magias conjuradas por demônios ou mortos-vivos**.
+- **Usos/Recargas:** **1 vez**; recarrega após um **descanso longo**.
+---
+Nome: Atleta Inigualável
+Nivel: 3
+Subclasse: juramento-da-gloria
+Table Only: nao
+Descrição:
+*"Meu corpo é meu estandarte: cada treino vira promessa cumprida em público. Onde a multidão hesita, eu salto mais alto, corro mais longe, ergo mais peso. A excelência não é troféu; é ponte para que outros se atrevam a atravessar comigo."*
+
+- **Tipo:** Passiva
+- **Efeito:** Ao escolher este juramento, você recebe proficiência em **Força (Atletismo)** ou **Destreza (Acrobacia)** (à sua escolha), caso ainda não possua.
+
+**Magias de Domínio (Glória):**
+
+| Nível de Paladino | Magias |
+|---|---|
+| 3º | Raio Guiador (Guiding Bolt), Heroísmo (Heroism) |
+| 5º | Aprimorar Habilidade (Enhance Ability), Destruição Luminosa (Shining Smite) |
+| 9º | Celeridade (Haste), Proteção Contra Energia (Protection from Energy) |
+| 13º | Movimento Irrestrito (Freedom of Movement), Lança Psíquica (Raulothim's Psychic Lance) |
+| 17º | Conhecimento Lendário (Legend Lore), Presença Magnífica (Yolande's Regal Presence) |
+---
+Nome: Canalizar Divindade: Pela Glória
+Nivel: 3
+Subclasse: juramento-da-gloria
+Table Only: nao
+Descrição:
+*"Ergo a voz e o campo responde: peitos se abrem, passos se alinham, lâminas encontram seu tempo. Por um instante perfeito, todos lembram o herói que podem ser — e avançam comigo, rápidos e certos, antes que a dúvida respire."*
+
+- **Tipo:** Ação Bônus
+- **Efeito:** Você e aliados à sua escolha a até **9 m [30 pés]** fazem **jogadas de ataque com vantagem** até o **início do seu próximo turno** e ganham **+3 m [10 pés]** de deslocamento por **1 minuto**.
+- **Usos/Recargas:** Gasta **1 uso de Canalizar Divindade**; recarrega no descanso **curto ou longo**.
+---
+Nome: Canalizar Divindade: Punição Inspiradora
+Nivel: 3
+Subclasse: juramento-da-gloria
+Table Only: nao
+Descrição:
+*"Quando meu golpe acende o campo, reparto o brilho. O impacto não termina no alvo: volta em fôlego aos meus, costura fissuras, ergue queixos. O público ruge, a falange renasce — e o próximo passo já nasce vencedor."*
+
+- **Tipo:** Ação Bônus
+- **Efeito:** **Imediatamente após causar dano** com seu recurso **Punição Divina**, você distribui **pontos de vida temporários** entre criaturas à sua escolha a até **9 m [30 pés]** (pode incluir você). Total = **2d8 + seu nível de Paladino**, alocado como preferir.
+- **Usos/Recargas:** Gasta **1 uso de Canalizar Divindade**; recarrega no descanso **curto ou longo**.
+---
+Nome: Aura da Espontaneidade
+Nivel: 7
+Subclasse: juramento-da-gloria
+Table Only: nao
+Descrição:
+*"Solto o peso dos ombros e deixo o corpo lembrar seu melhor. Perto de mim, saltos saem limpos, quedas viram cambalhotas, golpes dançam com o tempo. O espetáculo não é vaidade: é ferramenta para manter todos de pé."*
+
+- **Tipo:** Passiva (Aura)
+- **Efeito:** A partir do 7º nível, você e aliados a **3 m [10 pés]** têm **vantagem** em **Testes de Habilidade** e **Testes de Resistência** de **Força** e **Destreza**.
+- **Aprimoramento:** No **18º nível**, alcance passa a **9 m [30 pés]**.
+---
+Nome: Defesa Gloriosa
+Nivel: 15
+Subclasse: juramento-da-gloria
+Table Only: nao
+Descrição:
+*"Leio o golpe chegando, giro o escudo e o público prende a respiração. Se a lâmina desliza, devolvo com um corte limpo — não por raiva, por lição. Defender também é brilhar: o momento certo vira acerto certo."*
+
+- **Tipo:** Reação
+- **Efeito:** Quando você ou um aliado a **3 m [10 pés]** for **acertado por um ataque**, conceda um **bônus à CA** do alvo igual a seu **Carisma** (mín. +1) contra aquele ataque, podendo fazê-lo errar. Se errar, você ou o aliado alvo (à sua escolha) pode realizar **1 ataque com arma** contra o atacante, se estiver ao alcance.
+- **Usos/Recargas:** **Carisma** usos (mín. 1); recupera no **descanso longo**.
+---
+Nome: Lenda Viva
+Nivel: 20
+Subclasse: juramento-da-gloria
+Table Only: nao
+Descrição:
+*"Por um minuto, sou a história contada ainda em vida. Minhas falhas aprendem a acertar, meus passos recusam o tropeço, meu fôlego dobra a sorte. A plateia não imagina: não é sorte — é treino que virou mito."*
+
+- **Tipo:** Ação
+- **Efeito:** Por **1 minuto**: você tem **vantagem em todos os Testes de Resistência**; **1 vez por turno**, quando errar um ataque de arma, você pode fazê-lo **acertar**; ao **falhar em um Teste de Resistência**, pode usar sua **Reação** para **rolar novamente** (deve usar a nova rolagem).
+- **Usos/Recargas:** **1 vez**; recupera no **descanso longo**, ou gaste **1 espaço de magia de 5º nível** para usar novamente.
+---
+Nome: Destruição Sombria
+Nivel: 3
+Subclasse: juramento-da-morte
+Table Only: nao
+Descrição:
+*"Entre luz e noite, escolho o corte que corrige. Se a sombra for o remédio, que cure com rigor. E se um justo tombar aos meus pés, sussurro a escolha: repouso merecido ou retorno disciplinado. Meu voto não rouba almas; encaminha."*
+
+- **Tipo:** Passiva + Ação
+- **Efeito:** Você pode optar por causar **dano necrótico** em vez de **radiante** ao usar **Destruição Divina**; o mesmo vale para **Destruição Divina Aprimorada**. Além disso, com uma **Ação**, toque o corpo de um ser com alma morto há até **1 minuto** para perguntar se deseja descanso eterno ou lutar mesmo em morte. Se desejar lutar, você **vincula a alma** para convocá-la em **Canalizar Divindade: Comandar Servos Mortos-Vivos** (usa a **ficha de Servo Morto-Vivo**). O vínculo não impede **magias/efeitos que afetem almas** (ex.: ressurreição). Se a criatura foi **deplorável em vida**, não tem direito de escolha e te servirá.
+
+**Magias de Domínio (Morte):**
+
+| Nível de Paladino | Magias |
+|---|---|
+| 3º | Falsa Vitalidade (False Life), Represália Infernal (Inflict Wounds) |
+| 5º | Armadura Fúnebre (Death Armor), Definhar (Wither and Bloom) |
+| 9º | Animar os Mortos (Animate Dead), Falar com os Mortos (Speak with Dead) |
+| 13º | Proteção Contra a Morte (Death Ward), Manto das Sombras (Shadow of Moil) |
+| 17º | Cápsula Antivida (Antilife Shell), Reviver (Raise Dead) |
+---
+Nome: Canalizar Divindade: Aspecto Apavorante
+Nivel: 3
+Subclasse: juramento-da-morte
+Table Only: nao
+Descrição:
+*"Mostro o véu e o mundo lembra do fim. Meu semblante não ameaça: anuncia. Quem me vê além do brilho entende que há contas a pagar — e que a fuga, por um minuto, é a única oração que lhes resta."*
+
+- **Tipo:** Ação
+- **Efeito:** Cada criatura, à sua escolha, a até **9 m [30 pés]** que possa vê-lo realiza um **teste de resistência de Sabedoria**. Em falha, fica **Amedrontada em relação a você** por **1 minuto**. Se terminar o turno a mais de **9 m** de você, pode repetir o **teste de resistência de Sabedoria** para encerrar o efeito.
+- **Usos/Recargas:** Gasta **1 uso de Canalizar Divindade**; recarrega no descanso **curto ou longo**.
+---
+Nome: Canalizar Divindade: Comandar Servos Mortos-Vivos
+Nivel: 3
+Subclasse: juramento-da-morte
+Table Only: nao
+Descrição:
+*"Abro a fissura e deixo que o purgatório devolva o que me foi confiado. Não por vaidade, mas por serviço: os que regressam lutam sob minha ordem — e, quando o preço se paga, voltam às sombras."*
+
+- **Tipo:** Ação
+- **Efeito:** Você convoca **Servos Mortos-Vivos** em número igual ao seu **modificador de proficiência**. Surgem em até **4,5 m [15 pés]** de você, agem logo após você na iniciativa e são **comandados telepaticamente**. Cada servo permanece por até **8 horas**, até você concluir um **descanso curto**, até seus **PV chegarem a 0** ou até você reutilizar este Canalizar; então desfaz-se em sombras.
+- **Usos/Recargas:** Gasta **1 uso de Canalizar Divindade**; recarrega no descanso **curto ou longo**.
+
+#### Servo Morto-Vivo (statblock)
+
+> **Médio morto-vivo, leal neutro**
+
+- **Classe de Armadura:** 13, sobe +1 nos níveis 9, 13 e 17 de paladino.
+- **Pontos de Vida:** 10 + 2 vezes o seu nível.
+- **Velocidade:** 9 metros (30 feet)
+- **Atributos:** STR 18 (+4), DEX 11 (+0), CON 16 (+3), INT 7 (-2), WIS 12 (+1), CHA 11 (+0)
+- **Imunidades a dano:** Necrótico e Veneno.
+- **Imunidade a condições:** Amedrontado, Envenenado, Exaustão e Paralisado.
+- **Sentidos:** Visão no Escuro 60 ft., Percepção Passiva 11.
+- **Idiomas:** Entende todas que o paladino conhece, mas não fala.
+
+**Habilidades:**
+
+- **Aumento de Patente:** O Servo Morto-Vivo melhora junto ao seu nível de paladino, ele ganha melhorias nos níveis 9, 13 e 17.
+- **Equipamento Imutável:** O Servo Morto-Vivo possui sua própria armadura e armas, ele não pode utilizar outros equipamentos de armaduras, armas ou escudos, além dos que ele já está equipado.
+- **Armas Mágicas:** As armas do Servo Morto-Vivo são consideradas mágicas com o intuito de ultrapassar resistências. (Habilidade adquirida após o 13º nível de paladino.)
+
+**Ações:**
+
+- **Espada Longa:** Ataque Corpo-a-Corpo com Arma: Modificador de Ataque de Magia de Paladino para acertar, alcance 5 fts., um alvo. Acerto: 1d10+4 de dano cortante.
+- **Transmutação de arma:** O Servo Morto-Vivo pode transmutar sua espada longa em um arco longo com uma ação. (Habilidade adquirida após o 9º nível de paladino.)
+- **Arco Longo:** Ataque à Distância com Arma: Modificador de Ataque de Magia de Paladino para acertar, distância 36/180 metros [150/600 feet], um alvo. Acerto: 1d8 de dano perfurante. (Habilidade adquirida após o 9º nível de paladino.)
+- **Ataques Múltiplos:** O Servo Morto-Vivo pode atacar duas vezes no turno. (Habilidade adquirida após o 17º nível de paladino.)
+---
+Nome: Aura das Sombras
+Nivel: 7
+Subclasse: juramento-da-morte
+Table Only: nao
+Descrição:
+*"Quem marcha comigo sente o corte ficar mais fundo. Minha sombra afia a lâmina dos meus — e o inimigo aprende que escuridão também protege. Sob meu alcance, toda guarda tem dente."*
+
+- **Tipo:** Passiva (Aura)
+- **Efeito:** A partir do 7º nível, você e **mortos-vivos aliados** a até **3 m [10 pés]** ganham **bônus nas jogadas de dano com armas** igual ao seu **Carisma** (mín. +1). Uma criatura só recebe o benefício de **um** paladino por vez.
+- **Aprimoramento:** No **18º nível**, alcance aumenta para **9 m [30 pés]**.
+---
+Nome: Comandante dos Mortos
+Nivel: 15
+Subclasse: juramento-da-morte
+Table Only: nao
+Descrição:
+*"Sob minha égide, os meus não voltam a ser dispersos como poeira. E aos que tentam me alcançar com garras de além-túmulo, imponho dúvida: escolham outro alvo — ou aceitem o nada por resposta."*
+
+- **Tipo:** Passiva
+- **Efeito:** No 15º nível, mortos-vivos afetados por sua **Aura das Sombras** são **imunes a Expulsar Mortos-Vivos (Turn Undead)**. Além disso, se um **morto-vivo** mirar você com **ataque** ou **magia prejudicial**, deve fazer **teste de resistência de Sabedoria** contra sua **CD de Paladino** (não se aplica a inclusão em **área de efeito**). Em **falha**, escolhe **novo alvo** ou **desiste** do ataque/magia; em **sucesso**, fica **imune** por **24h**. Fica imune também se você o acertar com ataque ou magia prejudicial.
+---
+Nome: Senhor do Medo
+Nivel: 20
+Subclasse: juramento-da-morte
+Table Only: nao
+Descrição:
+*"Visto as sombras e a luz baixa a voz. Minha pele recusa o aço comum e, ao meu gesto, a própria noite morde. Por um minuto, o campo aprende que o medo tem dono — e que esse dono usa o medo para terminar a luta."*
+
+- **Tipo:** Ação
+- **Efeito:** Por **1 minuto**, você emana uma **aura de sombras** que reduz a **luz plena em 9 metros [30 pés]** ao redor para **penumbra**; você ganha **resistência a dano concussivo, cortante e perfurante**. Enquanto durar, pode usar **Ação Bônus** no seu turno para fazer as sombras **atacarem uma criatura**: faça um **ataque corpo-a-corpo com magia**; em acerto, causa **3d10 + seu Carisma** de **dano necrótico**.
+- **Usos/Recargas:** **1 vez**; recarrega após um **descanso longo**.
+---
+Nome: Amor Pela Vida
+Nivel: 3
+Subclasse: juramento-primordial
+Table Only: nao
+Descrição:
+*"Carrego água, cubro sementes, retiro ferrugem da terra e do coração. Meu corpo é exemplo do que prego: fôlego limpo, passo firme, mente clara. Onde eu chego, a vida encontra mãos e método — e aprende que terá sempre quem a ponha de pé."*
+
+- **Tipo:** Passiva
+- **Efeito:** Ao escolher este juramento, você recebe proficiência em **Sabedoria (Adestrar Animais)** ou **Inteligência (Natureza)** (à sua escolha), caso ainda não possua.
+
+**Magias de Domínio (Primordial):**
+
+| Nível de Paladino | Magias |
+|---|---|
+| 3º | Emaranhar (Entangle), Falar com os Animais (Speak with Animals) |
+| 5º | Passo Nebuloso (Misty Step), Raio Lunar (Moonbeam) |
+| 9º | Conjurar Animais (Conjure Animals), Crescer Plantas (Plant Growth) |
+| 13º | Guardião da Natureza (Guardian of Nature), Pele de Pedra (Stoneskin) |
+| 17º | Comunhão com a Natureza (Commune with Nature), Manto Lunar (Alustriel's Mooncloak) |
+---
+Nome: Canalizar Divindade: Fúria da Natureza
+Nivel: 3
+Subclasse: juramento-primordial
+Table Only: nao
+Descrição:
+*"Estalo os dedos e o solo responde. Cipós saem da memória do chão, troncos lembram sua força. Não é crueldade — é poda necessária: segurar o braço que destrói para que o resto continue crescendo."*
+
+- **Tipo:** Ação
+- **Efeito:** Faça vinhas espectrais alcançarem uma criatura a até **3 m [10 pés]** que você veja. A criatura realiza um **teste de resistência** de **Força ou Destreza** (à escolha dela) ou fica **Restringida**. Enquanto assim, repete o teste no fim de cada turno; em **sucesso**, liberta-se e as vinhas somem.
+- **Usos/Recargas:** Gasta **1 uso de Canalizar Divindade**; recarrega no descanso **curto ou longo**.
+---
+Nome: Canalizar Divindade: Afaste os Sem Fé
+Nivel: 3
+Subclasse: juramento-primordial
+Table Only: nao
+Descrição:
+*"Pronuncio as palavras antigas, e o ar volta a ser honesto. Ao intruso que devora o que floresce — fada perdida ou demônio invasor — eu concedo distância. Recuem, enquanto ainda lhes dou caminho para voltar."*
+
+- **Tipo:** Ação
+- **Efeito:** Cada **fada** ou **demônio** a até **9 m [30 pés]** que possa ouvi-lo faz **teste de resistência de Sabedoria**. Em **falha**, fica **afastado** por **1 minuto** ou até sofrer dano. Enquanto afastada, a criatura deve se mover para longe, não pode se aproximar voluntariamente a menos de **9 m**, não pode usar **reações** e, em sua Ação, só pode **Disparada** ou tentar escapar de impedimentos; se não houver para onde ir, pode **Desviar**. Se sua forma verdadeira estiver oculta por **ilusão/metamorfose**, ela é revelada enquanto estiver afastada.
+- **Usos/Recargas:** Gasta **1 uso de Canalizar Divindade**; recarrega no descanso **curto ou longo**.
+---
+Nome: Aura de Custódia
+Nivel: 7
+Subclasse: juramento-primordial
+Table Only: nao
+Descrição:
+*"Faço de mim barreira viva: folhas, pedra e sal do mar trançados em volta dos meus. O feitiço inimigo bate e perde aresta; a dor chega menor. Fiquem perto: sob meu alcance, a natureza se coloca entre vocês e a magia."*
+
+- **Tipo:** Passiva (Aura)
+- **Efeito:** A partir do 7º nível, você e criaturas aliadas a **3 m [10 pés]** têm **resistência a dano de magias**.
+- **Aprimoramento:** No **18º nível**, alcance aumenta para **9 m [30 pés]**.
+---
+Nome: Sentinela Imortal
+Nivel: 15
+Subclasse: juramento-primordial
+Table Only: nao
+Descrição:
+*"Quando a vida hesita, eu me recuso a ir. Não por teimosia, mas por dever: ainda há brotos precisando de sombra. Caio até quase o fim — e fico —, para lembrar que o ciclo segue enquanto alguém o defende."*
+
+- **Tipo:** Passiva
+- **Efeito:** No 15º nível, quando for reduzido a **0 PV** e não morrer imediatamente, você pode cair a **1 PV** em vez disso (**1 vez** por descanso longo). Além disso, você **não sofre desvantagens do envelhecimento** e **não pode ser envelhecido magicamente**.
+- **Usos/Recargas:** Recarrega no **descanso longo** (para o efeito de 1 PV).
+---
+Nome: Campeão Primordial
+Nivel: 20
+Subclasse: juramento-primordial
+Table Only: nao
+Descrição:
+*"Vestindo musgo e aurora, torno-me estação. A cada batida, o corpo refaz-se; a cada gesto, a magia chega mais cedo. Perto de mim, o ar pesa contra o invasor e a vida escolhe ficar — porque alguém a está defendendo agora."*
+
+- **Tipo:** Ação
+- **Efeito:** Por **1 minuto**, você assume uma forma elemental/selvática (cosmética) e ganha: no início de cada turno, **recupera 10 PV**; quando conjurar uma **magia de Paladino com tempo de 1 Ação**, pode conjurá-la como **Ação Bônus**; criaturas inimigas a **3 m [10 pés]** têm **desvantagem em testes de resistência** contra suas **magias de Paladino** e suas opções de **Canalizar Divindade**.
+- **Usos/Recargas:** Duração 1 min; exige Ação para ativar.
+---
+Nome: Poço do Redimido
+Nivel: 3
+Subclasse: juramento-da-redencao
+Table Only: nao
+Descrição:
+*"Ponho o corpo entre a ferida e o fim, e derramo mais do que remendo: derramo chance. Minha cura não é só fechar cortes — é lembrar que ainda há caminho, e que alguém decidiu pagar para que ele continue aberto."*
+
+- **Tipo:** Passiva
+- **Efeito:** Ao usar **Cura pelas Mãos** para curar ao menos **10 PV** seus ou de um aliado, você pode gastar **1 espaço de magia** para aumentar a cura em **+2d8**, +**1d8** por nível do espaço acima do 1º (**máx. +5d8**).
+- **Usos/Recargas:** Consome espaço de magia.
+
+**Magias de Domínio (Redenção):**
+
+| Nível de Paladino | Magias |
+|---|---|
+| 3º | Santuário (Sanctuary), Sono (Sleep) |
+| 5º | Acalmar Emoções (Calm Emotions), Imobilizar Pessoa (Hold Person) |
+| 9º | Contramagia (Counterspell), Padrão Hipnótico (Hypnotic Pattern) |
+| 13º | Esfera Resiliente (Otiluke's Resilient Sphere), Pele de Pedra (Stoneskin) |
+| 17º | Imobilizar Monstro (Hold Monster), Muralha de Energia (Wall of Force) |
+---
+Nome: Canalizar Divindade: Emissário da Paz
+Nivel: 3
+Subclasse: juramento-da-redencao
+Table Only: nao
+Descrição:
+*"Respiro, baixo a lâmina e ergo a voz. Minha presença lembra que vencer também é ceder no ponto certo. Por alguns instantes, cada palavra pesa mais que um golpe — e isso basta para abrir passagem."*
+
+- **Tipo:** Ação Bônus
+- **Efeito:** Você recebe **+5** em **testes de Carisma (Persuasão)** por **10 minutos**.
+- **Usos/Recargas:** Gasta **1 uso de Canalizar Divindade**; recarrega no **descanso curto ou longo**.
+---
+Nome: Canalizar Divindade: Repreender o Violento
+Nivel: 3
+Subclasse: juramento-da-redencao
+Table Only: nao
+Descrição:
+*"Se feres quem não sou eu, eu te mostro o peso do teu gesto. Não por vingança, mas por medida: a dor volta na exata conta do que causaste, para que aprendas a diferença entre força e abuso."*
+
+- **Tipo:** Reação
+- **Efeito:** **Imediatamente após** um atacante a até **9 metros [30 feet]** causar dano a uma criatura que não seja você, force-o a um **teste de resistência de Sabedoria**. Em **falha**, o atacante sofre **dano radiante** igual ao dano que acabou de causar; em **sucesso**, sofre **metade**.
+- **Usos/Recargas:** Gasta **1 uso de Canalizar Divindade**; recarrega no **descanso curto ou longo**.
+---
+Nome: Aura do Guardião
+Nivel: 7
+Subclasse: juramento-da-redencao
+Table Only: nao
+Descrição:
+*"Fiquem atrás de mim. Se algo precisa atravessar, que atravesse em mim primeiro. Não transfiro o peso por heroísmo — faço porque prometi que ninguém cairia sem que eu tentasse segurar."*
+
+- **Tipo:** Reação (Aura)
+- **Efeito:** A partir do 7º nível, quando uma criatura a até **3 metros [10 feet]** sofrer dano, você pode usar sua Reação para **receber esse dano no lugar dela**. **Nenhum outro efeito** que acompanhe o dano é transferido.
+- **Usos/Recargas:** Limite de 1 Reação por rodada.
+- **Aprimoramento:** No **18º nível**, alcance aumenta para **9 metros [30 feet]**.
+---
+Nome: Espírito Protetivo
+Nivel: 15
+Subclasse: juramento-da-redencao
+Table Only: nao
+Descrição:
+*"Quando o corpo vacila, minha promessa o puxa de volta. Não é milagre barulhento — é um fio teimoso que me costura por dentro sempre que o combate tenta me desfiar antes da hora."*
+
+- **Tipo:** Passiva
+- **Efeito:** A partir do 15º nível, se você terminar o turno **em combate** com **menos da metade dos seus PV** e não estiver **incapacitado**, recupera **1d6 + metade do seu nível de Paladino** PV.
+- **Usos/Recargas:** Gatilho por turno.
+---
+Nome: Emissário da Redenção
+Nivel: 20
+Subclasse: juramento-da-redencao
+Table Only: nao
+Descrição:
+*"Eu não respondo ao golpe com outro golpe — respondo com limite. Enquanto mantenho as mãos baixas, a violência bate e volta, aprendendo que não manda mais aqui. Minha paz não é passiva: é muralha que devolve o custo."*
+
+- **Tipo:** Passiva (Forma de 20º nível)
+- **Efeito:** Você tem **resistência a todo dano causado por outras criaturas** (ataques, magias e efeitos). Sempre que uma criatura o atacar, ela sofre **dano radiante** igual à **metade do dano que você recebeu** nesse ataque. Se você **atacar** uma criatura, **conjurar uma magia nela** ou **causar dano a ela por qualquer outro meio** além deste recurso, **nenhum dos benefícios** funciona contra essa criatura até você terminar um **descanso longo**.
+---
+Nome: Vigia Planar
+Nivel: 3
+Subclasse: juramento-dos-vigilantes
+Table Only: nao
+Descrição:
+*"Leio o ar como mapa e o solo como fronteira. Onde o cheiro do 'de fora' invade, meu instinto aponta. Nem toda presença é inimiga — mas toda interferência tem preço, e eu estou aqui para cobrá-lo."*
+
+- **Tipo:** Passiva
+- **Efeito:** Seu **Sentido Divino** passa a identificar **todas as criaturas extraplanares**, incluindo **Fadas, Elementais** e **Aberrações**.
+- **Usos/Recargas:** Conforme Sentido Divino.
+
+**Magias de Domínio (Vigilantes):**
+
+| Nível de Paladino | Magias |
+|---|---|
+| 3º | Alarme (Alarm), Proteção Contra o Bem e o Mal (Protection from Evil and Good) |
+| 5º | Evasão Arcana (Elminster's Elusion), Ver o Invisível (See Invisibility) |
+| 9º | Dissipar Magia (Dispel Magic), Proteção Contra Detecção (Nondetection) |
+| 13º | Aura da Pureza (Aura of Purity), Banimento (Banishment) |
+| 17º | Destruição Exiladora (Banishing Smite), Vidência (Scrying) |
+---
+Nome: Canalizar Divindade: Vontade dos Vigias
+Nivel: 3
+Subclasse: juramento-dos-vigilantes
+Table Only: nao
+Descrição:
+*"Endureço as margens da mente e reparto esse escudo. Por um minuto, sussurros perdem dente, ilusões falham o truque e o estranho aprende que aqui a cabeça não se dobra fácil."*
+
+- **Tipo:** Ação
+- **Efeito:** Escolha criaturas que você vê a até **9 m [30 pés]** em número igual ao seu **Carisma** (mín. 1). Por **1 minuto**, você e as escolhidas têm **vantagem em Testes de Resistência de Inteligência, Sabedoria e Carisma**.
+- **Usos/Recargas:** Gasta **1 uso de Canalizar Divindade**; recarrega no **descanso curto ou longo**.
+---
+Nome: Canalizar Divindade: Repudiar o Extraplanar
+Nivel: 3
+Subclasse: juramento-dos-vigilantes
+Table Only: nao
+Descrição:
+*"Nomeio a violação e o mundo me ajuda a empurrar. Quem veio de fora para ferir recua; quem é justo, passa. Fronteiras existem por um motivo — e eu sou o motivo de elas funcionarem."*
+
+- **Tipo:** Ação
+- **Efeito:** Cada **aberrração, celestial, elemental, fada** ou **demônio** a até **9 m [30 pés]** que possa ouvi-lo faz **teste de resistência de Sabedoria**. Em **falha**, fica **afastado** por **1 minuto** ou até sofrer dano. Enquanto afastada, deve se mover para longe, não pode terminar turno a menos de **9 m**, não usa **reações** e só pode **Disparada** ou tentar escapar; se sem rota, pode **Desviar**.
+- **Usos/Recargas:** Gasta **1 uso de Canalizar Divindade**; recarrega no **descanso curto ou longo**.
+---
+Nome: Aura do Sentinela
+Nivel: 7
+Subclasse: juramento-dos-vigilantes
+Table Only: nao
+Descrição:
+*"Durmo de olhos abertos e ensino os meus a fazer o mesmo. Quando o chamado chega, já estamos em pé. A vantagem não é sorte — é hábito."*
+
+- **Tipo:** Passiva (Aura)
+- **Efeito:** Enquanto você não estiver **incapacitado**, quando você e criaturas à sua escolha a **3 m [10 pés]** rolarem **Iniciativa**, cada uma recebe **+ seu bônus de proficiência** nessa rolagem.
+- **Aprimoramento:** No **18º nível**, alcance aumenta para **9 m [30 pés]**.
+---
+Nome: Repulsa Vigilante
+Nivel: 15
+Subclasse: juramento-dos-vigilantes
+Table Only: nao
+Descrição:
+*"Se tentam dobrar nossas mentes, devolvo pressão em força. Verdades aguentam; mentiras estalam. Meu contra-golpe é lição: aqui, quem manipula paga na hora."*
+
+- **Tipo:** Reação
+- **Efeito:** Quando você ou criatura que veja a até **9 m [30 pés]** **tiver sucesso** em Teste de Resistência de **Inteligência, Sabedoria ou Carisma**, você pode usar sua Reação para causar **2d8 + Carisma** de **dano de força** à criatura que **forçou o teste**.
+- **Usos/Recargas:** Limite de 1 Reação/rodada.
+---
+Nome: Baluarte Mortal
+Nivel: 20
+Subclasse: juramento-dos-vigilantes
+Table Only: nao
+Descrição:
+*"Por um minuto, visto o que guarda reinos. Vejo o que se disfarça, corto o que invade e devolvo cada coisa ao seu lugar. Não é exílio — é correção."*
+
+- **Tipo:** Ação Bônus
+- **Efeito:** Por **1 minuto**: você ganha **visão verdadeira** em **32 m [120 pés]**; tem **vantagem em jogadas de ataque** contra **Aberrações, Celestiais, Elementais, Fadas e Demônios**. Ao acertar um ataque e causar dano, o alvo faz **teste de resistência de Carisma** contra sua **CD de magia**; em **falha**, é **banido ao plano nativo** (se já não estiver); em **sucesso**, fica imune a este efeito por **24 horas**.
+- **Usos/Recargas:** **1 vez** por **descanso longo**, ou gaste **1 espaço de magia de 5º nível** para usar novamente.
+---
+Nome: Caçada Vingativa
+Nivel: 3
+Subclasse: juramento-da-vinganca
+Table Only: nao
+Descrição:
+*"Escolho o alvo e o mundo encolhe entre nós. Não há curva que me retenha, nem distração que me desvie. Minha promessa é simples: onde estiveres, eu chego — e quando eu chegar, termina."*
+
+- **Tipo:** Ação Bônus
+- **Efeito:** Escolha um inimigo que você possa ver. Você usa **Disparada (Dash)** em direção a ele. Ao final do seu turno, você deve estar **mais próximo do alvo** do que estava no início do turno.
+
+**Magias de Domínio (Vingança):**
+
+| Nível de Paladino | Magias |
+|---|---|
+| 3º | Ataque Emaranhante (Ensnaring Strike), Marca do Caçador (Hunter's Mark) |
+| 5º | Imobilizar Pessoa (Hold Person), Passo Nebuloso (Misty Step) |
+| 9º | Celeridade (Haste), Proteção Contra Energia (Protection from Energy) |
+| 13º | Porta Dimensional (Dimension Door), Destruição Atordoante (Staggering Smite) |
+| 17º | Vidência (Scrying), Vendaval de Aço (Steel Wind Strike) |
+---
+Nome: Canalizar Divindade: Repudiar Inimigo
+Nivel: 3
+Subclasse: juramento-da-vinganca
+Table Only: nao
+Descrição:
+*"Meu verbo trava passos. Não é piedade — é pausa para o veredito chegar. Fique onde está, encare o peso do que fez, e saiba: se te moveres, será o último erro."*
+
+- **Tipo:** Ação
+- **Efeito:** Escolha uma criatura a até **18 m [60 pés]** que você veja. Ela faz **teste de resistência de Sabedoria** (**Demônios** e **Mortos-vivos** com **desvantagem**). Em **falha**, fica **incapacitada** por **1 minuto** ou até sofrer dano; **velocidade 0** e não se beneficia de bônus de velocidade. Em **sucesso**, a **velocidade é reduzida à metade** por **1 minuto** ou até sofrer dano.
+- **Usos/Recargas:** Gasta 1 uso de **Canalizar Divindade**; recarrega no descanso **curto ou longo**.
+---
+Nome: Canalizar Divindade: Voto de Inimizade
+Nivel: 3
+Subclasse: juramento-da-vinganca
+Table Only: nao
+Descrição:
+*"Nomeio-te alvo e, até teu fim, nada me distrai. Cada golpe encontra teu corpo como se o campo apontasse. Tenta atacar — minha resposta chega junto."*
+
+- **Tipo:** Ação Bônus (+ Reação)
+- **Efeito:** Escolha uma criatura a até **9 m [30 pés]** que você veja. Por **1 minuto** (ou até ela cair a 0 PV), você tem **vantagem em rolagens de ataque** contra ela. **Além disso**, quando essa criatura fizer um ataque, você pode usar sua **Reação** para realizar **1 ataque corpo a corpo** contra ela se estiver ao alcance.
+- **Usos/Recargas:** Gasta 1 uso de **Canalizar Divindade**; recarrega no descanso **curto ou longo**.
+- **Aprimoramento:** Combina com **Caçada Vingativa**.
+---
+Nome: Aura da Perseguição
+Nivel: 7
+Subclasse: juramento-da-vinganca
+Table Only: nao
+Descrição:
+*"Quando eu avanço, a matilha avança. Minha pressa vira trilha segura; meus passos, permissão. Quem corre comigo não perde tempo — só distância."*
+
+- **Tipo:** Passiva (Aura)
+- **Efeito:** A partir do **7º nível**, raio de **3 m [10 pés]**. Quando você usa **Caçada Vingativa** no seu turno, **aliados dentro da aura** (e os que entrarem nela conforme você se move) podem usar a **Reação** para **mover seu deslocamento em direção ao alvo**, sem provocar **ataques de oportunidade**. Devem terminar o movimento **mais próximos do inimigo**.
+- **Usos/Recargas:** 1 Reação por criatura/rodada.
+- **Aprimoramento:** No **18º nível**, alcance passa a **9 m [30 pés]**.
+---
+Nome: Alma Vingativa
+Nivel: 15
+Subclasse: juramento-da-vinganca
+Table Only: nao
+Descrição:
+*"Correntes e lama não me atrasam. Minha caça não espera maré, brejo ou feitiço barato. Onde o alvo corre, eu chego — inteiro."*
+
+- **Tipo:** Passiva
+- **Efeito:** No **15º nível**, você fica permanentemente sob o efeito de **Movimentação Livre** (*Freedom of Movement*).
+---
+Nome: Anjo Vingativo
+Nivel: 20
+Subclasse: juramento-da-vinganca
+Table Only: nao
+Descrição:
+*"Abro asas e o fim te alcança de cima. Mesmo no limite, eu permaneço em pé — a sentença só cai quando eu disser. E eu sempre digo, com a lâmina."*
+
+- **Tipo:** Ação
+- **Efeito:** Por **1 minuto**: você ganha **asas** (voo **18 m [60 pés]** e planagem); ter **0 PV** não o deixa inconsciente (você ainda faz **testes de resistência contra a morte** e sofre dano normalmente). Se falhar nos testes e "morrer", você só morre quando a transformação terminar ou ficar **incapacitado**; morre apenas se ainda estiver a **0 PV** ao fim. Ao usar **Atacar**, faz **1 ataque adicional** como parte da ação.
+- **Usos/Recargas:** **1 vez**; recarrega após um **descanso longo**.
+---
+
+

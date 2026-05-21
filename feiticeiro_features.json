@@ -1,0 +1,92 @@
+[
+  {
+    "nivel": 1,
+    "nome": "Conjuração",
+    "descricao": "Eu não decorei sílabas — eu as exalo. A magia sangra por mim e respira pelos meus poros. Quando falo, cada palavra nasce em brasa e sai como feitiço. A magia flui através de você como um instinto natural. Truques: Você conhece 4 truques da lista de Feiticeiro. Aprende mais nos níveis 4 e 10. Pode trocar 1 truque ao subir de nível. Preparação de Magias: Você prepara uma lista de magias de nível 1+ igual ao número mostrado na coluna \"Magias Preparadas\" da sua tabela (inicia com 2). Atributo de Conjuração: Carisma é sua habilidade para conjurar magias. Foco: Você pode usar um Foco Arcano. CD de Magia = 8 + Bônus de Proficiência + Modificador de Carisma Ataque de Magia = Bônus de Proficiência + Modificador de Carisma"
+  },
+  {
+    "nivel": 1,
+    "nome": "Feitiçaria Inata",
+    "descricao": "Quando abro a comporta, o ar fica pesado. O silêncio aprende a pronunciar meu nome em faíscas. Você pode desencadear uma onda de poder bruto. Como Ação Bônus , você entra em um estado de sobrecarga por 1 minuto. Poder Ampliado: A CD das suas magias de Feiticeiro aumenta em +1. Precisão: Você tem Vantagem nas jogadas de ataque de magias de Feiticeiro. Usos: Você pode usar esta característica 2 vezes. Recupera todos os usos ao terminar um Descanso Longo."
+  },
+  {
+    "nivel": 2,
+    "nome": "Fonte de Magia",
+    "descricao": "Toco o fluxo com a ponta dos dedos e ele responde; o truque é saber quando beber e quando deixar que me transborde. Você acessa uma reserva profunda de energia chamada Pontos de Feitiçaria (PF) . Reserva: Você tem um número de PF igual ao seu nível de Feiticeiro (começando com 2 no nível 2). Recupera todos em um Descanso Longo. Converter Espaços em PF: Sem ação, gaste um espaço de magia para ganhar PF igual ao nível do espaço. Criar Espaços com PF: Com uma Ação Bônus, gaste PF para criar um espaço de magia temporário (tabela abaixo). Nível do Espaço Custo em PF 1º 2 2º 3 3º 5 4º 6 5º 7"
+  },
+  {
+    "nivel": 2,
+    "nome": "Metamagia",
+    "descricao": "Não basta lançar o raio — é preciso afiná-lo. Magia é música de risco: eu marco o compasso com o coração e improviso com sangue. Você ganha a habilidade de alterar seus feitiços. Escolha 2 opções de Metamagia . Você ganha mais nos níveis 10 e 17. Uso: Gaste PF para ativar o efeito. Apenas 1 Metamagia por feitiço, a menos que a opção diga o contrário. Opções de Metamagia Magia Cuidadosa (1 PF): Protege criaturas amigas do efeito em área (sucesso automático no teste). Magia Distante (1 PF): Dobra o alcance de magias (ou torna Toque em 9m). Magia Empoderada (1 PF): Rerrola dados de dano ruins (até Mod. Carisma dados). Magia Estendida (1 PF): Dobra a duração (máx. 24h). Vantagem para manter Concentração. Magia Altaneira (2 PF): Impõe Desvantagem no primeiro teste de resistência de um alvo. Magia Acelerada (2 PF): Conjura magia de \"1 Ação\" como \"Ação Bônus\". Magia Precisa (1 PF): Rerrola um ataque de magia errado. Magia Sutil (1 PF): Conjura sem componentes Verbais ou Somáticos. Magia Transmutada (1 PF): Troca o tipo de dano elemental (Ácido, Frio, Fogo, Raio, Veneno, Trovão). Magia Duplicada (1 PF): Aumenta o nível efetivo de magias que multiplicam alvos (ex: Enfeitiçar Pessoa)."
+  },
+  {
+    "nivel": 3,
+    "nome": "Origem de Linhagem",
+    "descricao": "O sangue escolheu um caminho. É herança e ferida, promessa e preço. Negar seria sufocar a própria chama. Escolha uma Origem de Linhagem (Subclasse). Você ganha características nos níveis 3, 6, 10, 14 e 18. Aberrante"
+  },
+  {
+    "nivel": 4,
+    "nome": "Incremento de Atributo ou Talento",
+    "descricao": "Treinar não é polir espelhos; é engrossar a madeira do arco que me sustenta. Eu aparo arestas, reposiciono pesos, afio o que importa. Cada pequena melhora abre um corredor novo para a corrente que ruge por trás dos dentes. Sempre que você atingir determinados níveis nesta classe (4, 8, 12, 16 e 19), você evolui suas capacidades. A cada vez que ganha esta característica, você deve fazer uma escolha entre as duas opções abaixo: Aumento de Atributo: Você aumenta um valor de atributo à sua escolha em +2, ou dois valores de atributo à sua escolha em +1 (máximo 20). Talento: Você escolhe um Talento para o qual você atenda aos pré-requisitos."
+  },
+  {
+    "nivel": 5,
+    "nome": "Restauração Feiticeira",
+    "descricao": "Aprendi a ouvir o passo do trovão quando ele se recolhe: é ali, na pausa certa, que recolho o fio da magia. Ao terminar um Descanso Curto , você pode recuperar PF gastos até um valor igual a metade do seu nível de Feiticeiro. Uso único por dia (recupera em Descanso Longo)."
+  },
+  {
+    "nivel": 6,
+    "nome": "Característica de Linhagem",
+    "descricao": "Minha linhagem ergue a cabeça por dentro e o mundo responde. O ar muda de gosto, a luz aprende novos gestos. O que era presságio vira presença: um sinal gravado na carne que conversa com tudo ao redor sem pedir licença. Você ganha a característica de 6º nível da Origem de Linhagem que você escolheu no 3º nível. Aberrante"
+  },
+  {
+    "nivel": 7,
+    "nome": "Feitiçaria Encarnada",
+    "descricao": "Quando a nascente parece seca, arranco água da pedra. Mordo o medo com os molares e deixo a veia lembrar quem manda. Se você não tiver usos de Feitiçaria Inata restantes, pode gastar 2 PF para ativá-la. Além disso, enquanto a Feitiçaria Inata estiver ativa, você pode usar até duas opções de Metamagia no mesmo feitiço."
+  },
+  {
+    "nivel": 8,
+    "nome": "Incremento de Atributo ou Talento",
+    "descricao": "Fio a corda, ajusto a mira, fortaleço o braço que a sustenta. Não são milagres repentinos, mas escolhas minuciosas. Um grau a menos de desperdício, um sopro a mais de precisão — e o mesmo feitiço encontra um destino mais perfeito. Você aumenta um valor de atributo à sua escolha em +2, ou dois valores de atributo em +1 (máximo 20), ou escolhe um Talento."
+  },
+  {
+    "nivel": 10,
+    "nome": "Metamagia Adicional e Dom da Criação",
+    "descricao": "Descobri silêncio entre sílabas. Algumas magias eu não estudei — eu as reconheci pelo cheiro. Metamagia: Você aprende +2 opções de Metamagia. Dom da Criação Mágica: Uma vez por descanso, você pode conjurar uma magia da lista de Feiticeiro que não tenha preparada , pagando PF igual ao nível da magia em vez de usar espaço de magia."
+  },
+  {
+    "nivel": 12,
+    "nome": "Incremento de Atributo ou Talento",
+    "descricao": "A chama não cresce por capricho; cresce por hábito. Eu corrijo o passo, alongo o fôlego, ensino a mão a não tremer. Cada ajuste pavimenta outro centímetro de poder, e a estrada adiante fica larga o suficiente para correr. Você aumenta um valor de atributo à sua escolha em +2, ou dois valores de atributo em +1 (máximo 20), ou escolhe um Talento."
+  },
+  {
+    "nivel": 14,
+    "nome": "Característica de Linhagem",
+    "descricao": "Minha presença carimba o espaço. O ambiente entende o recado, as sombras mudam de lugar, o ar aprende nova gravidade. A linhagem não é lembrança: é farol aceso, e seu feixe mapeia rotas que só quem carrega o sinal enxerga. Você ganha a característica de 14º nível da Origem de Linhagem que você escolheu no 3º nível. Aberrante"
+  },
+  {
+    "nivel": 16,
+    "nome": "Incremento de Atributo ou Talento",
+    "descricao": "Se não moldo o poder, ele me molda. Então lapido ossos de dentro, afio a disciplina até que brilhe. Não busco atalhos — busco alavancas. E com elas, movo a mesma montanha que ontem parecia morar no meu peito. Você aumenta um valor de atributo à sua escolha em +2, ou dois valores de atributo em +1 (máximo 20), ou escolhe um Talento."
+  },
+  {
+    "nivel": 17,
+    "nome": "Metamagia Suprema",
+    "descricao": "Já não forço a corrente: torno-me o leito por onde ela corre. Com um sussurro, mudo o destino da enxurrada. Você aprende +2 opções de Metamagia (totalizando 6)."
+  },
+  {
+    "nivel": 18,
+    "nome": "Característica de Linhagem",
+    "descricao": "A linhagem abre as asas dentro de mim e o mundo acusa o golpe. Há um contorno novo nos meus passos, uma assinatura que dobra o horizonte. Não é máscara — é pele. E, por um instante, todo o cenário aprende meu idioma. Você ganha a característica de 18º nível da Origem de Linhagem que você escolheu no 3º nível. Aberrante"
+  },
+  {
+    "nivel": 19,
+    "nome": "Incremento de Atributo ou Talento",
+    "descricao": "Cheguei às portas maiores pela soma de portas pequenas. Agora cada respiração pesa como promessa cumprida. Ajusto um último parafuso no motor do peito e sinto o ruído ficar puro, pronto para a travessia que falta."
+  },
+  {
+    "nivel": 20,
+    "nome": "Apoteose Arcana",
+    "descricao": "Não empurro mais a represa — eu me torno a nascente. Meu fôlego é o protocolo do milagre. Enquanto sua Feitiçaria Inata estiver ativa, você pode aplicar 1 opção de Metamagia por turno em seus feitiços sem gastar Pontos de Feitiçaria . Site projetado pela equipe do Bonfire Tales RPG, para diversão de todos que amam RPG! if ( \"\" || \"Classes\" || \"\" || \"\") { var find_article_url = \"/article-data/7ff03231-4a92-4bde-ad84-f7c3825c1da9\"; $( document ).ready(function() { $.ajax({ url: find_article_url, type: \"GET\", dataType: \"json\", async: true, success: function (navData) { $(\"#linear-navigation-container\").html(navData.contents); } }); }); } Metadados Article template Generic article World Bonfire Tales RPG Category Classes in Jogadores Author Bonfire Tales Publication Date 16 Oct, 2025 Creation Date 16 Oct, 2025 Last Update Date 2 Jan, 2026 Visibility Public Views 1409 Favorites Comments 0 Work In Progress Tags classe Hello!"
+  }
+]

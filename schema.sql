@@ -175,3 +175,13 @@ CREATE INDEX idx_habil_classe      ON TB_ClasseHabilidade(Id_Classe, NivelAdquir
 CREATE INDEX idx_acesso_classe     ON TB_AcessoOpcao(Id_Classe);
 CREATE INDEX idx_acesso_subclasse  ON TB_AcessoOpcao(Id_Subclasse);
 CREATE INDEX idx_opcao_tipo        ON TB_OpcaoJogo(Tipo);
+
+-- =========================================================================
+-- ALTER aplicados via migrate_opcoes_v2.py (2026-05-03)
+-- ver docs/habilidades-com-escolha.md
+-- =========================================================================
+-- ALTER TABLE TB_ClasseHabilidade ADD COLUMN OpcaoTipoJSON TEXT NULL;
+-- ALTER TABLE TB_PersonagemHabilidadeOpcao ADD COLUMN Id_Opcao INTEGER NULL;
+-- ALTER TABLE TB_PersonagemHabilidadeOpcao ADD COLUMN SlotIndex INTEGER NULL;
+-- CREATE INDEX idx_pho_id_opcao        ON TB_PersonagemHabilidadeOpcao(Id_Opcao);
+-- CREATE INDEX idx_pho_pid_hid_slot    ON TB_PersonagemHabilidadeOpcao(Id_Personagem, Id_Habilidade, SlotIndex);

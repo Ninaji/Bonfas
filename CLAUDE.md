@@ -12,6 +12,26 @@ automaticamente em toda sessão. **Siga sempre.**
   vazios visíveis** (não botão único), contadores `X/Y` computados.
 - **[Talentos de Raça e Essência](docs/talentos-raca-essencia.md)** — aplicação
   concreta do padrão acima para `TB_TalentoRacial`.
+- **[Habilidades com Escolha (A/B/C)](docs/habilidades-com-escolha.md)** —
+  aplicação do padrão para escolhas embutidas em `TB_ClasseHabilidade`
+  (Estilo de Luta, perícia do Cortesão Desonrado, ASI/Talento, etc.) via
+  `OpcaoTipoJSON` + `TB_PersonagemHabilidadeOpcao` com `Id_Opcao` e
+  `SlotIndex`.
+- **[🏷️ Sistema de Efeitos via Tags](docs/sistema-de-efeitos-via-tags.md)** —
+  tags em `TagsJSON` que descrevem o que uma hab/traço/talento **faz**
+  mecanicamente: `prof:`, `expertise:`, `save-prof:`, `resist:|immune:|vuln:`
+  (elementos canônicos 5.5e), `cond-immune:|adv-cond:` (condições canônicas),
+  `andar|voar|nadar|cavar:Xft|eq` (movimentos), `pick:pericia|idioma|ferramenta:N`
+  (pickers), `conjurador` (categorial). Backend agrega → state derivado →
+  badges na UI. **Adicione tag em vez de mudar tabelas base** quando o
+  efeito vem de uma hab/traço/talento.
+- **[🌐 Regra de Tags Universais](docs/regra-tags-universais.md)** —
+  toda tag deve funcionar idêntico em **qualquer card** (classe, subclasse,
+  raça, linhagem, essência, traço, talento de raça, talento de origem, ASI
+  Nv 4+, ou card sintético). Sem `if origem == "X"`. Helpers genéricos
+  (`renderPickSlotsFromTags`, `_agg_tags_from`) operam em `(tag, origem)` —
+  fontes são intercambiáveis. Inclui matriz de status + checklist de 6
+  passos pra adicionar tag respeitando a regra.
 
 > Ao criar novo subsistema selecionável, **siga o padrão de tags+cascata**.
 > Documente em `docs/<nome>.md` e adicione o link aqui.

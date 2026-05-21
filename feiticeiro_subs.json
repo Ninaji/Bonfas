@@ -1,0 +1,220 @@
+[
+  {
+    "slug": "origem-aberrante",
+    "nome": "Origem Aberrante",
+    "nome_html": "Origem Aberrante",
+    "tagline": "\"Há algo no meu crânio que não coube no mapa da anatomia. Entre pulsos e sussurros, uma geometria que não existe nos seus livros me dobra por dentro — e o mundo dobra junto. Se você ouvir perto demais, talvez aprenda um idioma que só dói.\"",
+    "features_sub": [
+      {
+        "nivel": 3,
+        "nome": "Telepatia Aberrante",
+        "descricao": "\"Os ruídos vieram como febre: sons que arranham o céu da boca e deixam gosto de metal. Não estudei; apenas acordei com sílabas que curvam pensamentos alheios, como se minha mente fosse uma antena para um rádio que ninguém mais sintoniza.\" Efeito: Você pode formar uma conexão telepática entre sua mente e a de outra criatura . Como uma ação bônus, escolha uma criatura que você possa ver a até 9 metros [30 pés] . Você e ela podem se comunicar telepaticamente enquanto estiverem dentro de um número de milhas igual ao seu modificador de Carisma (mínimo de 1) . Para se entenderem, ambos devem mentalmente usar um idioma que o outro conheça. A conexão dura um número de minutos igual ao seu nível de Feiticeiro e termina caso você use essa habilidade novamente com outra criatura."
+      },
+      {
+        "nivel": 3,
+        "nome": "Metamagia da Mente Velada",
+        "descricao": "\"Quando a ideia é afiada o bastante, ela não precisa de voz, gesto ou pó de prata. A vontade atravessa o ar como uma faca invisível, e o feitiço se curva por pudor — não por protocolo.\" Efeito: Você recebe Magia Sutil como uma opção de Metamagia sempre preparada . Ela não conta no seu limite de Metamagias conhecidas."
+      },
+      {
+        "nivel": 3,
+        "nome": "Mente Dilatada",
+        "descricao": "\"Abro a comporta e o mundo passa a caber pela íris. Vozes que não são vozes tocam minha nuca; as paredes respiram; a distância aprende a mentir. O pensamento deixa pegada onde eu piso, e todo sussurro tem peso de lâmina.\" Efeito: Enquanto Feitiçaria Inata estiver ativa, você manifesta os seguintes efeitos: Véu Psíquico. Magias de Feiticeiro que causem dano psíquico ou imponham as condições Amedrontado ou Enfeitiçado , e que você conjure, não requerem componentes Verbais ou Somáticos . (Componentes materiais com custo ou que sejam consumidos ainda se aplicam.) Alternativamente, você pode gastar um número de Pontos de Feitiçaria igual ao nível da magia para conjurar uma magia com esses efeitos sem gastar um Espaço de Magia . (Você ainda precisa ter a magia na sua lista e possuir um Espaço de Magia do nível apropriado.) Distorção Sutil. Quando um alvo falhar em um teste de resistência contra uma magia sua que cause dano psíquico ou imponha Amedrontado ou Enfeitiçado , você pode empurrá-lo ou puxá-lo até 1,5 metro [5 pés]. Você só pode usar este efeito uma vez por turno ."
+      },
+      {
+        "nivel": 6,
+        "nome": "Escudo da Anomalia",
+        "descricao": "\"Quando algo tenta me quebrar por dentro, a fratura escolhe a direção errada. A mente dobra, mas dobra como aço aquecido: cede o suficiente para sobreviver, volta no ângulo certo para ferir o golpe.\" Efeito: Você tem Resistência a dano Psíquico e Vantagem em testes de resistência para evitar/encerrar Enfeitiçado ou Amedrontado . Além disso, quando você ou uma criatura que você enxergue a até 9 metros [30 pés] falhar um teste de resistência de Inteligência, Sabedoria ou Carisma , você pode usar sua Reação e gastar 2 PF para permitir que repita o teste, potencialmente mudando o resultado. Caos"
+      },
+      {
+        "nivel": 14,
+        "nome": "Revelação na Carne (Mente Dilatada)",
+        "descricao": "\"Meu corpo não é cárcere; é rascunho. Quando o desenho verdadeiro sangra para fora, a pele aprende novas leis. Ar, água, sombras e frestas tornam-se portas — e eu decido o que cabe. A carne entende o recado e o mundo aprende uma anatomia que não está nos seus livros.\" Efeito: Enquanto sua Feitiçaria Inata estiver ativa, você recebe 1 dos benefícios abaixo à sua escolha. Além disso, no instante em que ativa a Feitiçaria Inata ou em turnos subsequentes com uma Ação Bônus, você pode gastar 1 PF ou mais para receber +1 benefício por PF gasto . Os benefícios duram enquanto a Feitiçaria Inata permanecer ativa. Adaptação Aquática: deslocamento de natação = 2× seu deslocamento; você respira debaixo d’água. Voo Cintilante: deslocamento de voo = seu deslocamento; você paira . Ver o Invisível: enxerga criaturas Invisíveis a até 18 metros [60 pés] sem cobertura total. Carne Inatural: atravessa espaços de até 2,5 cm [1”] e pode gastar 1,5 metro [5 pés] de movimento para sair do estado Agarrado ou de restrições não mágicas. Caos"
+      },
+      {
+        "nivel": 14,
+        "nome": "Manto Umbral",
+        "descricao": "Ao ativar sua Feitiçaria Inata , a sombra se adensa ao seu redor e você ganha os benefícios abaixo enquanto ela permanecer ativa . Salto de Sombra. Imediatamente após ser atingido por um ataque ou falhar num teste de resistência, você pode usar o Passo na Umbra como Reação (teletransportando-se antes da rolagem de dano). Se o fizer, você tem Resistência ao tipo de dano que acionou a reação até o início do seu próximo turno (se o efeito causar múltiplos tipos de dano, você tem Resistência a todos os tipos desse efeito). Emanação de Trevas. Você cria uma emanação de 9 metros [30 pés ]de Escuridão Mágica centrada em você. Para fins de interações com luz e dissipação, essa escuridão é tratada como um efeito mágico de Círculo (ou “ciclo”) igual a 1/3 do seu nível de Feiticeiro (arredondado para baixo). Luz não mágica dentro da área é extinta , e fontes não mágicas não produzem luz ali. Luz mágica de Círculo menor ou igual ao da sua escuridão é suprimida enquanto permanecer na área. Fontes de luz mágica de Círculo superior à sua escuridão contêm a emanação, criando “ilhas de luz” (a sua escuridão não se estende para dentro do brilho superior). Se efeitos de escuridão se sobrepuserem, prevalece o de Círculo mais alto . Dissipar Magia e efeitos similares tratam sua emanação como um efeito de Círculo igual ao definido acima A escuridão se propaga normalmente, contorna cantos e ocupa reentrâncias, mas não ultrapassa zonas de Luz Brilhante de Círculo superior. Visão Umbral. Ao criar a Emanação de Trevas, escolha qualquer número de criaturas que você possa ver. Até a sua Feitiçaria Inata terminar, essas criaturas ganham Visão na Umbra de 18 metros [60 pés] . Cada criatura escolhida sofre dano psíquico igual ao seu modificador de Carisma ao receber esse benefício. Lâmina do Frio Silencioso. Uma vez por turno , quando você ou o seu Familiar das Sombras/Sombra do Mau-Presságio causar dano necrótico ou psíquico a uma criatura dentro da sua Emanação de Trevas, adicione um bônus ao dano igual ao seu modificador de Carisma . Tempestade"
+      },
+      {
+        "nivel": 18,
+        "nome": "Anomalia Andante",
+        "descricao": "\"Por um minuto inteiro, sou aquilo que as linhas do mundo não conseguem medir. Onde piso, a distância erra; onde olho, a matéria hesita. Cada passo é um eclipse particular; cada gesto, uma maré que puxa o impossível para perto — e o impossível vem.\" Efeito: Você eleva sua Mente à Forma Suprema . Quando você usar sua Feitiçaria Inata você pode gastar 3 PF para obter os seguintes efeitos enquanto sua Feitiçaria Inata durar: Dobra Espacial: Com uma Ação Mágica, você pode se teletransportar para um espaço desocupado que enxergue a até 36 metros [120 pés] (não provoca ataques de oportunidade). Vórtice Residual: Sempre que usar a Dobra Espacial, criaturas a até 9 metros [30 pés] do espaço que você deixou fazem teste de Força contra sua CD de Magia. Em falha, sofrem 3d10 Força e são puxadas até o espaço deixado (terminam no desocupado mais próximo em sucesso, tomam metade e não se movem. Véu Imperturbável: Você ignora terreno difícil , tem Vantagem para manter Concentração e suas magias de Força ou Psíquico ignoram Resistência (Imunidade se mantém). Caos"
+      }
+    ]
+  },
+  {
+    "slug": "origem-do-caos",
+    "nome": "Origem do Caos",
+    "nome_html": "Origem do Caos",
+    "tagline": "\"Há um zumbido onde as leis se encontram: a costura range, a luz hesita, o tempo tropeça um passo. Eu respiro ali, entre o cálculo e o capricho, e aprendi a tratar o improvável como vizinho. Quando ergo a mão, não convoco fórmulas — afrouxo botões da realidade até ela rir de si mesma. Não sou desordem: sou a curva onde o mundo derrapa e, de repente, descobre um caminho novo.\"",
+    "features_sub": [
+      {
+        "nivel": 3,
+        "nome": "Marca do Caos",
+        "descricao": "\"A realidade não é lisa; tem farpas. Eu passo a palma ao contrário e sinto onde a trama arrepia: chamas mudam de cor por um piscar, poeira dança contra o vento, silêncio faz barulho. Reconheço feitiços antes de serem palavras — leio amassos no ar, sombras fora do compasso, respirações que não pertencem a pulmões. É instinto, não estudo: um sussurro antigo que me aponta onde a magia acaba de encostar.\" Efeito: Você desenvolve sinais perceptíveis de instabilidade arcana e aprende a lê-los com o próprio carisma do caos. Você pode usar seu modificador de Carisma em vez de Inteligência em testes de Arcanismo para identificar magias sendo conjuradas, efeitos planares e fenômenos mágicos imprevisíveis. Sentir o Turbilhão: enquanto estiver consciente , você percebe de forma sutil a presença de magia a até 9 m [30 pés] — sabe se uma criatura, objeto ou área está sob efeito mágico , se um efeito acabou de ser tecido (últimos 6 segundos) e intui os contornos aproximados de efeitos contínuos (como a borda de uma ilusão ou zona de magia). Como Ação , você pode focar essa percepção para distinguir se a influência vem de um feitiço , item mágico ou característica sobrenatural e aprender a escola predominante (se houver). Essa leitura é instintiva — um amasso no ar, uma chama que muda de cor por um piscar, folhas que se movem contra o vento — não atravessa cobertura total e é bloqueada por chumbo . Não revela o nome exato da magia, apenas sua natureza e limites."
+      },
+      {
+        "nivel": 3,
+        "nome": "Potencializada",
+        "descricao": "\"Eu não empurro a sorte; eu a envergonho. Mostro-lhe o palco, ofereço um passo, e a probabilidade perde a postura por um instante. Meus feitiços deslizam por atalhos que ninguém escreveu, como dados que lembram que têm outras faces. Às vezes o universo me devolve o troco com um estalo — e é o bastante para eu sorrir e apertar mais uma costura.\" Efeito: Você aprende a Metamagia Feitiço Potencializado (Empowered Spell). Ela não conta no seu limite de Metamagias conhecidas. Tropeço Favorável: sempre que você aplicar qualquer Metamagia a uma magia, role 1d4 ; em resultado 4 , você recupera 1 Ponto de Feitiçaria gasto nessa Metamagia. Você só pode se beneficiar desta recuperação 1 vez por turno ."
+      },
+      {
+        "nivel": 3,
+        "nome": "Banco de Entropia",
+        "descricao": "\"Caos não é ruído; é crédito. Eu coleciono centavos de impossibilidade — um brilho aqui, uma falha ali — e troco por pequenos milagres: um passo fora do lugar, um lampejo de sorte, um véu sobre a minha pegada. Mas se guardo demais, a maré compra de volta em grande estilo: um paradoxo sacode o chão e me lembra que domar o selvagem exige deixá-lo correr. Minha aposta? Saber quando ceder o volante.\" Efeito: Enquanto sua Feitiçaria Inata estiver ativa, você mantém um Banco de Entropia com Cargas de Entropia (CE) . Fora desse estado, o Banco não existe. Como ganhar CE (apenas enquanto Inata ativa): Sempre que você conjura uma magia ou truque de Feiticeiro , ganha 1 CE . Sempre que você gasta Pontos de Feitiçaria (PF) em Metamagia, ganha 1 CE . Você pode ganhar no máximo 2 CE por turno dessa forma (ex.: 1 por espaço + 1 por PF). Seu limite é 3 CE . Oscilação Entópica (gasto de CE): 1 vez por turno , quando você conjurar 1 magia ou 1 truque , pode gastar 1 CE ( sem ação ) para disparar uma Oscilação Entópica . Role 1d10 na tabela de Oscilações desta subclasse e aplique o efeito. Paradoxo Entópico (estouro): no fim do seu turno , se você tiver 3 CE , dispara automaticamente um Paradoxo Entópico , então suas CE caem para 0 . Role 1d100 na Tabela de Paradoxos desta subclasse e aplique o efeito. Aposta do Caos: você pode gastar 1 CE para se conceder Vantagem em um teste de d20 que fizer. Depois de usar a Aposta do Caos, você não pode usá-la novamente até disparar um Paradoxo Entópico . ( Esse bloqueio persiste entre ativações de Feitiçaria Inata até que um Paradoxo ocorra. ) Dissipação: quando sua Feitiçaria Inata termina, quaisquer CE remanescentes se dissipam ( CE = 0 ) sem disparar Paradoxo. Tabela D10 - Oscilação Entópica d10 Efeito da Oscilação 1 Salto Quântico: Imediatamente após conjurar a magia, você se teletransporta 3m [10 pés] para um espaço desocupado que você possa ver. 2 Escudo de Probabilidade: O ar endurece ao seu redor. Você ganha +2 na CA até o início do seu próximo turno. 3 Estática Ofensiva: A magia carrega eletricidade estática. Um alvo da magia (sua escolha) sofre 1d6 de dano de Força adicional. 4 Amortecedor do Caos: Você absorve a energia residual. Ganha Pontos de Vida Temporários iguais a 1d6 + seu Modificador de Carisma . 5 Distorção de Alcance: O espaço dobra. O alcance da magia que você acabou de conjurar (ou do próximo truque) aumenta em 9m [30 pés]. 6 Empurrão Gravitacional: Se a magia atingir uma criatura, você pode empurrá-la 3m [10..."
+      },
+      {
+        "nivel": 6,
+        "nome": "Asas Transcendentais",
+        "descricao": "\"As costas pesam, depois aliviam — como se algo esquecesse de ser metáfora e resolvesse nascer. O ar me reconhece; a gravidade arredonda as quinas. Não é fuga: é altura suficiente para ver sentido onde antes só havia ruído.\" Efeito: Você manifesta um par de asas celestiais . No 6º nível: Ativar: como Ação ; Dissipar: como Ação ou Ação Bônus . As asas duram indefinidamente enquanto ativas. As asas emitem luz plena a 3 m [10 pés] e penumbra por mais 3 m [10 pés] . Enquanto ativas, você tem Deslocamento de Voo igual ao seu deslocamento de caminhada, mas deve terminar o turno no chão ; caso contrário, você cai . Aprimoramentos futuros: 14º nível de Feiticeiro: um segundo par de asas surge; você pode voar à vontade (não precisa terminar o turno no chão). 18º nível de Feiticeiro: um terceiro par de asas surge; você ganha Planar . Drâconico"
+      },
+      {
+        "nivel": 14,
+        "nome": "Fenda Dupla",
+        "descricao": "\"Aprendi a abrir a mesma costura em dois lugares ao mesmo tempo. Dois futuros piscam para mim: uma moeda em cada olho, duas respostas num único sopro. Eu as provo, comparo seus dentes, escolho a que morde melhor. Para quem vê de fora, foi só sorte. Para mim, foi etiqueta: pedi que a realidade me oferecesse alternativas — e ela, vaidosa, caprichou.\" Efeito: 1 vez por turno , quando você rolar qualquer dado como parte de uma característica que gaste ou utilize Cargas de Entropia (por exemplo, Oscilação Entópica, Aposta do Caos, Alavanca Entópica), você pode rolar esse dado novamente e escolher o resultado entre os dois Divino"
+      },
+      {
+        "nivel": 18,
+        "nome": "Eclipse Caótico",
+        "descricao": "\"Por um minuto, o mundo segura o fôlego e me entrega as rédeas. As marés obedecem ao estalar dos meus dedos; os truques pequenos se alinham como constelações; os grandes paradoxos aguardam meu aceno. Escolho o tropeço, escolho o estalo, escolho até o escândalo — e o acaso, satisfeito, tira o chapéu antes de voltar a fingir que manda. Quando o brilho passa, ninguém sabe se foi milagre ou piada. Eu sei: foi coreografia.\" Efeito: Quando você ativar sua Feitiçaria Inata , pode gastar 4 PF para entrar no Eclipse Caótico por 1 minuto . Enquanto durar: Aposta Destravada: você pode usar a Aposta do Caos quantas vezes quiser durante o Eclipse, sem precisar aguardar um Paradoxo para “destravar” o uso novamente (cada uso ainda gasta 1 CE ). Alavanca Sem Trava: você pode usar a Alavanca Entópica repetidas vezes (ampliando o dado de Distorcer a Sorte) durante o Eclipse, sem exigir que um Paradoxo aconteça entre usos (cada ampliação ainda gasta 1 CE ). Oscilação Dirigida: 1 vez por Eclipse , quando disparar uma Oscilação Entópica , você pode escolher o resultado em vez de rolar o d8. Paradoxo Escolhido: 1 vez por Eclipse , quando um Paradoxo Entópico for disparado, você pode escolher o resultado na Tabela de Paradoxos Entópicos em vez de rolar. Após usar esta característica, você não pode usá-la novamente até terminar um Descanso Longo , a menos que gaste 7 PF (sem ação) para restaurá-la. Divino"
+      }
+    ]
+  },
+  {
+    "slug": "origem-divina",
+    "nome": "Origem Divina",
+    "nome_html": "Origem Divina",
+    "tagline": "\"Há uma melodia dentro do meu peito que não veio da carne. Quando respiro fundo, o ar vibra em harmonia com algo que existe acima das nuvens e além das orações. Não sou o altar — sou o clarão que o atravessa.\"",
+    "features_sub": [
+      {
+        "nivel": 3,
+        "nome": "Fala Celestial",
+        "descricao": "\"Minha voz carrega ecos que não ensaiei. Cada palavra parece saber mais do que eu, e o silêncio que a segue soa como promessa. Quando falo em certas línguas, o ar se curva; quando peço, o mundo responde como se lembrasse de um pacto antigo.\" Efeito: Você aprende o idioma Celestial . Além disso, quando falar com uma criatura de natureza piedosa, sagrada ou vinculada à fé (anjos, sacerdotes, paladinos, clérigos, cultistas ou entidades divinas), você tem Vantagem em testes de Persuasão. Enquanto sua Feitiçaria Inata estiver ativa, sua voz emite uma leve ressonância angelical, perceptível num raio de 3 metros [10 pés] ."
+      },
+      {
+        "nivel": 3,
+        "nome": "Metamagia Potencializada",
+        "descricao": "\"Nem toda magia é fogo e força; às vezes, é alívio, é consolo. Aprendi a soprar luz sobre as feridas, não porque quis, mas porque algo em mim não tolera ver o desespero ecoar sem resposta.\" Efeito: Você recebe Magia Potencializada como uma Metamagia sempre preparada que não conta no seu limite de Metamagias conhecidas. Você pode usa-la para rolar novamente dados de Cura em suas magias e não só os de dano."
+      },
+      {
+        "nivel": 3,
+        "nome": "Centelha dos Deuses",
+        "descricao": "\"Quando o poder desperta, não é raiva — é revelação. O sangue esquenta, mas não queima; brilha. Por um instante, percebo o mundo como eles o veem: um mosaico perfeito, cada linha alinhada à vontade de algo maior. E nesse instante, até o caos parece ajoelhar.\" Efeito: Enquanto sua Feitiçaria Inata estiver ativa, você se torna um canal para a luz divina, obtendo os seguintes benefícios: Toque Consagrado: Você adiciona o seu modificador de Carisma em seus feitiços que causam dano radiante ou restauram pontos de vida (mínimo +1). Benção Divina: Você fica sob o efeito da magia Benção (Bless)."
+      },
+      {
+        "nivel": 14,
+        "nome": "Voz dos Bem-Aventurados",
+        "descricao": "\"Quando o fogo por dentro acende, o mundo aprende a ouvir em outra frequência. Palavras viram pontes, silêncio vira juramento, e a linha entre fim e recomeço fica fina como um fio de ouro estendido entre dois corações.\" Efeito: Enquanto sua Feitiçaria Inata estiver ativa, você recebe os seguintes poderes: Milagre Menor (Ressurreição): 1 vez durante a ativação, você pode gastar 3 PF para conjurar Revivificar ( Revivify ) sem componentes materiais . Telepatia Sagrada: você pode se comunicar telepaticamente com criaturas a até 9 m [30 pés] . Discernir Corações: você sempre sabe se uma criatura dentro de 9 m [30 pés] está mentindo ou dizendo a verdade , desde que o ND ou Nível dela seja de até metade do seu nível de Feiticeiro (arred. para baixo). Isso não funciona se a criatura estiver sob proteção mágica que oculte/mascare detecção, se for um Corruptor , ou se exceder esse limite — e, quando falhar, você não sabe o motivo exato (pode apenas deduzir: proteção mágica, poder/nível superior ou natureza corrompida). Drâconico"
+      },
+      {
+        "nivel": 18,
+        "nome": "Apoteose Divina",
+        "descricao": "\"A luz deixa de ser visita e passa a residência. Por um minuto, respiro promessas cumpridas: o corpo lembra como se compor, o tempo afrouxa o punho, e a morte — educada — espera do lado de fora.\" Efeito: Quando você ativar sua Feitiçaria Inata , pode gastar 4 PF para elevar-se à Apoteose Divina enquanto ela durar. Durante esse período, você obtém: Fôlego de Vida: no início de cada um de seus turnos, se você estiver com menos da metade dos seus PV máximos, recupera 5 + seu mod. de Carisma PV. Eco de Ressurreição: sempre que você reviver alguém com uma magia de ressurreição (por exemplo, Revivificar , Ressurreição , etc.), você recupera PV iguais a seu nível de Feiticeiro + o modificador de Carisma da criatura ressuscitada (mínimo 1). Drâconico"
+      }
+    ]
+  },
+  {
+    "slug": "origem-draconica",
+    "nome": "Origem Dracônica",
+    "nome_html": "Origem Dracônica",
+    "tagline": "\"Carrego um nome maior que o meu. Quando ele roça a garganta, o ar muda de lado, a coragem pesa diferente, e até o chão mede as palavras. Dragões não pedem — declaram. Minha magia aprendeu esse sotaque, e o mundo entende a propriedade na minha voz.\"",
+    "features_sub": [
+      {
+        "nivel": 3,
+        "nome": "Sangue e Escamas",
+        "descricao": "\"A pele lembra a memória das escamas. O golpe chega e encontra ângulos antigos, desenhados por uma herança que não pediu licença para existir. Cada batida do coração bate como asa — e a queda, quando vem, me acha mais grosso do que ontem.\" Efeito: Você fala Dracônico . Seu máximo de PV aumenta em 3 e aumenta em +1 sempre que você ganha um novo nível de Feiticeiro. Enquanto não estiver vestindo armadura, sua CA base = 10 + seu mod. de Destreza + seu mod. de Carisma ."
+      },
+      {
+        "nivel": 3,
+        "nome": "Ascendência Dracônica",
+        "descricao": "\"Meu sopro tem linhagem. O mundo reconhece o elemento como se fosse meu brasão: não é só fogo, gelo ou ácido — é autoridade em estado bruto.\" Efeito: Escolha sua Ascendência Dracônica . Você usará essa ascendência em habilidades desta subclasse, incluindo o tipo do dano do seu sopro e interações com suas magias. Tipo Tipo do Dano Baforada Teste de Resistência Azul Elétrico Linha de 1,5 m por 9 m ( 5 × 30 pés ) Destreza Branco Frio Cone de 4,5 m ( 15 pés ) Constituição Preto Ácido Linha de 1,5 m por 9 m ( 5 × 30 pés ) Constituição Verde Veneno Cone de 4,5 m ( 15 pés ) Constituição Vermelho Fogo Cone de 4,5 m ( 15 pés ) Destreza Bronze Elétrico Linha de 1,5 m por 9 m ( 5 × 30 pés ) Destreza Cobre Ácido Linha de 1,5 m por 9 m ( 5 × 30 pés ) Destreza Latão Fogo Linha de 1,5 m por 9 m ( 5 × 30 pés ) Destreza Ouro Fogo Cone de 4,5 m ( 15 pés ) Destreza Prata Frio Cone de 4,5 m ( 15 pés ) Constituição Metamagia Transmutada: você recebe Magia Transmutada como opção de Metamagia que não conta no seu limite de Metamagias conhecidas. Fúria Ancestral: quando você causar dano do tipo da sua Ascendência com uma magia de Feiticeiro, adicione seu modificador de Carisma a uma rolagem de dano desse feitiço (mínimo +1)."
+      },
+      {
+        "nivel": 3,
+        "nome": "Sopro Desperto",
+        "descricao": "\"Quando abro a comporta, o ambiente se estreita. O ar toma partido, minha boca lembra antigas sílabas — e o mundo entende que meu fôlego é decreto.\" Efeito: Sua Feitiçaria Inata passa a durar 10 minutos e, enquanto estiver ativa, você recebe: Sopro do Dragão: você fica sob o efeito da magia Sopro do Dragão (Dragon’s Breath) sem concentração. Use o tipo de dano e a área (linha/cone) da tabela da Ascendência para a magia nesse efeito. A magia é considerada conjurada com espaço de 2º nível ao ativar a Feitiçaria Inata. Esse nível base do espaço aumenta em +1 nos níveis de Feiticeiro 6, 14 e 18 . Ao entrar em Feitiçaria Inata, você pode gastar 2 PF para aumentar o nível do espaço em +1 , repetindo essa escolha quantas vezes quiser, até o máximo de nível de magia que você possa conjurar . Fronteira Soberana: Você recebe uma aura de 3 metros [10 pés], quando uma criatura hostil entrar pela primeira vez nessa aura ou iniciar o turno nela, deve fazer teste de Sabedoria contra sua CD de Magia. Em falha, fica Amedrontada até o início do seu próximo turno. Cada criatura só é afetada 1 vez por ativação ."
+      },
+      {
+        "nivel": 6,
+        "nome": "Sangue Resiliente",
+        "descricao": "\"O impacto vem como maré; minhas escamas lembram como a maré recua. O que me fere hoje volta como dívida cobrada amanhã.\" Efeito: Você ganha Resistência ao tipo de dano da sua Ascendência . Quando você sofrer esse mesmo tipo de dano , suas escamas absorvem parte do impacto. Na próxima vez em que você causar esse tipo de dano com uma magia de Feiticeiro , você causa +1 dado adicional de dano do mesmo tipo rolado pela magia (por exemplo, +1d6 se a magia rolar d6, +1d8 se rolar d8). Ordem"
+      },
+      {
+        "nivel": 14,
+        "nome": "Herdeiro Alado",
+        "descricao": "\"A coluna estala e o corpo lembra: houve asas. O horizonte deixa de ser limite e vira ferramenta; meu fôlego se alonga, e até as distâncias aprendem respeito.\" Efeito: Sua Feitiçaria Inata passa a durar 1 hora e concede os seguintes benefícios adicionais enquanto estiver ativa: Voo Majestoso: você ganha Deslocamento de Voo igual ao dobro do seu deslocamento de caminhada. Sopro Expandido: a área da sua baforada (linha/cone) é triplicada em dimensão (ex.: cone 15 pés → 45 pés; linha 5 × 30 pés → 5 × 90 pés). Alcance Ancestral: suas magias de Feiticeiro que causem o tipo de dano da sua Ascendência têm o alcance dobrado . Ordem"
+      },
+      {
+        "nivel": 18,
+        "nome": "Forma Dracônica Ancestral",
+        "descricao": "\"Por um minuto, meu nome tem mais sílabas. Ocupo espaço demais para caber nas dúvidas; quando decreto, o mundo não discute — se ajusta.\" Efeito: Quando você ativar sua Feitiçaria Inata , pode gastar 4 PF para elevar-se à Forma Dracônica Ancestral enquanto ela durar. Durante esse período, você obtém: Vigor Ancestral: você recebe PV temporários = 4 × seu nível de Feiticeiro . Visão às Cegas: você ganha Visão ás Cegas (blindsight) de 9 metros [30 pés] . Majestade Voraz: sua aura de medo (Fronteira Soberana) aumenta para 9 metros [30 pés] e você pode optar para que ela cause Encantamento ( Enfeitiçado ) em vez de Amedrontado , mostrando a grandeza da sua herança. Decreto do Soberano: no instante em que assume esta forma, você pode conjurar Comando ( Command ) sem gasto de espaço em todas as criaturas de sua escolha dentro da sua aura de 9 metros [30 pés]. Cada alvo realiza teste de Sabedoria contra sua CD de Magia. Ordem"
+      }
+    ]
+  },
+  {
+    "slug": "origem-da-ordem",
+    "nome": "Origem da Ordem",
+    "nome_html": "Origem da Ordem",
+    "tagline": "\"Há um tique-taque por trás do ruído do mundo. Quando fecho os olhos, vejo engrenagens transparentes encaixando o caos em dentes precisos; quando respiro, sinto a mola do universo ganhar tensão atrás do meu esterno. Não imponho leis — eu sintonizo as que já estavam escritas entre os segundos.\"",
+    "features_sub": [
+      {
+        "nivel": 3,
+        "nome": "Léxico Modrônico",
+        "descricao": "\"Descobri um idioma que não desperdiça ar — só cadência. Cada sílaba é um dente de engrenagem que encontra sua peça, cada silêncio, uma mola que assenta. Quando pronuncio, fendas se alinham; quando escuto, o acaso perde o compasso e ajusta o passo ao meu metrônomo.\" Efeito: Você aprende o truque Consertar (Mending), que conta como magia de Feiticeiro para você. Você pode conjurá-lo a até 9 metros [30 pés] de distância e pode consertar objetos de até 1 metro (vezes o seu modificador de Carisma) em qualquer direção."
+      },
+      {
+        "nivel": 3,
+        "nome": "Metamagia — Magia Precisa (sempre preparada)",
+        "descricao": "\"Se o mundo é uma máquina, o feitiço é a chave de fenda. Um giro no ângulo certo e a força para de desperdiçar dentes: o impacto acontece exatamente onde devia, sem rangidos.\" Efeito: Você recebe Magia Precisa como opção de Metamagia sempre preparada . Ela não conta no seu limite de Metamagias conhecidas. (Regras idênticas à da classe: ao errar um ataque de magia, gaste 1 PF para rolar o d20 novamente e usar o novo resultado; pode combinar com outra Metamagia.)"
+      },
+      {
+        "nivel": 3,
+        "nome": "Ritmo Determinista (Rider da Feitiçaria Inata)",
+        "descricao": "\"Abro a comporta e ouço, por trás de cada jogada, o clique que alinha os dentes do destino. O vento para de soprar torto; a moeda escolhe a quina exata. Enquanto a mola está esticada, a bagunça entende que não é a dona do relógio.\" Efeito: Enquanto Feitiçaria Inata estiver ativa, você pode usar sua Reação para, quando uma criatura que você veja a até 18 metros [60 pés] for rolar um d20 com Vantagem ou Desvantagem , remover esse efeito no teste (fica sem Vantagem nem Desvantagem)."
+      },
+      {
+        "nivel": 6,
+        "nome": "Bastião Harmônico",
+        "descricao": "\"Vejo dois relógios sobrepostos na minha sombra: um marca doze golpes de impacto, o outro responde com doze pulsares de correção. Quando os ponteiros se encontram, a pancada perde a pressa e se distribui em ritmos menores — o dano vira batida contável, e a dor aprende a chegar no tempo certo para não quebrar nada.\" Efeito: Quando você ou uma criatura que você possa ver a até 9 metros [30 pés] sofrer dano, você pode usar sua Reação para gastar 1 Ponto de Feitiçaria (PF) . Você então rola 2d12 e reduz o dano em um valor igual à soma dos resultados. Se ambos os dados mostrarem o mesmo número, o dano é automaticamente reduzido a 0. Se ambos os resultados forem 12 , e o dano estiver associado a um efeito adicional — como uma magia ou habilidade — esse efeito também é anulado , não causando nenhum impacto. Sombras"
+      },
+      {
+        "nivel": 14,
+        "nome": "Marcha da Ordem",
+        "descricao": "\"Engato a mente no eixo central e o mundo para de escorregar. O tempo ganha marcas de aferição, as linhas ficam retas, os ângulos se apresentam. Ando e deixo atrás de mim um chão milimetrado onde a sorte só pisa se tirar senha.\" Efeito: Enquanto sua Feitiçaria Inata estiver ativa, você entra na Marcha da Ordem . Enquanto a Marcha durar, você recebe os benefícios abaixo: Transe Rítmico: Quando você fizer uma Jogada de d20 , pode tratar resultados de 9 ou menos como 10 . Invariância: jogadas de ataque contra você não podem se beneficiar de Vantagem . Sombras"
+      },
+      {
+        "nivel": 18,
+        "nome": "Axioma da Ordem",
+        "descricao": "\"Elevo a mente ao primeiro princípio e o mecanismo revela sua prova. Vejo vetores, tensões e limites em transparência, engrenagens de luz ajustando folgas no tecido do real. Onde piso, o desgaste retrocede; onde aponto, a entropia perde argumento. Não regoço — aplico teoremas: o mundo encaixa, os números fecham, e o caos aprende o valor exato do erro permitido.\" Efeito: Você eleva a Feitiçaria Inata à Forma Suprema da Ordem . Quando você usar sua Feitiçaria Inata você pode gastar 4 PF para obter os seguintes efeitos enquanto sua Feitiçaria Inata durar: Aura de Ordem (9 metros [30 pés]): criaturas aliadas à sua escolha (incluindo você) na aura não podem ser alvo de jogadas de ataque com Vantagem . Além disso, 1 vez por turno para cada aliado na aura, quando fizer um Teste de d20 , pode tratar 9 ou menos como 10 . Impulso de Manutenção: Ao ativar sua aura os seguintes efeitos acontecem: Reparar: objetos na aura são reparados inteiramente. Restaurar: termine todas as magias de 5º nível ou menor que afetem criaturas/objetos de sua escolha na aura. Regenerar: distribua PVs restaurados iguais a 5 × seu nível de Feiticeiro entre criaturas de sua escolha na aura. Você pode gastar 4 PF para criar esse efeito novamente com uma Ação. Sombras"
+      }
+    ]
+  },
+  {
+    "slug": "origem-da-tempestade",
+    "nome": "Origem da Tempestade",
+    "nome_html": "Origem da Tempestade",
+    "tagline": "\"Eu não lanço vento — eu viro pressão. Meu pulso marca o barômetro, minha voz dobra o rumo das nuvens, e cada sílaba chega ao mundo como frente fria. Quando respiro fundo, o horizonte escurece por educação: a tempestade me reconhece como parentesco.\" Conceito & tons de fantasia \"Brisa, vendaval, trovão — estados de humor.\" Sua magia nasce do ar primordial : o sopro de djinn orgulhosos, a orla do P",
+    "features_sub": [
+      {
+        "nivel": 3,
+        "nome": "Fala dos Ventos",
+        "descricao": "\"Aprendi um idioma que não precisa de pulmões. Assobio com ossos, converso com cordames, e nuvens me respondem como velhos tios mal-humorados.\" Efeito: Você fala Primordial (Auran) e entende seus dialetos (Aquan, Ignan e Terran). Além disso, quando estiver ao ar livre, você pode usar seu Carisma para testes com relação á Navegação/Cartografia ou Sobrevivência para prever o tempo das próximas 24 horas e ler sinais de vento (trilhas em areia, ondas, poeira)."
+      },
+      {
+        "nivel": 3,
+        "nome": "Metamagia — Feitiço Acelerado",
+        "descricao": "\"A magia não espera minha mão chegar; ela corre para alcançá-la.\" Efeito: Você recebe Feitiço Acelerado como opção de Metamagia sempre preparada (não conta no limite). Quando aplicar uma metamagia a uma magia que cause dano Elétrico ou Trovejante , você pode se mover até 1,5 metros [5 pés] sem provocar ataques de oportunidade."
+      },
+      {
+        "nivel": 6,
+        "nome": "Coração do Trovão",
+        "descricao": "\"Quando o raio me escolhe, eu não fujo — eu o encaminho. O som me atravessa e o mundo dá dois passos para trás.\" Efeito: Você tem Resistência a Elétrico e Trovejante . Reação — Contra-rajada: quando você ou uma criatura que vê a até 9 metros [30 pés] for atingida por um ataque ou sofrer dano Elétrico / Trovejante , você pode usar sua Reação para reduzir o dano em 1d8 + seu mod. de Carisma e empurrar ou puxar o atacante ou outra criatura a sua escolha afetada pela reação em 1,5 metros [5 pés] . Guia da Tormenta: ao ar livre, você pode, como Ação , cessar chuva numa emanação de 6 metros [20 pés] centrada em você. Como Ação Bônus , pode definir a direção do vento numa emanação de 30 metros [100 pés] centrada em você até o fim do seu próximo turno (não altera velocidade do vento)."
+      },
+      {
+        "nivel": 14,
+        "nome": "Vestes do Vendaval (Feitiçaria Inata ativa)",
+        "descricao": "\"A coluna estala e lembro: fui tempestade antes de aprender a ser pessoa. O mundo abaixa o volume, o vento me veste, e as flechas desaprendem a linha reta.\" Efeito: Enquanto sua Feitiçaria Inata estiver ativa, você veste as Vestes do Vendaval . Receba os benefícios abaixo. Asa de Barlavento: você ganha voo igual ao seu deslocamento e pode pairar . Calmaria Soberana (raio 4,5 metros [15 pés]): ataques à distância contra você e aliados nessa aura têm Desvantagem ."
+      }
+    ]
+  }
+]

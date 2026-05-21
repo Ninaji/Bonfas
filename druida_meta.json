@@ -1,0 +1,37 @@
+{
+  "slug": "druida",
+  "nome": "Druida",
+  "saves": [
+    "Inteligencia",
+    "Sabedoria"
+  ],
+  "armor_prof": [
+    "Armaduras Leves",
+    "Armaduras Médias",
+    "Escudos (não-metálicos)"
+  ],
+  "weapon_prof": [
+    "Armas Simples"
+  ],
+  "tool_prof": [
+    "Kit de Herbalismo"
+  ],
+  "multiclass_prof": [
+    "Armaduras Leves",
+    "Armaduras Médias",
+    "Escudos (não-metálicos)"
+  ],
+  "skills": {
+    "n": 2,
+    "options": [
+      "Arcanismo",
+      "Intuição",
+      "Medicina",
+      "Natureza",
+      "Percepção",
+      "Religião",
+      "Sobrevivência",
+      "Lidar com Animais"
+    ]
+  }
+}

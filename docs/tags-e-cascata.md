@@ -21,6 +21,7 @@ o artigo WorldAnvil). Exemplos já implementados:
 | Talentos de raça/essência     | `TB_TalentoRacial`    | `tags ⊆ personagem.tags` + tier |
 | Manobras de combate           | `TB_Manobra`    | `Fonte=classe` + `Grau≤max`  |
 | Classe / Subclasse            | `TB_Classe` / `TB_Subclasse` | `Id_Classe`     |
+| Opções de habilidade de classe | `TB_OpcaoJogo` (filtra por `Tipo` declarado em `TB_ClasseHabilidade.OpcaoTipoJSON`) | `Id_Classe` ou `Id_Subclasse` via `TB_AcessoOpcao` |
 
 **Proibido:** `prompt()` ou `<input type="text">` para conteúdo que tem
 catálogo. Isso permitiria o usuário inventar nomes que não existem, violando

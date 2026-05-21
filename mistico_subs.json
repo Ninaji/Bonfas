@@ -1,0 +1,144 @@
+[
+  {
+    "nome": "O Afogado",
+    "slug": "o-afogado",
+    "offset_start": 105529,
+    "offset_end": 117320,
+    "features_sub": [
+      {
+        "nivel": 3,
+        "nome": "Tentáculo das Profundezas",
+        "descricao": "\"O mar não fala — ele puxa. E quando ele puxa por mim, algo antigo atende. [Cláusula]: ergo a mão do abismo onde eu apontar. [Contrapartida]: cada chamado umedece os pulmões do meu nome. [Emenda]: deixo-o agir por um minuto, como maré obediente ao farol.\" Efeito: Como Ação Bônus , você invoca um Espírito das Profundezas (criatura marítima espectral ou tentáculos espectrais de um kraken) em um espaço que você possa ver a até 18 metros [60 pés] . O Espírito permanece por 1 minuto ou até você usar este recurso novamente. Você pode invocá-lo um número de vezes igual ao seu Bônus de Proficiência , recuperando todos os usos ao final de um descanso curto ou longo . Se estiver sem usos, você pode gastar 2 Pontos de Misticismo para invocá-lo. .template-bonfire_tales_monstro_oficial-bonfire_tales-1 { background: none!important; padding: 0!important; border: none!important; font-size: 16px;} .template-bonfire_tales_monstro_oficial-bonfire_tales-1 .form-horizontal { background-image: url(/images/rpgsrd/system-imagery/dnd5e/dnd5ebackground.png) !important;} .template-bonfire_tales_monstro_oficial-bonfire_tales-1 .header-title { color: #751c13;} .template-bonfire_tales_monstro_oficial-bonfire_tales-1 .form-control-description { color: #4c0101;} .template-bonfire_tales_monstro_oficial-bonfire_tales-1 input { background: #4a411f !important; color: #ffffff;} .template-bonfire_tales_monstro_oficial-bonfire_tales-1 select { background: #4a411f !important; color: #ffffff;} .template-bonfire_t...",
+        "offset_inicio": 107587,
+        "offset_fim": 116357
+      }
+    ],
+    "tagline": "\"Há motivos dos mais velhos sempre alertarem sobre águas profundas. Há coisas neste mundo que vão além de dragões e corruptores. Coisas tão antigas quanto a própria criação, males que desafiaram os Deuses e por sua petulância foram castigados a nunca"
+  },
+  {
+    "nome": "A Arquifada",
+    "slug": "a-arquifada",
+    "offset_start": 122071,
+    "offset_end": 125627,
+    "features_sub": [
+      {
+        "nivel": 3,
+        "nome": "Presença Feérica",
+        "descricao": "\"A sala inclina, os sinos tocam sem ter onde pendurar. Quem respira meu perfume esquece se deve dançar ou correr.\" Efeito: Com uma Ação , você projeta a presença cativante e temerosa de seu patrono. Cada criatura em um cone de 4,5 metros [15 pés] originado de você deve realizar um teste de resistência de Sabedoria contra sua CD de feitiços de Místico . Em falha, fica Enfeitiçada ou Amedrontada por você ( à sua escolha ) até o fim do seu próximo turno. Após usar esta característica, você não pode usá-la novamente até terminar um descanso curto ou longo , a menos que gaste 1 Ponto de Misticismo para usá-la novamente. O Ceifador",
+        "offset_inicio": 124446,
+        "offset_fim": 125627
+      }
+    ],
+    "tagline": "\"Sempre presentes na vida dos mortais, sejam pregando peças ou abençoando aqueles corajosos o suficiente para fazê-los. As lendas dizem que poucos são capazes de compreender ou sequer comunicar-se com tais criaturas, e nisso, há segredos que jamais s"
+  },
+  {
+    "nome": "O Ceifador",
+    "slug": "o-ceifador",
+    "offset_start": 125627,
+    "offset_end": 129134,
+    "features_sub": [
+      {
+        "nivel": 3,
+        "nome": "Marca da Finitude",
+        "descricao": "\"Aponto um nome no livro e a página começa a se fechar. O véu não apressa nem atrasa: apenas lembra que toda lâmina tem destino.\" Efeito: Com uma Ação Bônus , escolha uma criatura que você possa ver a até 18 metros [60 pés] . O alvo fica marcado por 1 minuto . A marca cessa se o alvo morrer, se você morrer ou ficar incapacitado . Enquanto a marca durar: Você recebe um bônus nas rolagens de dano contra o alvo marcado igual ao seu Bônus de Proficiência . Qualquer rolagem de ataque sua contra o alvo marcado é acerto crítico em 19–20 no d20. Se o alvo marcado morrer, você recupera PV iguais ao seu nível de Místico + modificador de Carisma . Após usar esta característica, você não pode usá-la novamente até terminar um descanso curto ou longo , a menos que gaste 5 Pontos de Misticismo para usá-la novamente. O Celestial",
+        "offset_inicio": 127690,
+        "offset_fim": 129134
+      }
+    ],
+    "tagline": "\"A arrogância daqueles que são vivos não conhece limites. Porém, saber de seus proprios limites é o primeiro passo para supera-los. Ao caminhar no limiar da linha que separa a vida e a morte, você foi aproximado por algo que não consegue compreender."
+  },
+  {
+    "nome": "O Celestial",
+    "slug": "o-celestial",
+    "offset_start": 129134,
+    "offset_end": 132850,
+    "features_sub": [
+      {
+        "nivel": 3,
+        "nome": "Truques Adicionais",
+        "descricao": "\"Se é para carregar luz, que ela caiba na palma e no olhar.\" Efeito: Você aprende os truques Chama Sagrada (Sacred Flame) e Luz (Light). Eles contam como truques de Místico para você e não contam no limite de truques conhecidos.",
+        "offset_inicio": 131132,
+        "offset_fim": 131564
+      },
+      {
+        "nivel": 3,
+        "nome": "Chama Angelical",
+        "descricao": "\"Peço e a chama responde: cura quando levanto, julga quando aponto.\" Efeito: Você possui um poço de d6 para esta característica. O número de dados no poço é igual a 1 + seu modificador de Carisma . • Como Ação Bônus , escolha uma criatura que você veja a até 18 metros [60 pés] para curar ou ferir , gastando dados do poço ( uma vez por turno ). • Curar: gaste 1 dado ; o alvo recupera 1d6 + seu nível de Místico de PV. • Dano: gaste 1 dado ; o alvo sofre 1d6 + seu nível de Místico de dano Radiante . Você recupera todos os dados do poço ao final de um descanso curto ou longo . Além disso, você pode gastar 3 Pontos de Misticismo para recuperar 1 dado gasto . O Gênio",
+        "offset_inicio": 131564,
+        "offset_fim": 132850
+      }
+    ],
+    "tagline": "O Celestial — Subclasse do Místico \"Você talvez tenha presenciado muitos males neste mundo. Governos corruptos, vilões emergindo de todos os lados, caos reinando e corruptores devorando desenfreadamente. Em uma tentativa desesperada, você vai a um te"
+  },
+  {
+    "nome": "O Gênio",
+    "slug": "o-genio",
+    "offset_start": 132850,
+    "offset_end": 139674,
+    "features_sub": [
+      {
+        "nivel": 3,
+        "nome": "Receptáculo do Gênio",
+        "descricao": "\"Poderes cósmicos fenomenais… dentro de um espaço minúsculo. O preço não é a lâmpada — é o que ela leva de mim.\" Efeito: Seu patrono lhe concedeu um receptáculo mágico (objeto Minúsculo ) que serve como foco arcano de Místico. Decida o objeto ou role na tabela. Tabela: Receptáculo do Gênio d6 Receptáculo 1 Lampião 2 Urna 3 Anel com um Compartimento 4 Garrafa com uma rolha 5 Estatueta Oca 6 Lanterna Ornamentada Enquanto você tocar o receptáculo , pode usá-lo das seguintes maneiras: Repouso Engarrafado. Como Ação , você desaparece e entra no interior extradimensional do receptáculo (um cilindro de raio 6 m [20 pés] por 6 m [20 pés] de altura, decorado e confortável). Você ouve o exterior como se estivesse fora. Permaneça dentro por um número de horas igual a 2 × seu Bônus de Proficiência . Você sai com Ação Bônus , se morrer ou se o receptáculo for destruído, surgindo em um espaço desocupado próximo ao receptáculo. Objetos deixados dentro permanecem; se o receptáculo for destruído, eles são ejetados inofensivamente. Após entrar, você não pode entrar novamente até completar um descanso longo . Fúria do Gênio. Uma vez a cada turno, quando você acertar uma jogada de ataque , cause dano adicional ao alvo igual ao seu Bônus de Proficiência . O tipo de dano depende do gênio: Concussão (Dao), Trovejante (Djinni), Fogo (Efreeti) ou Frio (Marid). No início do seu turno , você pode gastar 3 Pontos de Misticismo para causar esse mesmo dano adicional em todos os seus ataques naquele tur...",
+        "offset_inicio": 136458,
+        "offset_fim": 139674
+      }
+    ],
+    "tagline": "\"Lendas dizem sobre as lâmpadas mágicas perdidas pelo mundo. E basta um único pedido... E você sabe qual é... A tentação de ser rico, poderoso ou famoso é demais para guardar. Você sabe que gênios deturpam os pedidos que são feitos à eles, e então vo"
+  },
+  {
+    "nome": "O Grande Antigo",
+    "slug": "o-grande-antigo",
+    "offset_start": 139674,
+    "offset_end": 144194,
+    "features_sub": [
+      {
+        "nivel": 3,
+        "nome": "Despertar a Mente",
+        "descricao": "\"Ouço sem ouvidos, respondo sem boca. O pensamento é porta — e eu aprendi a bater por dentro.\" Efeito: Seu conhecimento alienígena permite tocar mentes : Você pode se comunicar telepaticamente com qualquer criatura que possa ver a até 18 metros [60 pés] . Não precisa compartilhar idioma para compreender as expressões telepáticas, mas a criatura deve compreender ao menos um idioma. Você pode gastar 1 Ponto de Misticismo para criar um vínculo telepático com uma criatura voluntária que veja a até 18 m [60 pés] , por 1 hora . Após vincular, você pode se afastar sem limite. O vínculo termina se você o encerrar com Ação Bônus ou ficar incapacitado . Gaste +3 Pontos de Misticismo para incluir no mesmo elo um número de criaturas já vinculadas a você igual à metade do seu nível de Místico ( mínimo 1 todas se comunicam entre si.",
+        "offset_inicio": 141823,
+        "offset_fim": 142973
+      },
+      {
+        "nivel": 1,
+        "nome": "Sussurro dos Antigos",
+        "descricao": "\"Deixo um grão de infinito na engrenagem da mente — e ouço o medo ranger.\" Efeito: Com uma Ação , escolha uma criatura a até 18 metros [60 pés] . Ela realiza um teste de resistência de Sabedoria contra sua CD de feitiços de Místico : Falha: sofre 2d6 + seu nível de Místico de dano Psíquico e fica Amedrontada por 1 minuto . Pode repetir o teste no fim de cada turno, encerrando em sucesso. Sucesso: sofre metade do dano e não fica Amedrontada. Após usar, você não pode usar novamente até o fim de um descanso curto ou longo , a menos que gaste 2 Pontos de Misticismo para usá-la novamente. O Imortal",
+        "offset_inicio": 142973,
+        "offset_fim": 144194
+      }
+    ],
+    "tagline": "\"Forças além de nossa compreensão habitam o que achamos que são estrelas. A verdade oculta de nosso universo foi descoberta por acaso, ou talvez um empurrão de algo que ainda não compreendemos... Mas as visões... Os gritos... São demais para você. O "
+  },
+  {
+    "nome": "O Imortal",
+    "slug": "o-imortal",
+    "offset_start": 144194,
+    "offset_end": 147724,
+    "features_sub": [
+      {
+        "nivel": 3,
+        "nome": "Poder do Imortal",
+        "descricao": "\"Se não respiro, é porque aprendi a guardar o fôlego do mundo. A morte passa por mim como vento por ossos limpos.\" Efeito: Você não precisa respirar, comer ou beber e não envelhece . Como Ação Bônus , você manifesta um aspecto do poder do patrono (sua Forma do Terror ): Cada criatura à sua escolha em um raio de 3 m [10 pés] faz teste de resistência de Sabedoria ; em falha, fica Amedrontada por 1 minuto ( pode repetir o teste no fim de cada turno ). Por 1 minuto , você recebe os benefícios: Ganha PV temporários iguais a 1d10 + seu nível de Místico . Uma vez no seu turno, ao acertar um ataque , pode forçar o alvo a fazer teste de resistência de Sabedoria ; em falha, o alvo fica Amedrontado por você até o fim do seu próximo turno. Você é imune à condição Amedrontado . Você pode se transformar um número de vezes igual ao seu Bônus de Proficiência e recupera todos os usos ao terminar um descanso longo . O Ínfero",
+        "offset_inicio": 146042,
+        "offset_fim": 147724
+      }
+    ],
+    "tagline": "\"Um acordo feito com uma criatura além da vida e da morte. Você conseguiu através de seu acordo abandonar sua casca mortal, para que assim possa conqusitar suas ambições intangíveis. Para tais coisas, tempo e moralidade são coisas efêmeras, e tais pr"
+  },
+  {
+    "nome": "O Ínfero",
+    "slug": "o-infero",
+    "offset_start": 147724,
+    "offset_end": 150828,
+    "features_sub": [
+      {
+        "nivel": 3,
+        "nome": "Moedas do Contrato",
+        "descricao": "\"Cláusulas têm troco — e cada alma paga em metal quente.\" Efeito: Com uma Ação Bônus , você marca uma criatura hostil por 1 minuto , até ela morrer ou até você marcar outra criatura. Quando a criatura marcada morre , seu patrono lhe entrega uma moeda . Você pode consumi-la com Ação Bônus para um dos efeitos: Receber PV temporários iguais ao seu nível de Místico + modificador de Carisma por 1 minuto . Conceder dano de Fogo adicional na sua próxima rolagem de dano contra uma criatura, em um total igual ao seu nível de Místico + modificador de Carisma por 1 minuto . Você pode carregar apenas 1 moeda ; ao final de um descanso curto ou longo , você deve devolvê-la ao patrono ( perdendo-a ). Como Ação Bônus , você pode gastar 3 Pontos de Misticismo para receber 1 moeda .",
+        "offset_inicio": 149670,
+        "offset_fim": 150828
+      }
+    ],
+    "tagline": "\"Sentimentos negativos que já não conseguem manter-se ao seu peito, ou então, um acordo feito em tempos antigos finalmente chegou o tempo de ser cobrado. Não importa... Você sabe que busca poder... Sabe o que deve ser feito. Um contrato surge à sua f"
+  }
+]

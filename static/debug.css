@@ -1,0 +1,315 @@
+/* ========================================================================
+   Bonfas Debug — TagsJSON editor por entidade
+   ======================================================================== */
+* { box-sizing: border-box; }
+
+body {
+  font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  background: #0e1014;
+  color: #e6e8eb;
+  margin: 0;
+}
+
+a { color: #6cb4ff; }
+
+.topnav {
+  display: flex;
+  align-items: center;
+  gap: 24px;
+  padding: 12px 20px;
+  background: #161922;
+  border-bottom: 1px solid #2a2f3a;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+.topnav .brand {
+  font-weight: 700;
+  font-size: 15px;
+  color: #ffd479;
+}
+
+.topnav nav {
+  display: flex;
+  gap: 4px;
+  flex-wrap: wrap;
+}
+
+.topnav nav a {
+  padding: 6px 14px;
+  border-radius: 6px;
+  text-decoration: none;
+  color: #c9cdd4;
+  font-size: 14px;
+}
+
+.topnav nav a:hover {
+  background: #232735;
+  color: #fff;
+}
+
+.topnav nav a.active {
+  background: #2d3346;
+  color: #ffd479;
+}
+
+main {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.loading {
+  text-align: center;
+  padding: 40px;
+  color: #6b7280;
+}
+
+/* ---------------------------------------------------------------- groups */
+.group {
+  background: #161922;
+  border: 1px solid #2a2f3a;
+  border-radius: 10px;
+  margin-bottom: 16px;
+}
+
+.group-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 16px;
+  border-bottom: 1px solid #2a2f3a;
+  cursor: pointer;
+  user-select: none;
+}
+
+.group-header:hover { background: #1a1e2a; }
+
+.group-header .title {
+  font-weight: 600;
+  font-size: 15px;
+}
+
+.group-header .meta {
+  font-size: 12px;
+  color: #6b7280;
+}
+
+.group-body {
+  padding: 12px 16px;
+}
+
+.group.collapsed .group-body { display: none; }
+
+.subgroup-section h4 {
+  margin: 14px 0 6px;
+  font-size: 13px;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  color: #9ca3af;
+}
+
+/* ---------------------------------------------------------------- block */
+.block {
+  background: #11141b;
+  border: 1px solid #232735;
+  border-radius: 8px;
+  padding: 10px 12px;
+  margin-bottom: 8px;
+}
+
+.block-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+
+.block-title {
+  font-size: 14px;
+  font-weight: 500;
+}
+
+.block-title .nivel {
+  display: inline-block;
+  background: #2d3346;
+  padding: 1px 6px;
+  margin-right: 6px;
+  border-radius: 3px;
+  color: #ffd479;
+  font-size: 12px;
+  font-weight: 600;
+}
+
+.block-id {
+  font-size: 11px;
+  color: #6b7280;
+  font-family: ui-monospace, monospace;
+}
+
+/* ---------------------------------------------------------------- tags */
+.tag-list {
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  margin: 8px 0;
+  min-height: 24px;
+}
+
+.chip {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 3px 8px;
+  background: #1f2433;
+  border: 1px solid #2d3346;
+  border-radius: 4px;
+  font-size: 12px;
+  font-family: ui-monospace, monospace;
+  color: #c5cad6;
+}
+
+.chip.warn   { border-color: #d97706; color: #fbbf24; }
+.chip.pick   { border-color: #1e40af; color: #93c5fd; }
+.chip.prof   { border-color: #166534; color: #86efac; }
+.chip.exp    { border-color: #047857; color: #34d399; }
+.chip.save   { border-color: #6d28d9; color: #c4b5fd; }
+.chip.resist { border-color: #b45309; color: #fcd34d; }
+.chip.immune { border-color: #b91c1c; color: #fca5a5; }
+.chip.vuln   { border-color: #991b1b; color: #fde68a; }
+.chip.move   { border-color: #115e59; color: #5eead4; }
+
+.chip .x {
+  cursor: pointer;
+  color: #6b7280;
+  margin-left: 2px;
+}
+.chip .x:hover { color: #ef4444; }
+
+.chip-empty {
+  color: #6b7280;
+  font-style: italic;
+  font-size: 12px;
+}
+
+/* ---------------------------------------------------------------- actions */
+.block-actions {
+  display: flex;
+  gap: 6px;
+  margin-top: 6px;
+}
+
+button {
+  background: #232735;
+  color: #e6e8eb;
+  border: 1px solid #2d3346;
+  padding: 4px 10px;
+  border-radius: 5px;
+  font-size: 12px;
+  cursor: pointer;
+}
+button:hover { background: #2d3346; }
+button.primary { background: #1e40af; border-color: #2563eb; }
+button.primary:hover { background: #2563eb; }
+button.tiny { padding: 2px 6px; font-size: 11px; }
+
+textarea.json-edit {
+  width: 100%;
+  background: #0a0c11;
+  color: #c5cad6;
+  border: 1px solid #232735;
+  border-radius: 5px;
+  padding: 6px 8px;
+  font-family: ui-monospace, monospace;
+  font-size: 12px;
+  min-height: 40px;
+  resize: vertical;
+}
+
+textarea.json-edit.dirty { border-color: #d97706; }
+
+.flash {
+  font-size: 11px;
+  color: #34d399;
+  margin-left: 6px;
+}
+.flash.err { color: #fca5a5; }
+.flash.warn { color: #fbbf24; }
+
+/* ---------------------------------------------------------------- modal */
+.modal {
+  position: fixed;
+  inset: 0;
+  background: rgba(0,0,0,.6);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 100;
+}
+.modal.hidden { display: none; }
+
+.modal-box {
+  background: #161922;
+  border: 1px solid #2a2f3a;
+  border-radius: 10px;
+  width: 480px;
+  max-width: 92vw;
+}
+
+.modal-box header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 12px 16px;
+  border-bottom: 1px solid #2a2f3a;
+}
+.modal-box h3 { margin: 0; font-size: 15px; }
+.modal-box .close { background: transparent; border: 0; font-size: 20px; cursor: pointer; color: #9ca3af; }
+
+.modal-body {
+  padding: 12px 16px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.modal-body label {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  font-size: 12px;
+  color: #9ca3af;
+}
+.modal-body input,
+.modal-body select {
+  background: #0a0c11;
+  color: #e6e8eb;
+  border: 1px solid #2d3346;
+  border-radius: 5px;
+  padding: 5px 8px;
+  font-size: 13px;
+  font-family: ui-monospace, monospace;
+}
+
+.modal-body .hint { font-size: 10px; color: #6b7280; }
+
+.preview {
+  background: #0a0c11;
+  border: 1px solid #232735;
+  border-radius: 5px;
+  padding: 8px 10px;
+  font-size: 12px;
+}
+.preview code {
+  color: #ffd479;
+  font-family: ui-monospace, monospace;
+}
+
+.modal-box footer {
+  display: flex;
+  justify-content: flex-end;
+  gap: 8px;
+  padding: 12px 16px;
+  border-top: 1px solid #2a2f3a;
+}
