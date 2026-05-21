@@ -95,3 +95,20 @@ build_classes_db.py
 *_subclasses.json
 *_parsed.json
 infusoes_artificer.json
+
+# ═══════════════════════════════════════════════════════════════
+# Scrapers e ingestão (build-time; app não lê em runtime)
+# ═══════════════════════════════════════════════════════════════
+import_items.py
+ingest_classes.py
+scrape_*.py
+wa_client.py
+scrape_log.jsonl
+urls_classes.txt
+
+# Dumps .txt do WorldAnvil (copyright, como os .html)
+paginas/*.txt
+
+# JSONs de dados gerados (segredos etc. — já estão no bonfas.db)
+mistico_segredos*.json
+segredos_cacador.json
